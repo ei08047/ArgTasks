@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+3	9,20	GATE_Token	string="Explanation" lemma="Explanation" category="NNP"
+4	21,24	GATE_Token	string="and" lemma="and" category="CC"
+5	25,30	GATE_Token	string="Issue" lemma="Issue" category="NNP"
+6	31,34	GATE_Token	string="No." lemma="no." category="NN"
+7	35,36	GATE_Token	string="1" lemma="1" category="CD"
+8	37,41	GATE_Token	string="here" lemma="here" category="RB"
+9	42,43	GATE_Token	string="." lemma="." category="."

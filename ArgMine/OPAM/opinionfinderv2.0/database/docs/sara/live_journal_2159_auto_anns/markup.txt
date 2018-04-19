@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">swear</MPQAPOL> if the winds had not died down it <MPQAPOL autoclass="neutral">would</MPQAPOL> have <MPQAPOL autoclass="neutral">burned</MPQAPOL> all the way to the ocean .</MPQASENT>

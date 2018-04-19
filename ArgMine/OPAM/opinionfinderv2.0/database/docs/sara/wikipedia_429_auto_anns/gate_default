@@ -1,0 +1,12 @@
+1	0,68	GATE_Sentence
+2	0,7	GATE_Token	string="However" lemma="however" category="RB"
+3	8,9	GATE_Token	string="," lemma="," category=","
+4	10,15	GATE_Token	string="legit" lemma="legit" category="JJ"
+5	16,23	GATE_Token	string="content" lemma="content" category="NN"
+6	24,32	GATE_Token	string="disputes" lemma="dispute" category="NNS"
+7	33,36	GATE_Token	string="can" lemma="can" category="MD"
+8	37,42	GATE_Token	string="never" lemma="never" category="RB"
+9	43,45	GATE_Token	string="be" lemma="be" category="VB"
+10	46,56	GATE_Token	string="considered" lemma="consider" category="VBN"
+11	57,66	GATE_Token	string="vandalism" lemma="vandalism" category="NN"
+12	67,68	GATE_Token	string="." lemma="." category="."

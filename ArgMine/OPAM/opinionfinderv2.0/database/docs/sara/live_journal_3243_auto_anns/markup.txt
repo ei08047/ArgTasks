@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Well</MPQAPOL> , the gist of it is I am <MPQAPOL autoclass="neutral">still</MPQAPOL> <MPQAPOL autoclass="neutral">undecided</MPQAPOL> , and that is why I had not <MPQAPOL autoclass="neutral">thrown</MPQAPOL> anything away yet .</MPQASENT>

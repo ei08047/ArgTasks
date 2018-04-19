@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Find me as Red Tango and add me as a <MPQAPOL autoclass="neutral">friend</MPQAPOL> .</MPQASENT>

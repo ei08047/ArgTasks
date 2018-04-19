@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Plus it is <MPQAPOL autoclass="neutral">just</MPQAPOL> more wordy and does not flow as <MPQAPOL autoclass="neutral">well</MPQAPOL> as the <MPQAPOL autoclass="neutral">original</MPQAPOL> text .</MPQASENT>

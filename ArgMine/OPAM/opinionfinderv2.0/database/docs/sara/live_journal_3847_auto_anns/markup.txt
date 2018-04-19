@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">It is one of the <MPQAPOL autoclass="neutral">most</MPQAPOL> <MPQAPOL autoclass="positive">magical</MPQAPOL> videos ever created : at once <MPQAPOL autoclass="positive">inspiring</MPQAPOL> , <MPQAPOL autoclass="negative">frustrating</MPQAPOL> and demented .</MPQASENT>

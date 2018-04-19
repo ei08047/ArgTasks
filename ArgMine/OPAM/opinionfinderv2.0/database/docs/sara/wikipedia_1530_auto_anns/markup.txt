@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The redirect <MPQAPOL autoclass="neutral">should</MPQAPOL> be deleted and the word regime used in the lead with the <MPQAPOL autoclass="neutral">correct</MPQAPOL> wikilink .</MPQASENT>

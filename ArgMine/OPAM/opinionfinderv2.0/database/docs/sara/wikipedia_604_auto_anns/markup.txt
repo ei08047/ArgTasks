@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I do not <MPQAPOL autoclass="neutral">imagine</MPQAPOL> any woman <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="positive">relish</MPQAPOL> that title .</MPQASENT>

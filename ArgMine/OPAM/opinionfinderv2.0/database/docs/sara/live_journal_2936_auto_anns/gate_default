@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,6	GATE_Token	string="prince" lemma="prince" category="NN"
+3	7,9	GATE_Token	string="of" lemma="of" category="IN"
+4	10,14	GATE_Token	string="time" lemma="time" category="NN"
+5	15,18	GATE_Token	string="and" lemma="and" category="CC"
+6	19,24	GATE_Token	string="space" lemma="space" category="NN"
+7	25,30	GATE_Token	string="maybe" lemma="maybe" category="RB"
+8	31,34	GATE_Token	string="..." lemma="..." category=":"

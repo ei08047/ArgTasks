@@ -1,0 +1,12 @@
+1	0,54	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="never" lemma="never" category="RB"
+4	8,13	GATE_Token	string="found" lemma="find" category="VBD"
+5	14,23	GATE_Token	string="mushrooms" lemma="mushroom" category="NNS"
+6	24,30	GATE_Token	string="though" lemma="though" category="IN"
+7	31,32	GATE_Token	string="," lemma="," category=","
+8	33,38	GATE_Token	string="which" lemma="which" category="WDT"
+9	39,44	GATE_Token	string="would" lemma="would" category="MD"
+10	45,47	GATE_Token	string="be" lemma="be" category="VB"
+11	48,52	GATE_Token	string="cool" lemma="cool" category="JJ"
+12	53,54	GATE_Token	string="." lemma="." category="."

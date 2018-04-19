@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This is a <MPQAPOL autoclass="negative">blatant</MPQAPOL> <MPQAPOL autoclass="negative">breach</MPQAPOL> of NPOV .</MPQASENT>

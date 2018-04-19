@@ -1,0 +1,9 @@
+argumentative_essays_essay075.txt_0_46	unknown
+argumentative_essays_essay075.txt_48_228	unknown
+argumentative_essays_essay075.txt_229_299	unknown
+argumentative_essays_essay075.txt_300_483	unknown
+argumentative_essays_essay075.txt_484_630	unknown
+argumentative_essays_essay075.txt_631_852	subj
+argumentative_essays_essay075.txt_853_1086	unknown
+argumentative_essays_essay075.txt_1087_1162	unknown
+argumentative_essays_essay075.txt_1163_1445	unknown

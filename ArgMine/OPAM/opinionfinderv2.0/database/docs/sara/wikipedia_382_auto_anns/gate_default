@@ -1,0 +1,11 @@
+1	0,66	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,10	GATE_Token	string="phrase" lemma="phrase" category="NN"
+4	11,13	GATE_Token	string="``" lemma="``" category="``"
+5	14,26	GATE_Token	string="inordinately" lemma="inordinately" category="RB"
+6	27,37	GATE_Token	string="interested" lemma="interested" category="JJ"
+7	38,40	GATE_Token	string="''" lemma="''" category="''"
+8	41,43	GATE_Token	string="is" lemma="be" category="VBZ"
+9	44,54	GATE_Token	string="borderline" lemma="borderline" category="JJ"
+10	55,64	GATE_Token	string="offensive" lemma="offensive" category="NN"
+11	65,66	GATE_Token	string="." lemma="." category="."

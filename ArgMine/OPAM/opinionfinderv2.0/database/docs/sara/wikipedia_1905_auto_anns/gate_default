@@ -1,0 +1,12 @@
+1	0,48	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,4	GATE_Token	string="do" lemma="do" category="VBP"
+4	5,8	GATE_Token	string="not" lemma="not" category="RB"
+5	9,14	GATE_Token	string="think" lemma="think" category="VB"
+6	15,19	GATE_Token	string="that" lemma="that" category="IN"
+7	20,22	GATE_Token	string="we" lemma="we" category="PRP"
+8	23,29	GATE_Token	string="should" lemma="should" category="MD"
+9	30,34	GATE_Token	string="just" lemma="just" category="RB"
+10	35,41	GATE_Token	string="change" lemma="change" category="VB"
+11	42,46	GATE_Token	string="this" lemma="this" category="DT"
+12	47,48	GATE_Token	string="." lemma="." category="."

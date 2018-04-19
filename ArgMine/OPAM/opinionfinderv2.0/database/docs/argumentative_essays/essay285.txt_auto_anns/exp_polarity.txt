@@ -1,0 +1,4 @@
+argumentative_essays_essay285.txt_2033_2037	neutral
+argumentative_essays_essay285.txt_2056_2061	neutral
+argumentative_essays_essay285.txt_2070_2078	positive
+argumentative_essays_essay285.txt_2079_2085	neutral

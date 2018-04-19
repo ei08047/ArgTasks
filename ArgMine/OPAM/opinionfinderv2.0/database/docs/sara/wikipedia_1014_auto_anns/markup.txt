@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">Actually</MPQAPOL> , there are sub-genres of heavy metal that are <MPQAPOL autoclass="neutral">still</MPQAPOL> more <MPQAPOL autoclass="negative">vague</MPQAPOL> than ` <MPQAPOL autoclass="negative">hard</MPQAPOL> rock ' .</MPQASENT>

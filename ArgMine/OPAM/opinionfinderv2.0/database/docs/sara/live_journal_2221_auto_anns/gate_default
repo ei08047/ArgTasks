@@ -1,0 +1,12 @@
+1	0,47	GATE_Sentence
+2	0,3	GATE_Token	string="but" lemma="but" category="CC"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,13	GATE_Token	string="wrote" lemma="write" category="VBD"
+5	14,18	GATE_Token	string="THAT" lemma="that" category="WDT"
+6	19,24	GATE_Token	string="while" lemma="while" category="IN"
+7	25,27	GATE_Token	string="we" lemma="we" category="PRP"
+8	28,32	GATE_Token	string="were" lemma="be" category="VBD"
+9	33,35	GATE_Token	string="on" lemma="on" category="IN"
+10	36,39	GATE_Token	string="the" lemma="the" category="DT"
+11	40,45	GATE_Token	string="phone" lemma="phone" category="NN"
+12	46,47	GATE_Token	string="!" lemma="!" category="."

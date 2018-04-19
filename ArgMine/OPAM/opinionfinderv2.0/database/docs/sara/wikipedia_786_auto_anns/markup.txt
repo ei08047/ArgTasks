@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You are <MPQAPOL autoclass="neutral">FULLY</MPQAPOL> <MPQAPOL autoclass="negative">AWARE</MPQAPOL> of the civilian presence .</MPQASENT>

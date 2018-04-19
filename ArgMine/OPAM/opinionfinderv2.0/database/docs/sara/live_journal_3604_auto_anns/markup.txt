@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Blunt is <MPQAPOL autoclass="neutral">good</MPQAPOL> , but controntational is <MPQAPOL autoclass="negative">bad</MPQAPOL> .</MPQASENT>

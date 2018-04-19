@@ -1,0 +1,8 @@
+1	0,41	GATE_Sentence
+2	0,9	GATE_Token	string="Apologies" lemma="apology" category="NNS"
+3	10,13	GATE_Token	string="for" lemma="for" category="IN"
+4	14,17	GATE_Token	string="not" lemma="not" category="RB"
+5	18,23	GATE_Token	string="being" lemma="be" category="VBG"
+6	24,33	GATE_Token	string="available" lemma="available" category="JJ"
+7	34,39	GATE_Token	string="24\/7" lemma="24\/7" category="CD"
+8	40,41	GATE_Token	string="." lemma="." category="."

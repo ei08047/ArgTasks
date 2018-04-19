@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,5	GATE_Token	string="sorry" lemma="sorry" category="JJ"
+3	6,7	GATE_Token	string="i" lemma="i" category="FW"
+4	8,14	GATE_Token	string="missed" lemma="miss" category="VBD"
+5	15,18	GATE_Token	string="the" lemma="the" category="DT"
+6	19,23	GATE_Token	string="last" lemma="last" category="JJ"
+7	24,30	GATE_Token	string="couple" lemma="couple" category="NN"
+8	31,36	GATE_Token	string="shows" lemma="show" category="VBZ"
+9	37,40	GATE_Token	string="you" lemma="you" category="PRP"
+10	41,45	GATE_Token	string="told" lemma="tell" category="VBD"
+11	46,48	GATE_Token	string="me" lemma="I" category="PRP"
+12	49,54	GATE_Token	string="about" lemma="about" category="IN"
+13	55,56	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The verbal <MPQAPOL autoclass="neutral">vomit</MPQAPOL> was <MPQAPOL autoclass="neutral">much</MPQAPOL> <MPQAPOL autoclass="positive">appreciated</MPQAPOL> .</MPQASENT>

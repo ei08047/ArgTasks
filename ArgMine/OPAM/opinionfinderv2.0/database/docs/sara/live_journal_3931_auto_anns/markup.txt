@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">i <MPQAPOL autoclass="positive">wish</MPQAPOL> i <MPQAPOL autoclass="neutral">could</MPQAPOL> get those few minutes back , but i can not .</MPQASENT>

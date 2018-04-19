@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It <MPQAPOL autoclass="neutral">bothers</MPQAPOL> me because it is far <MPQAPOL autoclass="negative">too</MPQAPOL> <MPQAPOL autoclass="negative">specific</MPQAPOL> for this article .</MPQASENT>

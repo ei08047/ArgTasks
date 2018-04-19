@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Perhaps</MPQAPOL> some <MPQAPOL autoclass="neutral">minor</MPQAPOL> wording changes <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="neutral">improve</MPQAPOL> the clause , but not wholesale removal .</MPQASENT>

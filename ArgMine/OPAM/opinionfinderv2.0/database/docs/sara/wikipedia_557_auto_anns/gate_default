@@ -1,0 +1,12 @@
+1	0,58	GATE_Sentence
+2	0,9	GATE_Token	string="Appending" lemma="append" category="VBG"
+3	10,12	GATE_Token	string="to" lemma="to" category="TO"
+4	13,16	GATE_Token	string="the" lemma="the" category="DT"
+5	17,23	GATE_Token	string="thread" lemma="thread" category="NN"
+6	24,29	GATE_Token	string="below" lemma="below" category="IN"
+7	30,31	GATE_Token	string="," lemma="," category=","
+8	32,35	GATE_Token	string="let" lemma="let" category="VB"
+9	36,38	GATE_Token	string="me" lemma="I" category="PRP"
+10	39,46	GATE_Token	string="explain" lemma="explain" category="VB"
+11	47,56	GATE_Token	string="something" lemma="something" category="NN"
+12	57,58	GATE_Token	string="." lemma="." category="."

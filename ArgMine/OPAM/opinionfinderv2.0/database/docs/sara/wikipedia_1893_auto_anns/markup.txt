@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Wikipedia administrators do not <MPQAPOL autoclass="neutral">know</MPQAPOL> what they are doing .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is <MPQAPOL autoclass="neutral">just</MPQAPOL> all <MPQAPOL autoclass="neutral">so</MPQAPOL> out of control .</MPQASENT>

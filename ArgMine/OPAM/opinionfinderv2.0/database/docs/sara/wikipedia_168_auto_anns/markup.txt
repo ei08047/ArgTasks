@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Is the section <MPQAPOL autoclass="neutral">really</MPQAPOL> a <MPQAPOL autoclass="neutral">problem</MPQAPOL> as is ?</MPQASENT>

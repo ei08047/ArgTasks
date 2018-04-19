@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I tend to do that far <MPQAPOL autoclass="negative">too</MPQAPOL> <MPQAPOL autoclass="negative">much</MPQAPOL> .</MPQASENT>

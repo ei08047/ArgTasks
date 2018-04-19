@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">We watched that <MPQAPOL autoclass="neutral">show</MPQAPOL> for about a minute , and we <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">could</MPQAPOL> not <MPQAPOL autoclass="neutral">stand</MPQAPOL> it .</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,57	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="have" lemma="have" category="VBP"
+4	7,11	GATE_Token	string="been" lemma="be" category="VBN"
+5	12,19	GATE_Token	string="getting" lemma="get" category="VBG"
+6	20,29	GATE_Token	string="depressed" lemma="depress" category="VBN"
+7	30,33	GATE_Token	string="out" lemma="out" category="IN"
+8	34,36	GATE_Token	string="of" lemma="of" category="IN"
+9	37,39	GATE_Token	string="no" lemma="no" category="DT"
+10	40,45	GATE_Token	string="where" lemma="where" category="WRB"
+11	46,50	GATE_Token	string="some" lemma="some" category="DT"
+12	51,55	GATE_Token	string="days" lemma="day" category="NNS"
+13	56,57	GATE_Token	string="." lemma="." category="."

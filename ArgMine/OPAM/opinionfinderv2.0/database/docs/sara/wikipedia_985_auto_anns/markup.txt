@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This article will never be <MPQAPOL autoclass="neutral">good</MPQAPOL> or <MPQAPOL autoclass="neutral">accurate</MPQAPOL> as long as it has one <MPQAPOL autoclass="neutral">fundamental</MPQAPOL> <MPQAPOL autoclass="neutral">error</MPQAPOL> : Black Sabbath .</MPQASENT>

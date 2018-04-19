@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do not get me <MPQAPOL autoclass="negative">wrong</MPQAPOL> Chris , I <MPQAPOL autoclass="neutral">could</MPQAPOL> not <MPQAPOL autoclass="negative">kill</MPQAPOL> anything - I <MPQAPOL autoclass="neutral">think</MPQAPOL> .</MPQASENT>

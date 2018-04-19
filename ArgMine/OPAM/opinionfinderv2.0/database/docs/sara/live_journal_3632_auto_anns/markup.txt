@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">well</MPQAPOL> being <MPQAPOL autoclass="positive">honest</MPQAPOL> with some people is <MPQAPOL autoclass="neutral">good</MPQAPOL> .</MPQASENT>

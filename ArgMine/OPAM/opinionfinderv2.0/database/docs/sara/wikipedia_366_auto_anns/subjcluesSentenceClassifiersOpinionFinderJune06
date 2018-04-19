@@ -1,0 +1,2 @@
+1	4,10	matchfeat	type="trainJWman" mpqapolarity="strongpos"
+2	11,18	matchfeat	type="basilisk-2000nouns-strongsubj" mpqapolarity="weakneg"

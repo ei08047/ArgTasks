@@ -1,0 +1,8 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="..." lemma="..." category=":"
+3	4,10	GATE_Token	string="Mifune" lemma="Mifune" category="NNP"
+4	11,17	GATE_Token	string="during" lemma="during" category="IN"
+5	18,21	GATE_Token	string="his" lemma="he" category="PRP$"
+6	22,27	GATE_Token	string="first" lemma="first" category="JJ"
+7	28,36	GATE_Token	string="Kurosawa" lemma="Kurosawa" category="NNP"
+8	37,38	GATE_Token	string="?" lemma="?" category="."

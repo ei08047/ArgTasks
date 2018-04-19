@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">When it was the subject matter , on another occasion , MA was <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="neutral">clear</MPQAPOL> that he does not <MPQAPOL autoclass="negative">deny</MPQAPOL> the holocaust</MPQASENT>

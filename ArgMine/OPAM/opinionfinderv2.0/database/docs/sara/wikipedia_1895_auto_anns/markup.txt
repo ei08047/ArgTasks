@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">-- <MPQAPOL autoclass="neutral">Oppose</MPQAPOL> The existing naming convention calls for using the `` city , state '' format for all U.S. cities .</MPQASENT>

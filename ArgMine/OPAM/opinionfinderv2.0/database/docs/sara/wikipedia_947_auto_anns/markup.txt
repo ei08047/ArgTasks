@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It <MPQAPOL autoclass="neutral">could</MPQAPOL> be <MPQAPOL autoclass="neutral">argued</MPQAPOL> that Blue Cheer was doing similar stuff in the '60s .</MPQASENT>

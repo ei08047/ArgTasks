@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">AAnd I <MPQAPOL autoclass="neutral">just</MPQAPOL> watched the Spider one .</MPQASENT>

@@ -1,0 +1,12 @@
+argumentative_essays_essay131.txt_0_189	obj
+argumentative_essays_essay131.txt_190_430	subj
+argumentative_essays_essay131.txt_431_592	subj
+argumentative_essays_essay131.txt_593_718	obj
+argumentative_essays_essay131.txt_719_795	subj
+argumentative_essays_essay131.txt_796_960	subj
+argumentative_essays_essay131.txt_961_1044	obj
+argumentative_essays_essay131.txt_1045_1179	obj
+argumentative_essays_essay131.txt_1180_1314	subj
+argumentative_essays_essay131.txt_1315_1430	subj
+argumentative_essays_essay131.txt_1431_1583	subj
+argumentative_essays_essay131.txt_1585_1797	subj

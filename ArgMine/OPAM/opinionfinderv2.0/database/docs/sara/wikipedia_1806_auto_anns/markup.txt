@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">key</MPQAPOL> issue is that Wikipedia can not be placed in the <MPQAPOL autoclass="neutral">position</MPQAPOL> of stating a <MPQAPOL autoclass="neutral">fact</MPQAPOL> or defining something as <MPQAPOL autoclass="neutral">true</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,9	GATE_Token	string="Hopefully" lemma="hopefully" category="RB"
+3	10,11	GATE_Token	string="I" lemma="I" category="PRP"
+4	12,16	GATE_Token	string="will" lemma="will" category="MD"
+5	17,22	GATE_Token	string="catch" lemma="catch" category="VB"
+6	23,25	GATE_Token	string="up" lemma="up" category="RP"
+7	26,28	GATE_Token	string="at" lemma="at" category="IN"
+8	29,33	GATE_Token	string="some" lemma="some" category="DT"
+9	34,39	GATE_Token	string="point" lemma="point" category="NN"
+10	40,41	GATE_Token	string="!" lemma="!" category="."

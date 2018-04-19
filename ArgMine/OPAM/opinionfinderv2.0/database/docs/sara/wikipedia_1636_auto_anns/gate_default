@@ -1,0 +1,10 @@
+1	0,71	GATE_Sentence
+2	0,9	GATE_Token	string="Censoring" lemma="censor" category="VBG"
+3	10,13	GATE_Token	string="the" lemma="the" category="DT"
+4	14,22	GATE_Token	string="official" lemma="official" category="JJ"
+5	23,30	GATE_Token	string="Iranian" lemma="iranian" category="JJ"
+6	31,41	GATE_Token	string="government" lemma="government" category="NN"
+7	42,51	GATE_Token	string="statement" lemma="statement" category="NN"
+8	52,54	GATE_Token	string="is" lemma="be" category="VBZ"
+9	55,69	GATE_Token	string="anti-scholarly" lemma="anti-scholarly" category="JJ"
+10	70,71	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The number of seals has <MPQAPOL autoclass="neutral">actually</MPQAPOL> doubled since the 70s ... and do you <MPQAPOL autoclass="neutral">know</MPQAPOL> how <MPQAPOL autoclass="neutral">much</MPQAPOL> they eat ?</MPQASENT>

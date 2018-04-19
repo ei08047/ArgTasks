@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I suspect he <MPQAPOL autoclass="neutral">knew</MPQAPOL> what he was doing when he <MPQAPOL autoclass="neutral">threw</MPQAPOL> it out the window .</MPQASENT>

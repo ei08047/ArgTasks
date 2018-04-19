@@ -1,0 +1,11 @@
+1	0,54	GATE_Sentence
+2	0,3	GATE_Token	string="Let" lemma="let" category="VB"
+3	4,6	GATE_Token	string="us" lemma="we" category="PRP"
+4	7,11	GATE_Token	string="tell" lemma="tell" category="VB"
+5	12,15	GATE_Token	string="the" lemma="the" category="DT"
+6	16,21	GATE_Token	string="whole" lemma="whole" category="JJ"
+7	22,27	GATE_Token	string="story" lemma="story" category="NN"
+8	28,30	GATE_Token	string="of" lemma="of" category="IN"
+9	31,35	GATE_Token	string="this" lemma="this" category="DT"
+10	36,52	GATE_Token	string="characterization" lemma="characterization" category="NN"
+11	53,54	GATE_Token	string="." lemma="." category="."

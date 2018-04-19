@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">It is almost <MPQAPOL autoclass="negative">meaningless</MPQAPOL> from a scholary standpoint .</MPQASENT>

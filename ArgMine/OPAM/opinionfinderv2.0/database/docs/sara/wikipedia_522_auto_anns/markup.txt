@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">As the current sentence does not reflect the whole <MPQAPOL autoclass="neutral">truth</MPQAPOL> in this reflect , I <MPQAPOL autoclass="neutral">suggest</MPQAPOL> to remove it or <MPQAPOL autoclass="neutral">correct</MPQAPOL> it .</MPQASENT>

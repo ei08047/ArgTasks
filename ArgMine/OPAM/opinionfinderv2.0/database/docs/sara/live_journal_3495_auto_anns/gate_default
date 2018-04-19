@@ -1,0 +1,12 @@
+1	0,65	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,5	GATE_Token	string="was" lemma="be" category="VBD"
+4	6,15	GATE_Token	string="wondering" lemma="wonder" category="VBG"
+5	16,18	GATE_Token	string="if" lemma="if" category="IN"
+6	19,22	GATE_Token	string="you" lemma="you" category="PRP"
+7	23,29	GATE_Token	string="caould" lemma="caould" category="VBP"
+8	30,41	GATE_Token	string="update\/fix" lemma="update\/fix" category="NN"
+9	42,46	GATE_Token	string="that" lemma="that" category="WDT"
+10	47,57	GATE_Token	string="screencaps" lemma="screencap" category="VBZ"
+11	58,63	GATE_Token	string="thing" lemma="thing" category="NN"
+12	64,65	GATE_Token	string="." lemma="." category="."

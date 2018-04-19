@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I recomend an image that <MPQAPOL autoclass="neutral">actually</MPQAPOL> <MPQAPOL autoclass="neutral">shows</MPQAPOL> the corpse of a human or animal .</MPQASENT>

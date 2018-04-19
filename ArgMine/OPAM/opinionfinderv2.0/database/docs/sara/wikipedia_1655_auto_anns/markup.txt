@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Secondary sources <MPQAPOL autoclass="neutral">resolve</MPQAPOL> the <MPQAPOL autoclass="neutral">problem</MPQAPOL> .</MPQASENT>

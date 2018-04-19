@@ -1,0 +1,13 @@
+1	0,74	GATE_Sentence
+2	0,9	GATE_Token	string="Terrorism" lemma="Terrorism" category="NNP"
+3	10,12	GATE_Token	string="is" lemma="be" category="VBZ"
+4	13,14	GATE_Token	string="a" lemma="a" category="DT"
+5	15,21	GATE_Token	string="tactic" lemma="tactic" category="NN"
+6	22,26	GATE_Token	string="that" lemma="that" category="WDT"
+7	27,30	GATE_Token	string="can" lemma="can" category="MD"
+8	31,39	GATE_Token	string="describe" lemma="describe" category="VB"
+9	40,50	GATE_Token	string="individual" lemma="individual" category="JJ"
+10	51,58	GATE_Token	string="attacks" lemma="attack" category="NNS"
+11	59,66	GATE_Token	string="without" lemma="without" category="IN"
+12	67,72	GATE_Token	string="issue" lemma="issue" category="NN"
+13	73,74	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The clothing district was probably the <MPQAPOL autoclass="neutral">most</MPQAPOL> <MPQAPOL autoclass="negative">challenging</MPQAPOL> out of all of them .</MPQASENT>

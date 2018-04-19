@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">The sentence i <MPQAPOL autoclass="neutral">isolated</MPQAPOL> has <MPQAPOL autoclass="negative">little</MPQAPOL> value , and can be deleted without <MPQAPOL autoclass="neutral">much</MPQAPOL> <MPQAPOL autoclass="negative">harm</MPQAPOL> being done .</MPQASENT>

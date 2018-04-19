@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You are comparing apples to oranges .</MPQASENT>

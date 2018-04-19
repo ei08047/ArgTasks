@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">It is a <MPQAPOL autoclass="negative">baseless</MPQAPOL> , uneducated <MPQAPOL autoclass="neutral">opinion</MPQAPOL> .<MPQASENT autoclass1="unknown" autoclass2="obj">-</MPQASENT>

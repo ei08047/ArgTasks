@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">The official translation provided by the Iranian government is <MPQAPOL autoclass="neutral">therefore</MPQAPOL> <MPQAPOL autoclass="negative">immediately</MPQAPOL> <MPQAPOL autoclass="negative">notable</MPQAPOL> .</MPQASENT>

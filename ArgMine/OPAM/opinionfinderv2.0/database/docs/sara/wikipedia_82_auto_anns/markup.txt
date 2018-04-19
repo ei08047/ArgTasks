@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The opening line <MPQAPOL autoclass="neutral">should</MPQAPOL> read `` the 44th , and current President .</MPQASENT>

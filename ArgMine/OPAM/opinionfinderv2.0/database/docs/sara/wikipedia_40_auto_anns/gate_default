@@ -1,0 +1,8 @@
+1	0,41	GATE_Sentence
+2	0,4	GATE_Token	string="Such" lemma="such" category="PDT"
+3	5,6	GATE_Token	string="a" lemma="a" category="DT"
+4	7,15	GATE_Token	string="conflict" lemma="conflict" category="NN"
+5	16,18	GATE_Token	string="is" lemma="be" category="VBZ"
+6	19,27	GATE_Token	string="strongly" lemma="strongly" category="RB"
+7	28,39	GATE_Token	string="discouraged" lemma="discourage" category="VBN"
+8	40,41	GATE_Token	string="." lemma="." category="."

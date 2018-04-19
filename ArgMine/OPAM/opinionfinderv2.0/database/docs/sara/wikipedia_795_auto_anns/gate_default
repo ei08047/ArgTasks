@@ -1,0 +1,8 @@
+1	0,37	GATE_Sentence
+2	0,4	GATE_Token	string="Your" lemma="you" category="PRP$"
+3	5,9	GATE_Token	string="edit" lemma="edit" category="NN"
+4	10,16	GATE_Token	string="create" lemma="create" category="VB"
+5	17,18	GATE_Token	string="a" lemma="a" category="DT"
+6	19,24	GATE_Token	string="false" lemma="false" category="JJ"
+7	25,35	GATE_Token	string="connection" lemma="connection" category="NN"
+8	36,37	GATE_Token	string="." lemma="." category="."

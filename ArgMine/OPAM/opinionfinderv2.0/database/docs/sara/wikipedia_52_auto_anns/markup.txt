@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You are here to <MPQAPOL autoclass="neutral">improve</MPQAPOL> Wikipedia -- not <MPQAPOL autoclass="neutral">just</MPQAPOL> to promote lashtal.com <MPQAPOL autoclass="neutral">right</MPQAPOL> ?<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

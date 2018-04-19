@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Obviously</MPQAPOL> , if someone says `` car '' , it is probably not a <MPQAPOL autoclass="neutral">problem</MPQAPOL> .</MPQASENT>

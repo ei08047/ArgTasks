@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Anyone care to tell me when it <MPQAPOL autoclass="neutral">'d</MPQAPOL> be a <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="neutral">idea</MPQAPOL> to do <MPQAPOL autoclass="neutral">so</MPQAPOL> ? ]</MPQASENT>

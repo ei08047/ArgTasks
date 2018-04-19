@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,2	GATE_Token	string="Um" lemma="Um" category="NNP"
+3	3,4	GATE_Token	string="," lemma="," category=","
+4	5,10	GATE_Token	string="Unomi" lemma="Unomi" category="NNP"
+5	11,12	GATE_Token	string="," lemma="," category=","
+6	13,26	GATE_Token	string="Conservapedia" lemma="Conservapedia" category="NNP"
+7	27,29	GATE_Token	string="is" lemma="be" category="VBZ"
+8	30,33	GATE_Token	string="not" lemma="not" category="RB"
+9	34,35	GATE_Token	string="a" lemma="a" category="DT"
+10	36,44	GATE_Token	string="reliable" lemma="reliable" category="JJ"
+11	45,51	GATE_Token	string="source" lemma="source" category="NN"
+12	52,53	GATE_Token	string="." lemma="." category="."

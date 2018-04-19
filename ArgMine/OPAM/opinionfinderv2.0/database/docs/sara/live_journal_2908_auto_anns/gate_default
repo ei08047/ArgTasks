@@ -1,0 +1,10 @@
+1	0,52	GATE_Sentence
+2	0,18	GATE_Token	string="troubles@gmail.com" lemma="troubles@gmail.com" category="NNP"
+3	19,22	GATE_Token	string="and" lemma="and" category="CC"
+4	23,27	GATE_Token	string="take" lemma="take" category="VB"
+5	28,32	GATE_Token	string="care" lemma="care" category="NN"
+6	33,35	GATE_Token	string="of" lemma="of" category="IN"
+7	36,44	GATE_Token	string="yourself" lemma="yourself" category="PRP"
+8	45,46	GATE_Token	string="," lemma="," category=","
+9	47,50	GATE_Token	string="boy" lemma="boy" category="NN"
+10	51,52	GATE_Token	string="." lemma="." category="."

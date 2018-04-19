@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">to anyone who overheard my <MPQAPOL autoclass="negative">drunken</MPQAPOL> ramblings last night , i am not <MPQAPOL autoclass="neutral">really</MPQAPOL> the king of the universe .</MPQASENT>

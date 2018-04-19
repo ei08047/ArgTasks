@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> that saying Zeppelin is not metal is kind of <MPQAPOL autoclass="negative">outrageous</MPQAPOL> , <MPQAPOL autoclass="neutral">too</MPQAPOL> .</MPQASENT>

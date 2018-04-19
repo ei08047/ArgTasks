@@ -1,0 +1,9 @@
+1	0,48	GATE_Sentence
+2	0,6	GATE_Token	string="Proper" lemma="proper" category="JJ"
+3	7,14	GATE_Token	string="English" lemma="English" category="NNP"
+4	15,17	GATE_Token	string="is" lemma="be" category="VBZ"
+5	18,27	GATE_Token	string="relegated" lemma="relegate" category="VBN"
+6	28,30	GATE_Token	string="to" lemma="to" category="TO"
+7	31,33	GATE_Token	string="an" lemma="a" category="DT"
+8	34,46	GATE_Token	string="afterthought" lemma="afterthought" category="NN"
+9	47,48	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,5	GATE_Token	string="Sorry" lemma="sorry" category="JJ"
+3	6,8	GATE_Token	string="if" lemma="if" category="IN"
+4	9,10	GATE_Token	string="I" lemma="I" category="PRP"
+5	11,14	GATE_Token	string="did" lemma="do" category="VBD"
+6	15,18	GATE_Token	string="not" lemma="not" category="RB"
+7	19,23	GATE_Token	string="make" lemma="make" category="VB"
+8	24,30	GATE_Token	string="myself" lemma="myself" category="PRP"
+9	31,36	GATE_Token	string="clear" lemma="clear" category="JJ"
+10	37,38	GATE_Token	string="." lemma="." category="."

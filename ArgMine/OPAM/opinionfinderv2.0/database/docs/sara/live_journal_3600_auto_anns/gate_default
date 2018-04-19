@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,4	GATE_Token	string="Will" lemma="will" category="MD"
+3	5,9	GATE_Token	string="post" lemma="post" category="VB"
+4	10,14	GATE_Token	string="more" lemma="more" category="RBR"
+5	15,19	GATE_Token	string="when" lemma="when" category="WRB"
+6	20,21	GATE_Token	string="I" lemma="I" category="PRP"
+7	22,26	GATE_Token	string="have" lemma="have" category="VBP"
+8	27,36	GATE_Token	string="succeeded" lemma="succeed" category="VBN"
+9	37,38	GATE_Token	string="." lemma="." category="."

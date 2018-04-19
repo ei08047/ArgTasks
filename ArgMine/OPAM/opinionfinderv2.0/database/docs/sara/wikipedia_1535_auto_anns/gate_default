@@ -1,0 +1,12 @@
+1	0,58	GATE_Sentence
+2	0,5	GATE_Token	string="These" lemma="these" category="DT"
+3	6,14	GATE_Token	string="credible" lemma="credible" category="JJ"
+4	15,22	GATE_Token	string="sources" lemma="source" category="NNS"
+5	23,26	GATE_Token	string="can" lemma="can" category="MD"
+6	27,30	GATE_Token	string="not" lemma="not" category="RB"
+7	31,37	GATE_Token	string="simply" lemma="simply" category="RB"
+8	38,40	GATE_Token	string="be" lemma="be" category="VB"
+9	41,47	GATE_Token	string="pulled" lemma="pull" category="VBN"
+10	48,51	GATE_Token	string="out" lemma="out" category="RP"
+11	52,54	GATE_Token	string="my" lemma="my" category="PRP$"
+12	55,58	GATE_Token	string="ass" lemma="ass" category="NN"

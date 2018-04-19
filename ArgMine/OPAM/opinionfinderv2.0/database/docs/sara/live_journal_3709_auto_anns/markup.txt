@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">The rest is <MPQAPOL autoclass="neutral">good</MPQAPOL> <MPQAPOL autoclass="neutral">too</MPQAPOL> , and <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="neutral">much</MPQAPOL> on par with a lot of contemporary poetry , but <MPQAPOL autoclass="neutral">especially</MPQAPOL> that part .</MPQASENT>

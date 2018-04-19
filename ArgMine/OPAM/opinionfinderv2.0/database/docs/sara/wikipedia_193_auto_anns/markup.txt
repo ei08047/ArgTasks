@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I made two brief changes as a previous editor <MPQAPOL autoclass="neutral">seems</MPQAPOL> <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="negative">confused</MPQAPOL> about the <MPQAPOL autoclass="neutral">differences</MPQAPOL> between a Rite and a Form .</MPQASENT>

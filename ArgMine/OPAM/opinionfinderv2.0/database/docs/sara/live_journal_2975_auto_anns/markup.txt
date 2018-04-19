@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Thank</MPQAPOL> you <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="neutral">much</MPQAPOL> , I <MPQAPOL autoclass="neutral">need</MPQAPOL> to remember to take my vitamins !</MPQASENT>

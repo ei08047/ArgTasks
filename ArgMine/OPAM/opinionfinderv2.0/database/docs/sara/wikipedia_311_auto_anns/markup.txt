@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Catholics are taking out newspaper ads <MPQAPOL autoclass="negative">protesting</MPQAPOL> the <MPQAPOL autoclass="neutral">abuse</MPQAPOL> within the Church and not Anglicans or Protestants .</MPQASENT>

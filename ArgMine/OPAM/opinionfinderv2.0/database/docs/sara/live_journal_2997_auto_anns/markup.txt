@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Square is <MPQAPOL autoclass="negative">bad</MPQAPOL> for our wallet .</MPQASENT>

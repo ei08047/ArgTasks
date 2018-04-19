@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> some <MPQAPOL autoclass="neutral">straight</MPQAPOL> couples <MPQAPOL autoclass="negative">disgust</MPQAPOL> me <MPQAPOL autoclass="negative">too</MPQAPOL> !</MPQASENT>

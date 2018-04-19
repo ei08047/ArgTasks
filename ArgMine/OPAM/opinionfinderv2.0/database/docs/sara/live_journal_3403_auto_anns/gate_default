@@ -1,0 +1,13 @@
+1	0,44	GATE_Sentence
+2	0,4	GATE_Token	string="More" lemma="more" category="RBR"
+3	5,12	GATE_Token	string="vanilla" lemma="vanilla" category="NN"
+4	13,14	GATE_Token	string="(" lemma="(" category="-LRB-"
+5	15,16	GATE_Token	string="I" lemma="I" category="PRP"
+6	17,22	GATE_Token	string="think" lemma="think" category="VBP"
+7	23,24	GATE_Token	string="I" lemma="I" category="PRP"
+8	25,28	GATE_Token	string="put" lemma="put" category="VB"
+9	29,32	GATE_Token	string="one" lemma="one" category="CD"
+10	33,37	GATE_Token	string="drop" lemma="drop" category="NN"
+11	38,40	GATE_Token	string="in" lemma="in" category="IN"
+12	41,42	GATE_Token	string=")" lemma=")" category="-RRB-"
+13	43,44	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do you <MPQAPOL autoclass="neutral">mean</MPQAPOL> that this article , `` Linux kernel '' , <MPQAPOL autoclass="neutral">should</MPQAPOL> not talk anything about the history of the Linux kernel ?</MPQASENT>

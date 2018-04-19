@@ -1,0 +1,10 @@
+1	0,37	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,11	GATE_Token	string="not" lemma="not" category="RB"
+5	12,18	GATE_Token	string="always" lemma="always" category="RB"
+6	19,23	GATE_Token	string="easy" lemma="easy" category="JJ"
+7	24,25	GATE_Token	string="," lemma="," category=","
+8	26,29	GATE_Token	string="but" lemma="but" category="CC"
+9	30,35	GATE_Token	string="still" lemma="still" category="RB"
+10	36,37	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,6	GATE_Token	string="Lovely" lemma="lovely" category="JJ"
+3	7,14	GATE_Token	string="meeting" lemma="meeting" category="NN"
+4	15,18	GATE_Token	string="you" lemma="you" category="PRP"
+5	19,22	GATE_Token	string="and" lemma="and" category="CC"
+6	23,30	GATE_Token	string="tea-ing" lemma="tea-ing" category="VB"
+7	31,33	GATE_Token	string="it" lemma="it" category="PRP"
+8	34,36	GATE_Token	string="up" lemma="up" category="RP"
+9	37,38	GATE_Token	string="!" lemma="!" category="."

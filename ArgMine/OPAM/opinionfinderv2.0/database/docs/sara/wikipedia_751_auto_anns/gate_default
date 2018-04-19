@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="Now" lemma="now" category="RB"
+3	4,7	GATE_Token	string="who" lemma="who" category="WP"
+4	8,15	GATE_Token	string="started" lemma="start" category="VBD"
+5	16,20	GATE_Token	string="this" lemma="this" category="DT"
+6	21,26	GATE_Token	string="cycle" lemma="cycle" category="NN"
+7	27,29	GATE_Token	string="of" lemma="of" category="IN"
+8	30,38	GATE_Token	string="violence" lemma="violence" category="NN"
+9	39,40	GATE_Token	string="?" lemma="?" category="."

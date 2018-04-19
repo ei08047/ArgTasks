@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,2	GATE_Token	string="Do" lemma="do" category="VBP"
+3	3,6	GATE_Token	string="you" lemma="you" category="PRP"
+4	7,17	GATE_Token	string="frequently" lemma="frequently" category="RB"
+5	18,25	GATE_Token	string="compare" lemma="compare" category="VBP"
+6	26,31	GATE_Token	string="Mario" lemma="Mario" category="NNP"
+7	32,34	GATE_Token	string="to" lemma="to" category="TO"
+8	35,38	GATE_Token	string="L4D" lemma="l4d" category="NN"
+9	39,40	GATE_Token	string="?" lemma="?" category="."

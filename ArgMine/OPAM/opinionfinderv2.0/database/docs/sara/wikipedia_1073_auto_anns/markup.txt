@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">As the user also noted in their recent edits , the medical <MPQAPOL autoclass="neutral">consensus</MPQAPOL> on the issue is that HIV does cause AIDS .</MPQASENT>

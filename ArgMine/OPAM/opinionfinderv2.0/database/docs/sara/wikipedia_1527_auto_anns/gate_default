@@ -1,0 +1,11 @@
+1	0,47	GATE_Sentence
+2	0,6	GATE_Token	string="simply" lemma="simply" category="RB"
+3	7,14	GATE_Token	string="putting" lemma="put" category="VBG"
+4	15,17	GATE_Token	string="it" lemma="it" category="PRP"
+5	18,20	GATE_Token	string="in" lemma="in" category="IN"
+6	21,23	GATE_Token	string="''" lemma="''" category="''"
+7	24,26	GATE_Token	string="''" lemma="''" category="''"
+8	27,33	GATE_Token	string="doesnt" lemma="doesnt" category="JJ"
+9	34,38	GATE_Token	string="seem" lemma="seem" category="VBP"
+10	39,45	GATE_Token	string="enough" lemma="enough" category="RB"
+11	46,47	GATE_Token	string="." lemma="." category="."

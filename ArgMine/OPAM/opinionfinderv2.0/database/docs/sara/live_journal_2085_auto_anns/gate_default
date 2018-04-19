@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="AAnd" lemma="aand" category="NN"
+3	5,6	GATE_Token	string="I" lemma="I" category="PRP"
+4	7,11	GATE_Token	string="just" lemma="just" category="RB"
+5	12,19	GATE_Token	string="watched" lemma="watch" category="VBD"
+6	20,23	GATE_Token	string="the" lemma="the" category="DT"
+7	24,30	GATE_Token	string="Spider" lemma="Spider" category="NNP"
+8	31,34	GATE_Token	string="one" lemma="one" category="CD"
+9	35,36	GATE_Token	string="." lemma="." category="."

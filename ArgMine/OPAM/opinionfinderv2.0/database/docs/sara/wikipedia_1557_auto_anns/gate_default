@@ -1,0 +1,13 @@
+1	0,62	GATE_Sentence
+2	0,2	GATE_Token	string="He" lemma="he" category="PRP"
+3	3,6	GATE_Token	string="was" lemma="be" category="VBD"
+4	7,13	GATE_Token	string="ranked" lemma="rank" category="VBN"
+5	14,19	GATE_Token	string="132nd" lemma="132nd" category="VBN"
+6	20,23	GATE_Token	string="out" lemma="out" category="IN"
+7	24,26	GATE_Token	string="of" lemma="of" category="IN"
+8	27,34	GATE_Token	string="400,000" lemma="400,000" category="CD"
+9	35,47	GATE_Token	string="participants" lemma="participant" category="NNS"
+10	48,52	GATE_Token	string="that" lemma="that" category="WDT"
+11	53,57	GATE_Token	string="year" lemma="year" category="NN"
+12	58,59	GATE_Token	string="." lemma="." category="."
+13	60,62	GATE_Token	string="''" lemma="''" category="''"

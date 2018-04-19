@@ -1,0 +1,12 @@
+1	0,59	GATE_Sentence
+2	0,5	GATE_Token	string="Maybe" lemma="maybe" category="RB"
+3	6,11	GATE_Token	string="Roman" lemma="roman" category="JJ"
+4	12,20	GATE_Token	string="Catholic" lemma="Catholic" category="NNP"
+5	21,27	GATE_Token	string="Church" lemma="Church" category="NNP"
+6	28,30	GATE_Token	string="is" lemma="be" category="VBZ"
+7	31,34	GATE_Token	string="not" lemma="not" category="RB"
+8	35,36	GATE_Token	string="a" lemma="a" category="DT"
+9	37,43	GATE_Token	string="magnet" lemma="magnet" category="NN"
+10	44,47	GATE_Token	string="for" lemma="for" category="IN"
+11	48,57	GATE_Token	string="vandalism" lemma="vandalism" category="NN"
+12	58,59	GATE_Token	string="." lemma="." category="."

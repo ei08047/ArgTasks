@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">( <MPQAPOL autoclass="neutral">Besides</MPQAPOL> , all the chocolate chips sank to the bottom , and made that area almost <MPQAPOL autoclass="neutral">pure</MPQAPOL> chocolate goo .</MPQASENT>

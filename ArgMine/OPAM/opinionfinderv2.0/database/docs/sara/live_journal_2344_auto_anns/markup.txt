@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Is not it <MPQAPOL autoclass="neutral">funny</MPQAPOL> how random <MPQAPOL autoclass="negative">little</MPQAPOL> things can make you <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">cheerful</MPQAPOL> ?</MPQASENT>

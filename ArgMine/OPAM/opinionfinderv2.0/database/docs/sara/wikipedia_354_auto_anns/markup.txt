@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It sounds like a <MPQAPOL autoclass="neutral">polite</MPQAPOL> boardroom takeover <MPQAPOL autoclass="neutral">rather</MPQAPOL> than the <MPQAPOL autoclass="neutral">violent</MPQAPOL> ransacking it <MPQAPOL autoclass="neutral">actually</MPQAPOL> was .</MPQASENT>

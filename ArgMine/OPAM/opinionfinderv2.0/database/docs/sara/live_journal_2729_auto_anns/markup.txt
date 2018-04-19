@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">We have got a <MPQAPOL autoclass="neutral">full</MPQAPOL> month left .</MPQASENT>

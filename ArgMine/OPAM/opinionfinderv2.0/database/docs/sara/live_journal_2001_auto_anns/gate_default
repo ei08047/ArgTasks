@@ -1,0 +1,11 @@
+1	0,42	GATE_Sentence
+2	0,3	GATE_Token	string="did" lemma="do" category="VBD"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,11	GATE_Token	string="get" lemma="get" category="VB"
+5	12,16	GATE_Token	string="your" lemma="you" category="PRP$"
+6	17,19	GATE_Token	string="FB" lemma="fb" category="NN"
+7	20,25	GATE_Token	string="dimms" lemma="dimm" category="NNS"
+8	26,29	GATE_Token	string="for" lemma="for" category="IN"
+9	30,33	GATE_Token	string="the" lemma="the" category="DT"
+10	34,40	GATE_Token	string="MacPro" lemma="MacPro" category="NNP"
+11	41,42	GATE_Token	string="?" lemma="?" category="."

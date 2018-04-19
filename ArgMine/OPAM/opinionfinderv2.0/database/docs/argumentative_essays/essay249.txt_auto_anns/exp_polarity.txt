@@ -1,0 +1,7 @@
+argumentative_essays_essay249.txt_2500_2504	neutral
+argumentative_essays_essay249.txt_2533_2537	neutral
+argumentative_essays_essay249.txt_2538_2544	negative
+argumentative_essays_essay249.txt_2555_2559	positive
+argumentative_essays_essay249.txt_2560_2568	neutral
+argumentative_essays_essay249.txt_2585_2588	neutral
+argumentative_essays_essay249.txt_2589_2596	negative

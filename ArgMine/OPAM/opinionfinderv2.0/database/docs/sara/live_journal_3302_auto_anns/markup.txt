@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Lol I <MPQAPOL autoclass="positive">like</MPQAPOL> to ask <MPQAPOL autoclass="neutral">so</MPQAPOL> when i start commenting people have some <MPQAPOL autoclass="neutral">inkling</MPQAPOL> of who I am .</MPQASENT>

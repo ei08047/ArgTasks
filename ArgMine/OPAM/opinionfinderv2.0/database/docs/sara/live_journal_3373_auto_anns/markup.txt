@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Because the fathers <MPQAPOL autoclass="neutral">need</MPQAPOL> to be the <MPQAPOL autoclass="neutral">protectors</MPQAPOL> , boys are stronger and <MPQAPOL autoclass="neutral">perhaps</MPQAPOL> more forward and <MPQAPOL autoclass="positive">daring</MPQAPOL> than girls .</MPQASENT>

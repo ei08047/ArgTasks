@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And these exams are <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="negative">stressing</MPQAPOL> me out <MPQAPOL autoclass="negative">too</MPQAPOL> .</MPQASENT>

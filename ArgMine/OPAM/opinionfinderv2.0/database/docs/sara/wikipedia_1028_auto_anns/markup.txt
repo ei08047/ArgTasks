@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">just</MPQAPOL> noticed the article has a tag reading `` Note : Do not add `` <MPQAPOL autoclass="neutral">hard</MPQAPOL> rock '' here .</MPQASENT>

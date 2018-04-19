@@ -1,0 +1,13 @@
+1	0,45	GATE_Sentence
+2	0,4	GATE_Token	string="Find" lemma="find" category="VB"
+3	5,7	GATE_Token	string="me" lemma="I" category="PRP"
+4	8,10	GATE_Token	string="as" lemma="as" category="IN"
+5	11,14	GATE_Token	string="Red" lemma="Red" category="NNP"
+6	15,20	GATE_Token	string="Tango" lemma="Tango" category="NNP"
+7	21,24	GATE_Token	string="and" lemma="and" category="CC"
+8	25,28	GATE_Token	string="add" lemma="add" category="VB"
+9	29,31	GATE_Token	string="me" lemma="I" category="PRP"
+10	32,34	GATE_Token	string="as" lemma="as" category="IN"
+11	35,36	GATE_Token	string="a" lemma="a" category="DT"
+12	37,43	GATE_Token	string="friend" lemma="friend" category="NN"
+13	44,45	GATE_Token	string="." lemma="." category="."

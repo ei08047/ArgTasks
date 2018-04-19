@@ -1,0 +1,12 @@
+1	0,60	GATE_Sentence
+2	0,4	GATE_Token	string="when" lemma="when" category="WRB"
+3	5,11	GATE_Token	string="infact" lemma="infact" category="NN"
+4	12,17	GATE_Token	string="every" lemma="every" category="DT"
+5	18,25	GATE_Token	string="history" lemma="history" category="NN"
+6	26,30	GATE_Token	string="book" lemma="book" category="NN"
+7	31,38	GATE_Token	string="clearly" lemma="clearly" category="RB"
+8	39,43	GATE_Token	string="says" lemma="say" category="VBZ"
+9	44,47	GATE_Token	string="the" lemma="the" category="DT"
+10	48,53	GATE_Token	string="South" lemma="South" category="NNP"
+11	54,58	GATE_Token	string="left" lemma="leave" category="VBN"
+12	59,60	GATE_Token	string="?" lemma="?" category="."

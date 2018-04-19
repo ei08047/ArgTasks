@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> jessie , whitney and I are driving up if you <MPQAPOL autoclass="positive">want</MPQAPOL> to ride man .</MPQASENT>

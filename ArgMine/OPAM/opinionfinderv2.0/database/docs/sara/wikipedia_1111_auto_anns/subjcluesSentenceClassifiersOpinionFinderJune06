@@ -1,0 +1,3 @@
+1	12,20	matchfeat	type="PolPmanweak" mpqapolarity="strongpos"
+2	100,105	matchfeat	type="strongjandiss" mpqapolarity="neutral"
+3	106,113	matchfeat	type="strongjandiss" mpqapolarity="weakpos"

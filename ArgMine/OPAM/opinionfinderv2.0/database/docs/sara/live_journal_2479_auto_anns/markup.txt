@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">And the kitchen <MPQAPOL autoclass="neutral">really</MPQAPOL> is not <MPQAPOL autoclass="negative">bad</MPQAPOL> right now .</MPQASENT>

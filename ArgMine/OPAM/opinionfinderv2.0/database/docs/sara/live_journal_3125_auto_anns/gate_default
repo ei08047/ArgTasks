@@ -1,0 +1,11 @@
+1	0,51	GATE_Sentence
+2	0,7	GATE_Token	string="Perhaps" lemma="perhaps" category="RB"
+3	8,10	GATE_Token	string="we" lemma="we" category="PRP"
+4	11,17	GATE_Token	string="should" lemma="should" category="MD"
+5	18,22	GATE_Token	string="have" lemma="have" category="VB"
+6	23,24	GATE_Token	string="a" lemma="a" category="DT"
+7	25,28	GATE_Token	string="BBC" lemma="BBC" category="NNP"
+8	29,36	GATE_Token	string="reality" lemma="reality" category="NN"
+9	37,39	GATE_Token	string="tv" lemma="tv" category="NN"
+10	40,49	GATE_Token	string="afternoon" lemma="afternoon" category="NN"
+11	50,51	GATE_Token	string="?" lemma="?" category="."

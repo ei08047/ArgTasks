@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">mean</MPQAPOL> <MPQAPOL autoclass="positive">sure</MPQAPOL> , he is <MPQAPOL autoclass="positive">pretty</MPQAPOL> , but - Then I played 358 and I said ` <MPQAPOL autoclass="negative">oh</MPQAPOL> ' .</MPQASENT>

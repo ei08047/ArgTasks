@@ -1,0 +1,11 @@
+1	0,54	GATE_Sentence
+2	0,7	GATE_Token	string="Msrasnw" lemma="Msrasnw" category="NNP"
+3	8,9	GATE_Token	string="," lemma="," category=","
+4	10,13	GATE_Token	string="the" lemma="the" category="DT"
+5	14,19	GATE_Token	string="above" lemma="above" category="JJ"
+6	20,30	GATE_Token	string="discussion" lemma="discussion" category="NN"
+7	31,33	GATE_Token	string="is" lemma="be" category="VBZ"
+8	34,41	GATE_Token	string="already" lemma="already" category="RB"
+9	42,47	GATE_Token	string="about" lemma="about" category="IN"
+10	48,52	GATE_Token	string="that" lemma="that" category="DT"
+11	53,54	GATE_Token	string="." lemma="." category="."

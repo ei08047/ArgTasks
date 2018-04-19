@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj"><MPQAPOL autoclass="neutral">Oh</MPQAPOL> , <MPQAPOL autoclass="negative">heck</MPQAPOL> , I <MPQAPOL autoclass="neutral">need</MPQAPOL> to <MPQAPOL autoclass="neutral">know</MPQAPOL> what time it is going to be !</MPQASENT>

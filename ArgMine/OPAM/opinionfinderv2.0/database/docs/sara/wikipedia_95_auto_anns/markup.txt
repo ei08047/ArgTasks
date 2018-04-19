@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">How is a book , written by the man in question himself , not a <MPQAPOL autoclass="neutral">reliable</MPQAPOL> source ?</MPQASENT>

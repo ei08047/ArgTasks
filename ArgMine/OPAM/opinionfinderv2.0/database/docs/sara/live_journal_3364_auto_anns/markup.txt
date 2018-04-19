@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I am making a purely <MPQAPOL autoclass="negative">selfish</MPQAPOL> decision to change this to the 22nd for <MPQAPOL autoclass="neutral">rather</MPQAPOL> <MPQAPOL autoclass="negative">arbitrary</MPQAPOL> <MPQAPOL autoclass="neutral">reasons</MPQAPOL> .</MPQASENT>

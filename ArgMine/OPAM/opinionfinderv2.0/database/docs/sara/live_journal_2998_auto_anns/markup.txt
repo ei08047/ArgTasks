@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">They <MPQAPOL autoclass="neutral">might</MPQAPOL> end up equally <MPQAPOL autoclass="negative">sad</MPQAPOL> .</MPQASENT>

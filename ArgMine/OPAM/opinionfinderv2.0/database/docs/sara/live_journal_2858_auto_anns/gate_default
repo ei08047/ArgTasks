@@ -1,0 +1,11 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,9	GATE_Token	string="about" lemma="about" category="IN"
+4	10,14	GATE_Token	string="half" lemma="half" category="NN"
+5	15,17	GATE_Token	string="of" lemma="of" category="IN"
+6	18,21	GATE_Token	string="the" lemma="the" category="DT"
+7	22,27	GATE_Token	string="stuff" lemma="stuff" category="NN"
+8	28,30	GATE_Token	string="in" lemma="in" category="IN"
+9	31,33	GATE_Token	string="my" lemma="my" category="PRP$"
+10	34,38	GATE_Token	string="room" lemma="room" category="NN"
+11	39,40	GATE_Token	string="." lemma="." category="."

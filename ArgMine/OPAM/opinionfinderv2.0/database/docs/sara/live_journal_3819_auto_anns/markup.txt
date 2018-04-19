@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">That <MPQAPOL autoclass="neutral">confidence</MPQAPOL> is <MPQAPOL autoclass="neutral">attractive</MPQAPOL> to other people .</MPQASENT>

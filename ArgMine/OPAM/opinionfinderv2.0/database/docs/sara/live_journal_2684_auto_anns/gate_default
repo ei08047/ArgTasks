@@ -1,0 +1,11 @@
+1	0,46	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,8	GATE_Token	string="cries" lemma="cry" category="VBZ"
+4	9,11	GATE_Token	string="\*" lemma="\*" category="SYM"
+5	12,16	GATE_Token	string="Your" lemma="you" category="PRP$"
+6	17,24	GATE_Token	string="present" lemma="present" category="JJ"
+7	25,32	GATE_Token	string="totally" lemma="totally" category="RB"
+8	33,37	GATE_Token	string="made" lemma="make" category="VBN"
+9	38,40	GATE_Token	string="my" lemma="my" category="PRP$"
+10	41,44	GATE_Token	string="day" lemma="day" category="NN"
+11	45,46	GATE_Token	string="!" lemma="!" category="."

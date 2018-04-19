@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">My deepest <MPQAPOL autoclass="negative">condolences</MPQAPOL> my dear <MPQAPOL autoclass="neutral">friend</MPQAPOL> .</MPQASENT>

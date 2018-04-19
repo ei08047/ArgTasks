@@ -1,0 +1,8 @@
+1	0,41	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,11	GATE_Token	string="person" lemma="person" category="NN"
+4	12,20	GATE_Token	string="deserves" lemma="deserve" category="VBZ"
+5	21,23	GATE_Token	string="to" lemma="to" category="TO"
+6	24,26	GATE_Token	string="be" lemma="be" category="VB"
+7	27,39	GATE_Token	string="photographed" lemma="photograph" category="VBN"
+8	40,41	GATE_Token	string="." lemma="." category="."

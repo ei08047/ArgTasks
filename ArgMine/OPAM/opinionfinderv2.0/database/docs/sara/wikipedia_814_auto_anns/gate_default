@@ -1,0 +1,11 @@
+1	0,51	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,7	GATE_Token	string="can" lemma="can" category="MD"
+4	8,11	GATE_Token	string="add" lemma="add" category="VB"
+5	12,16	GATE_Token	string="that" lemma="that" category="IN"
+6	17,24	GATE_Token	string="factoid" lemma="factoid" category="NN"
+7	25,27	GATE_Token	string="to" lemma="to" category="TO"
+8	28,31	GATE_Token	string="the" lemma="the" category="DT"
+9	32,41	GATE_Token	string="Hezbollah" lemma="Hezbollah" category="NNP"
+10	42,49	GATE_Token	string="article" lemma="article" category="NN"
+11	50,51	GATE_Token	string="." lemma="." category="."

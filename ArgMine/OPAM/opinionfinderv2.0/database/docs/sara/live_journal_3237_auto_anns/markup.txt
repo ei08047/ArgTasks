@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I was <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">thinking</MPQAPOL> , since they were debound , that I did not have <MPQAPOL autoclass="neutral">much</MPQAPOL> use for them .</MPQASENT>

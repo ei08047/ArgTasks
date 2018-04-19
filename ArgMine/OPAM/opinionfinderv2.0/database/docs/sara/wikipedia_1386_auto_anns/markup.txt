@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">This <MPQAPOL autoclass="neutral">means</MPQAPOL> including the <MPQAPOL autoclass="negative">strange</MPQAPOL> yet <MPQAPOL autoclass="positive">notable</MPQAPOL> <MPQAPOL autoclass="neutral">viewpoints</MPQAPOL> of organizations <MPQAPOL autoclass="neutral">such</MPQAPOL> as CoS. --</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Another series <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="neutral">show</MPQAPOL> up <MPQAPOL autoclass="neutral">anyway</MPQAPOL> .</MPQASENT>

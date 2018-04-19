@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,4	GATE_Token	string="Jazz" lemma="jazz" category="NN"
+3	5,7	GATE_Token	string="in" lemma="in" category="IN"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,17	GATE_Token	string="Pines" lemma="pine" category="NNS"
+6	18,23	GATE_Token	string="today" lemma="today" category="NN"
+7	24,27	GATE_Token	string="was" lemma="be" category="VBD"
+8	28,37	GATE_Token	string="fantastic" lemma="fantastic" category="JJ"
+9	38,39	GATE_Token	string="." lemma="." category="."

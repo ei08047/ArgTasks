@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It had its own <MPQAPOL autoclass="neutral">charm</MPQAPOL> , but <MPQAPOL autoclass="neutral">wow</MPQAPOL> .</MPQASENT>

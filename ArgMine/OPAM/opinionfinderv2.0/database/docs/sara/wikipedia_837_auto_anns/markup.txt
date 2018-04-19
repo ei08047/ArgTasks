@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">Im <MPQAPOL autoclass="neutral">sure</MPQAPOL> we <MPQAPOL autoclass="neutral">could</MPQAPOL> find a way to clarify the meaning of what it is they fight for .</MPQASENT>

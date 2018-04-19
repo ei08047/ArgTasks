@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i <MPQAPOL autoclass="neutral">thought</MPQAPOL> this was a teenage thing but it <MPQAPOL autoclass="neutral">seems</MPQAPOL> like something i will being dealing with the rest of my life .</MPQASENT>

@@ -1,0 +1,7 @@
+1	0,32	GATE_Sentence
+2	0,3	GATE_Token	string="are" lemma="be" category="VBP"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,16	GATE_Token	string="minoring" lemma="minor" category="VBG"
+5	17,19	GATE_Token	string="in" lemma="in" category="IN"
+6	20,30	GATE_Token	string="philosophy" lemma="philosophy" category="NN"
+7	31,32	GATE_Token	string="?" lemma="?" category="."

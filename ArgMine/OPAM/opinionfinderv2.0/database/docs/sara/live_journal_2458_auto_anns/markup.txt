@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I was <MPQAPOL autoclass="negative">extremely</MPQAPOL> <MPQAPOL autoclass="negative">upset</MPQAPOL> last night about it ... But your <MPQAPOL autoclass="neutral">right</MPQAPOL> ..</MPQASENT>

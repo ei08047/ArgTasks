@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is <MPQAPOL autoclass="neutral">specifically</MPQAPOL> the sort of thing our external link policy is designed to prevent .</MPQASENT>

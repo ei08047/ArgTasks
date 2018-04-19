@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have the flour and the sugar , <MPQAPOL autoclass="neutral">so</MPQAPOL> that is set .</MPQASENT>

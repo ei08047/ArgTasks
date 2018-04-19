@@ -1,0 +1,13 @@
+1	0,53	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,7	GATE_Token	string="are" lemma="be" category="VBP"
+4	8,13	GATE_Token	string="right" lemma="right" category="RB"
+5	14,15	GATE_Token	string="," lemma="," category=","
+6	16,19	GATE_Token	string="the" lemma="the" category="DT"
+7	20,25	GATE_Token	string="earth" lemma="earth" category="NN"
+8	26,28	GATE_Token	string="is" lemma="be" category="VBZ"
+9	29,32	GATE_Token	string="not" lemma="not" category="RB"
+10	33,39	GATE_Token	string="really" lemma="really" category="RB"
+11	40,41	GATE_Token	string="a" lemma="a" category="DT"
+12	42,51	GATE_Token	string="blackbody" lemma="blackbody" category="NN"
+13	52,53	GATE_Token	string="." lemma="." category="."

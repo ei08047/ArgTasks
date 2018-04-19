@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">That is your <MPQAPOL autoclass="neutral">opinion</MPQAPOL> , not a <MPQAPOL autoclass="neutral">fact</MPQAPOL> .</MPQASENT>

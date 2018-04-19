@@ -1,0 +1,11 @@
+1	0,41	GATE_Sentence
+2	0,6	GATE_Token	string="Really" lemma="really" category="RB"
+3	7,9	GATE_Token	string="--" lemma="--" category=":"
+4	10,14	GATE_Token	string="take" lemma="take" category="VB"
+5	15,16	GATE_Token	string="a" lemma="a" category="DT"
+6	17,20	GATE_Token	string="few" lemma="few" category="JJ"
+7	21,28	GATE_Token	string="minutes" lemma="minute" category="NNS"
+8	29,31	GATE_Token	string="to" lemma="to" category="TO"
+9	32,36	GATE_Token	string="read" lemma="read" category="VB"
+10	37,39	GATE_Token	string="it" lemma="it" category="PRP"
+11	40,41	GATE_Token	string="." lemma="." category="."

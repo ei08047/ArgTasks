@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Im saying the current wording is <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="negative">misleading</MPQAPOL> which is why i changed it .</MPQASENT>

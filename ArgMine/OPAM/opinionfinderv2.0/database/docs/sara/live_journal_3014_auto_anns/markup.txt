@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Only having one <MPQAPOL autoclass="neutral">real</MPQAPOL> <MPQAPOL autoclass="neutral">argument</MPQAPOL> is a <MPQAPOL autoclass="neutral">huge</MPQAPOL> <MPQAPOL autoclass="positive">success</MPQAPOL> .</MPQASENT>

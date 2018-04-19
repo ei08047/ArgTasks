@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They are not the <MPQAPOL autoclass="neutral">worst</MPQAPOL> you can get , but they are not far off it .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">What do you <MPQAPOL autoclass="neutral">mean</MPQAPOL> by `` putting more than <MPQAPOL autoclass="neutral">just</MPQAPOL> the <MPQAPOL autoclass="negative">facts</MPQAPOL> '' into the article ?</MPQASENT>

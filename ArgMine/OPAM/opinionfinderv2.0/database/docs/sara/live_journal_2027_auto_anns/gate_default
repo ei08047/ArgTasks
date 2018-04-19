@@ -1,0 +1,12 @@
+1	0,45	GATE_Sentence
+2	0,9	GATE_Token	string="something" lemma="something" category="NN"
+3	10,11	GATE_Token	string="i" lemma="i" category="FW"
+4	12,17	GATE_Token	string="would" lemma="would" category="MD"
+5	18,21	GATE_Token	string="'ve" lemma="have" category="VB"
+6	22,26	GATE_Token	string="wish" lemma="wish" category="NN"
+7	27,28	GATE_Token	string="i" lemma="i" category="FW"
+8	29,34	GATE_Token	string="could" lemma="could" category="MD"
+9	35,38	GATE_Token	string="'ve" lemma="have" category="VB"
+10	39,42	GATE_Token	string="got" lemma="get" category="VBD"
+11	43,44	GATE_Token	string=":" lemma=":" category=":"
+12	44,45	GATE_Token	string="P" lemma="p" category="NN"

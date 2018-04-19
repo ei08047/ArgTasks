@@ -1,0 +1,12 @@
+1	0,52	GATE_Sentence
+2	0,4	GATE_Token	string="that" lemma="that" category="DT"
+3	5,8	GATE_Token	string="was" lemma="be" category="VBD"
+4	9,15	GATE_Token	string="truely" lemma="truely" category="RB"
+5	16,19	GATE_Token	string="one" lemma="one" category="CD"
+6	20,22	GATE_Token	string="of" lemma="of" category="IN"
+7	23,26	GATE_Token	string="the" lemma="the" category="DT"
+8	27,37	GATE_Token	string="highlights" lemma="highlight" category="VBZ"
+9	38,40	GATE_Token	string="of" lemma="of" category="IN"
+10	41,45	GATE_Token	string="this" lemma="this" category="DT"
+11	46,50	GATE_Token	string="year" lemma="year" category="NN"
+12	51,52	GATE_Token	string="." lemma="." category="."

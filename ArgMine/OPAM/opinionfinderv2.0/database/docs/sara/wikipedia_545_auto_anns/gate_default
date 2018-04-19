@@ -1,0 +1,13 @@
+1	0,68	GATE_Sentence
+2	0,9	GATE_Token	string="Therefore" lemma="therefore" category="RB"
+3	10,13	GATE_Token	string="the" lemma="the" category="DT"
+4	14,16	GATE_Token	string="``" lemma="``" category="``"
+5	17,24	GATE_Token	string="entropy" lemma="entropy" category="JJ"
+6	25,33	GATE_Token	string="argument" lemma="argument" category="NN"
+7	34,36	GATE_Token	string="''" lemma="''" category="''"
+8	37,39	GATE_Token	string="by" lemma="by" category="IN"
+9	40,43	GATE_Token	string="the" lemma="the" category="DT"
+10	44,56	GATE_Token	string="creationists" lemma="creationist" category="NNS"
+11	57,59	GATE_Token	string="is" lemma="be" category="VBZ"
+12	60,66	GATE_Token	string="faulty" lemma="faulty" category="JJ"
+13	67,68	GATE_Token	string="." lemma="." category="."

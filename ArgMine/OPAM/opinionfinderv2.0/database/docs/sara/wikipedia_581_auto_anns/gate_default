@@ -1,0 +1,12 @@
+1	0,67	GATE_Sentence
+2	0,8	GATE_Token	string="Theories" lemma="theory" category="NNS"
+3	9,12	GATE_Token	string="are" lemma="be" category="VBP"
+4	13,23	GATE_Token	string="structures" lemma="structure" category="NNS"
+5	24,26	GATE_Token	string="of" lemma="of" category="IN"
+6	27,32	GATE_Token	string="ideas" lemma="idea" category="NNS"
+7	33,37	GATE_Token	string="that" lemma="that" category="WDT"
+8	38,45	GATE_Token	string="explain" lemma="explain" category="VBP"
+9	46,49	GATE_Token	string="and" lemma="and" category="CC"
+10	50,59	GATE_Token	string="interpret" lemma="interpret" category="VB"
+11	60,65	GATE_Token	string="facts" lemma="fact" category="NNS"
+12	66,67	GATE_Token	string="." lemma="." category="."

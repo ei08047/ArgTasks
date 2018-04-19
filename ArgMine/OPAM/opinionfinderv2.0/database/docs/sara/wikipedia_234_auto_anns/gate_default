@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,7	GATE_Token	string="Another" lemma="another" category="DT"
+3	8,12	GATE_Token	string="peer" lemma="peer" category="VBP"
+4	13,19	GATE_Token	string="review" lemma="review" category="NN"
+5	20,25	GATE_Token	string="might" lemma="might" category="MD"
+6	26,28	GATE_Token	string="be" lemma="be" category="VB"
+7	29,30	GATE_Token	string="a" lemma="a" category="DT"
+8	31,35	GATE_Token	string="good" lemma="good" category="JJ"
+9	36,40	GATE_Token	string="idea" lemma="idea" category="NN"
+10	41,42	GATE_Token	string="." lemma="." category="."

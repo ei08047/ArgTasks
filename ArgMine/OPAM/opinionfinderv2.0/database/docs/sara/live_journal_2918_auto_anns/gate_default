@@ -1,0 +1,13 @@
+1	0,33	GATE_Sentence
+2	0,1	GATE_Token	string=":" lemma=":" category=":"
+3	2,3	GATE_Token	string=":" lemma=":" category=":"
+4	4,8	GATE_Token	string="hugs" lemma="hug" category="NNS"
+5	9,10	GATE_Token	string=":" lemma=":" category=":"
+6	11,12	GATE_Token	string=":" lemma=":" category=":"
+7	13,14	GATE_Token	string="i" lemma="i" category="FW"
+8	15,17	GATE_Token	string="am" lemma="be" category="VBP"
+9	18,20	GATE_Token	string="so" lemma="so" category="RB"
+10	21,26	GATE_Token	string="sorry" lemma="sorry" category="JJ"
+11	27,30	GATE_Token	string="hon" lemma="hon" category="NN"
+12	31,32	GATE_Token	string="." lemma="." category="."
+13	32,33	GATE_Token	string="." lemma="." category="."

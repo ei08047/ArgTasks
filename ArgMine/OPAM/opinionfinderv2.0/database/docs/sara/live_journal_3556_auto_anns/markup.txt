@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You <MPQAPOL autoclass="neutral">should</MPQAPOL> have done a highlander pose .</MPQASENT>

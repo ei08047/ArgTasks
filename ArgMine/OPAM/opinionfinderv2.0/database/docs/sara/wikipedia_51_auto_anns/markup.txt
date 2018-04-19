@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Wikipedia <MPQAPOL autoclass="neutral">needs</MPQAPOL> some quality to raise its head <MPQAPOL autoclass="neutral">above</MPQAPOL> the <MPQAPOL autoclass="negative">slime</MPQAPOL> !</MPQASENT>

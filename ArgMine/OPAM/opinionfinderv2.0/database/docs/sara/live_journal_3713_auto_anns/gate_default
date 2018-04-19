@@ -1,0 +1,10 @@
+1	0,46	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,10	GATE_Token	string="Winter" lemma="Winter" category="NNP"
+4	11,16	GATE_Token	string="Night" lemma="Night" category="NNP"
+5	17,22	GATE_Token	string="cares" lemma="care" category="VBZ"
+6	23,26	GATE_Token	string="for" lemma="for" category="IN"
+7	27,33	GATE_Token	string="little" lemma="little" category="JJ"
+8	34,37	GATE_Token	string="but" lemma="but" category="CC"
+9	38,44	GATE_Token	string="Mayhem" lemma="Mayhem" category="NNP"
+10	45,46	GATE_Token	string="." lemma="." category="."

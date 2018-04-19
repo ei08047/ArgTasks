@@ -1,0 +1,8 @@
+1	0,43	GATE_Sentence
+2	0,4	GATE_Token	string="Your" lemma="you" category="PRP$"
+3	5,10	GATE_Token	string="views" lemma="view" category="NNS"
+4	11,14	GATE_Token	string="are" lemma="be" category="VBP"
+5	15,23	GATE_Token	string="actually" lemma="actually" category="RB"
+6	24,29	GATE_Token	string="quite" lemma="quite" category="RB"
+7	30,41	GATE_Token	string="interesting" lemma="interesting" category="JJ"
+8	42,43	GATE_Token	string="." lemma="." category="."

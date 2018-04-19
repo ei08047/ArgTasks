@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">great</MPQAPOL> my <MPQAPOL autoclass="neutral">entire</MPQAPOL> <MPQAPOL autoclass="neutral">belief</MPQAPOL> system is <MPQAPOL autoclass="negative">crumbling</MPQAPOL> in front of my <MPQAPOL autoclass="neutral">very</MPQAPOL> eyes .</MPQASENT>

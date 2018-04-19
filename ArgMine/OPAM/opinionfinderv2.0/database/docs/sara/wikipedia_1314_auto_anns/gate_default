@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="Let" lemma="let" category="VB"
+3	4,6	GATE_Token	string="us" lemma="we" category="PRP"
+4	7,11	GATE_Token	string="tell" lemma="tell" category="VB"
+5	12,15	GATE_Token	string="the" lemma="the" category="DT"
+6	16,20	GATE_Token	string="full" lemma="full" category="JJ"
+7	21,26	GATE_Token	string="story" lemma="story" category="NN"
+8	27,29	GATE_Token	string="if" lemma="if" category="IN"
+9	30,36	GATE_Token	string="needed" lemma="need" category="VBN"
+10	37,38	GATE_Token	string="." lemma="." category="."

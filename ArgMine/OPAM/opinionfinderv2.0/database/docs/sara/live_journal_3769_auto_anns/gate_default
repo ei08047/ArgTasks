@@ -1,0 +1,8 @@
+1	0,38	GATE_Sentence
+2	0,4	GATE_Token	string="Also" lemma="also" category="RB"
+3	5,10	GATE_Token	string="makes" lemma="make" category="VBZ"
+4	11,13	GATE_Token	string="me" lemma="I" category="PRP"
+5	14,19	GATE_Token	string="think" lemma="think" category="VB"
+6	20,22	GATE_Token	string="of" lemma="of" category="IN"
+7	23,36	GATE_Token	string="doppelgangers" lemma="doppelganger" category="NNS"
+8	37,38	GATE_Token	string="!" lemma="!" category="."

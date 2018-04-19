@@ -1,0 +1,11 @@
+1	0,39	GATE_Sentence
+2	0,4	GATE_Token	string="What" lemma="what" category="WP"
+3	5,10	GATE_Token	string="about" lemma="about" category="IN"
+4	11,14	GATE_Token	string="the" lemma="the" category="DT"
+5	15,19	GATE_Token	string="link" lemma="link" category="NN"
+6	20,23	GATE_Token	string="you" lemma="you" category="PRP"
+7	24,25	GATE_Token	string="," lemma="," category=","
+8	26,28	GATE_Token	string="uh" lemma="uh" category="UH"
+9	29,30	GATE_Token	string="," lemma="," category=","
+10	31,37	GATE_Token	string="linked" lemma="link" category="VBN"
+11	38,39	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,12 @@
+1	0,59	GATE_Sentence
+2	0,5	GATE_Token	string="Wales" lemma="Wales" category="NNP"
+3	6,9	GATE_Token	string="and" lemma="and" category="CC"
+4	10,18	GATE_Token	string="Scotland" lemma="Scotland" category="NNP"
+5	19,23	GATE_Token	string="have" lemma="have" category="VBP"
+6	24,29	GATE_Token	string="flags" lemma="flag" category="NNS"
+7	30,31	GATE_Token	string="," lemma="," category=","
+8	32,40	GATE_Token	string="Northern" lemma="Northern" category="NNP"
+9	41,48	GATE_Token	string="Ireland" lemma="Ireland" category="NNP"
+10	49,53	GATE_Token	string="does" lemma="do" category="VBZ"
+11	54,57	GATE_Token	string="not" lemma="not" category="RB"
+12	58,59	GATE_Token	string="." lemma="." category="."

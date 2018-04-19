@@ -1,0 +1,10 @@
+1	0,34	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,9	GATE_Token	string="rescued" lemma="rescue" category="VBD"
+4	10,13	GATE_Token	string="her" lemma="she" category="PRP"
+5	14,15	GATE_Token	string="," lemma="," category=","
+6	16,19	GATE_Token	string="but" lemma="but" category="CC"
+7	20,23	GATE_Token	string="she" lemma="she" category="PRP"
+8	24,29	GATE_Token	string="saved" lemma="save" category="VBD"
+9	30,32	GATE_Token	string="me" lemma="I" category="PRP"
+10	33,34	GATE_Token	string="." lemma="." category="."

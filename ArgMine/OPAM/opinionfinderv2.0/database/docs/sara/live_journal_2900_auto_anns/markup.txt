@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i do not have <MPQAPOL autoclass="neutral">much</MPQAPOL> time to read here <MPQAPOL autoclass="neutral">so</MPQAPOL> i am <MPQAPOL autoclass="negative">awful</MPQAPOL> <MPQAPOL autoclass="negative">picky</MPQAPOL> about who i add .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It was probably for the <MPQAPOL autoclass="neutral">best</MPQAPOL> , <MPQAPOL autoclass="neutral">though</MPQAPOL> I <MPQAPOL autoclass="neutral">know</MPQAPOL> it does not make it <MPQAPOL autoclass="negative">hurt</MPQAPOL> any less .</MPQASENT>

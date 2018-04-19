@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Those people are <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="negative">bored</MPQAPOL> , no life-having <MPQAPOL autoclass="neutral">idiots</MPQAPOL> who have nothing <MPQAPOL autoclass="positive">better</MPQAPOL> than to bitch about someone elses life ..</MPQASENT>

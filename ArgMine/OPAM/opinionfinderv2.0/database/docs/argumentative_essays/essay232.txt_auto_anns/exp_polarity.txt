@@ -1,0 +1,6 @@
+argumentative_essays_essay232.txt_1189_1194	positive
+argumentative_essays_essay232.txt_1216_1224	positive
+argumentative_essays_essay232.txt_1240_1245	positive
+argumentative_essays_essay232.txt_1256_1262	neutral
+argumentative_essays_essay232.txt_1266_1270	neutral
+argumentative_essays_essay232.txt_1271_1278	positive

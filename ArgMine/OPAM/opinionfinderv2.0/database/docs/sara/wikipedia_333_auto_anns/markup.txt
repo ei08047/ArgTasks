@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I do not <MPQAPOL autoclass="neutral">believe</MPQAPOL> that the current mentions of <MPQAPOL autoclass="negative">persecution</MPQAPOL> of Catholics <MPQAPOL autoclass="neutral">needs</MPQAPOL> to be removed from the article .</MPQASENT>

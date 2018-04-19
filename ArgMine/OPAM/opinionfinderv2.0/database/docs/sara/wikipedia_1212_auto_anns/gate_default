@@ -1,0 +1,12 @@
+1	0,48	GATE_Sentence
+2	0,2	GATE_Token	string="--" lemma="--" category=":"
+3	3,13	GATE_Token	string="Compromise" lemma="compromise" category="NN"
+4	14,15	GATE_Token	string="-" lemma="-" category=":"
+5	16,19	GATE_Token	string="Why" lemma="why" category="WRB"
+6	20,23	GATE_Token	string="not" lemma="not" category="RB"
+7	24,27	GATE_Token	string="the" lemma="the" category="DT"
+8	28,31	GATE_Token	string="Red" lemma="red" category="JJ"
+9	32,36	GATE_Token	string="Hand" lemma="hand" category="NN"
+10	37,39	GATE_Token	string="of" lemma="of" category="IN"
+11	40,46	GATE_Token	string="Ulster" lemma="Ulster" category="NNP"
+12	47,48	GATE_Token	string="?" lemma="?" category="."

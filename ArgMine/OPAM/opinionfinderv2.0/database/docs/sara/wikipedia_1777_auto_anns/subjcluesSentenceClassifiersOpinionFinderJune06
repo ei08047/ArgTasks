@@ -1,0 +1,2 @@
+1	2,7	matchfeat	type="trainJWman" mpqapolarity="weakpos"
+2	48,55	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="strongneg"

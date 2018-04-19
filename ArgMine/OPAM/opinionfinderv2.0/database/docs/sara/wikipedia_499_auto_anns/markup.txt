@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I see the Germans have a statue at the top of their entry ( <MPQAPOL autoclass="neutral">perhaps</MPQAPOL> <MPQAPOL autoclass="positive">understandable</MPQAPOL> in their case ) .</MPQASENT>

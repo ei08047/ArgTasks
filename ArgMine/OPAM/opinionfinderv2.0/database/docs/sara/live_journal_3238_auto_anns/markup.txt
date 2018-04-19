@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It is <MPQAPOL autoclass="negative">terribly</MPQAPOL> <MPQAPOL autoclass="negative">frustrating</MPQAPOL> to be <MPQAPOL autoclass="neutral">able</MPQAPOL> to see every .</MPQASENT>

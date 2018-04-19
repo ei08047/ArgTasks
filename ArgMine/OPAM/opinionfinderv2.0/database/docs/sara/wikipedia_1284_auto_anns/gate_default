@@ -1,0 +1,10 @@
+1	0,43	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,10	GATE_Token	string="crazy" lemma="crazy" category="JJ"
+4	11,15	GATE_Token	string="frog" lemma="frog" category="NN"
+5	16,19	GATE_Token	string="was" lemma="be" category="VBD"
+6	20,22	GATE_Token	string="on" lemma="on" category="IN"
+7	23,28	GATE_Token	string="drugs" lemma="drug" category="NNS"
+8	29,31	GATE_Token	string="or" lemma="or" category="CC"
+9	32,41	GATE_Token	string="something" lemma="something" category="NN"
+10	42,43	GATE_Token	string="." lemma="." category="."

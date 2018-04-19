@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">we have an <MPQAPOL autoclass="neutral">impotent</MPQAPOL> democrats in <MPQAPOL autoclass="neutral">positions</MPQAPOL> of <MPQAPOL autoclass="neutral">power</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Panthers are the <MPQAPOL autoclass="neutral">best</MPQAPOL> mascot , for <MPQAPOL autoclass="negative">seriously</MPQAPOL> !</MPQASENT>

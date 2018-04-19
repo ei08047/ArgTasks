@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">actually</MPQAPOL> have no <MPQAPOL autoclass="positive">wish</MPQAPOL> to kayak as I <MPQAPOL autoclass="positive">prefer</MPQAPOL> rafting , which I do at <MPQAPOL autoclass="neutral">least</MPQAPOL> once a year .</MPQASENT>

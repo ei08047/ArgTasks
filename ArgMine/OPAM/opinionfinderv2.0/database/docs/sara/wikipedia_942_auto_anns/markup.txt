@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If you <MPQAPOL autoclass="positive">want</MPQAPOL> paragraphs about Sabbath at the beginning of an article , go to the <MPQAPOL autoclass="neutral">Black</MPQAPOL> Sabbath article .</MPQASENT>

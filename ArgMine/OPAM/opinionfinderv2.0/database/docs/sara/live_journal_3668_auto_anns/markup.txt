@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Someone <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="positive">wanted</MPQAPOL> me to <MPQAPOL autoclass="positive">like</MPQAPOL> Erkin Koray , and I <MPQAPOL autoclass="neutral">just</MPQAPOL> do not .</MPQASENT>

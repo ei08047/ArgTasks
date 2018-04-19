@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Should</MPQAPOL> I <MPQAPOL autoclass="neutral">try</MPQAPOL> to get a store to buy it from me ?</MPQASENT>

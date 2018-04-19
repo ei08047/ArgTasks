@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">c ) You are <MPQAPOL autoclass="neutral">tenacious</MPQAPOL> , and in <MPQAPOL autoclass="negative">spite</MPQAPOL> of the <MPQAPOL autoclass="negative">terrible</MPQAPOL> shit I see happen to you you continue to soldier on .</MPQASENT>

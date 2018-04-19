@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This does not <MPQAPOL autoclass="neutral">mean</MPQAPOL> being forward is a <MPQAPOL autoclass="negative">bad</MPQAPOL> thing .</MPQASENT>

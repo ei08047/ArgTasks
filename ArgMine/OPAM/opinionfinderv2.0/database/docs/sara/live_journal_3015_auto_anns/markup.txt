@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Our first <MPQAPOL autoclass="neutral">real</MPQAPOL> contretemps of the trip , <MPQAPOL autoclass="neutral">though</MPQAPOL> .</MPQASENT>

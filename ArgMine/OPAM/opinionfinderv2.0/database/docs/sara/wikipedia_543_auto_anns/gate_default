@@ -1,0 +1,18 @@
+1	0,68	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,12	GATE_Token	string="sentance" lemma="sentance" category="NN"
+4	13,17	GATE_Token	string="that" lemma="that" category="WDT"
+5	18,21	GATE_Token	string="was" lemma="be" category="VBD"
+6	22,29	GATE_Token	string="deleted" lemma="delete" category="VBN"
+7	30,33	GATE_Token	string="was" lemma="be" category="VBD"
+8	34,41	GATE_Token	string="entirly" lemma="entirly" category="JJ"
+9	42,46	GATE_Token	string="vaid" lemma="vaid" category="NN"
+10	47,49	GATE_Token	string="so" lemma="so" category="IN"
+11	50,51	GATE_Token	string="I" lemma="I" category="PRP"
+12	52,55	GATE_Token	string="put" lemma="put" category="VBP"
+13	56,58	GATE_Token	string="it" lemma="it" category="PRP"
+14	59,63	GATE_Token	string="back" lemma="back" category="RB"
+15	64,66	GATE_Token	string="it" lemma="it" category="PRP"
+16	67,68	GATE_Token	string="." lemma="." category="."
+17	68,70	GATE_Sentence
+18	68,70	GATE_Token	string="--" lemma="--" category=":"

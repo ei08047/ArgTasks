@@ -1,0 +1,8 @@
+1	0,38	GATE_Sentence
+2	0,11	GATE_Token	string="Scientology" lemma="Scientology" category="NNP"
+3	12,14	GATE_Token	string="'s" lemma="'s" category="POS"
+4	15,18	GATE_Token	string="POV" lemma="pov" category="NN"
+5	19,21	GATE_Token	string="is" lemma="be" category="VBZ"
+6	22,29	GATE_Token	string="totally" lemma="totally" category="RB"
+7	30,36	GATE_Token	string="fringe" lemma="fringe" category="NN"
+8	37,38	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,6 @@
+1	0,30	GATE_Sentence
+2	0,4	GATE_Token	string="Toto" lemma="Toto" category="NNP"
+3	5,12	GATE_Token	string="fucking" lemma="fucking" category="JJ"
+4	13,18	GATE_Token	string="reign" lemma="reign" category="NN"
+5	19,26	GATE_Token	string="supreme" lemma="supreme" category="NN"
+6	27,30	GATE_Token	string="!!!" lemma="!!!" category="CD"

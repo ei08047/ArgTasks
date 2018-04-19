@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">IMO that part is <MPQAPOL autoclass="neutral">fine</MPQAPOL> as it is .</MPQASENT>

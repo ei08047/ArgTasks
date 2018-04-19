@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,5	GATE_Token	string="Where" lemma="where" category="WRB"
+3	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+4	9,12	GATE_Token	string="the" lemma="the" category="DT"
+5	13,20	GATE_Token	string="problem" lemma="problem" category="NN"
+6	21,25	GATE_Token	string="with" lemma="with" category="IN"
+7	26,30	GATE_Token	string="this" lemma="this" category="DT"
+8	31,32	GATE_Token	string="?" lemma="?" category="."

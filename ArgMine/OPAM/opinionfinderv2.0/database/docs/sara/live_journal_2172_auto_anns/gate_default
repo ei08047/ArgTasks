@@ -1,0 +1,13 @@
+1	0,49	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,6	GATE_Token	string="have" lemma="have" category="VBP"
+4	7,9	GATE_Token	string="to" lemma="to" category="TO"
+5	10,15	GATE_Token	string="study" lemma="study" category="VB"
+6	16,19	GATE_Token	string="and" lemma="and" category="CC"
+7	20,26	GATE_Token	string="finals" lemma="final" category="NNS"
+8	27,30	GATE_Token	string="are" lemma="be" category="VBP"
+9	31,36	GATE_Token	string="going" lemma="go" category="VBG"
+10	37,39	GATE_Token	string="to" lemma="to" category="TO"
+11	40,42	GATE_Token	string="be" lemma="be" category="VB"
+12	43,47	GATE_Token	string="hard" lemma="hard" category="JJ"
+13	48,49	GATE_Token	string="." lemma="." category="."

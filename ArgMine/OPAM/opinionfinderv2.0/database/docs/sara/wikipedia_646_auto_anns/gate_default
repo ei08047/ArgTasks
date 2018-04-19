@@ -1,0 +1,17 @@
+1	0,69	GATE_Sentence
+2	0,6	GATE_Token	string="Please" lemma="please" category="VB"
+3	7,12	GATE_Token	string="visit" lemma="visit" category="VB"
+4	13,16	GATE_Token	string="the" lemma="the" category="DT"
+5	17,23	GATE_Token	string="Snopes" lemma="Snopes" category="NNP"
+6	24,28	GATE_Token	string="link" lemma="link" category="NN"
+7	29,30	GATE_Token	string="I" lemma="I" category="PRP"
+8	31,37	GATE_Token	string="posted" lemma="post" category="VBD"
+9	38,42	GATE_Token	string="just" lemma="just" category="RB"
+10	43,48	GATE_Token	string="above" lemma="above" category="IN"
+11	49,52	GATE_Token	string="for" lemma="for" category="IN"
+12	53,56	GATE_Token	string="the" lemma="the" category="DT"
+13	57,61	GATE_Token	string="real" lemma="real" category="JJ"
+14	62,67	GATE_Token	string="story" lemma="story" category="NN"
+15	68,69	GATE_Token	string="." lemma="." category="."
+16	69,71	GATE_Sentence
+17	69,71	GATE_Token	string="--" lemma="--" category=":"

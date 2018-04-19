@@ -1,0 +1,9 @@
+1	0,34	GATE_Sentence
+2	0,2	GATE_Token	string="99" lemma="99" category="CD"
+3	3,12	GATE_Token	string="questions" lemma="question" category="NNS"
+4	13,16	GATE_Token	string="and" lemma="and" category="CC"
+5	17,19	GATE_Token	string="it" lemma="it" category="PRP"
+6	20,23	GATE_Token	string="was" lemma="be" category="VBD"
+7	24,25	GATE_Token	string="a" lemma="a" category="DT"
+8	26,32	GATE_Token	string="MOTHER" lemma="mother" category="NN"
+9	33,34	GATE_Token	string="." lemma="." category="."

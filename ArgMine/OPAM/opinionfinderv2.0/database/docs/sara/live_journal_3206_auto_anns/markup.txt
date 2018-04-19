@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am 's <MPQAPOL autoclass="neutral">still</MPQAPOL> yo <MPQAPOL autoclass="neutral">friend</MPQAPOL> grrrrl .</MPQASENT>

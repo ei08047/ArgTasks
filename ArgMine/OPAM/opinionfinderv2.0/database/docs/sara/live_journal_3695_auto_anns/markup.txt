@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I <MPQAPOL autoclass="positive">love</MPQAPOL> this , <MPQAPOL autoclass="neutral">especially</MPQAPOL> the first five lines .</MPQASENT>

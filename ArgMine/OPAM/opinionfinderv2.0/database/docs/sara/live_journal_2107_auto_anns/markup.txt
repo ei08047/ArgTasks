@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">know</MPQAPOL> i <MPQAPOL autoclass="neutral">just</MPQAPOL> had this <MPQAPOL autoclass="neutral">idea</MPQAPOL> and I <MPQAPOL autoclass="positive">thought</MPQAPOL> either im nuts or its a <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="neutral">idea</MPQAPOL> .</MPQASENT>

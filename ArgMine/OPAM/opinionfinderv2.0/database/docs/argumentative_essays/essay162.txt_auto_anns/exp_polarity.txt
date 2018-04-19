@@ -1,0 +1,7 @@
+argumentative_essays_essay162.txt_1421_1428	neutral
+argumentative_essays_essay162.txt_1442_1446	neutral
+argumentative_essays_essay162.txt_1463_1469	neutral
+argumentative_essays_essay162.txt_1478_1487	negative
+argumentative_essays_essay162.txt_1505_1511	neutral
+argumentative_essays_essay162.txt_1515_1520	neutral
+argumentative_essays_essay162.txt_1530_1544	neutral

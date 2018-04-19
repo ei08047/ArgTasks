@@ -1,0 +1,11 @@
+1	0,43	GATE_Sentence
+2	0,2	GATE_Token	string="it" lemma="it" category="PRP"
+3	3,9	GATE_Token	string="amazes" lemma="amaze" category="VBZ"
+4	10,12	GATE_Token	string="me" lemma="I" category="PRP"
+5	13,16	GATE_Token	string="how" lemma="how" category="WRB"
+6	17,23	GATE_Token	string="stupid" lemma="stupid" category="JJ"
+7	24,28	GATE_Token	string="some" lemma="some" category="DT"
+8	29,34	GATE_Token	string="women" lemma="woman" category="NNS"
+9	35,38	GATE_Token	string="can" lemma="can" category="MD"
+10	39,41	GATE_Token	string="be" lemma="be" category="VB"
+11	42,43	GATE_Token	string="." lemma="." category="."

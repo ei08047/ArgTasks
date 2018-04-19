@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I said that your blues <MPQAPOL autoclass="neutral">comments</MPQAPOL> were crap because I <MPQAPOL autoclass="neutral">really</MPQAPOL> , genuinely <MPQAPOL autoclass="positive">think</MPQAPOL> they are .</MPQASENT>

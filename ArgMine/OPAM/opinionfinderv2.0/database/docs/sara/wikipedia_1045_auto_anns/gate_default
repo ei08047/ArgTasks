@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,4	GATE_Token	string="When" lemma="when" category="WRB"
+3	5,7	GATE_Token	string="do" lemma="do" category="VBP"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,19	GATE_Token	string="sources" lemma="source" category="NNS"
+6	20,28	GATE_Token	string="actually" lemma="actually" category="RB"
+7	29,32	GATE_Token	string="say" lemma="say" category="VBP"
+8	33,37	GATE_Token	string="that" lemma="that" category="IN"
+9	38,39	GATE_Token	string="?" lemma="?" category="."

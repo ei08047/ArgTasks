@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">On the <MPQAPOL autoclass="neutral">upside</MPQAPOL> you do not <MPQAPOL autoclass="neutral">actually</MPQAPOL> have to attend any of the <MPQAPOL autoclass="neutral">lectures</MPQAPOL> if you do not <MPQAPOL autoclass="negative">feel</MPQAPOL> you <MPQAPOL autoclass="neutral">need</MPQAPOL> to .</MPQASENT>

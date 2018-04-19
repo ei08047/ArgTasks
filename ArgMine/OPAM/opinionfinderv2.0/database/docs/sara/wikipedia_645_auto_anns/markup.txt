@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i heard that GAP <MPQAPOL autoclass="neutral">stands</MPQAPOL> for Gay Apparel Something .</MPQASENT>

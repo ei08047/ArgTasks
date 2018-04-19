@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,3	GATE_Token	string="try" lemma="try" category="VB"
+3	4,8	GATE_Token	string="ebay" lemma="ebay" category="NN"
+4	9,10	GATE_Token	string="," lemma="," category=","
+5	11,20	GATE_Token	string="otherwise" lemma="otherwise" category="RB"
+6	21,24	GATE_Token	string="try" lemma="try" category="VB"
+7	25,31	GATE_Token	string="richer" lemma="richer" category="JJR"
+8	32,39	GATE_Token	string="friends" lemma="friend" category="NNS"
+9	40,41	GATE_Token	string="." lemma="." category="."

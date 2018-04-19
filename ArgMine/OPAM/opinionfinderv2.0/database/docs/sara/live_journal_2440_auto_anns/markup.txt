@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">[/<MPQAPOL autoclass="negative">sarcasm</MPQAPOL>] lol <MPQAPOL autoclass="positive">Good</MPQAPOL> <MPQAPOL autoclass="positive">luck</MPQAPOL> with that .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,13	GATE_Token	string="something" lemma="something" category="NN"
+4	14,16	GATE_Token	string="\*" lemma="\*" category="SYM"
+5	17,20	GATE_Token	string="did" lemma="do" category="VBD"
+6	21,23	GATE_Token	string="\*" lemma="\*" category="SYM"
+7	24,30	GATE_Token	string="happen" lemma="happen" category="VB"
+8	31,32	GATE_Token	string="." lemma="." category="."

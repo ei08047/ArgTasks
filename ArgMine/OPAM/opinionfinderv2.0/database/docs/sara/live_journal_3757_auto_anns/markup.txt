@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">She came into my life <MPQAPOL autoclass="negative">exactly</MPQAPOL> when I <MPQAPOL autoclass="neutral">needed</MPQAPOL> her , and she <MPQAPOL autoclass="neutral">needed</MPQAPOL> me .</MPQASENT>

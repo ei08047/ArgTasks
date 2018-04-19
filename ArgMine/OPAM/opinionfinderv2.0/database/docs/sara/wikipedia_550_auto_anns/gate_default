@@ -1,0 +1,13 @@
+1	0,59	GATE_Sentence
+2	0,5	GATE_Token	string="Where" lemma="where" category="WRB"
+3	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+4	9,12	GATE_Token	string="the" lemma="the" category="DT"
+5	13,19	GATE_Token	string="energy" lemma="energy" category="NN"
+6	20,24	GATE_Token	string="that" lemma="that" category="IN"
+7	25,28	GATE_Token	string="the" lemma="the" category="DT"
+8	29,32	GATE_Token	string="sun" lemma="sun" category="NN"
+9	33,35	GATE_Token	string="is" lemma="be" category="VBZ"
+10	36,45	GATE_Token	string="absorbing" lemma="absorb" category="VBG"
+11	46,52	GATE_Token	string="coming" lemma="come" category="VBG"
+12	53,57	GATE_Token	string="from" lemma="from" category="IN"
+13	58,59	GATE_Token	string="?" lemma="?" category="."

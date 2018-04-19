@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">She <MPQAPOL autoclass="positive">wanted</MPQAPOL> <MPQAPOL autoclass="neutral">payback</MPQAPOL> on some of the people who did that .</MPQASENT>

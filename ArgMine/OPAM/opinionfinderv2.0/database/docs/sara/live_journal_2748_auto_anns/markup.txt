@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">this is not about <MPQAPOL autoclass="neutral">good</MPQAPOL> or <MPQAPOL autoclass="negative">bad</MPQAPOL> .</MPQASENT>

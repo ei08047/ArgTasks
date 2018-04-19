@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="positive">appreciate</MPQAPOL> it if you <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="positive">please</MPQAPOL> not delete topics and <MPQAPOL autoclass="neutral">move</MPQAPOL> them about .</MPQASENT>

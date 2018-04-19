@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I <MPQAPOL autoclass="positive">agree</MPQAPOL> with the <MPQAPOL autoclass="neutral">sentiment</MPQAPOL> of <MPQAPOL autoclass="neutral">most</MPQAPOL> of what Richard , Nancy , TSP , etc have said .</MPQASENT>

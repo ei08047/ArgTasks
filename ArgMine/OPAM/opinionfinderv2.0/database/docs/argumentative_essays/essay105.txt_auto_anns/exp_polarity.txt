@@ -1,0 +1,3 @@
+argumentative_essays_essay105.txt_1853_1859	neutral
+argumentative_essays_essay105.txt_1863_1874	neutral
+argumentative_essays_essay105.txt_1940_1950	positive

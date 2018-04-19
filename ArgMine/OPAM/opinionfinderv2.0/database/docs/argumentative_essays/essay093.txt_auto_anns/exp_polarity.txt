@@ -1,0 +1,6 @@
+argumentative_essays_essay093.txt_1486_1493	neutral
+argumentative_essays_essay093.txt_1515_1519	neutral
+argumentative_essays_essay093.txt_1534_1539	neutral
+argumentative_essays_essay093.txt_1557_1567	neutral
+argumentative_essays_essay093.txt_1629_1639	negative
+argumentative_essays_essay093.txt_1665_1672	neutral

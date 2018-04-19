@@ -1,0 +1,7 @@
+1	0,31	GATE_Sentence
+2	0,6	GATE_Token	string="Change" lemma="Change" category="NNP"
+3	7,10	GATE_Token	string="the" lemma="the" category="DT"
+4	11,18	GATE_Token	string="channel" lemma="channel" category="NN"
+5	19,24	GATE_Token	string="right" lemma="right" category="RB"
+6	25,29	GATE_Token	string="away" lemma="away" category="RB"
+7	30,31	GATE_Token	string="." lemma="." category="."

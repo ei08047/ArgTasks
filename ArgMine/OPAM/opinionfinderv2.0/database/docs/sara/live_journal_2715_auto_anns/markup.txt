@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">But hey , you <MPQAPOL autoclass="neutral">just</MPQAPOL> got past two of em today , <MPQAPOL autoclass="neutral">so</MPQAPOL> be teh happeh .</MPQASENT>

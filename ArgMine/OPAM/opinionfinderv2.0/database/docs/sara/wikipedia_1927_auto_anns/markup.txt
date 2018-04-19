@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">There <MPQAPOL autoclass="neutral">seems</MPQAPOL> a trend to rename <MPQAPOL autoclass="neutral">famous</MPQAPOL> US cities from `` Cityname , Statename '' to `` Cityname '' .</MPQASENT>

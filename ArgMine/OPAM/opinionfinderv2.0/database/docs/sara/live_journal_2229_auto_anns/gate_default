@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="FW"
+3	2,7	GATE_Token	string="wanna" lemma="wanna" category="FW"
+4	8,10	GATE_Token	string="go" lemma="go" category="VB"
+5	11,16	GATE_Token	string="again" lemma="again" category="RB"
+6	17,21	GATE_Token	string="with" lemma="with" category="IN"
+7	22,25	GATE_Token	string="you" lemma="you" category="PRP"
+8	26,30	GATE_Token	string="this" lemma="this" category="DT"
+9	31,39	GATE_Token	string="Saturday" lemma="Saturday" category="NNP"
+10	40,41	GATE_Token	string="!" lemma="!" category="."

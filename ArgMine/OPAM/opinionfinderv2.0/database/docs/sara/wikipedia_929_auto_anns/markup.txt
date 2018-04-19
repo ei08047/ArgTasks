@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I predicted your prediction of my <MPQAPOL autoclass="neutral">comment</MPQAPOL> .</MPQASENT>

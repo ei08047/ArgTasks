@@ -1,0 +1,10 @@
+1	0,34	GATE_Sentence
+2	0,2	GATE_Token	string="is" lemma="be" category="VBZ"
+3	3,8	GATE_Token	string="there" lemma="there" category="EX"
+4	9,10	GATE_Token	string="a" lemma="a" category="DT"
+5	11,15	GATE_Token	string="good" lemma="good" category="JJ"
+6	16,20	GATE_Token	string="time" lemma="time" category="NN"
+7	21,23	GATE_Token	string="to" lemma="to" category="TO"
+8	24,28	GATE_Token	string="call" lemma="call" category="VB"
+9	29,32	GATE_Token	string="you" lemma="you" category="PRP"
+10	33,34	GATE_Token	string="?" lemma="?" category="."

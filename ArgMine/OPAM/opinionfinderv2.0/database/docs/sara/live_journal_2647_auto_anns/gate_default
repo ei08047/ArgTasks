@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,6	GATE_Token	string="Things" lemma="thing" category="NNS"
+3	7,11	GATE_Token	string="have" lemma="have" category="VBP"
+4	12,19	GATE_Token	string="changed" lemma="change" category="VBN"
+5	20,21	GATE_Token	string="a" lemma="a" category="DT"
+6	22,25	GATE_Token	string="bit" lemma="bit" category="NN"
+7	26,30	GATE_Token	string="here" lemma="here" category="RB"
+8	31,32	GATE_Token	string="." lemma="." category="."

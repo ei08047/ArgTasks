@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">A scientific theory can never become a <MPQAPOL autoclass="neutral">fact</MPQAPOL> .</MPQASENT>

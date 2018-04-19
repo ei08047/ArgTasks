@@ -1,0 +1,8 @@
+1	0,50	GATE_Sentence
+2	0,5	GATE_Token	string="Avoid" lemma="avoid" category="VB"
+3	6,15	GATE_Token	string="breaching" lemma="breach" category="VBG"
+4	16,24	GATE_Token	string="relevant" lemma="relevant" category="JJ"
+5	25,33	GATE_Token	string="policies" lemma="policy" category="NNS"
+6	34,37	GATE_Token	string="and" lemma="and" category="CC"
+7	38,48	GATE_Token	string="guidelines" lemma="guideline" category="NNS"
+8	49,50	GATE_Token	string="." lemma="." category="."

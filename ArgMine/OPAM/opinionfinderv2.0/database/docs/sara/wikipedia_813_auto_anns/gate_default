@@ -1,0 +1,7 @@
+1	0,31	GATE_Sentence
+2	0,5	GATE_Token	string="There" lemma="there" category="EX"
+3	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+4	9,11	GATE_Token	string="no" lemma="no" category="DT"
+5	12,20	GATE_Token	string="original" lemma="original" category="JJ"
+6	21,29	GATE_Token	string="research" lemma="research" category="NN"
+7	30,31	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Catholic <MPQAPOL autoclass="neutral">persecutions</MPQAPOL> are represented <MPQAPOL autoclass="neutral">well</MPQAPOL> in the Inquisitions .</MPQASENT>

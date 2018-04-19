@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">We <MPQAPOL autoclass="neutral">knew</MPQAPOL> where we were in the 1960s and 1970s , and did not <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="negative">need</MPQAPOL> these <MPQAPOL autoclass="negative">divisive</MPQAPOL> labels .</MPQASENT>

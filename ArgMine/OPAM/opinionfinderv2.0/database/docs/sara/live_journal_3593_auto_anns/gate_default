@@ -1,0 +1,13 @@
+1	0,62	GATE_Sentence
+2	0,3	GATE_Token	string="How" lemma="how" category="WRB"
+3	4,7	GATE_Token	string="are" lemma="be" category="VBP"
+4	8,15	GATE_Token	string="periods" lemma="period" category="NNS"
+5	16,17	GATE_Token	string="," lemma="," category=","
+6	18,26	GATE_Token	string="question" lemma="question" category="NN"
+7	27,32	GATE_Token	string="marks" lemma="mark" category="NNS"
+8	33,34	GATE_Token	string="," lemma="," category=","
+9	35,38	GATE_Token	string="and" lemma="and" category="CC"
+10	39,44	GATE_Token	string="bangs" lemma="bang" category="VBZ"
+11	45,48	GATE_Token	string="not" lemma="not" category="RB"
+12	49,60	GATE_Token	string="punctuation" lemma="punctuation" category="NN"
+13	61,62	GATE_Token	string="?" lemma="?" category="."

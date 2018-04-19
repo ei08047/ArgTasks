@@ -1,0 +1,11 @@
+1	0,52	GATE_Sentence
+2	0,7	GATE_Token	string="Re-read" lemma="re-read" category="VB"
+3	8,10	GATE_Token	string="my" lemma="my" category="PRP$"
+4	11,19	GATE_Token	string="original" lemma="original" category="JJ"
+5	20,27	GATE_Token	string="replies" lemma="reply" category="NNS"
+6	28,30	GATE_Token	string="if" lemma="if" category="IN"
+7	31,34	GATE_Token	string="you" lemma="you" category="PRP"
+8	35,39	GATE_Token	string="have" lemma="have" category="VBP"
+9	40,43	GATE_Token	string="any" lemma="any" category="DT"
+10	44,50	GATE_Token	string="doubts" lemma="doubt" category="NNS"
+11	51,52	GATE_Token	string="." lemma="." category="."

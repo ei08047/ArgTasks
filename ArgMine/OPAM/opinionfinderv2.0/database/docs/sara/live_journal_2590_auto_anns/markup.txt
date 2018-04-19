@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">He makes me <MPQAPOL autoclass="positive">smile</MPQAPOL> in the morning.</MPQASENT> <MPQASENT autoclass1="obj" autoclass2="obj">, over a cup of coffe ..</MPQASENT>

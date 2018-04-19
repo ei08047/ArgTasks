@@ -1,0 +1,13 @@
+1	0,65	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="just" lemma="just" category="RB"
+4	7,15	GATE_Token	string="recently" lemma="recently" category="RB"
+5	16,23	GATE_Token	string="learned" lemma="learn" category="VBD"
+6	24,28	GATE_Token	string="that" lemma="that" category="IN"
+7	29,36	GATE_Token	string="Sikhism" lemma="Sikhism" category="NNP"
+8	37,39	GATE_Token	string="is" lemma="be" category="VBZ"
+9	40,42	GATE_Token	string="an" lemma="a" category="DT"
+10	43,51	GATE_Token	string="offshoot" lemma="offshoot" category="NN"
+11	52,54	GATE_Token	string="of" lemma="of" category="IN"
+12	55,63	GATE_Token	string="Hinduism" lemma="Hinduism" category="NNP"
+13	64,65	GATE_Token	string="." lemma="." category="."

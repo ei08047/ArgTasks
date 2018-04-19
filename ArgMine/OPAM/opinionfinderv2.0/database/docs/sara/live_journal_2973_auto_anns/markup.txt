@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Let us <MPQAPOL autoclass="positive">hope</MPQAPOL> I am <MPQAPOL autoclass="positive">okay</MPQAPOL> and it is <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="negative">stress</MPQAPOL> .</MPQASENT>

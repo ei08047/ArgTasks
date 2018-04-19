@@ -1,0 +1,7 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="CCHR" lemma="cchr" category="NN"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,9	GATE_Token	string="a" lemma="a" category="DT"
+5	10,21	GATE_Token	string="significant" lemma="significant" category="JJ"
+6	22,34	GATE_Token	string="organization" lemma="organization" category="NN"
+7	35,36	GATE_Token	string="." lemma="." category="."

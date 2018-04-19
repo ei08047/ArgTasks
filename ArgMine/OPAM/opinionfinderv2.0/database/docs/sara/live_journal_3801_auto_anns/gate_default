@@ -1,0 +1,8 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="She" lemma="she" category="PRP"
+3	4,13	GATE_Token	string="graduated" lemma="graduate" category="VBD"
+4	14,21	GATE_Token	string="fucking" lemma="fuck" category="VBG"
+5	22,27	GATE_Token	string="Summa" lemma="Summa" category="NNP"
+6	28,31	GATE_Token	string="Cum" lemma="Cum" category="NNP"
+7	32,37	GATE_Token	string="Laude" lemma="Laude" category="NNP"
+8	38,39	GATE_Token	string="!" lemma="!" category="."

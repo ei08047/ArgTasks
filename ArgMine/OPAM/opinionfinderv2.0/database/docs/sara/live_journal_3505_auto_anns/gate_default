@@ -1,0 +1,13 @@
+1	0,58	GATE_Sentence
+2	0,2	GATE_Token	string="On" lemma="on" category="IN"
+3	3,9	GATE_Token	string="second" lemma="second" category="JJ"
+4	10,17	GATE_Token	string="thought" lemma="thought" category="NN"
+5	18,19	GATE_Token	string="," lemma="," category=","
+6	20,25	GATE_Token	string="could" lemma="could" category="MD"
+7	26,28	GATE_Token	string="it" lemma="it" category="PRP"
+8	29,37	GATE_Token	string="possibly" lemma="possibly" category="RB"
+9	38,40	GATE_Token	string="be" lemma="be" category="VB"
+10	41,42	GATE_Token	string="a" lemma="a" category="DT"
+11	43,50	GATE_Token	string="Beatles" lemma="Beatles" category="NNP"
+12	51,56	GATE_Token	string="cover" lemma="cover" category="NN"
+13	57,58	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,11 @@
+argumentative_essays_essay351.txt_0_28	obj
+argumentative_essays_essay351.txt_30_107	obj
+argumentative_essays_essay351.txt_108_269	subj
+argumentative_essays_essay351.txt_270_381	subj
+argumentative_essays_essay351.txt_382_542	subj
+argumentative_essays_essay351.txt_543_691	subj
+argumentative_essays_essay351.txt_692_772	subj
+argumentative_essays_essay351.txt_773_931	subj
+argumentative_essays_essay351.txt_932_1117	subj
+argumentative_essays_essay351.txt_1118_1302	subj
+argumentative_essays_essay351.txt_1303_1513	subj

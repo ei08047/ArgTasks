@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,1	GATE_Token	string="," lemma="," category=","
+3	2,5	GATE_Token	string="the" lemma="the" category="DT"
+4	6,17	GATE_Token	string="Imperialist" lemma="Imperialist" category="NNP"
+5	18,25	GATE_Token	string="project" lemma="project" category="NN"
+6	26,31	GATE_Token	string="-LRB-" lemma="-lrb-" category="-LRB-"
+7	32,38	GATE_Token	string="Walter" lemma="Walter" category="NNP"
+8	39,43	GATE_Token	string="Long" lemma="Long" category="NNP"
+9	44,46	GATE_Token	string="et" lemma="et" category="FW"
+10	47,49	GATE_Token	string="al" lemma="al" category="FW"
+11	50,51	GATE_Token	string="." lemma="." category="."
+12	52,57	GATE_Token	string="-RRB-" lemma="-rrb-" category="-RRB-"

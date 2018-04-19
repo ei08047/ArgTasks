@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">The skies <MPQAPOL autoclass="neutral">seem</MPQAPOL> <MPQAPOL autoclass="negative">selfish</MPQAPOL> by themselves .</MPQASENT>

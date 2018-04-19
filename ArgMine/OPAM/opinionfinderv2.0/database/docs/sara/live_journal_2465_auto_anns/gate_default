@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,3	GATE_Token	string="Not" lemma="not" category="RB"
+3	4,10	GATE_Token	string="trying" lemma="try" category="VBG"
+4	11,13	GATE_Token	string="to" lemma="to" category="TO"
+5	14,16	GATE_Token	string="be" lemma="be" category="VB"
+6	17,19	GATE_Token	string="an" lemma="a" category="DT"
+7	20,27	GATE_Token	string="asshole" lemma="asshole" category="NN"
+8	28,30	GATE_Token	string="or" lemma="or" category="CC"
+9	31,39	GATE_Token	string="anything" lemma="anything" category="NN"
+10	40,41	GATE_Token	string="." lemma="." category="."

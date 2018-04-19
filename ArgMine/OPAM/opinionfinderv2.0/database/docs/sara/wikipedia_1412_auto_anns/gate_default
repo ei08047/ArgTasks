@@ -1,0 +1,11 @@
+1	0,60	GATE_Sentence
+2	0,7	GATE_Token	string="However" lemma="however" category="RB"
+3	8,9	GATE_Token	string="," lemma="," category=","
+4	10,14	GATE_Token	string="this" lemma="this" category="DT"
+5	15,17	GATE_Token	string="is" lemma="be" category="VBZ"
+6	18,29	GATE_Token	string="essentially" lemma="essentially" category="RB"
+7	30,34	GATE_Token	string="what" lemma="what" category="WDT"
+8	35,42	GATE_Token	string="defines" lemma="define" category="VBZ"
+9	43,44	GATE_Token	string="a" lemma="a" category="DT"
+10	45,58	GATE_Token	string="pseudoscience" lemma="pseudoscience" category="NN"
+11	59,60	GATE_Token	string="." lemma="." category="."

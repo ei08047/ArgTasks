@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">But that `` <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="negative">enough</MPQAPOL> '' of course has to be <MPQAPOL autoclass="neutral">accurate</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I do not <MPQAPOL autoclass="neutral">know</MPQAPOL> how <MPQAPOL autoclass="neutral">else</MPQAPOL> to say it - we <MPQAPOL autoclass="neutral">lost</MPQAPOL> the <MPQAPOL autoclass="neutral">baby</MPQAPOL> Saturday morning .</MPQASENT>

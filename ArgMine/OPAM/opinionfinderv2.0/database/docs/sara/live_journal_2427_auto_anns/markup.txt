@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Ive made atleast twenty <MPQAPOL autoclass="neutral">pros</MPQAPOL> and cons charts , and they all <MPQAPOL autoclass="neutral">seem</MPQAPOL> to even out .</MPQASENT>

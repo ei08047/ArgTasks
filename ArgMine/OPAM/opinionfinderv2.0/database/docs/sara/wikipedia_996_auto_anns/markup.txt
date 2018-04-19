@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Why not go and <MPQAPOL autoclass="neutral">prove</MPQAPOL> that Blue <MPQAPOL autoclass="neutral">Cheer</MPQAPOL> 's `` <MPQAPOL autoclass="neutral">Just</MPQAPOL> a <MPQAPOL autoclass="negative">Little</MPQAPOL> Bit , '' or Uriah Heep 's `` Gypsy '' are bluesy ?</MPQASENT>

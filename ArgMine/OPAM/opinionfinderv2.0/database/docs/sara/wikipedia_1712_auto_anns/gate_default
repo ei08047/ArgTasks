@@ -1,0 +1,12 @@
+1	0,70	GATE_Sentence
+2	0,2	GATE_Token	string="In" lemma="in" category="IN"
+3	3,7	GATE_Token	string="more" lemma="more" category="JJR"
+4	8,16	GATE_Token	string="specific" lemma="specific" category="JJ"
+5	17,25	GATE_Token	string="articles" lemma="article" category="NNS"
+6	26,27	GATE_Token	string="," lemma="," category=","
+7	28,32	GATE_Token	string="more" lemma="more" category="JJR"
+8	33,41	GATE_Token	string="specific" lemma="specific" category="JJ"
+9	42,53	GATE_Token	string="information" lemma="information" category="NN"
+10	54,56	GATE_Token	string="is" lemma="be" category="VBZ"
+11	57,68	GATE_Token	string="appropriate" lemma="appropriate" category="JJ"
+12	69,70	GATE_Token	string="." lemma="." category="."

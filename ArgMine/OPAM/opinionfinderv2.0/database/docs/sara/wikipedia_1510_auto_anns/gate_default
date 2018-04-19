@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,6	GATE_Token	string="have" lemma="have" category="VBP"
+4	7,11	GATE_Token	string="many" lemma="many" category="JJ"
+5	12,21	GATE_Token	string="arguments" lemma="argument" category="NNS"
+6	22,24	GATE_Token	string="to" lemma="to" category="TO"
+7	25,32	GATE_Token	string="explain" lemma="explain" category="VB"
+8	33,37	GATE_Token	string="this" lemma="this" category="DT"
+9	38,39	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Well I guess mainly because it is <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="negative">hard</MPQAPOL> to get along with other people when there is <MPQAPOL autoclass="neutral">tension</MPQAPOL> .</MPQASENT>

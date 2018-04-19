@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The sources which we choose <MPQAPOL autoclass="neutral">should</MPQAPOL> be trustworthy\/authoritative in presenting the sources characterization .</MPQASENT>

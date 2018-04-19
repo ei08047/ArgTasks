@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have not <MPQAPOL autoclass="neutral">exactly</MPQAPOL> been gone , but I have been <MPQAPOL autoclass="neutral">pretty</MPQAPOL> <MPQAPOL autoclass="negative">busy</MPQAPOL> .</MPQASENT>

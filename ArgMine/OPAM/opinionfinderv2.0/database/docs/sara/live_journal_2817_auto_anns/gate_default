@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,8	GATE_Token	string="that" lemma="that" category="DT"
+4	9,19	GATE_Token	string="cephalopod" lemma="cephalopod" category="NN"
+5	20,23	GATE_Token	string="you" lemma="you" category="PRP"
+6	24,30	GATE_Token	string="posted" lemma="post" category="VBD"
+7	31,33	GATE_Token	string="is" lemma="be" category="VBZ"
+8	34,37	GATE_Token	string="the" lemma="the" category="DT"
+9	38,44	GATE_Token	string="cutest" lemma="cutest" category="JJS"
+10	45,50	GATE_Token	string="thing" lemma="thing" category="NN"
+11	51,55	GATE_Token	string="ever" lemma="ever" category="RB"
+12	56,57	GATE_Token	string="." lemma="." category="."

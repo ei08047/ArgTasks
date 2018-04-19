@@ -1,0 +1,11 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,4	GATE_Token	string="do" lemma="do" category="VBP"
+4	5,8	GATE_Token	string="not" lemma="not" category="RB"
+5	9,12	GATE_Token	string="see" lemma="see" category="VB"
+6	13,16	GATE_Token	string="the" lemma="the" category="DT"
+7	17,22	GATE_Token	string="logic" lemma="logic" category="NN"
+8	23,25	GATE_Token	string="in" lemma="in" category="IN"
+9	26,29	GATE_Token	string="his" lemma="he" category="PRP$"
+10	30,39	GATE_Token	string="reasoning" lemma="reasoning" category="NN"
+11	40,41	GATE_Token	string="." lemma="." category="."

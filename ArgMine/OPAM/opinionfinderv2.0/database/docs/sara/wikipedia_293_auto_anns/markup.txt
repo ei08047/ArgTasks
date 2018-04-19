@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">( 190 ) Huldrych Zwingli , John Calvin , and others <MPQAPOL autoclass="neutral">further</MPQAPOL> <MPQAPOL autoclass="negative">criticized</MPQAPOL> Catholic teachings .</MPQASENT>

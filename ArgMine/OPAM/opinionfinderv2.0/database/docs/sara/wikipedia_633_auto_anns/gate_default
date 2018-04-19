@@ -1,0 +1,14 @@
+1	0,51	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,8	GATE_Token	string="more" lemma="more" category="JJR"
+4	9,17	GATE_Token	string="accurate" lemma="accurate" category="JJ"
+5	18,21	GATE_Token	string="the" lemma="the" category="DT"
+6	22,29	GATE_Token	string="article" lemma="article" category="NN"
+7	30,33	GATE_Token	string="can" lemma="can" category="MD"
+8	34,36	GATE_Token	string="be" lemma="be" category="VB"
+9	37,38	GATE_Token	string="," lemma="," category=","
+10	39,42	GATE_Token	string="the" lemma="the" category="DT"
+11	43,49	GATE_Token	string="better" lemma="better" category="JJR"
+12	50,51	GATE_Token	string="." lemma="." category="."
+13	51,52	GATE_Sentence
+14	51,52	GATE_Token	string="-" lemma="-" category=":"

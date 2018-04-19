@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">As to the quotations issue , I <MPQAPOL autoclass="neutral">think</MPQAPOL> you <MPQAPOL autoclass="negative">misunderstand</MPQAPOL> what I am saying .</MPQASENT>

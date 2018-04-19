@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It is <MPQAPOL autoclass="neutral">good</MPQAPOL> that she is not <MPQAPOL autoclass="neutral">hurting</MPQAPOL> anymore , but I am <MPQAPOL autoclass="positive">sure</MPQAPOL> that was <MPQAPOL autoclass="neutral">such</MPQAPOL> a tough call to make .</MPQASENT>

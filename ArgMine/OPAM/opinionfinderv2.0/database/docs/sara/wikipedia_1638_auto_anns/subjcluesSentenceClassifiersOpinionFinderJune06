@@ -1,0 +1,4 @@
+1	2,11	matchfeat	type="ballmerLen2" mpqapolarity="strongneg"
+2	2,11	matchfeat	type="ballmerLen2" mpqapolarity="strongneg"
+3	5,11	matchfeat	type="PolMmanstrong" mpqapolarity="strongneg"
+4	17,21	matchfeat	type="bl_desire_verb" mpqapolarity="neutral"

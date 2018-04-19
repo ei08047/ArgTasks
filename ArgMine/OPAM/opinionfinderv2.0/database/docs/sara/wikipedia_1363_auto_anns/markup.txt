@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If you remove the <MPQAPOL autoclass="neutral">full</MPQAPOL> stop after `` Dr '' -LRB- per WP : MOS -RRB- , or <MPQAPOL autoclass="neutral">even</MPQAPOL> drop the `` Dr '' <MPQAPOL autoclass="neutral">entirely</MPQAPOL> .</MPQASENT>

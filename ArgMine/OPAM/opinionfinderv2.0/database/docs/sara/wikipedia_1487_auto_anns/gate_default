@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="Done" lemma="do" category="VBN"
+3	5,6	GATE_Token	string=";" lemma=";" category=":"
+4	7,8	GATE_Token	string="I" lemma="I" category="PRP"
+5	9,14	GATE_Token	string="opted" lemma="opt" category="VBD"
+6	15,18	GATE_Token	string="for" lemma="for" category="IN"
+7	19,22	GATE_Token	string="the" lemma="the" category="DT"
+8	23,29	GATE_Token	string="simple" lemma="simple" category="JJ"
+9	30,34	GATE_Token	string="path" lemma="path" category="NN"
+10	35,36	GATE_Token	string="." lemma="." category="."

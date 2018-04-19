@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The Daily Mash did it <MPQAPOL autoclass="neutral">anyway</MPQAPOL> .</MPQASENT>

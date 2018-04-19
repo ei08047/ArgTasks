@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">[<MPQAPOL autoclass="neutral">hugs</MPQAPOL>] I <MPQAPOL autoclass="neutral">know</MPQAPOL> what this is like , Simba died of this .</MPQASENT>

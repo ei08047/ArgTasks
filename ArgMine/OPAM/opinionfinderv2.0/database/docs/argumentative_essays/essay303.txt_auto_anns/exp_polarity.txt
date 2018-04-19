@@ -1,0 +1,5 @@
+argumentative_essays_essay303.txt_2020_2029	neutral
+argumentative_essays_essay303.txt_2030_2035	neutral
+argumentative_essays_essay303.txt_2061_2073	positive
+argumentative_essays_essay303.txt_2096_2105	neutral
+argumentative_essays_essay303.txt_2110_2114	neutral

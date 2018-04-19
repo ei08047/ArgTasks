@@ -1,0 +1,9 @@
+1	0,49	GATE_Sentence
+2	0,3	GATE_Token	string="New" lemma="New" category="NNP"
+3	4,9	GATE_Token	string="image" lemma="image" category="NN"
+4	10,13	GATE_Token	string="far" lemma="far" category="RB"
+5	14,18	GATE_Token	string="more" lemma="more" category="RBR"
+6	19,31	GATE_Token	string="satisfactory" lemma="satisfactory" category="JJ"
+7	32,35	GATE_Token	string="and" lemma="and" category="CC"
+8	36,47	GATE_Token	string="informative" lemma="informative" category="JJ"
+9	48,49	GATE_Token	string="." lemma="." category="."

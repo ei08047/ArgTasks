@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Then it <MPQAPOL autoclass="neutral">would</MPQAPOL> be <MPQAPOL autoclass="neutral">wrong</MPQAPOL> to say that Rick Wakeman took the blues out of <MPQAPOL autoclass="neutral">progressive</MPQAPOL> rock .</MPQASENT>

@@ -1,0 +1,39 @@
+
+> Model: svm
+
+    >> Filter: noneFA
+
+            >>> Best configuration:
+                    score= 0.472752416588
+                    configuration set:
+                        clf__class_weight: 'balanced'
+                        clf__kernel: 'linear'
+                        clf__probability: True
+                        features__arguing_lexicon__featureSetConfiguration: 1
+                        features__subjectivity_lexicon__featureSetConfiguration: 1
+                        features__verbType__featureSetConfiguration: 2
+
+[Time consumed to perform Grid Search: 2140.3306200504303 sec.]
+
+
+
+---------------------------------------------------------------------------------------
+
+
+
+
+
+*****************************
+*****   Best Pipeline   *****
+*****************************
+score: 0.473
+configuration set:
+    clf__class_weight: 'balanced'
+    clf__kernel: 'linear'
+    clf__probability: True
+    features__arguing_lexicon__featureSetConfiguration: 1
+    features__subjectivity_lexicon__featureSetConfiguration: 1
+    features__verbType__featureSetConfiguration: 2
+
+
+[Time consumed to perform complete Grid Search: 2140.3336210250854 sec.]

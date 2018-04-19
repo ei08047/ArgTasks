@@ -1,0 +1,12 @@
+1	0,49	GATE_Sentence
+2	0,1	GATE_Token	string="C" lemma="c" category="NN"
+3	2,7	GATE_Token	string="-RRB-" lemma="-rrb-" category="-RRB-"
+4	8,11	GATE_Token	string="The" lemma="the" category="DT"
+5	12,18	GATE_Token	string="format" lemma="format" category="NN"
+6	19,21	GATE_Token	string="is" lemma="be" category="VBZ"
+7	22,26	GATE_Token	string="fine" lemma="fine" category="JJ"
+8	27,29	GATE_Token	string="by" lemma="by" category="IN"
+9	30,34	GATE_Token	string="most" lemma="most" category="JJS"
+10	35,42	GATE_Token	string="editors" lemma="editor" category="NNS"
+11	43,47	GATE_Token	string="here" lemma="here" category="RB"
+12	48,49	GATE_Token	string="." lemma="." category="."

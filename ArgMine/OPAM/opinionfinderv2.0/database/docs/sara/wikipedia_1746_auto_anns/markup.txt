@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This <MPQAPOL autoclass="positive">better</MPQAPOL> explains some of the later <MPQAPOL autoclass="negative">persecutions</MPQAPOL> of Smith and the movement .</MPQASENT>

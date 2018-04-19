@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I do not <MPQAPOL autoclass="positive">want</MPQAPOL> to get <MPQAPOL autoclass="negative">argumentative</MPQAPOL> on LJ , but why do not you <MPQAPOL autoclass="positive">agree</MPQAPOL> with the seal hunt ?</MPQASENT>

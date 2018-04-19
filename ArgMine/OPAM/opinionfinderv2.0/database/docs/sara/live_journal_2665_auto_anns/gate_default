@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,9	GATE_Token	string="THEREFORE" lemma="therefore" category="RB"
+3	10,11	GATE_Token	string="," lemma="," category=","
+4	12,15	GATE_Token	string="you" lemma="you" category="PRP"
+5	16,22	GATE_Token	string="should" lemma="should" category="MD"
+6	23,26	GATE_Token	string="not" lemma="not" category="RB"
+7	27,29	GATE_Token	string="go" lemma="go" category="VB"
+8	30,32	GATE_Token	string="at" lemma="at" category="IN"
+9	33,36	GATE_Token	string="all" lemma="all" category="DT"
+10	37,38	GATE_Token	string="." lemma="." category="."

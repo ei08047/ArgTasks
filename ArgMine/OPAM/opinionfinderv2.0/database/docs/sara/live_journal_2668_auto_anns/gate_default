@@ -1,0 +1,4 @@
+1	0,31	GATE_Sentence
+2	0,25	GATE_Token	string="anotherstrangedesignerboy" lemma="anotherstrangedesignerboy" category="NN"
+3	26,29	GATE_Token	string="Who" lemma="who" category="WP"
+4	30,31	GATE_Token	string="?" lemma="?" category="."

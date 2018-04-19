@@ -1,0 +1,11 @@
+1	0,48	GATE_Sentence
+2	0,2	GATE_Token	string="An" lemma="a" category="DT"
+3	3,9	GATE_Token	string="editor" lemma="editor" category="NN"
+4	10,12	GATE_Token	string="So" lemma="so" category="RB"
+5	13,16	GATE_Token	string="are" lemma="be" category="VBP"
+6	17,20	GATE_Token	string="you" lemma="you" category="PRP"
+7	21,29	GATE_Token	string="agreeing" lemma="agree" category="VBG"
+8	30,32	GATE_Token	string="to" lemma="to" category="TO"
+9	33,35	GATE_Token	string="my" lemma="my" category="PRP$"
+10	36,46	GATE_Token	string="suggestion" lemma="suggestion" category="NN"
+11	47,48	GATE_Token	string="?" lemma="?" category="."

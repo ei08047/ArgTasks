@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">his <MPQAPOL autoclass="neutral">claim</MPQAPOL> is , that the <MPQAPOL autoclass="neutral">claim</MPQAPOL> made by `` Some European countries ... '' is not <MPQAPOL autoclass="neutral">true</MPQAPOL> .</MPQASENT>

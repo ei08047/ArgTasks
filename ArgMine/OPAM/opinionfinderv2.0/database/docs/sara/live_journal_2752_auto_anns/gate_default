@@ -1,0 +1,11 @@
+1	0,37	GATE_Sentence
+2	0,1	GATE_Token	string="`" lemma="`" category="``"
+3	2,5	GATE_Token	string="Cos" lemma="Cos" category="NNP"
+4	6,9	GATE_Token	string="you" lemma="you" category="PRP"
+5	10,13	GATE_Token	string="are" lemma="be" category="VBP"
+6	14,15	GATE_Token	string="a" lemma="a" category="DT"
+7	16,22	GATE_Token	string="lovely" lemma="lovely" category="JJ"
+8	23,29	GATE_Token	string="pretty" lemma="pretty" category="JJ"
+9	30,34	GATE_Token	string="lady" lemma="lady" category="NN"
+10	35,36	GATE_Token	string=":" lemma=":" category=":"
+11	36,37	GATE_Token	string=")" lemma=")" category="-RRB-"

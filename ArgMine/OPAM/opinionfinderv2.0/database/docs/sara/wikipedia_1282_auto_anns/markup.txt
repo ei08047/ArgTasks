@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">She did , I <MPQAPOL autoclass="neutral">think</MPQAPOL> I have that episode of the Muppet Show He returned to the Sesame Street newscasts in 2001 .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am <MPQAPOL autoclass="negative">so</MPQAPOL> <MPQAPOL autoclass="negative">sorry</MPQAPOL> that I <MPQAPOL autoclass="neutral">tried</MPQAPOL> to be <MPQAPOL autoclass="neutral">comprehensive</MPQAPOL> when responding to you .</MPQASENT>

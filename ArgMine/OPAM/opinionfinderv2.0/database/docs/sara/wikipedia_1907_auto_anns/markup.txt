@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">If you <MPQAPOL autoclass="neutral">think</MPQAPOL> that this is a <MPQAPOL autoclass="negative">silly</MPQAPOL> policy , you <MPQAPOL autoclass="neutral">should</MPQAPOL> <MPQAPOL autoclass="neutral">try</MPQAPOL> to get it changed , this is not how to solve it .</MPQASENT>

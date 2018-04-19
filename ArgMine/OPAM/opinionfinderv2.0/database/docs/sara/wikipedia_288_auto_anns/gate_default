@@ -1,0 +1,11 @@
+1	0,63	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,11	GATE_Token	string="Vatican" lemma="Vatican" category="NNP"
+4	12,25	GATE_Token	string="traditionally" lemma="traditionally" category="RB"
+5	26,29	GATE_Token	string="has" lemma="have" category="VBZ"
+6	30,32	GATE_Token	string="an" lemma="a" category="DT"
+7	33,41	GATE_Token	string="ambition" lemma="ambition" category="NN"
+8	42,45	GATE_Token	string="for" lemma="for" category="IN"
+9	46,51	GATE_Token	string="world" lemma="world" category="NN"
+10	52,61	GATE_Token	string="supremacy" lemma="supremacy" category="NN"
+11	62,63	GATE_Token	string="." lemma="." category="."

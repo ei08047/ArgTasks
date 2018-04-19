@@ -1,0 +1,11 @@
+1	0,47	GATE_Sentence
+2	0,3	GATE_Token	string="..." lemma="..." category=":"
+3	4,6	GATE_Token	string="no" lemma="no" category="DT"
+4	7,13	GATE_Token	string="points" lemma="point" category="NNS"
+5	14,17	GATE_Token	string="and" lemma="and" category="CC"
+6	18,20	GATE_Token	string="no" lemma="no" category="DT"
+7	21,31	GATE_Token	string="references" lemma="reference" category="NNS"
+8	32,33	GATE_Token	string="=" lemma="=" category="JJ"
+9	34,36	GATE_Token	string="no" lemma="no" category="DT"
+10	37,45	GATE_Token	string="argument" lemma="argument" category="NN"
+11	46,47	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,66	GATE_Sentence
+2	0,2	GATE_Token	string="--" lemma="--" category=":"
+3	3,6	GATE_Token	string="For" lemma="for" category="IN"
+4	7,11	GATE_Token	string="Week" lemma="week" category="NN"
+5	12,15	GATE_Token	string="One" lemma="one" category="CD"
+6	16,20	GATE_Token	string="over" lemma="over" category="IN"
+7	21,23	GATE_Token	string="at" lemma="at" category="IN"
+8	24,32	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+9	33,50	GATE_Token	string="IIIMAGEEELLLINKKK" lemma="IIIMAGEEELLLINKKK" category="NNP"
+10	51,64	GATE_Token	string="brigits_flame" lemma="brigits_flame" category="NN"
+11	65,66	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="How" lemma="how" category="WRB"
+3	4,6	GATE_Token	string="'s" lemma="'s" category="POS"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,18	GATE_Token	string="rooming" lemma="room" category="VBG"
+6	19,23	GATE_Token	string="with" lemma="with" category="IN"
+7	24,30	GATE_Token	string="Creepy" lemma="creepy" category="JJ"
+8	31,36	GATE_Token	string="going" lemma="go" category="VBG"
+9	37,38	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,8 @@
+1	0,35	GATE_Sentence
+2	0,12	GATE_Token	string="muwahahahhha" lemma="muwahahahhha" category="NN"
+3	13,17	GATE_Token	string="that" lemma="that" category="WDT"
+4	18,20	GATE_Token	string="is" lemma="be" category="VBZ"
+5	21,24	GATE_Token	string="all" lemma="all" category="DT"
+6	25,27	GATE_Token	string="\*" lemma="\*" category="SYM"
+7	28,32	GATE_Token	string="saRa" lemma="saRa" category="NNP"
+8	33,35	GATE_Token	string="\*" lemma="\*" category="SYM"

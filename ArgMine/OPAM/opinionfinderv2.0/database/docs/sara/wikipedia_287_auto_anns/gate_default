@@ -1,0 +1,11 @@
+1	0,58	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,11	GATE_Token	string="Vatican" lemma="Vatican" category="NNP"
+4	12,16	GATE_Token	string="sees" lemma="see" category="VBZ"
+5	17,23	GATE_Token	string="itself" lemma="itself" category="PRP"
+6	24,26	GATE_Token	string="in" lemma="in" category="IN"
+7	27,33	GATE_Token	string="direct" lemma="direct" category="JJ"
+8	34,45	GATE_Token	string="competition" lemma="competition" category="NN"
+9	46,50	GATE_Token	string="with" lemma="with" category="IN"
+10	51,56	GATE_Token	string="Islam" lemma="Islam" category="NNP"
+11	57,58	GATE_Token	string="." lemma="." category="."

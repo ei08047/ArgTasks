@@ -1,0 +1,7 @@
+argumentative_essays_essay391.txt_1964_1973	neutral
+argumentative_essays_essay391.txt_1984_1992	positive
+argumentative_essays_essay391.txt_2001_2007	neutral
+argumentative_essays_essay391.txt_2028_2038	neutral
+argumentative_essays_essay391.txt_2051_2056	negative
+argumentative_essays_essay391.txt_2063_2070	negative
+argumentative_essays_essay391.txt_2071_2079	negative

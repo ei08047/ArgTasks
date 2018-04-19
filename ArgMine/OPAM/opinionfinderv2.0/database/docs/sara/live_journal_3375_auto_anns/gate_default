@@ -1,0 +1,7 @@
+1	0,36	GATE_Sentence
+2	0,10	GATE_Token	string="Historical" lemma="historical" category="JJ"
+3	11,22	GATE_Token	string="memorabilia" lemma="memorabilia" category="NNS"
+4	23,26	GATE_Token	string="for" lemma="for" category="IN"
+5	27,30	GATE_Token	string="the" lemma="the" category="DT"
+6	31,34	GATE_Token	string="win" lemma="win" category="VBP"
+7	35,36	GATE_Token	string="." lemma="." category="."

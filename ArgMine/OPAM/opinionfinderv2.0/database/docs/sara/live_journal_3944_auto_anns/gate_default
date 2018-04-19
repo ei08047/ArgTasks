@@ -1,0 +1,6 @@
+1	0,31	GATE_Sentence
+2	0,4	GATE_Token	string="also" lemma="also" category="RB"
+3	5,13	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+4	14,22	GATE_Token	string="JONATHAN" lemma="JONATHAN" category="NNP"
+5	23,29	GATE_Token	string="FRAKES" lemma="FRAKES" category="NNP"
+6	30,31	GATE_Token	string="!" lemma="!" category="."

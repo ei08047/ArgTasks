@@ -1,0 +1,4 @@
+sara_wikipedia_1839_4_14	negative
+sara_wikipedia_1839_28_32	neutral
+sara_wikipedia_1839_88_92	negative
+sara_wikipedia_1839_93_98	negative

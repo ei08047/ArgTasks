@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is not that we are <MPQAPOL autoclass="neutral">actually</MPQAPOL> short of multiple sources here .</MPQASENT>

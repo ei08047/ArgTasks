@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">HI ya : ) I <MPQAPOL autoclass="neutral">just</MPQAPOL> was checking my <MPQAPOL autoclass="positive">friends</MPQAPOL> list and there you are !</MPQASENT>

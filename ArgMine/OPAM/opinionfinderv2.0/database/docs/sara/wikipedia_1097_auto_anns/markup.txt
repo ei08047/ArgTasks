@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Earlier Irish history <MPQAPOL autoclass="neutral">such</MPQAPOL> as its older kingdoms are directly <MPQAPOL autoclass="neutral">pertinent</MPQAPOL> to the subject .</MPQASENT>

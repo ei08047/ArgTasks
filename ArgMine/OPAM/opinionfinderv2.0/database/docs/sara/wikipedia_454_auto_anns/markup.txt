@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Also <MPQAPOL autoclass="negative">think</MPQAPOL> about this from a political <MPQAPOL autoclass="neutral">view</MPQAPOL> - Chinese people may be highly <MPQAPOL autoclass="negative">offended</MPQAPOL> by the image .</MPQASENT>

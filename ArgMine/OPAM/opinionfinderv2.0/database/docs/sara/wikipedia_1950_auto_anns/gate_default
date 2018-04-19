@@ -1,0 +1,12 @@
+1	0,66	GATE_Sentence
+2	0,4	GATE_Token	string="Yeah" lemma="yeah" category="UH"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,12	GATE_Token	string="there" lemma="there" category="EX"
+5	13,16	GATE_Token	string="are" lemma="be" category="VBP"
+6	17,22	GATE_Token	string="other" lemma="other" category="JJ"
+7	23,31	GATE_Token	string="pictures" lemma="picture" category="NNS"
+8	32,41	GATE_Token	string="scattered" lemma="scatter" category="VBN"
+9	42,52	GATE_Token	string="throughout" lemma="throughout" category="IN"
+10	53,56	GATE_Token	string="the" lemma="the" category="DT"
+11	57,64	GATE_Token	string="article" lemma="article" category="NN"
+12	65,66	GATE_Token	string="." lemma="." category="."

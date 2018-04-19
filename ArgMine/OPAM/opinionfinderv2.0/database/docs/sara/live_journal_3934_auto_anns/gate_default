@@ -1,0 +1,9 @@
+1	0,34	GATE_Sentence
+2	0,3	GATE_Token	string="its" lemma="its" category="PRP$"
+3	4,5	GATE_Token	string="a" lemma="a" category="DT"
+4	6,9	GATE_Token	string="low" lemma="low" category="JJ"
+5	10,14	GATE_Token	string="rate" lemma="rate" category="NN"
+6	15,19	GATE_Token	string="gwen" lemma="gwen" category="NN"
+7	20,27	GATE_Token	string="stefani" lemma="stefanus" category="NNS"
+8	28,32	GATE_Token	string="song" lemma="song" category="NN"
+9	33,34	GATE_Token	string="." lemma="." category="."

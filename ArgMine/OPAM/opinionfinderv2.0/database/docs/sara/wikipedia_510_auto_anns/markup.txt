@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The Pope image , I <MPQAPOL autoclass="neutral">think</MPQAPOL> , we can <MPQAPOL autoclass="neutral">completely</MPQAPOL> remove from the article .</MPQASENT>

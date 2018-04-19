@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">( <MPQAPOL autoclass="neutral">Such</MPQAPOL> is <MPQAPOL autoclass="neutral">apparent</MPQAPOL> from the <MPQAPOL autoclass="neutral">comment</MPQAPOL> about the Bush article . )</MPQASENT>

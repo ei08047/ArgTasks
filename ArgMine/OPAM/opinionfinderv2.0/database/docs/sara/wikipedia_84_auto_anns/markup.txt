@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Why do you <MPQAPOL autoclass="neutral">believe</MPQAPOL> the earlier version of George W. Bush article was <MPQAPOL autoclass="negative">wrong</MPQAPOL> ?</MPQASENT>

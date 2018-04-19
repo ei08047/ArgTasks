@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Cool posts , dude ; <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="positive">colorful</MPQAPOL> , and artsy .</MPQASENT>

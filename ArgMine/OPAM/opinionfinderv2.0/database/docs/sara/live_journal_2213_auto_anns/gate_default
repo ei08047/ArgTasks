@@ -1,0 +1,12 @@
+1	0,55	GATE_Sentence
+2	0,2	GATE_Token	string="we" lemma="we" category="PRP"
+3	3,6	GATE_Token	string="did" lemma="do" category="VBD"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,16	GATE_Token	string="whole" lemma="whole" category="JJ"
+6	17,30	GATE_Token	string="convey-draped" lemma="convey-draped" category="JJ"
+7	31,33	GATE_Token	string="in" lemma="in" category="IN"
+8	34,39	GATE_Token	string="flags" lemma="flag" category="NNS"
+9	40,45	GATE_Token	string="thing" lemma="thing" category="NN"
+10	46,48	GATE_Token	string="as" lemma="as" category="RB"
+11	49,53	GATE_Token	string="well" lemma="well" category="RB"
+12	54,55	GATE_Token	string="." lemma="." category="."

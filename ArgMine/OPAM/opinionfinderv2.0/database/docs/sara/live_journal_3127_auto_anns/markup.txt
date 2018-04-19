@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Speaking of cleaning , I was watching one of my <MPQAPOL autoclass="positive">favorite</MPQAPOL> BBC <MPQAPOL autoclass="neutral">shows</MPQAPOL> today ( `` How <MPQAPOL autoclass="neutral">Clean</MPQAPOL> is Your House ? '' )</MPQASENT>

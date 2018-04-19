@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">A characterization is a <MPQAPOL autoclass="neutral">point</MPQAPOL> of <MPQAPOL autoclass="neutral">view</MPQAPOL> .</MPQASENT>

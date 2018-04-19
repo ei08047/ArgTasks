@@ -1,0 +1,13 @@
+1	0,66	GATE_Sentence
+2	0,2	GATE_Token	string="Ya" lemma="Ya" category="NNP"
+3	3,8	GATE_Token	string="gotta" lemma="gotta" category="NN"
+4	9,16	GATE_Token	string="balance" lemma="balance" category="NN"
+5	17,20	GATE_Token	string="the" lemma="the" category="DT"
+6	21,23	GATE_Token	string="``" lemma="``" category="``"
+7	24,36	GATE_Token	string="touchy-feely" lemma="touchy-feely" category="JJ"
+8	37,39	GATE_Token	string="''" lemma="''" category="''"
+9	40,44	GATE_Token	string="with" lemma="with" category="IN"
+10	45,49	GATE_Token	string="good" lemma="good" category="JJ"
+11	50,58	GATE_Token	string="business" lemma="business" category="NN"
+12	59,64	GATE_Token	string="sense" lemma="sense" category="NN"
+13	65,66	GATE_Token	string="." lemma="." category="."

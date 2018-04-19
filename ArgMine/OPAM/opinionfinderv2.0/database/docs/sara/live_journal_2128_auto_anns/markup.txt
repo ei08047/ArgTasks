@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Are you going to share pictures , at the <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="neutral">least</MPQAPOL> ?</MPQASENT>

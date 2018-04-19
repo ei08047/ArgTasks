@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">you <MPQAPOL autoclass="neutral">know</MPQAPOL> , beacuase theyre fit for the job , theyre the <MPQAPOL autoclass="neutral">best</MPQAPOL> <MPQAPOL autoclass="positive">qualified</MPQAPOL> , and everyone <MPQAPOL autoclass="neutral">knows</MPQAPOL> that they can handle it .</MPQASENT>

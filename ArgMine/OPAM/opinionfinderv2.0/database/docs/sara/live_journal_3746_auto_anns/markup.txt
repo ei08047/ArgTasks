@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I can not <MPQAPOL autoclass="neutral">imagine</MPQAPOL> what she <MPQAPOL autoclass="neutral">must</MPQAPOL> have <MPQAPOL autoclass="neutral">meant</MPQAPOL> to you .</MPQASENT>

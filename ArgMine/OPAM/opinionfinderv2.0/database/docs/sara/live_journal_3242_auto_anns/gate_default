@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,5	GATE_Token	string="Today" lemma="today" category="NN"
+3	6,7	GATE_Token	string="," lemma="," category=","
+4	8,9	GATE_Token	string="I" lemma="I" category="PRP"
+5	10,15	GATE_Token	string="count" lemma="count" category="VBP"
+6	16,22	GATE_Token	string="myself" lemma="myself" category="PRP"
+7	23,28	GATE_Token	string="among" lemma="among" category="IN"
+8	29,34	GATE_Token	string="those" lemma="those" category="DT"
+9	35,40	GATE_Token	string="ranks" lemma="rank" category="NNS"
+10	41,42	GATE_Token	string="." lemma="." category="."

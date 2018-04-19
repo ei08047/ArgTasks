@@ -1,0 +1,7 @@
+1	0,41	GATE_Sentence
+2	0,6	GATE_Token	string="TRAVIS" lemma="TRAVIS" category="NNP"
+3	7,9	GATE_Token	string="IS" lemma="be" category="VBZ"
+4	10,17	GATE_Token	string="AMAZING" lemma="AMAZING" category="NNP"
+5	18,20	GATE_Token	string="ON" lemma="ON" category="NNP"
+6	21,26	GATE_Token	string="STAGE" lemma="STAGE" category="NNP"
+7	27,41	GATE_Token	string="!!!!!!!!!!!!!!" lemma="!!!!!!!!!!!!!!" category="CD"

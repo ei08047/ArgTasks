@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">Then you post this in your journal <MPQAPOL autoclass="neutral">so</MPQAPOL> other people can ask you about your <MPQAPOL autoclass="neutral">interests</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,10	GATE_Token	string="blushes" lemma="blush" category="VBZ"
+4	11,13	GATE_Token	string="\*" lemma="\*" category="SYM"
+5	14,16	GATE_Token	string="\*" lemma="\*" category="SYM"
+6	17,22	GATE_Token	string="grins" lemma="grin" category="VBZ"
+7	23,27	GATE_Token	string="back" lemma="back" category="RB"
+8	28,30	GATE_Token	string="\*" lemma="\*" category="SYM"

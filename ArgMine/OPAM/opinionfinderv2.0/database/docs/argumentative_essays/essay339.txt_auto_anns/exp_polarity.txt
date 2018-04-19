@@ -1,0 +1,6 @@
+argumentative_essays_essay339.txt_1709_1714	neutral
+argumentative_essays_essay339.txt_1731_1737	neutral
+argumentative_essays_essay339.txt_1747_1752	neutral
+argumentative_essays_essay339.txt_1756_1768	neutral
+argumentative_essays_essay339.txt_1800_1804	neutral
+argumentative_essays_essay339.txt_1810_1822	positive

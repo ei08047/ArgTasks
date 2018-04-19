@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">His <MPQAPOL autoclass="negative">tyrannical</MPQAPOL> bloodlust is <MPQAPOL autoclass="neutral">well</MPQAPOL> documented , but his antisemitic credentials are a bit <MPQAPOL autoclass="negative">less</MPQAPOL> <MPQAPOL autoclass="negative">solid</MPQAPOL> .</MPQASENT>

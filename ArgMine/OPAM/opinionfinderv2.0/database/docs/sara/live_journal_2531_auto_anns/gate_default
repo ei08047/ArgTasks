@@ -1,0 +1,8 @@
+1	0,37	GATE_Sentence
+2	0,3	GATE_Token	string="For" lemma="for" category="IN"
+3	4,10	GATE_Token	string="PEOPLE" lemma="PEOPLE" category="NNP"
+4	11,13	GATE_Token	string="in" lemma="in" category="IN"
+5	14,16	GATE_Token	string="my" lemma="my" category="PRP$"
+6	17,26	GATE_Token	string="immediate" lemma="immediate" category="JJ"
+7	27,35	GATE_Token	string="vicinity" lemma="vicinity" category="NN"
+8	36,37	GATE_Token	string="." lemma="." category="."

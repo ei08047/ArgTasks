@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That is a <MPQAPOL autoclass="positive">great</MPQAPOL> title on its own , and it does pair <MPQAPOL autoclass="neutral">perfectly</MPQAPOL> with Among Others , <MPQAPOL autoclass="neutral">too</MPQAPOL> .</MPQASENT>

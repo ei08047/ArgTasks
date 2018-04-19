@@ -1,0 +1,11 @@
+1	0,58	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,15	GATE_Token	string="because" lemma="because" category="IN"
+5	16,19	GATE_Token	string="you" lemma="you" category="PRP"
+6	20,27	GATE_Token	string="ignored" lemma="ignore" category="VBD"
+7	28,35	GATE_Token	string="various" lemma="various" category="JJ"
+8	36,44	GATE_Token	string="policies" lemma="policy" category="NNS"
+9	45,47	GATE_Token	string="on" lemma="on" category="IN"
+10	48,56	GATE_Token	string="sourcing" lemma="source" category="VBG"
+11	57,58	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,9 @@
+1	0,31	GATE_Sentence
+2	0,4	GATE_Token	string="Good" lemma="good" category="JJ"
+3	5,7	GATE_Token	string="to" lemma="to" category="TO"
+4	8,10	GATE_Token	string="``" lemma="``" category="``"
+5	11,15	GATE_Token	string="hear" lemma="hear" category="VB"
+6	16,18	GATE_Token	string="''" lemma="''" category="''"
+7	19,23	GATE_Token	string="your" lemma="you" category="PRP$"
+8	24,29	GATE_Token	string="voice" lemma="voice" category="NN"
+9	30,31	GATE_Token	string="." lemma="." category="."

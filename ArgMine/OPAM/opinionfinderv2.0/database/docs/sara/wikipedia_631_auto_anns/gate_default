@@ -1,0 +1,7 @@
+1	0,37	GATE_Sentence
+2	0,6	GATE_Token	string="Thanks" lemma="thanks" category="NNS"
+3	7,12	GATE_Token	string="again" lemma="again" category="RB"
+4	13,16	GATE_Token	string="for" lemma="for" category="IN"
+5	17,21	GATE_Token	string="your" lemma="you" category="PRP$"
+6	22,35	GATE_Token	string="contributions" lemma="contribution" category="NNS"
+7	36,37	GATE_Token	string="-" lemma="-" category=":"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">also , <MPQAPOL autoclass="negative">false</MPQAPOL> is a <MPQAPOL autoclass="negative">needless</MPQAPOL> <MPQAPOL autoclass="neutral">judgement</MPQAPOL> when the <MPQAPOL autoclass="neutral">facts</MPQAPOL> of the matter are a click away .</MPQASENT>

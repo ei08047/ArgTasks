@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">My <MPQAPOL autoclass="neutral">thinking</MPQAPOL> in <MPQAPOL autoclass="neutral">moving</MPQAPOL> one to the left was that there was a <MPQAPOL autoclass="negative">complaint</MPQAPOL> about having <MPQAPOL autoclass="negative">too</MPQAPOL> many <MPQAPOL autoclass="neutral">right</MPQAPOL> together .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">At first I <MPQAPOL autoclass="neutral">thought</MPQAPOL> it said Fucker and I was like what a <MPQAPOL autoclass="negative">weird</MPQAPOL> way to propose .</MPQASENT>

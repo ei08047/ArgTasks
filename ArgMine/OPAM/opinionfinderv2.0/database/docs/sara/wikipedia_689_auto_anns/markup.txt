@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">At <MPQAPOL autoclass="neutral">most</MPQAPOL> , one can <MPQAPOL autoclass="neutral">claim</MPQAPOL> it is not <MPQAPOL autoclass="neutral">careful</MPQAPOL> <MPQAPOL autoclass="neutral">enough</MPQAPOL> when <MPQAPOL autoclass="neutral">attacking</MPQAPOL> military targets .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If they were synonymous , why were <MPQAPOL autoclass="neutral">certain</MPQAPOL> <MPQAPOL autoclass="negative">hard</MPQAPOL> rock artists seldom referred to as heavy metal ?</MPQASENT>

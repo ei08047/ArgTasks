@@ -1,0 +1,18 @@
+1	0,107	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,10	GATE_Token	string="would" lemma="would" category="MD"
+4	11,17	GATE_Token	string="belong" lemma="belong" category="VB"
+5	18,20	GATE_Token	string="to" lemma="to" category="TO"
+6	21,25	GATE_Token	string="List" lemma="list" category="VB"
+7	26,28	GATE_Token	string="of" lemma="of" category="IN"
+8	29,39	GATE_Token	string="scientific" lemma="scientific" category="JJ"
+9	40,46	GATE_Token	string="topics" lemma="topic" category="NNS"
+10	47,54	GATE_Token	string="derided" lemma="deride" category="VBD"
+11	55,57	GATE_Token	string="as" lemma="as" category="IN"
+12	58,71	GATE_Token	string="pseudoscience" lemma="pseudoscience" category="NN"
+13	72,74	GATE_Token	string="by" lemma="by" category="IN"
+14	75,91	GATE_Token	string="pseudoscientific" lemma="pseudoscientific" category="JJ"
+15	92,105	GATE_Token	string="organizations" lemma="organization" category="NNS"
+16	106,107	GATE_Token	string="." lemma="." category="."
+17	107,109	GATE_Sentence
+18	107,109	GATE_Token	string="--" lemma="--" category=":"

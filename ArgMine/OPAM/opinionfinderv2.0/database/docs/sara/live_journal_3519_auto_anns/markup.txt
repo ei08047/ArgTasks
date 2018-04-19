@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">especially</MPQAPOL> like the environment in this one !</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">He does not <MPQAPOL autoclass="neutral">look</MPQAPOL> anything like a <MPQAPOL autoclass="neutral">full</MPQAPOL> blooded Libyan .</MPQASENT>

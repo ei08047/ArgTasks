@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Since polling is not a substitute for discussion , <MPQAPOL autoclass="positive">please</MPQAPOL> explain your <MPQAPOL autoclass="neutral">reasons</MPQAPOL> .</MPQASENT>

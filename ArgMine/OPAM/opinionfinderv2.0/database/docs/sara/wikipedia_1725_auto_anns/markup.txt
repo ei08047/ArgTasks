@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">My <MPQAPOL autoclass="negative">concern</MPQAPOL> is with the newspaper stuff .</MPQASENT>

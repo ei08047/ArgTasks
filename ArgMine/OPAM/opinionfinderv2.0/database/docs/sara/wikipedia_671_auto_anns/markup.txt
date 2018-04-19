@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">So</MPQAPOL> I am as <MPQAPOL autoclass="neutral">much</MPQAPOL> a volunteer as you , with an <MPQAPOL autoclass="neutral">interest</MPQAPOL> in the article being <MPQAPOL autoclass="neutral">accurate</MPQAPOL> .</MPQASENT>

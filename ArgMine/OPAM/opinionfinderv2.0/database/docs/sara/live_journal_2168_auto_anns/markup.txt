@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do not <MPQAPOL autoclass="neutral">try</MPQAPOL> more than 5 classes at a time , <MPQAPOL autoclass="neutral">especially</MPQAPOL> if one or more of them is a lab class .</MPQASENT>

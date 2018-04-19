@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">relaxed</MPQAPOL> about it that I am stresing myself out ..</MPQASENT>

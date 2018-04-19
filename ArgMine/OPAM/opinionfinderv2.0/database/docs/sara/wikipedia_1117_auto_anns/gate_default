@@ -1,0 +1,13 @@
+1	0,66	GATE_Sentence
+2	0,3	GATE_Token	string="Yes" lemma="yes" category="UH"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,18	GATE_Token	string="unfortuently" lemma="unfortuently" category="RB"
+5	19,23	GATE_Token	string="just" lemma="just" category="RB"
+6	24,29	GATE_Token	string="about" lemma="about" category="IN"
+7	30,33	GATE_Token	string="all" lemma="all" category="DT"
+8	34,36	GATE_Token	string="of" lemma="of" category="IN"
+9	37,40	GATE_Token	string="the" lemma="the" category="DT"
+10	41,48	GATE_Token	string="article" lemma="article" category="NN"
+11	49,54	GATE_Token	string="needs" lemma="need" category="VBZ"
+12	55,64	GATE_Token	string="improving" lemma="improve" category="VBG"
+13	65,66	GATE_Token	string="." lemma="." category="."

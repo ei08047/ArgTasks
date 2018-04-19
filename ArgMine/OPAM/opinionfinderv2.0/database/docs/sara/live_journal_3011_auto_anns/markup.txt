@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">decided</MPQAPOL> it was n't <MPQAPOL autoclass="neutral">worth</MPQAPOL> fighting about , <MPQAPOL autoclass="neutral">so</MPQAPOL> I had a <MPQAPOL autoclass="neutral">nap</MPQAPOL> .</MPQASENT>

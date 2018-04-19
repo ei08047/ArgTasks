@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is all <MPQAPOL autoclass="neutral">speculation</MPQAPOL> , and it will probably be <MPQAPOL autoclass="neutral">decided</MPQAPOL> by the mainstream press as <MPQAPOL autoclass="neutral">much</MPQAPOL> as by the officeholder himself .</MPQASENT>

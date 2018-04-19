@@ -1,0 +1,4 @@
+sara_wikipedia_1918_0_2	neutral
+sara_wikipedia_1918_17_23	positive
+sara_wikipedia_1918_46_52	neutral
+sara_wikipedia_1918_63_73	negative

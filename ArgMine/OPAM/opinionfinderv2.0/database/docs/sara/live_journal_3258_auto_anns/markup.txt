@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Good</MPQAPOL> <MPQAPOL autoclass="positive">luck</MPQAPOL> , I <MPQAPOL autoclass="neutral">know</MPQAPOL> you can get everything figured out and put back together , if you put your mind to it .</MPQASENT>

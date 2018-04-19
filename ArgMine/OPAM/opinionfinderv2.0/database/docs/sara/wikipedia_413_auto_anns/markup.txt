@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">As it is a more <MPQAPOL autoclass="positive">significant</MPQAPOL> change I am <MPQAPOL autoclass="neutral">considering</MPQAPOL> , I <MPQAPOL autoclass="positive">wish</MPQAPOL> for some feedback first .</MPQASENT>

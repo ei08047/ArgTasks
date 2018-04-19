@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">My brain has been persnickety lately about what it chooses to <MPQAPOL autoclass="neutral">accept</MPQAPOL> as <MPQAPOL autoclass="neutral">imperative</MPQAPOL> .</MPQASENT>

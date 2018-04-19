@@ -1,0 +1,16 @@
+1	0,54	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,4	GATE_Token	string="do" lemma="do" category="VBP"
+4	5,9	GATE_Token	string="hope" lemma="hope" category="VB"
+5	10,12	GATE_Token	string="to" lemma="to" category="TO"
+6	13,17	GATE_Token	string="work" lemma="work" category="VB"
+7	18,20	GATE_Token	string="on" lemma="on" category="IN"
+8	21,25	GATE_Token	string="this" lemma="this" category="DT"
+9	26,33	GATE_Token	string="article" lemma="article" category="NN"
+10	34,38	GATE_Token	string="more" lemma="more" category="RBR"
+11	39,41	GATE_Token	string="in" lemma="in" category="IN"
+12	42,45	GATE_Token	string="the" lemma="the" category="DT"
+13	46,52	GATE_Token	string="future" lemma="future" category="NN"
+14	53,54	GATE_Token	string="!" lemma="!" category="."
+15	54,56	GATE_Sentence
+16	54,56	GATE_Token	string="--" lemma="--" category=":"

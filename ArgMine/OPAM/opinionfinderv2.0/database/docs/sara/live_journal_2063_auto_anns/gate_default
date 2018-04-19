@@ -1,0 +1,11 @@
+1	0,54	GATE_Sentence
+2	0,1	GATE_Token	string="u" lemma="u" category="NN"
+3	2,8	GATE_Token	string="should" lemma="should" category="MD"
+4	9,12	GATE_Token	string="put" lemma="put" category="VB"
+5	13,17	GATE_Token	string="some" lemma="some" category="DT"
+6	18,24	GATE_Token	string="effort" lemma="effort" category="NN"
+7	25,27	GATE_Token	string="on" lemma="on" category="IN"
+8	28,36	GATE_Token	string="updating" lemma="update" category="VBG"
+9	37,41	GATE_Token	string="more" lemma="more" category="RBR"
+10	42,52	GATE_Token	string="frequently" lemma="frequently" category="RB"
+11	53,54	GATE_Token	string="." lemma="." category="."

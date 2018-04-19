@@ -1,0 +1,10 @@
+1	0,47	GATE_Sentence
+2	0,2	GATE_Token	string="WP" lemma="wp" category="NN"
+3	3,4	GATE_Token	string=":" lemma=":" category=":"
+4	5,21	GATE_Token	string="OTHERSTUFFEXISTS" lemma="otherstuffexist" category="NN"
+5	22,24	GATE_Token	string="is" lemma="be" category="VBZ"
+6	25,28	GATE_Token	string="not" lemma="not" category="RB"
+7	29,30	GATE_Token	string="a" lemma="a" category="DT"
+8	31,36	GATE_Token	string="great" lemma="great" category="JJ"
+9	37,45	GATE_Token	string="argument" lemma="argument" category="NN"
+10	46,47	GATE_Token	string="." lemma="." category="."

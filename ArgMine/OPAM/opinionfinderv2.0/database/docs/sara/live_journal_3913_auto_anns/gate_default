@@ -1,0 +1,8 @@
+1	0,41	GATE_Sentence
+2	0,2	GATE_Token	string="My" lemma="my" category="PRP$"
+3	3,12	GATE_Token	string="cellphone" lemma="cellphone" category="NN"
+4	13,18	GATE_Token	string="takes" lemma="take" category="VBZ"
+5	19,25	GATE_Token	string="pretty" lemma="pretty" category="RB"
+6	26,30	GATE_Token	string="good" lemma="good" category="JJ"
+7	31,39	GATE_Token	string="pictures" lemma="picture" category="NNS"
+8	40,41	GATE_Token	string="!" lemma="!" category="."

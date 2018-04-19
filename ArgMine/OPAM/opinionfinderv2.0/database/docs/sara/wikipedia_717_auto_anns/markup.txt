@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I am <MPQAPOL autoclass="negative">opposed</MPQAPOL> to <MPQAPOL autoclass="negative">indiscriminate</MPQAPOL> killing , whether by person , state , or anyone in between .</MPQASENT>

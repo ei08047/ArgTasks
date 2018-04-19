@@ -1,0 +1,6 @@
+argumentative_essays_essay173.txt_2654_2659	neutral
+argumentative_essays_essay173.txt_2663_2668	neutral
+argumentative_essays_essay173.txt_2702_2709	neutral
+argumentative_essays_essay173.txt_2726_2736	neutral
+argumentative_essays_essay173.txt_2764_2768	neutral
+argumentative_essays_essay173.txt_2769_2775	positive

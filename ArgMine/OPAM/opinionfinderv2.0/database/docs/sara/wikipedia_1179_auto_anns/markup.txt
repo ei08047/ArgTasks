@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You <MPQAPOL autoclass="neutral">believe</MPQAPOL> that you are right ; O Fenian <MPQAPOL autoclass="neutral">believes</MPQAPOL> themself to be right .</MPQASENT>

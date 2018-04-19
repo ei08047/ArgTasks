@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I have not , but I am <MPQAPOL autoclass="negative">hopeless</MPQAPOL> with tunes .</MPQASENT>

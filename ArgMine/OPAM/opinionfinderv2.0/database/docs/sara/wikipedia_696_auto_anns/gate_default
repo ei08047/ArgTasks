@@ -1,0 +1,11 @@
+1	0,46	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,11	GATE_Token	string="success" lemma="success" category="NN"
+4	12,17	GATE_Token	string="rates" lemma="rate" category="NNS"
+5	18,22	GATE_Token	string="have" lemma="have" category="VBP"
+6	23,30	GATE_Token	string="nothing" lemma="nothing" category="NN"
+7	31,33	GATE_Token	string="to" lemma="to" category="TO"
+8	34,36	GATE_Token	string="do" lemma="do" category="VB"
+9	37,41	GATE_Token	string="with" lemma="with" category="IN"
+10	42,44	GATE_Token	string="it" lemma="it" category="PRP"
+11	45,46	GATE_Token	string="." lemma="." category="."

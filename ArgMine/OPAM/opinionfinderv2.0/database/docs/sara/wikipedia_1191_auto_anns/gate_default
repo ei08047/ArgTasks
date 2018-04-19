@@ -1,0 +1,12 @@
+1	0,55	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,8	GATE_Token	string="could" lemma="could" category="MD"
+4	9,12	GATE_Token	string="not" lemma="not" category="RB"
+5	13,19	GATE_Token	string="remain" lemma="remain" category="VB"
+6	20,22	GATE_Token	string="in" lemma="in" category="IN"
+7	23,32	GATE_Token	string="something" lemma="something" category="NN"
+8	33,37	GATE_Token	string="that" lemma="that" category="WDT"
+9	38,44	GATE_Token	string="ceased" lemma="cease" category="VBD"
+10	45,47	GATE_Token	string="to" lemma="to" category="TO"
+11	48,53	GATE_Token	string="exist" lemma="exist" category="VB"
+12	54,55	GATE_Token	string="!" lemma="!" category="."

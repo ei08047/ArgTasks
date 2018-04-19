@@ -1,0 +1,10 @@
+1	0,54	GATE_Sentence
+2	0,3	GATE_Token	string="Did" lemma="do" category="VBD"
+3	4,10	GATE_Token	string="Kermit" lemma="Kermit" category="NNP"
+4	11,15	GATE_Token	string="make" lemma="make" category="VB"
+5	16,19	GATE_Token	string="any" lemma="any" category="DT"
+6	20,31	GATE_Token	string="appearances" lemma="appearance" category="NNS"
+7	32,38	GATE_Token	string="before" lemma="before" category="IN"
+8	39,45	GATE_Token	string="Sesame" lemma="Sesame" category="NNP"
+9	46,52	GATE_Token	string="Street" lemma="Street" category="NNP"
+10	53,54	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,11 @@
+1	0,48	GATE_Sentence
+2	0,2	GATE_Token	string="as" lemma="as" category="IN"
+3	3,8	GATE_Token	string="along" lemma="along" category="IN"
+4	9,12	GATE_Token	string="the" lemma="the" category="DT"
+5	13,18	GATE_Token	string="lines" lemma="line" category="NNS"
+6	19,21	GATE_Token	string="of" lemma="of" category="IN"
+7	22,32	GATE_Token	string="atrocities" lemma="atrocity" category="NNS"
+8	33,35	GATE_Token	string="or" lemma="or" category="CC"
+9	36,39	GATE_Token	string="war" lemma="war" category="NN"
+10	40,46	GATE_Token	string="crimes" lemma="crime" category="NNS"
+11	47,48	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Danielle I <MPQAPOL autoclass="neutral">believe</MPQAPOL> prom dresses are made in order to advertise cake , <MPQAPOL autoclass="neutral">yes</MPQAPOL> cake .</MPQASENT>

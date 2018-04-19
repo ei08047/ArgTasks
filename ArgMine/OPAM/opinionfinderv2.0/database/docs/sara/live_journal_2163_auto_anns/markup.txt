@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">We are staying with my boyfriend 's parents , <MPQAPOL autoclass="positive">hoping</MPQAPOL> the fire does not reach their town .</MPQASENT>

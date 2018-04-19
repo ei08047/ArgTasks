@@ -1,0 +1,12 @@
+1	0,41	GATE_Sentence
+2	0,3	GATE_Token	string="and" lemma="and" category="CC"
+3	4,9	GATE_Token	string="about" lemma="about" category="IN"
+4	10,14	GATE_Token	string="eric" lemma="eric" category="NN"
+5	15,17	GATE_Token	string="'s" lemma="'s" category="POS"
+6	18,23	GATE_Token	string="beard" lemma="beard" category="NN"
+7	24,27	GATE_Token	string="..." lemma="..." category=":"
+8	28,29	GATE_Token	string="i" lemma="i" category="FW"
+9	30,34	GATE_Token	string="know" lemma="know" category="VB"
+10	35,36	GATE_Token	string="," lemma="," category=","
+11	37,39	GATE_Token	string="eh" lemma="eh" category="UH"
+12	40,41	GATE_Token	string="?" lemma="?" category="."

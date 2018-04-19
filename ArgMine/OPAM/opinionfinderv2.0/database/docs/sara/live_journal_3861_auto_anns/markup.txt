@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Great Falls is one of my <MPQAPOL autoclass="positive">favorite</MPQAPOL> places on the planet !</MPQASENT>

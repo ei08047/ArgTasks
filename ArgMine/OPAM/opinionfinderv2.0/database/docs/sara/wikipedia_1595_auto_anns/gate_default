@@ -1,0 +1,13 @@
+1	0,52	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,9	GATE_Token	string="offer" lemma="offer" category="VBP"
+4	10,14	GATE_Token	string="part" lemma="part" category="NN"
+5	15,17	GATE_Token	string="of" lemma="of" category="IN"
+6	18,24	GATE_Token	string="Europe" lemma="Europe" category="NNP"
+7	25,28	GATE_Token	string="and" lemma="and" category="CC"
+8	29,31	GATE_Token	string="we" lemma="we" category="PRP"
+9	32,36	GATE_Token	string="will" lemma="will" category="MD"
+10	37,44	GATE_Token	string="support" lemma="support" category="VB"
+11	45,47	GATE_Token	string="it" lemma="it" category="PRP"
+12	48,49	GATE_Token	string="." lemma="." category="."
+13	50,52	GATE_Token	string="''" lemma="''" category="''"

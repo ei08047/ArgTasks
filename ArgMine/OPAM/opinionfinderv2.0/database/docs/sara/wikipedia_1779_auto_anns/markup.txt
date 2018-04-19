@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I do not <MPQAPOL autoclass="neutral">agree</MPQAPOL> with any of the reasoning that has been put forward to disqualify the edit .</MPQASENT>

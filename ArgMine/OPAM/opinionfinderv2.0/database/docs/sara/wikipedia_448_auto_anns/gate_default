@@ -1,0 +1,10 @@
+1	0,48	GATE_Sentence
+2	0,5	GATE_Token	string="There" lemma="there" category="EX"
+3	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+4	9,16	GATE_Token	string="nothing" lemma="nothing" category="NN"
+5	17,21	GATE_Token	string="like" lemma="like" category="IN"
+6	22,23	GATE_Token	string="a" lemma="a" category="DT"
+7	24,33	GATE_Token	string="vandalism" lemma="vandalism" category="NN"
+8	34,41	GATE_Token	string="problem" lemma="problem" category="NN"
+9	42,46	GATE_Token	string="here" lemma="here" category="RB"
+10	47,48	GATE_Token	string="." lemma="." category="."

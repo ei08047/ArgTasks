@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I do not <MPQAPOL autoclass="neutral">so</MPQAPOL> make <MPQAPOL autoclass="neutral">sure</MPQAPOL> you have your own sleeping arrangements <MPQAPOL autoclass="neutral">such</MPQAPOL> as a tent .</MPQASENT>

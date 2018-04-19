@@ -1,0 +1,12 @@
+1	0,51	GATE_Sentence
+2	0,2	GATE_Token	string="As" lemma="as" category="IN"
+3	3,5	GATE_Token	string="to" lemma="to" category="TO"
+4	6,12	GATE_Token	string="citing" lemma="cite" category="VBG"
+5	13,14	GATE_Token	string="a" lemma="a" category="DT"
+6	15,22	GATE_Token	string="gateway" lemma="gateway" category="NN"
+7	23,27	GATE_Token	string="site" lemma="site" category="NN"
+8	28,29	GATE_Token	string="," lemma="," category=","
+9	30,34	GATE_Token	string="that" lemma="that" category="WDT"
+10	35,37	GATE_Token	string="is" lemma="be" category="VBZ"
+11	38,49	GATE_Token	string="problematic" lemma="problematic" category="JJ"
+12	50,51	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Not <MPQAPOL autoclass="negative">boring</MPQAPOL> at all -- wrinkles do not get <MPQAPOL autoclass="neutral">enough</MPQAPOL> <MPQAPOL autoclass="positive">appreciation</MPQAPOL> .</MPQASENT>

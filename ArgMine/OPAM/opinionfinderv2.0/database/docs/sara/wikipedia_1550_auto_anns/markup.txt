@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">because he said `` i do not <MPQAPOL autoclass="neutral">accept</MPQAPOL> that '' .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It <MPQAPOL autoclass="neutral">could</MPQAPOL> <MPQAPOL autoclass="neutral">easily</MPQAPOL> , for example , be construed to <MPQAPOL autoclass="neutral">mean</MPQAPOL> Israel itself .</MPQASENT>

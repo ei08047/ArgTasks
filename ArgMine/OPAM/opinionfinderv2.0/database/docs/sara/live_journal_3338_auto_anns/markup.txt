@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That is not always <MPQAPOL autoclass="negative">easy</MPQAPOL> , but <MPQAPOL autoclass="neutral">still</MPQAPOL> .</MPQASENT>

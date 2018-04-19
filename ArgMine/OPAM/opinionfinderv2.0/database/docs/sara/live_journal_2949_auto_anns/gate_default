@@ -1,0 +1,10 @@
+1	0,53	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,8	GATE_Token	string="poured" lemma="pour" category="VBD"
+4	9,12	GATE_Token	string="the" lemma="the" category="DT"
+5	13,24	GATE_Token	string="bodyglitter" lemma="bodyglitter" category="NN"
+6	25,27	GATE_Token	string="on" lemma="on" category="IN"
+7	28,33	GATE_Token	string="cause" lemma="cause" category="NN"
+8	34,35	GATE_Token	string="i" lemma="i" category="FW"
+9	36,41	GATE_Token	string="never" lemma="never" category="RB"
+10	42,53	GATE_Token	string="hesitateeee" lemma="hesitateeee" category="NN"

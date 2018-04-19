@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,8	GATE_Token	string="should" lemma="should" category="MD"
+4	9,13	GATE_Token	string="have" lemma="have" category="VB"
+5	14,20	GATE_Token	string="called" lemma="call" category="VBN"
+6	21,24	GATE_Token	string="the" lemma="the" category="DT"
+7	25,29	GATE_Token	string="cops" lemma="cop" category="NNS"
+8	30,31	GATE_Token	string="." lemma="." category="."

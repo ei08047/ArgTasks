@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The First Vision is a <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="neutral">important</MPQAPOL> part of post-1900 Mormonism .</MPQASENT>

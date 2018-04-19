@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The lead image <MPQAPOL autoclass="neutral">should</MPQAPOL> be a <MPQAPOL autoclass="neutral">good</MPQAPOL> representation of the subject of this article .</MPQASENT>

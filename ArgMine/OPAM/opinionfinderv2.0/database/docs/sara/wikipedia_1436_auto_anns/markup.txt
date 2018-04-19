@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It will not solve all the <MPQAPOL autoclass="neutral">problems</MPQAPOL> , but it <MPQAPOL autoclass="neutral">would</MPQAPOL> at <MPQAPOL autoclass="neutral">least</MPQAPOL> minimize them .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

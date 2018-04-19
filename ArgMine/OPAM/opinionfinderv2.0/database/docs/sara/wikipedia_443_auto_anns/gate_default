@@ -1,0 +1,7 @@
+1	0,36	GATE_Sentence
+2	0,6	GATE_Token	string="Please" lemma="please" category="UH"
+3	7,14	GATE_Token	string="respect" lemma="respect" category="VB"
+4	15,18	GATE_Token	string="the" lemma="the" category="DT"
+5	19,28	GATE_Token	string="Wikipedia" lemma="Wikipedia" category="NNP"
+6	29,34	GATE_Token	string="ethos" lemma="ethos" category="NN"
+7	35,36	GATE_Token	string="." lemma="." category="."

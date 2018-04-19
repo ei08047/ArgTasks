@@ -1,0 +1,10 @@
+1	0,35	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="spent" lemma="spend" category="VBD"
+4	8,9	GATE_Token	string="$" lemma="$" category="$"
+5	10,13	GATE_Token	string="235" lemma="235" category="CD"
+6	14,16	GATE_Token	string="on" lemma="on" category="IN"
+7	17,18	GATE_Token	string="a" lemma="a" category="DT"
+8	19,27	GATE_Token	string="swimsuit" lemma="swimsuit" category="NN"
+9	28,33	GATE_Token	string="today" lemma="today" category="NN"
+10	34,35	GATE_Token	string="." lemma="." category="."

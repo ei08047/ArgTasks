@@ -1,0 +1,4 @@
+argumentative_essays_essay210.txt_1654_1660	neutral
+argumentative_essays_essay210.txt_1744_1751	neutral
+argumentative_essays_essay210.txt_1757_1766	positive
+argumentative_essays_essay210.txt_1802_1812	neutral

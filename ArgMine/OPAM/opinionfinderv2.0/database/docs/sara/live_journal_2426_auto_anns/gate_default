@@ -1,0 +1,8 @@
+1	0,33	GATE_Sentence
+2	0,3	GATE_Token	string="Ive" lemma="ive" category="NN"
+3	4,12	GATE_Token	string="engorged" lemma="engorged" category="JJ"
+4	13,19	GATE_Token	string="myself" lemma="myself" category="PRP"
+5	20,24	GATE_Token	string="into" lemma="into" category="IN"
+6	25,27	GATE_Token	string="my" lemma="my" category="PRP$"
+7	28,31	GATE_Token	string="art" lemma="art" category="NN"
+8	32,33	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,10 @@
+1	0,34	GATE_Sentence
+2	0,3	GATE_Token	string="See" lemma="see" category="VB"
+3	4,6	GATE_Token	string="WP" lemma="WP" category="NNP"
+4	7,8	GATE_Token	string=":" lemma=":" category=":"
+5	9,16	GATE_Token	string="REDFLAG" lemma="redflag" category="NN"
+6	17,20	GATE_Token	string="and" lemma="and" category="CC"
+7	21,23	GATE_Token	string="WP" lemma="wp" category="NN"
+8	24,25	GATE_Token	string=":" lemma=":" category=":"
+9	26,32	GATE_Token	string="PARITY" lemma="parity" category="NN"
+10	33,34	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It contains the same information , but is summarized <MPQAPOL autoclass="neutral">so</MPQAPOL> it does not have the details of the <MPQAPOL autoclass="negative">persecution</MPQAPOL> of Catholics .</MPQASENT>

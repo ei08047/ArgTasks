@@ -1,0 +1,12 @@
+1	0,60	GATE_Sentence
+2	0,3	GATE_Token	string="now" lemma="now" category="RB"
+3	4,6	GATE_Token	string="it" lemma="it" category="PRP"
+4	7,11	GATE_Token	string="only" lemma="only" category="RB"
+5	12,18	GATE_Token	string="eddies" lemma="eddy" category="VBZ"
+6	19,23	GATE_Token	string="some" lemma="some" category="DT"
+7	24,29	GATE_Token	string="place" lemma="place" category="NN"
+8	30,34	GATE_Token	string="dark" lemma="dark" category="NN"
+9	35,36	GATE_Token	string="," lemma="," category=","
+10	37,49	GATE_Token	string="infrequently" lemma="infrequently" category="RB"
+11	50,58	GATE_Token	string="familiar" lemma="familiar" category="JJ"
+12	59,60	GATE_Token	string="." lemma="." category="."

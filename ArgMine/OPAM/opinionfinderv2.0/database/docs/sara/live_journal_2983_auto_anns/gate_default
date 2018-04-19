@@ -1,0 +1,13 @@
+1	0,45	GATE_Sentence
+2	0,3	GATE_Token	string="For" lemma="for" category="IN"
+3	4,7	GATE_Token	string="the" lemma="the" category="DT"
+4	8,10	GATE_Token	string="DS" lemma="d" category="NN"
+5	11,12	GATE_Token	string="I" lemma="I" category="PRP"
+6	13,16	GATE_Token	string="now" lemma="now" category="RB"
+7	17,21	GATE_Token	string="have" lemma="have" category="VBP"
+8	22,26	GATE_Token	string="more" lemma="more" category="RBR"
+9	27,32	GATE_Token	string="games" lemma="game" category="NNS"
+10	33,34	GATE_Token	string="," lemma="," category=","
+11	35,38	GATE_Token	string="but" lemma="but" category="CC"
+12	39,43	GATE_Token	string="yeah" lemma="yeah" category="NN"
+13	44,45	GATE_Token	string="." lemma="." category="."

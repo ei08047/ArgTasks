@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,4	GATE_Token	string="They" lemma="they" category="PRP"
+3	5,8	GATE_Token	string="can" lemma="can" category="MD"
+4	9,12	GATE_Token	string="not" lemma="not" category="RB"
+5	13,16	GATE_Token	string="get" lemma="get" category="VB"
+6	17,22	GATE_Token	string="their" lemma="they" category="PRP$"
+7	23,28	GATE_Token	string="facts" lemma="fact" category="NNS"
+8	29,37	GATE_Token	string="straight" lemma="straight" category="RB"
+9	38,39	GATE_Token	string="." lemma="." category="."

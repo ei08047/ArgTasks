@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">ha i <MPQAPOL autoclass="negative">hate</MPQAPOL> to <MPQAPOL autoclass="negative">admit</MPQAPOL> it but i <MPQAPOL autoclass="neutral">think</MPQAPOL> i like paris hilton 's song `` <MPQAPOL autoclass="neutral">stars</MPQAPOL> are <MPQAPOL autoclass="negative">blind</MPQAPOL> ''</MPQASENT>

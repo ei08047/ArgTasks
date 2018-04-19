@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I have <MPQAPOL autoclass="negative">bad</MPQAPOL> <MPQAPOL autoclass="negative">pains</MPQAPOL> in my back and <MPQAPOL autoclass="negative">feel</MPQAPOL> <MPQAPOL autoclass="negative">tired</MPQAPOL> a lot .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">show</MPQAPOL> me when I called you `` <MPQAPOL autoclass="negative">evil</MPQAPOL> . ''</MPQASENT>

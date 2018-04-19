@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> it <MPQAPOL autoclass="neutral">must</MPQAPOL> <MPQAPOL autoclass="neutral">just</MPQAPOL> be the season , everyone I <MPQAPOL autoclass="neutral">know</MPQAPOL> of is having <MPQAPOL autoclass="negative">poor</MPQAPOL> sales !</MPQASENT>

@@ -1,0 +1,12 @@
+1	0,51	GATE_Sentence
+2	0,1	GATE_Token	string=":" lemma=":" category=":"
+3	1,2	GATE_Token	string="|" lemma="|" category="CD"
+4	3,4	GATE_Token	string="@" lemma="@" category="IN"
+5	5,9	GATE_Token	string="dogs" lemma="dog" category="NNS"
+6	10,15	GATE_Token	string="being" lemma="be" category="VBG"
+7	16,18	GATE_Token	string="in" lemma="in" category="IN"
+8	19,26	GATE_Token	string="clothes" lemma="clothes" category="NNS"
+9	27,30	GATE_Token	string="..." lemma="..." category=":"
+10	31,41	GATE_Token	string="especially" lemma="especially" category="RB"
+11	42,49	GATE_Token	string="dresses" lemma="dress" category="NNS"
+12	50,51	GATE_Token	string="." lemma="." category="."

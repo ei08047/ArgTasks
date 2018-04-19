@@ -1,0 +1,13 @@
+1	0,70	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,7	GATE_Token	string="law" lemma="law" category="NN"
+4	8,16	GATE_Token	string="includes" lemma="include" category="VBZ"
+5	17,21	GATE_Token	string="only" lemma="only" category="RB"
+6	22,24	GATE_Token	string="``" lemma="``" category="``"
+7	25,36	GATE_Token	string="subnational" lemma="subnational" category="JJ"
+8	37,43	GATE_Token	string="groups" lemma="group" category="NNS"
+9	44,46	GATE_Token	string="or" lemma="or" category="CC"
+10	47,58	GATE_Token	string="clandestine" lemma="clandestine" category="JJ"
+11	59,65	GATE_Token	string="agents" lemma="agent" category="NNS"
+12	66,68	GATE_Token	string="''" lemma="''" category="''"
+13	69,70	GATE_Token	string="." lemma="." category="."

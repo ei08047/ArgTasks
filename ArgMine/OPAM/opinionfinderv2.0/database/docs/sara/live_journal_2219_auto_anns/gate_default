@@ -1,0 +1,13 @@
+1	0,54	GATE_Sentence
+2	0,6	GATE_Token	string="Anyway" lemma="anyway" category="RB"
+3	7,10	GATE_Token	string="..." lemma="..." category=":"
+4	11,17	GATE_Token	string="better" lemma="better" category="JJR"
+5	18,21	GATE_Token	string="get" lemma="get" category="VB"
+6	22,26	GATE_Token	string="back" lemma="back" category="RB"
+7	27,29	GATE_Token	string="to" lemma="to" category="TO"
+8	30,37	GATE_Token	string="working" lemma="work" category="VBG"
+9	38,40	GATE_Token	string="on" lemma="on" category="IN"
+10	41,45	GATE_Token	string="this" lemma="this" category="DT"
+11	46,51	GATE_Token	string="essay" lemma="essay" category="NN"
+12	52,53	GATE_Token	string="." lemma="." category="."
+13	53,54	GATE_Token	string="." lemma="." category="."

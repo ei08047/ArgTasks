@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="A" lemma="a" category="DT"
+3	2,9	GATE_Token	string="mention" lemma="mention" category="NN"
+4	10,12	GATE_Token	string="of" lemma="of" category="IN"
+5	13,16	GATE_Token	string="the" lemma="the" category="DT"
+6	17,22	GATE_Token	string="First" lemma="First" category="NNP"
+7	23,29	GATE_Token	string="Vision" lemma="Vision" category="NNP"
+8	30,32	GATE_Token	string="is" lemma="be" category="VBZ"
+9	33,39	GATE_Token	string="enough" lemma="enough" category="RB"
+10	40,41	GATE_Token	string="." lemma="." category="."

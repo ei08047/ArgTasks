@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">like</MPQAPOL> the articles to be <MPQAPOL autoclass="neutral">free</MPQAPOL> of <MPQAPOL autoclass="negative">bias</MPQAPOL> connotations .</MPQASENT>

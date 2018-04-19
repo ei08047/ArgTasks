@@ -1,0 +1,12 @@
+1	0,50	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,8	GATE_Token	string="tries" lemma="try" category="VBZ"
+4	9,11	GATE_Token	string="to" lemma="to" category="TO"
+5	12,17	GATE_Token	string="cling" lemma="cling" category="VB"
+6	18,20	GATE_Token	string="to" lemma="to" category="TO"
+7	21,28	GATE_Token	string="dancing" lemma="dance" category="VBG"
+8	29,34	GATE_Token	string="bears" lemma="bear" category="NNS"
+9	35,41	GATE_Token	string="outfit" lemma="outfit" category="VBP"
+10	42,44	GATE_Token	string="\*" lemma="\*" category="SYM"
+11	45,48	GATE_Token	string="Ack" lemma="ack" category="NN"
+12	49,50	GATE_Token	string="." lemma="." category="."

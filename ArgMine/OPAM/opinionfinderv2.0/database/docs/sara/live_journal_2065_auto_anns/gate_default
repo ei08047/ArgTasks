@@ -1,0 +1,12 @@
+1	0,56	GATE_Sentence
+2	0,4	GATE_Token	string="Your" lemma="you" category="PRP$"
+3	5,6	GATE_Token	string="`" lemma="`" category="``"
+4	7,20	GATE_Token	string="idiosyncratic" lemma="idiosyncratic" category="JJ"
+5	21,22	GATE_Token	string="'" lemma="'" category="''"
+6	23,29	GATE_Token	string="photos" lemma="photo" category="NNS"
+7	30,33	GATE_Token	string="are" lemma="be" category="VBP"
+8	34,43	GATE_Token	string="beautiful" lemma="beautiful" category="JJ"
+9	44,46	GATE_Token	string="by" lemma="by" category="IN"
+10	47,50	GATE_Token	string="the" lemma="the" category="DT"
+11	51,54	GATE_Token	string="way" lemma="way" category="NN"
+12	55,56	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am <MPQAPOL autoclass="positive">certainly</MPQAPOL> <MPQAPOL autoclass="positive">consistent</MPQAPOL> in my <MPQAPOL autoclass="neutral">position</MPQAPOL> .</MPQASENT>

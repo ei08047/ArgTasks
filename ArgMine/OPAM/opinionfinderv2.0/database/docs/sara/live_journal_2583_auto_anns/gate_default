@@ -1,0 +1,13 @@
+1	0,54	GATE_Sentence
+2	0,6	GATE_Token	string="sounds" lemma="sound" category="NNS"
+3	7,11	GATE_Token	string="like" lemma="like" category="IN"
+4	12,15	GATE_Token	string="ill" lemma="ill" category="JJ"
+5	16,18	GATE_Token	string="be" lemma="be" category="VB"
+6	19,25	GATE_Token	string="seeing" lemma="see" category="VBG"
+7	26,29	GATE_Token	string="you" lemma="you" category="PRP"
+8	30,38	GATE_Token	string="sporting" lemma="sport" category="VBG"
+9	39,40	GATE_Token	string="a" lemma="a" category="DT"
+10	41,44	GATE_Token	string="lot" lemma="lot" category="NN"
+11	45,49	GATE_Token	string="more" lemma="more" category="JJR"
+12	50,52	GATE_Token	string="AA" lemma="aa" category="NN"
+13	53,54	GATE_Token	string="!" lemma="!" category="."

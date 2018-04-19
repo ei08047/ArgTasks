@@ -1,0 +1,11 @@
+1	0,42	GATE_Sentence
+2	0,5	GATE_Token	string="trust" lemma="trust" category="NN"
+3	6,8	GATE_Token	string="me" lemma="I" category="PRP"
+4	9,10	GATE_Token	string="," lemma="," category=","
+5	11,17	GATE_Token	string="carder" lemma="carder" category="NN"
+6	18,23	GATE_Token	string="knows" lemma="know" category="VBZ"
+7	24,28	GATE_Token	string="what" lemma="what" category="WP"
+8	29,31	GATE_Token	string="he" lemma="he" category="PRP"
+9	32,34	GATE_Token	string="is" lemma="be" category="VBZ"
+10	35,40	GATE_Token	string="doing" lemma="do" category="VBG"
+11	41,42	GATE_Token	string="." lemma="." category="."

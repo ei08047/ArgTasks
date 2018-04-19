@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">real</MPQAPOL> question is what does Trask call it since this is <MPQAPOL autoclass="neutral">clearly</MPQAPOL> a <MPQAPOL autoclass="neutral">comment</MPQAPOL> from one of his books .</MPQASENT>

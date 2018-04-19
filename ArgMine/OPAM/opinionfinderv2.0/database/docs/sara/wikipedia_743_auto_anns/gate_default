@@ -1,0 +1,13 @@
+1	0,52	GATE_Sentence
+2	0,2	GATE_Token	string="my" lemma="my" category="PRP$"
+3	3,8	GATE_Token	string="point" lemma="point" category="NN"
+4	9,12	GATE_Token	string="..." lemma="..." category=":"
+5	13,16	GATE_Token	string="..." lemma="..." category=":"
+6	17,23	GATE_Token	string="israel" lemma="israel" category="NN"
+7	24,27	GATE_Token	string="and" lemma="and" category="CC"
+8	28,33	GATE_Token	string="Hamas" lemma="Hamas" category="NNP"
+9	34,37	GATE_Token	string="are" lemma="be" category="VBP"
+10	38,41	GATE_Token	string="THE" lemma="the" category="DT"
+11	42,46	GATE_Token	string="SAME" lemma="same" category="NN"
+12	47,50	GATE_Token	string="..." lemma="..." category=":"
+13	51,52	GATE_Token	string="." lemma="." category="."

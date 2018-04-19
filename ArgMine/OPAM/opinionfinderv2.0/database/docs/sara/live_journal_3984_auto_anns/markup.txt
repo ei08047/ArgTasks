@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Well</MPQAPOL> , it is not as <MPQAPOL autoclass="neutral">simple</MPQAPOL> as `` pray <MPQAPOL autoclass="neutral">against</MPQAPOL> it '' .</MPQASENT>

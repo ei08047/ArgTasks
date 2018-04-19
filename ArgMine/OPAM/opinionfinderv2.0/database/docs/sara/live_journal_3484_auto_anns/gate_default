@@ -1,0 +1,6 @@
+1	0,37	GATE_Sentence
+2	0,2	GATE_Token	string="DO" lemma="do" category="NN"
+3	3,6	GATE_Token	string="N'T" lemma="not" category="RB"
+4	7,12	GATE_Token	string="FAINT" lemma="faint" category="JJ"
+5	13,19	GATE_Token	string="PEOPLE" lemma="people" category="NN"
+6	20,37	GATE_Token	string="!!!!!!!!!!!!!!!!!" lemma="!!!!!!!!!!!!!!!!!" category="CD"

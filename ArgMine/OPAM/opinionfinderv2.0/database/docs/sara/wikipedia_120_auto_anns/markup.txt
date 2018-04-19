@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Basque is , <MPQAPOL autoclass="neutral">indeed</MPQAPOL> , the only language <MPQAPOL autoclass="neutral">still</MPQAPOL> spoken in Europe that predates the arrival of the Indo-European languages .</MPQASENT>

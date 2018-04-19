@@ -1,0 +1,18 @@
+1	0,85	GATE_Sentence
+2	0,9	GATE_Token	string="Billboard" lemma="Billboard" category="NNP"
+3	10,12	GATE_Token	string="is" lemma="be" category="VBZ"
+4	13,14	GATE_Token	string="a" lemma="a" category="DT"
+5	15,19	GATE_Token	string="nice" lemma="nice" category="JJ"
+6	20,26	GATE_Token	string="source" lemma="source" category="NN"
+7	27,30	GATE_Token	string="but" lemma="but" category="CC"
+8	31,34	GATE_Token	string="its" lemma="its" category="PRP$"
+9	35,46	GATE_Token	string="reliability" lemma="reliability" category="NN"
+10	47,54	GATE_Token	string="depends" lemma="depend" category="VBZ"
+11	55,57	GATE_Token	string="on" lemma="on" category="IN"
+12	58,62	GATE_Token	string="what" lemma="what" category="WP"
+13	63,67	GATE_Token	string="your" lemma="you" category="PRP$"
+14	68,71	GATE_Token	string="are" lemma="be" category="VBP"
+15	72,83	GATE_Token	string="referencing" lemma="reference" category="VBG"
+16	84,85	GATE_Token	string="." lemma="." category="."
+17	85,87	GATE_Sentence
+18	85,87	GATE_Token	string="--" lemma="--" category=":"

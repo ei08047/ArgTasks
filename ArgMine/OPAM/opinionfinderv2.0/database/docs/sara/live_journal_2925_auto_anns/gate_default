@@ -1,0 +1,9 @@
+1	0,28	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,6	GATE_Token	string="know" lemma="know" category="VB"
+4	7,10	GATE_Token	string="how" lemma="how" category="WRB"
+5	11,14	GATE_Token	string="bad" lemma="bad" category="JJ"
+6	15,19	GATE_Token	string="this" lemma="this" category="DT"
+7	20,25	GATE_Token	string="hurts" lemma="hurt" category="VBZ"
+8	26,27	GATE_Token	string=":" lemma=":" category=":"
+9	27,28	GATE_Token	string="(" lemma="(" category="-LRB-"

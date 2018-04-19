@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I do not <MPQAPOL autoclass="neutral">think</MPQAPOL> you can have <MPQAPOL autoclass="positive">friendship</MPQAPOL> without <MPQAPOL autoclass="positive">honesty</MPQAPOL> .</MPQASENT>

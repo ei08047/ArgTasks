@@ -1,0 +1,6 @@
+argumentative_essays_essay330.txt_1848_1858	negative
+argumentative_essays_essay330.txt_1863_1869	negative
+argumentative_essays_essay330.txt_1889_1894	neutral
+argumentative_essays_essay330.txt_1910_1914	neutral
+argumentative_essays_essay330.txt_1933_1949	neutral
+argumentative_essays_essay330.txt_1984_1988	neutral

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">the drawings are <MPQAPOL autoclass="negative">obviously</MPQAPOL> <MPQAPOL autoclass="negative">breathtaking</MPQAPOL> .</MPQASENT>

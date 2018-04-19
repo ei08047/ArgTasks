@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I suck , but I <MPQAPOL autoclass="neutral">still</MPQAPOL> <MPQAPOL autoclass="positive">need</MPQAPOL> someone to tell me why !</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="She" lemma="she" category="PRP"
+3	4,9	GATE_Token	string="knows" lemma="know" category="VBZ"
+4	10,13	GATE_Token	string="you" lemma="you" category="PRP"
+5	14,17	GATE_Token	string="did" lemma="do" category="VBD"
+6	18,20	GATE_Token	string="it" lemma="it" category="PRP"
+7	21,28	GATE_Token	string="because" lemma="because" category="IN"
+8	29,32	GATE_Token	string="you" lemma="you" category="PRP"
+9	33,37	GATE_Token	string="care" lemma="care" category="VBP"
+10	38,39	GATE_Token	string="." lemma="." category="."

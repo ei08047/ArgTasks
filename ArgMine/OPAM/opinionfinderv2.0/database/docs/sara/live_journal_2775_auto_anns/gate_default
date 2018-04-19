@@ -1,0 +1,11 @@
+1	0,59	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,10	GATE_Token	string="always" lemma="always" category="RB"
+4	11,19	GATE_Token	string="twirling" lemma="twirl" category="VBG"
+5	20,21	GATE_Token	string="," lemma="," category=","
+6	22,30	GATE_Token	string="twirling" lemma="twirl" category="VBG"
+7	31,32	GATE_Token	string="," lemma="," category=","
+8	33,41	GATE_Token	string="twirling" lemma="twirl" category="VBG"
+9	42,49	GATE_Token	string="towards" lemma="towards" category="IN"
+10	50,57	GATE_Token	string="freedom" lemma="freedom" category="NN"
+11	58,59	GATE_Token	string="." lemma="." category="."

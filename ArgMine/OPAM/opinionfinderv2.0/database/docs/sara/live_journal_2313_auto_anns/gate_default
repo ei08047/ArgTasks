@@ -1,0 +1,10 @@
+1	0,29	GATE_Sentence
+2	0,1	GATE_Token	string="e" lemma="e" category="LS"
+3	2,3	GATE_Token	string=")" lemma=")" category="-RRB-"
+4	4,8	GATE_Token	string="Were" lemma="be" category="VBD"
+5	9,12	GATE_Token	string="you" lemma="you" category="PRP"
+6	13,17	GATE_Token	string="ever" lemma="ever" category="RB"
+7	18,19	GATE_Token	string="a" lemma="a" category="DT"
+8	20,23	GATE_Token	string="shy" lemma="shy" category="JJ"
+9	24,27	GATE_Token	string="kid" lemma="kid" category="NN"
+10	28,29	GATE_Token	string="?" lemma="?" category="."

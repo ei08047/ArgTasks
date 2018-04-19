@@ -1,0 +1,13 @@
+1	0,64	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,12	GATE_Token	string="understand" lemma="understand" category="VBP"
+4	13,17	GATE_Token	string="that" lemma="that" category="IN"
+5	18,23	GATE_Token	string="their" lemma="they" category="PRP$"
+6	24,32	GATE_Token	string="religion" lemma="religion" category="NN"
+7	33,39	GATE_Token	string="played" lemma="play" category="VBD"
+8	40,43	GATE_Token	string="the" lemma="the" category="DT"
+9	44,51	GATE_Token	string="biggest" lemma="biggest" category="JJS"
+10	52,56	GATE_Token	string="part" lemma="part" category="NN"
+11	57,59	GATE_Token	string="in" lemma="in" category="IN"
+12	60,62	GATE_Token	string="it" lemma="it" category="PRP"
+13	63,64	GATE_Token	string="." lemma="." category="."

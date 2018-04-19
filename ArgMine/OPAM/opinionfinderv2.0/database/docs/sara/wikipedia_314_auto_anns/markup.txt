@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do you not ask yourself , if the bishop <MPQAPOL autoclass="neutral">knew</MPQAPOL> , why did he hire the man ?</MPQASENT>

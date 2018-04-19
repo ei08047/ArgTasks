@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That <MPQAPOL autoclass="neutral">seems</MPQAPOL> <MPQAPOL autoclass="neutral">accurate</MPQAPOL> to me , but <MPQAPOL autoclass="neutral">omits</MPQAPOL> any mention of Northern Ireland .</MPQASENT>

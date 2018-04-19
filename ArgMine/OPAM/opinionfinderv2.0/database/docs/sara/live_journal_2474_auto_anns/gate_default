@@ -1,0 +1,12 @@
+1	0,51	GATE_Sentence
+2	0,5	GATE_Token	string="whats" lemma="what" category="NNS"
+3	6,10	GATE_Token	string="done" lemma="do" category="VBN"
+4	11,13	GATE_Token	string="is" lemma="be" category="VBZ"
+5	14,18	GATE_Token	string="done" lemma="do" category="VBN"
+6	19,20	GATE_Token	string="," lemma="," category=","
+7	21,27	GATE_Token	string="theres" lemma="there" category="VBZ"
+8	28,35	GATE_Token	string="nothing" lemma="nothing" category="NN"
+9	36,42	GATE_Token	string="anyone" lemma="anyone" category="NN"
+10	43,46	GATE_Token	string="can" lemma="can" category="MD"
+11	47,49	GATE_Token	string="do" lemma="do" category="VB"
+12	50,51	GATE_Token	string="." lemma="." category="."

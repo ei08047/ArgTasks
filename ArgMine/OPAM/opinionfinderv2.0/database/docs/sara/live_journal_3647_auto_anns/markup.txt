@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Sorry</MPQAPOL> you can not make it , but , <MPQAPOL autoclass="neutral">yes</MPQAPOL> , there will be others .</MPQASENT>

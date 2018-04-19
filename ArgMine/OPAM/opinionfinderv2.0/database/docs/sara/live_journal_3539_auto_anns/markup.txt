@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">my mom always used to tell my sister that you can bullshit <MPQAPOL autoclass="neutral">better</MPQAPOL> on a <MPQAPOL autoclass="neutral">full</MPQAPOL> night 's rest <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="positive">luck</MPQAPOL> !</MPQASENT>

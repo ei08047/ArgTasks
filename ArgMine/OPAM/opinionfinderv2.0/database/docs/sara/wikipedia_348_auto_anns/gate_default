@@ -1,0 +1,12 @@
+1	0,56	GATE_Sentence
+2	0,2	GATE_Token	string="In" lemma="in" category="IN"
+3	3,7	GATE_Token	string="fact" lemma="fact" category="NN"
+4	8,17	GATE_Token	string="disbelief" lemma="disbelief" category="NN"
+5	18,20	GATE_Token	string="in" lemma="in" category="IN"
+6	21,28	GATE_Token	string="England" lemma="England" category="NNP"
+7	29,32	GATE_Token	string="was" lemma="be" category="VBD"
+8	33,36	GATE_Token	string="the" lemma="the" category="DT"
+9	37,44	GATE_Token	string="highest" lemma="highest" category="JJS"
+10	45,47	GATE_Token	string="in" lemma="in" category="IN"
+11	48,54	GATE_Token	string="Europe" lemma="Europe" category="NNP"
+12	55,56	GATE_Token	string="." lemma="." category="."

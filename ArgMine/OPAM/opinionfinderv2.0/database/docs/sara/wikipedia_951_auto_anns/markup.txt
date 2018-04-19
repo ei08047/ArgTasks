@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It <MPQAPOL autoclass="neutral">seems</MPQAPOL> both you and your <MPQAPOL autoclass="neutral">friends</MPQAPOL> are amateur musicians .</MPQASENT>

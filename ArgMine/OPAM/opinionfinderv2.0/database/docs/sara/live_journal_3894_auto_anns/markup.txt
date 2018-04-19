@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Earplugs are the <MPQAPOL autoclass="neutral">smart</MPQAPOL> thing to do .</MPQASENT>

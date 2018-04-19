@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Well</MPQAPOL> , I have got a <MPQAPOL autoclass="neutral">friend</MPQAPOL> playing music at 8pm , <MPQAPOL autoclass="neutral">so</MPQAPOL> I had <MPQAPOL autoclass="neutral">lean</MPQAPOL> towards the earlier <MPQAPOL autoclass="neutral">show</MPQAPOL> .</MPQASENT>

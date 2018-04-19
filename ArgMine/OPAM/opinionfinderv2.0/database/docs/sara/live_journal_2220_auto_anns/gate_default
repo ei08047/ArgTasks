@@ -1,0 +1,13 @@
+1	0,54	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,14	GATE_Token	string="should" lemma="should" category="MD"
+5	15,19	GATE_Token	string="come" lemma="come" category="VB"
+6	20,24	GATE_Token	string="bush" lemma="bush" category="JJ"
+7	25,32	GATE_Token	string="doofing" lemma="doofing" category="NN"
+8	33,35	GATE_Token	string="on" lemma="on" category="IN"
+9	36,39	GATE_Token	string="the" lemma="the" category="DT"
+10	40,43	GATE_Token	string="4th" lemma="4th" category="JJ"
+11	44,46	GATE_Token	string="of" lemma="of" category="IN"
+12	47,50	GATE_Token	string="Nov" lemma="Nov" category="NNP"
+13	51,54	GATE_Token	string="!!!" lemma="!!!" category="CD"

@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,7	GATE_Token	string="the" lemma="the" category="DT"
+4	8,15	GATE_Token	string="kitchen" lemma="kitchen" category="NN"
+5	16,22	GATE_Token	string="really" lemma="really" category="RB"
+6	23,25	GATE_Token	string="is" lemma="be" category="VBZ"
+7	26,29	GATE_Token	string="not" lemma="not" category="RB"
+8	30,33	GATE_Token	string="bad" lemma="bad" category="JJ"
+9	34,39	GATE_Token	string="right" lemma="right" category="RB"
+10	40,43	GATE_Token	string="now" lemma="now" category="RB"
+11	44,45	GATE_Token	string="." lemma="." category="."

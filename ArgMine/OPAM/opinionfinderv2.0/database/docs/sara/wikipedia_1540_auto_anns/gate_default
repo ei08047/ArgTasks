@@ -1,0 +1,12 @@
+1	0,76	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,7	GATE_Token	string="are" lemma="be" category="VBP"
+4	8,20	GATE_Token	string="interpreting" lemma="interpret" category="VBG"
+5	21,26	GATE_Token	string="again" lemma="again" category="RB"
+6	27,32	GATE_Token	string="where" lemma="where" category="WRB"
+7	33,41	GATE_Token	string="credible" lemma="credible" category="JJ"
+8	42,49	GATE_Token	string="sources" lemma="source" category="NNS"
+9	50,59	GATE_Token	string="interpret" lemma="interpret" category="VB"
+10	60,62	GATE_Token	string="it" lemma="it" category="PRP"
+11	63,74	GATE_Token	string="differently" lemma="differently" category="RB"
+12	75,76	GATE_Token	string="." lemma="." category="."

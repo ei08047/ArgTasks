@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">It is not a movie I <MPQAPOL autoclass="neutral">would</MPQAPOL> ever have picked myself to watch , but my daughter rented it , and I <MPQAPOL autoclass="neutral">wound</MPQAPOL> up buying it .</MPQASENT>

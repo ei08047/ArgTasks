@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I remember my geometry exam as freshmen <MPQAPOL autoclass="neutral">very</MPQAPOL> well-and not for <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="neutral">reasons</MPQAPOL> .</MPQASENT>

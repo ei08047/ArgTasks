@@ -1,0 +1,5 @@
+1	9,14	matchfeat	type="bl_desire_verb" mpqapolarity="neutral"
+2	25,29	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+3	30,35	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="strongpos"
+4	53,60	matchfeat	type="strongjandiss" mpqapolarity="weakneg"
+5	83,91	matchfeat	type="weakjandiss" mpqapolarity="neutral"

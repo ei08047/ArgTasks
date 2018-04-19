@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have <MPQAPOL autoclass="neutral">problems</MPQAPOL> being tactful with people , <MPQAPOL autoclass="neutral">naturally</MPQAPOL> - I <MPQAPOL autoclass="neutral">just</MPQAPOL> do not <MPQAPOL autoclass="neutral">understand</MPQAPOL> the concept .</MPQASENT>

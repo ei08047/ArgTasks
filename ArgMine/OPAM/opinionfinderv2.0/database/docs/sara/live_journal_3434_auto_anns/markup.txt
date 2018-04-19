@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Two days I <MPQAPOL autoclass="neutral">could</MPQAPOL> see , <MPQAPOL autoclass="neutral">although</MPQAPOL> it <MPQAPOL autoclass="neutral">would</MPQAPOL> not be <MPQAPOL autoclass="neutral">worth</MPQAPOL> it .</MPQASENT>

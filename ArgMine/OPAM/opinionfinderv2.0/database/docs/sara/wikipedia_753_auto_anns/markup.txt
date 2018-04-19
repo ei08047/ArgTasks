@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Placing a military target within civilian areas does not grant it any <MPQAPOL autoclass="neutral">protection</MPQAPOL> .</MPQASENT>

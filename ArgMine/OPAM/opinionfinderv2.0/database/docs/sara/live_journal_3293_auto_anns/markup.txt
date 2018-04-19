@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is one of the only places I have ever <MPQAPOL autoclass="negative">felt</MPQAPOL> <MPQAPOL autoclass="neutral">truly</MPQAPOL> at <MPQAPOL autoclass="neutral">peace</MPQAPOL> .</MPQASENT>

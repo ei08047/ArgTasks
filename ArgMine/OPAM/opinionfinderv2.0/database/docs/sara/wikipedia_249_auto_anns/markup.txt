@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is <MPQAPOL autoclass="neutral">certainly</MPQAPOL> <MPQAPOL autoclass="positive">true</MPQAPOL> that this article <MPQAPOL autoclass="neutral">should</MPQAPOL> not contain <MPQAPOL autoclass="neutral">full</MPQAPOL> detail about the issue , as it has its own article .</MPQASENT>

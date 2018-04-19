@@ -1,0 +1,13 @@
+1	0,59	GATE_Sentence
+2	0,6	GATE_Token	string="Either" lemma="either" category="DT"
+3	7,10	GATE_Token	string="way" lemma="way" category="NN"
+4	11,12	GATE_Token	string="," lemma="," category=","
+5	13,15	GATE_Token	string="it" lemma="it" category="PRP"
+6	16,18	GATE_Token	string="is" lemma="be" category="VBZ"
+7	19,30	GATE_Token	string="ludicrously" lemma="ludicrously" category="RB"
+8	31,39	GATE_Token	string="alarmist" lemma="alarmist" category="JJ"
+9	40,43	GATE_Token	string="and" lemma="and" category="CC"
+10	44,45	GATE_Token	string="a" lemma="a" category="DT"
+11	46,52	GATE_Token	string="little" lemma="little" category="JJ"
+12	53,57	GATE_Token	string="nuts" lemma="nut" category="NNS"
+13	58,59	GATE_Token	string="." lemma="." category="."

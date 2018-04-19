@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am <MPQAPOL autoclass="negative">quite</MPQAPOL> <MPQAPOL autoclass="negative">aware</MPQAPOL> of the term `` heavy metal rock , '' and have heard it used .</MPQASENT>

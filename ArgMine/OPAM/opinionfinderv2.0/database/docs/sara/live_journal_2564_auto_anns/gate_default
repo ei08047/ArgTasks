@@ -1,0 +1,13 @@
+1	0,67	GATE_Sentence
+2	0,5	GATE_Token	string="There" lemma="there" category="EX"
+3	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+4	9,13	GATE_Token	string="also" lemma="also" category="RB"
+5	14,15	GATE_Token	string="a" lemma="a" category="DT"
+6	16,21	GATE_Token	string="group" lemma="group" category="NN"
+7	22,30	GATE_Token	string="rallying" lemma="rally" category="VBG"
+8	31,38	GATE_Token	string="against" lemma="against" category="IN"
+9	39,42	GATE_Token	string="our" lemma="we" category="PRP$"
+10	43,52	GATE_Token	string="practices" lemma="practice" category="NNS"
+11	53,57	GATE_Token	string="with" lemma="with" category="IN"
+12	58,63	GATE_Token	string="sheep" lemma="sheep" category="NN"
+13	64,67	GATE_Token	string="!!!" lemma="!!!" category="CD"

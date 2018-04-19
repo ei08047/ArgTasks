@@ -1,0 +1,13 @@
+1	0,61	GATE_Sentence
+2	0,3	GATE_Token	string="NPR" lemma="NPR" category="NNP"
+3	4,7	GATE_Token	string="had" lemma="have" category="VBD"
+4	8,9	GATE_Token	string="a" lemma="a" category="DT"
+5	10,17	GATE_Token	string="special" lemma="special" category="JJ"
+6	18,21	GATE_Token	string="bit" lemma="bit" category="NN"
+7	22,24	GATE_Token	string="on" lemma="on" category="IN"
+8	25,30	GATE_Token	string="metal" lemma="metal" category="NN"
+9	31,36	GATE_Token	string="maybe" lemma="maybe" category="RB"
+10	37,49	GATE_Token	string="two-to-three" lemma="two-to-three" category="CD"
+11	50,55	GATE_Token	string="years" lemma="year" category="NNS"
+12	56,59	GATE_Token	string="ago" lemma="ago" category="RB"
+13	60,61	GATE_Token	string="." lemma="." category="."

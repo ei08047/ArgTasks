@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I also <MPQAPOL autoclass="positive">agree</MPQAPOL> with Ironduke that there is no <MPQAPOL autoclass="negative">contradiction</MPQAPOL> betweeen <MPQAPOL autoclass="neutral">resistance</MPQAPOL> and <MPQAPOL autoclass="neutral">terrorism</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Should</MPQAPOL> the main image relate to human or non-human <MPQAPOL autoclass="neutral">death</MPQAPOL> ?</MPQASENT>

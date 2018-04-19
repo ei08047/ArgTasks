@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Lots of rocks and trees and <MPQAPOL autoclass="neutral">nature</MPQAPOL> to go around .</MPQASENT>

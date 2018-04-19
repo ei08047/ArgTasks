@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Its <MPQAPOL autoclass="neutral">shows</MPQAPOL> like this that have turned me into a <MPQAPOL autoclass="neutral">clean</MPQAPOL> <MPQAPOL autoclass="negative">freak</MPQAPOL> !</MPQASENT>

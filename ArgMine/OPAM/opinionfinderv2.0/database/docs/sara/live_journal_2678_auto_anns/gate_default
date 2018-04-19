@@ -1,0 +1,11 @@
+1	0,40	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,5	GATE_Token	string="CAN" lemma="can" category="VBP"
+4	6,9	GATE_Token	string="NOT" lemma="not" category="RB"
+5	10,13	GATE_Token	string="SEE" lemma="see" category="VB"
+6	14,17	GATE_Token	string="YOU" lemma="you" category="PRP"
+7	18,25	GATE_Token	string="THROUGH" lemma="through" category="IN"
+8	26,29	GATE_Token	string="THE" lemma="the" category="DT"
+9	30,35	GATE_Token	string="SMOKE" lemma="smoke" category="NN"
+10	36,37	GATE_Token	string="!" lemma="!" category="."
+11	38,40	GATE_Token	string="''" lemma="''" category="''"

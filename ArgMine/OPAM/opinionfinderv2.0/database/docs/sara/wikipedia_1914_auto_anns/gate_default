@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,6	GATE_Token	string="Oppose" lemma="oppose" category="VB"
+3	7,9	GATE_Token	string="--" lemma="--" category=":"
+4	10,13	GATE_Token	string="per" lemma="per" category="IN"
+5	14,18	GATE_Token	string="Will" lemma="Will" category="NNP"
+6	19,25	GATE_Token	string="Beback" lemma="Beback" category="NNP"
+7	26,29	GATE_Token	string="and" lemma="and" category="CC"
+8	30,39	GATE_Token	string="Reginmund" lemma="Reginmund" category="NNP"
+9	40,41	GATE_Token	string="." lemma="." category="."

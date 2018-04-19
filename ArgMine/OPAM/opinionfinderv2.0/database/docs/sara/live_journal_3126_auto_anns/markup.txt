@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Scary</MPQAPOL> <MPQAPOL autoclass="neutral">enough</MPQAPOL> to <MPQAPOL autoclass="neutral">compel</MPQAPOL> you to clean the bathroom !</MPQASENT>

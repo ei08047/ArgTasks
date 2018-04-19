@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">What you have done is stated a <MPQAPOL autoclass="neutral">opinion</MPQAPOL> that is <MPQAPOL autoclass="negative">worthless</MPQAPOL> to the betterment of the article .</MPQASENT>

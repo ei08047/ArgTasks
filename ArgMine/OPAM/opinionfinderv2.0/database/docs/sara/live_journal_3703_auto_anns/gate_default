@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,6	GATE_Token	string="Nobody" lemma="nobody" category="NN"
+3	7,10	GATE_Token	string="has" lemma="have" category="VBZ"
+4	11,15	GATE_Token	string="eyes" lemma="eye" category="NNS"
+5	16,20	GATE_Token	string="like" lemma="like" category="IN"
+6	21,24	GATE_Token	string="the" lemma="the" category="DT"
+7	25,29	GATE_Token	string="moon" lemma="moon" category="NN"
+8	30,31	GATE_Token	string="." lemma="." category="."

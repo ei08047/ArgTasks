@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Wesley , I <MPQAPOL autoclass="neutral">believe</MPQAPOL> the loose <MPQAPOL autoclass="neutral">sarcasm</MPQAPOL> in that statement was <MPQAPOL autoclass="neutral">fairly</MPQAPOL> <MPQAPOL autoclass="positive">clear</MPQAPOL> .</MPQASENT>

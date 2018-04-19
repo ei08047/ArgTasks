@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And <MPQAPOL autoclass="neutral">yeah</MPQAPOL> , it is an <MPQAPOL autoclass="negative">exaggeration</MPQAPOL> saying that Houses of the <MPQAPOL autoclass="neutral">Holy</MPQAPOL> discards blues as <MPQAPOL autoclass="neutral">much</MPQAPOL> as Sabbath Bloody Sabbath !</MPQASENT>

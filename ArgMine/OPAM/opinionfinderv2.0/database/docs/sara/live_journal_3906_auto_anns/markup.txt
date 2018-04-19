@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am sending Mike the unedited ones , <MPQAPOL autoclass="neutral">though</MPQAPOL> :o :) .</MPQASENT>

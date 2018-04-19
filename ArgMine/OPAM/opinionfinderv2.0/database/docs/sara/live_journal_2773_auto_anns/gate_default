@@ -1,0 +1,9 @@
+1	0,32	GATE_Sentence
+2	0,1	GATE_Token	string="(" lemma="(" category="-LRB-"
+3	2,7	GATE_Token	string="Botox" lemma="botox" category="NN"
+4	8,14	GATE_Token	string="really" lemma="really" category="RB"
+5	15,21	GATE_Token	string="freaks" lemma="freak" category="NNS"
+6	22,24	GATE_Token	string="me" lemma="I" category="PRP"
+7	25,28	GATE_Token	string="out" lemma="out" category="RP"
+8	29,30	GATE_Token	string=")" lemma=")" category="-RRB-"
+9	31,32	GATE_Token	string="." lemma="." category="."

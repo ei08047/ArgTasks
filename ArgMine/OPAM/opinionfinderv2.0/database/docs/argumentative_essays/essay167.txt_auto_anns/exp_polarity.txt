@@ -1,0 +1,6 @@
+argumentative_essays_essay167.txt_1874_1881	neutral
+argumentative_essays_essay167.txt_1885_1892	neutral
+argumentative_essays_essay167.txt_1923_1929	positive
+argumentative_essays_essay167.txt_1939_1949	positive
+argumentative_essays_essay167.txt_2028_2033	neutral
+argumentative_essays_essay167.txt_2051_2060	neutral

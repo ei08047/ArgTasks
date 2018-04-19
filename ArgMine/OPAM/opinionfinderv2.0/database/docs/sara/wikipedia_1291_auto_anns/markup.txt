@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Hurd is <MPQAPOL autoclass="neutral">barely</MPQAPOL> mentioned except to quote one of Linus 's initial usenet postings on p45 -LRB- 4 -RRB- .</MPQASENT>

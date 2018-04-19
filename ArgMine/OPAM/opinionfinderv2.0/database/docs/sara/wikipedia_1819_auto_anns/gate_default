@@ -1,0 +1,13 @@
+1	0,70	GATE_Sentence
+2	0,4	GATE_Token	string="What" lemma="what" category="WDT"
+3	5,13	GATE_Token	string="violates" lemma="violate" category="VBZ"
+4	14,18	GATE_Token	string="NPOV" lemma="npov" category="NN"
+5	19,21	GATE_Token	string="is" lemma="be" category="VBZ"
+6	22,29	GATE_Token	string="stating" lemma="state" category="VBG"
+7	30,32	GATE_Token	string="it" lemma="it" category="PRP"
+8	33,40	GATE_Token	string="without" lemma="without" category="IN"
+9	41,43	GATE_Token	string="an" lemma="a" category="DT"
+10	44,55	GATE_Token	string="attribution" lemma="attribution" category="NN"
+11	56,58	GATE_Token	string="or" lemma="or" category="CC"
+12	59,68	GATE_Token	string="reference" lemma="reference" category="NN"
+13	69,70	GATE_Token	string="." lemma="." category="."

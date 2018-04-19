@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="BUT" lemma="BUT" category="NNP"
+3	4,8	GATE_Token	string="AWWW" lemma="AWWW" category="NNP"
+4	9,10	GATE_Token	string="," lemma="," category=","
+5	11,15	GATE_Token	string="that" lemma="that" category="IN"
+6	16,19	GATE_Token	string="pom" lemma="pom" category="NN"
+7	20,22	GATE_Token	string="is" lemma="be" category="VBZ"
+8	23,27	GATE_Token	string="sooo" lemma="sooo" category="JJ"
+9	28,36	GATE_Token	string="adorable" lemma="adorable" category="JJ"
+10	37,38	GATE_Token	string="." lemma="." category="."

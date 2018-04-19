@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">And I am <MPQAPOL autoclass="negative">jealous</MPQAPOL> of you with that President !</MPQASENT>

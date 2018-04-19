@@ -1,0 +1,12 @@
+1	0,51	GATE_Sentence
+2	0,2	GATE_Token	string="No" lemma="no" category="DT"
+3	3,12	GATE_Token	string="interpret" lemma="interpret" category="VB"
+4	13,17	GATE_Token	string="here" lemma="here" category="RB"
+5	18,19	GATE_Token	string="," lemma="," category=","
+6	20,24	GATE_Token	string="just" lemma="just" category="RB"
+7	25,29	GATE_Token	string="know" lemma="know" category="VB"
+8	30,33	GATE_Token	string="how" lemma="how" category="WRB"
+9	34,36	GATE_Token	string="to" lemma="to" category="TO"
+10	37,41	GATE_Token	string="read" lemma="read" category="VB"
+11	42,49	GATE_Token	string="English" lemma="English" category="NNP"
+12	50,51	GATE_Token	string="." lemma="." category="."

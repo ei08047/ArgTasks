@@ -1,0 +1,11 @@
+argumentative_essays_essay140.txt_0_174	obj
+argumentative_essays_essay140.txt_175_365	subj
+argumentative_essays_essay140.txt_366_453	subj
+argumentative_essays_essay140.txt_455_608	subj
+argumentative_essays_essay140.txt_609_759	subj
+argumentative_essays_essay140.txt_760_916	subj
+argumentative_essays_essay140.txt_918_1113	subj
+argumentative_essays_essay140.txt_1114_1357	subj
+argumentative_essays_essay140.txt_1358_1537	subj
+argumentative_essays_essay140.txt_1539_1830	subj
+argumentative_essays_essay140.txt_1831_1968	subj

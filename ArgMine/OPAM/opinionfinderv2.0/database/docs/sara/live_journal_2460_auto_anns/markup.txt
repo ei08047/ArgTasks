@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">It is her journal , I am <MPQAPOL autoclass="positive">pretty</MPQAPOL> <MPQAPOL autoclass="positive">sure</MPQAPOL> she can post <MPQAPOL autoclass="negative">whatever</MPQAPOL> the fuck she <MPQAPOL autoclass="positive">wants</MPQAPOL> on it .</MPQASENT>

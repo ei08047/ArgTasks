@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,4	GATE_Token	string="THAT" lemma="that" category="WDT"
+3	5,7	GATE_Token	string="IS" lemma="be" category="VBZ"
+4	8,11	GATE_Token	string="NOT" lemma="NOT" category="NNP"
+5	12,17	GATE_Token	string="RIKER" lemma="RIKER" category="NNP"
+6	18,20	GATE_Token	string="'S" lemma="'s" category="POS"
+7	21,29	GATE_Token	string="MAHOGANY" lemma="mahogany" category="NN"
+8	30,38	GATE_Token	string="MANBEARD" lemma="manbeard" category="NN"
+9	39,40	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">\* <MPQAPOL autoclass="neutral">big</MPQAPOL> <MPQAPOL autoclass="neutral">giant</MPQAPOL> <MPQAPOL autoclass="positive">hug</MPQAPOL> \* Get <MPQAPOL autoclass="neutral">well</MPQAPOL> soon !</MPQASENT>

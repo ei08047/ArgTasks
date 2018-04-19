@@ -1,0 +1,11 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,5	GATE_Token	string="I" lemma="I" category="PRP"
+4	6,8	GATE_Token	string="am" lemma="be" category="VBP"
+5	9,16	GATE_Token	string="getting" lemma="get" category="VBG"
+6	17,19	GATE_Token	string="my" lemma="my" category="PRP$"
+7	20,24	GATE_Token	string="nose" lemma="nose" category="NN"
+8	25,32	GATE_Token	string="pierced" lemma="pierce" category="VBD"
+9	33,34	GATE_Token	string="," lemma="," category=","
+10	35,38	GATE_Token	string="too" lemma="too" category="RB"
+11	39,40	GATE_Token	string="." lemma="." category="."

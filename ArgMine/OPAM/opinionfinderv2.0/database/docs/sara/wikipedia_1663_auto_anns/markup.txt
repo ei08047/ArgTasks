@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The Presidential staff are not a <MPQAPOL autoclass="neutral">trusted</MPQAPOL> source in either of these <MPQAPOL autoclass="neutral">regards</MPQAPOL> .</MPQASENT>

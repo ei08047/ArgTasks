@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="positive">love</MPQAPOL> this picture , <MPQAPOL autoclass="neutral">even</MPQAPOL> <MPQAPOL autoclass="negative">though</MPQAPOL> I can not tell what I am <MPQAPOL autoclass="negative">supposed</MPQAPOL> to be doing .</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,58	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,7	GATE_Token	string="now" lemma="now" category="RB"
+4	8,13	GATE_Token	string="maybe" lemma="maybe" category="RB"
+5	14,22	GATE_Token	string="Congress" lemma="Congress" category="NNP"
+6	23,27	GATE_Token	string="will" lemma="will" category="MD"
+7	28,30	GATE_Token	string="do" lemma="do" category="VB"
+8	31,34	GATE_Token	string="the" lemma="the" category="DT"
+9	35,40	GATE_Token	string="right" lemma="right" category="JJ"
+10	41,46	GATE_Token	string="thing" lemma="thing" category="NN"
+11	47,52	GATE_Token	string="after" lemma="after" category="IN"
+12	53,56	GATE_Token	string="all" lemma="all" category="DT"
+13	57,58	GATE_Token	string="." lemma="." category="."

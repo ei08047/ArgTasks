@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">My vote is <MPQAPOL autoclass="neutral">still</MPQAPOL> for a symbolic , <MPQAPOL autoclass="neutral">broad</MPQAPOL> lead image .</MPQASENT>

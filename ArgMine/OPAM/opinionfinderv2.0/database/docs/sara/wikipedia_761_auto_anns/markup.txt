@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">That is why I <MPQAPOL autoclass="negative">objected</MPQAPOL> to the sentence not because I <MPQAPOL autoclass="positive">like</MPQAPOL> bombing civilians .</MPQASENT>

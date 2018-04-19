@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do not you <MPQAPOL autoclass="positive">want</MPQAPOL> to be that person ?</MPQASENT>

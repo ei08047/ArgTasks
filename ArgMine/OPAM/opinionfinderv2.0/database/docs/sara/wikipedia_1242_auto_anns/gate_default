@@ -1,0 +1,10 @@
+1	0,43	GATE_Sentence
+2	0,3	GATE_Token	string="Who" lemma="who" category="WP"
+3	4,8	GATE_Token	string="said" lemma="say" category="VBD"
+4	9,14	GATE_Token	string="there" lemma="there" category="EX"
+5	15,18	GATE_Token	string="was" lemma="be" category="VBD"
+6	19,27	GATE_Token	string="anything" lemma="anything" category="NN"
+7	28,33	GATE_Token	string="wrong" lemma="wrong" category="JJ"
+8	34,38	GATE_Token	string="with" lemma="with" category="IN"
+9	39,41	GATE_Token	string="it" lemma="it" category="PRP"
+10	42,43	GATE_Token	string="?" lemma="?" category="."

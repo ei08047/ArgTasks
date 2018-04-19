@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Those are the only lyrics , <MPQAPOL autoclass="neutral">though</MPQAPOL> ?</MPQASENT>

@@ -1,0 +1,12 @@
+1	0,49	GATE_Sentence
+2	0,1	GATE_Token	string="(" lemma="(" category="-LRB-"
+3	2,8	GATE_Token	string="except" lemma="except" category="IN"
+4	9,12	GATE_Token	string="the" lemma="the" category="DT"
+5	13,19	GATE_Token	string="spices" lemma="spice" category="NNS"
+6	20,23	GATE_Token	string="and" lemma="and" category="CC"
+7	24,29	GATE_Token	string="flour" lemma="flour" category="NN"
+8	30,32	GATE_Token	string="to" lemma="to" category="TO"
+9	33,37	GATE_Token	string="make" lemma="make" category="VB"
+10	38,41	GATE_Token	string="the" lemma="the" category="DT"
+11	42,47	GATE_Token	string="bread" lemma="bread" category="NN"
+12	48,49	GATE_Token	string=")" lemma=")" category="-RRB-"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">If I wear a skirt I can <MPQAPOL autoclass="neutral">sneak</MPQAPOL> in with the <MPQAPOL autoclass="neutral">cute</MPQAPOL> girls , <MPQAPOL autoclass="neutral">right</MPQAPOL> ?</MPQASENT>

@@ -1,0 +1,10 @@
+argumentative_essays_essay030.txt_0_123	obj
+argumentative_essays_essay030.txt_124_317	subj
+argumentative_essays_essay030.txt_318_401	obj
+argumentative_essays_essay030.txt_402_571	subj
+argumentative_essays_essay030.txt_572_721	subj
+argumentative_essays_essay030.txt_722_899	subj
+argumentative_essays_essay030.txt_900_983	obj
+argumentative_essays_essay030.txt_984_1109	subj
+argumentative_essays_essay030.txt_1110_1302	subj
+argumentative_essays_essay030.txt_1303_1559	subj

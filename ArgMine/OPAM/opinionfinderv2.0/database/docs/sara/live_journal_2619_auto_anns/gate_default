@@ -1,0 +1,10 @@
+1	0,63	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+3	9,15	GATE_Token	string="Skinny" lemma="Skinny" category="NNP"
+4	16,21	GATE_Token	string="Puppy" lemma="Puppy" category="NNP"
+5	22,24	GATE_Token	string="is" lemma="be" category="VBZ"
+6	25,35	GATE_Token	string="headlining" lemma="headline" category="VBG"
+7	36,44	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+8	45,53	GATE_Token	string="Festival" lemma="Festival" category="NNP"
+9	54,61	GATE_Token	string="Kinetik" lemma="Kinetik" category="NNP"
+10	62,63	GATE_Token	string="!" lemma="!" category="."

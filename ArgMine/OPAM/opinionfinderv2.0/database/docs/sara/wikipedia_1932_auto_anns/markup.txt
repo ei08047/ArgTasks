@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">`` A child tells Santa what she <MPQAPOL autoclass="positive">wants</MPQAPOL> for Christmas '' I added to <MPQAPOL autoclass="neutral">highlight</MPQAPOL> that <MPQAPOL autoclass="neutral">particular</MPQAPOL> <MPQAPOL autoclass="neutral">tradition</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have provided nothing but <MPQAPOL autoclass="positive">reputable</MPQAPOL> sourced <MPQAPOL autoclass="neutral">facts</MPQAPOL> .</MPQASENT>

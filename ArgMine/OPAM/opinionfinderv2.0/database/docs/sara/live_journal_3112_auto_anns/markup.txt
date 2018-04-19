@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I am <MPQAPOL autoclass="negative">sorry</MPQAPOL> to hear that keeping up with technological progression is being <MPQAPOL autoclass="neutral">especially</MPQAPOL> <MPQAPOL autoclass="negative">irritating</MPQAPOL> .</MPQASENT>

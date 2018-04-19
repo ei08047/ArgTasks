@@ -1,0 +1,12 @@
+1	0,70	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,14	GATE_Token	string="Telegraph" lemma="Telegraph" category="NNP"
+4	15,22	GATE_Token	string="article" lemma="article" category="NN"
+5	23,33	GATE_Token	string="highlights" lemma="highlight" category="VBZ"
+6	34,37	GATE_Token	string="the" lemma="the" category="DT"
+7	38,42	GATE_Token	string="NPOV" lemma="npov" category="NN"
+8	43,50	GATE_Token	string="problem" lemma="problem" category="NN"
+9	51,55	GATE_Token	string="with" lemma="with" category="IN"
+10	56,60	GATE_Token	string="this" lemma="this" category="DT"
+11	61,68	GATE_Token	string="article" lemma="article" category="NN"
+12	69,70	GATE_Token	string="." lemma="." category="."

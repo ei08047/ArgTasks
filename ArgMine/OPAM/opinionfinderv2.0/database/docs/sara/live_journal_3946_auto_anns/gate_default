@@ -1,0 +1,10 @@
+1	0,44	GATE_Sentence
+2	0,6	GATE_Token	string="dammit" lemma="dammit" category="RB"
+3	7,12	GATE_Token	string="there" lemma="there" category="EX"
+4	13,16	GATE_Token	string="was" lemma="be" category="VBD"
+5	17,19	GATE_Token	string="an" lemma="a" category="DT"
+6	20,27	GATE_Token	string="episode" lemma="episode" category="NN"
+7	28,30	GATE_Token	string="on" lemma="on" category="IN"
+8	31,35	GATE_Token	string="last" lemma="last" category="JJ"
+9	36,41	GATE_Token	string="night" lemma="night" category="NN"
+10	42,44	GATE_Token	string="??" lemma="??" category="IN"

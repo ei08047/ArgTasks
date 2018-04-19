@@ -1,0 +1,13 @@
+1	0,49	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,8	GATE_Token	string="should" lemma="should" category="MD"
+4	9,14	GATE_Token	string="write" lemma="write" category="VB"
+5	15,16	GATE_Token	string="a" lemma="a" category="DT"
+6	17,21	GATE_Token	string="post" lemma="post" category="NN"
+7	22,26	GATE_Token	string="just" lemma="just" category="RB"
+8	27,30	GATE_Token	string="for" lemma="for" category="IN"
+9	31,34	GATE_Token	string="you" lemma="you" category="PRP"
+10	35,36	GATE_Token	string="," lemma="," category=","
+11	37,41	GATE_Token	string="your" lemma="you" category="PRP$"
+12	42,47	GATE_Token	string="style" lemma="style" category="NN"
+13	48,49	GATE_Token	string="." lemma="." category="."

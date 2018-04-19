@@ -1,0 +1,10 @@
+1	0,48	GATE_Sentence
+2	0,4	GATE_Token	string="Call" lemma="call" category="VB"
+3	5,9	GATE_Token	string="this" lemma="this" category="DT"
+4	10,21	GATE_Token	string="observation" lemma="observation" category="NN"
+5	22,31	GATE_Token	string="ignorance" lemma="ignorance" category="NN"
+6	32,34	GATE_Token	string="if" lemma="if" category="IN"
+7	35,38	GATE_Token	string="you" lemma="you" category="PRP"
+8	39,43	GATE_Token	string="want" lemma="want" category="VBP"
+9	44,45	GATE_Token	string="." lemma="." category="."
+10	46,48	GATE_Token	string="''" lemma="''" category="''"

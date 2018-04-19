@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I <MPQAPOL autoclass="positive">feel</MPQAPOL> your <MPQAPOL autoclass="negative">pain</MPQAPOL> <MPQAPOL autoclass="neutral">though</MPQAPOL> , it is not <MPQAPOL autoclass="positive">like</MPQAPOL> the UK has <MPQAPOL autoclass="neutral">much</MPQAPOL> local cuisine to tout either .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I can not see what <MPQAPOL autoclass="neutral">reason</MPQAPOL> the editor has to mark the link as spam other than <MPQAPOL autoclass="negative">ignorance</MPQAPOL> or some other <MPQAPOL autoclass="negative">ulterior</MPQAPOL> <MPQAPOL autoclass="negative">motive</MPQAPOL> .</MPQASENT>

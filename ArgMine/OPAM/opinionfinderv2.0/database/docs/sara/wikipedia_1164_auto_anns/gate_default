@@ -1,0 +1,12 @@
+1	0,44	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,8	GATE_Token	string="anon" lemma="anon" category="NN"
+4	9,11	GATE_Token	string="IP" lemma="IP" category="NNP"
+5	12,16	GATE_Token	string="does" lemma="do" category="VBZ"
+6	17,21	GATE_Token	string="have" lemma="have" category="VB"
+7	22,23	GATE_Token	string="a" lemma="a" category="DT"
+8	24,29	GATE_Token	string="point" lemma="point" category="NN"
+9	30,32	GATE_Token	string="in" lemma="in" category="IN"
+10	33,37	GATE_Token	string="this" lemma="this" category="DT"
+11	38,42	GATE_Token	string="edit" lemma="edit" category="NN"
+12	43,44	GATE_Token	string="." lemma="." category="."

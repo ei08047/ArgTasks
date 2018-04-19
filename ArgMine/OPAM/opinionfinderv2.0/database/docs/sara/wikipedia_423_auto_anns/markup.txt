@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Too</MPQAPOL> <MPQAPOL autoclass="neutral">specific</MPQAPOL> -LRB- pertains to only 1\/40th of its history -RRB- .</MPQASENT>

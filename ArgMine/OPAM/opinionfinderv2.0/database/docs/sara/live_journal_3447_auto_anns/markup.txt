@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Christians do not <MPQAPOL autoclass="negative">deny</MPQAPOL> Atheists any <MPQAPOL autoclass="neutral">rights</MPQAPOL> , and Atheism goes <MPQAPOL autoclass="neutral">against</MPQAPOL> the First Commandment .</MPQASENT>

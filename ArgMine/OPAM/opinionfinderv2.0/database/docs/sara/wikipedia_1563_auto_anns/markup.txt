@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I suspect that unless the word ` <MPQAPOL autoclass="neutral">claim</MPQAPOL> ' is used you <MPQAPOL autoclass="neutral">would</MPQAPOL> not <MPQAPOL autoclass="neutral">consider</MPQAPOL> any sentence to be categorized as ` <MPQAPOL autoclass="neutral">claim</MPQAPOL> ' .</MPQASENT>

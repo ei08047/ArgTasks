@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I did get to talk to you a <MPQAPOL autoclass="negative">little</MPQAPOL> !</MPQASENT>

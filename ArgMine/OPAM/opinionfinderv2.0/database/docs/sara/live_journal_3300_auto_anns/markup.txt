@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have been <MPQAPOL autoclass="neutral">lurking</MPQAPOL> around your journal for a while .</MPQASENT>

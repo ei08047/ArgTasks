@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Such</MPQAPOL> <MPQAPOL autoclass="neutral">authoritative</MPQAPOL> sources speak for the <MPQAPOL autoclass="neutral">consensus</MPQAPOL> in the scientific community .</MPQASENT>

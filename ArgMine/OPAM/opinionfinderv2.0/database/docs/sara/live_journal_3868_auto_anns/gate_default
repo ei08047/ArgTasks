@@ -1,0 +1,12 @@
+1	0,58	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="think" lemma="think" category="VBP"
+4	8,11	GATE_Token	string="you" lemma="you" category="PRP"
+5	12,21	GATE_Token	string="exhausted" lemma="exhaust" category="VBN"
+6	22,27	GATE_Token	string="their" lemma="they" category="PRP$"
+7	28,33	GATE_Token	string="minds" lemma="mind" category="NNS"
+8	34,38	GATE_Token	string="more" lemma="more" category="JJR"
+9	39,43	GATE_Token	string="than" lemma="than" category="IN"
+10	44,49	GATE_Token	string="their" lemma="they" category="PRP$"
+11	50,56	GATE_Token	string="bodies" lemma="body" category="NNS"
+12	57,58	GATE_Token	string="." lemma="." category="."

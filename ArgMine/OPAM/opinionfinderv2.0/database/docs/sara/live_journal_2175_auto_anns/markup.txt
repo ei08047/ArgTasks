@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">if you are in the college of <MPQAPOL autoclass="neutral">natural</MPQAPOL> sciences , you can not <MPQAPOL autoclass="neutral">minor</MPQAPOL> in anything .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,44	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,7	GATE_Token	string="moved" lemma="move" category="VBD"
+4	8,9	GATE_Token	string="i" lemma="i" category="FW"
+5	10,15	GATE_Token	string="moved" lemma="move" category="VBD"
+6	16,17	GATE_Token	string="i" lemma="i" category="FW"
+7	18,42	GATE_Token	string="movedddddddddddddddddddd" lemma="movedddddddddddddddddddd" category="FW"
+8	43,44	GATE_Token	string="!" lemma="!" category="."

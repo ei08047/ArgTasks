@@ -1,0 +1,10 @@
+1	0,47	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,8	GATE_Token	string="viewed" lemma="view" category="VBD"
+4	9,11	GATE_Token	string="it" lemma="it" category="PRP"
+5	12,14	GATE_Token	string="as" lemma="as" category="IN"
+6	15,21	GATE_Token	string="purely" lemma="purely" category="RB"
+7	22,31	GATE_Token	string="political" lemma="political" category="JJ"
+8	32,34	GATE_Token	string="in" lemma="in" category="IN"
+9	35,45	GATE_Token	string="motivation" lemma="motivation" category="NN"
+10	46,47	GATE_Token	string="." lemma="." category="."

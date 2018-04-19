@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//aifdb/AIFDBReader.py=utf-8
+encoding//asd/ArgumentativeSentenceDetection.py=utf-8
+encoding//asd/ConfigurationASD.py=utf-8
+encoding//asd/DatasetLoaderASD.py=utf-8
+encoding//asd/KeywordTransformer.py=utf-8
+encoding//asd/WordCouplesTransformer.py=utf-8
+encoding//ml/Configuration.py=utf-8
+encoding//ml/DatasetLoader.py=utf-8
+encoding//ml/GoldStandardAnnotator.py=utf-8
+encoding//ml/MachineLearningTask.py=utf-8
+encoding//postagger/CitiusTagger.py=utf-8
+encoding//postagger/Proposition.py=utf-8
+encoding//utils/ContoPtReader.py=utf-8
+encoding//utils/PairTH.py=utf-8
+encoding//utils/Synset.py=utf-8
+encoding//utils/Triple.py=utf-8

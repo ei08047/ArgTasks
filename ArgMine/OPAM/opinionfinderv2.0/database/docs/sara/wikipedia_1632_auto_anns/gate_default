@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,5	GATE_Token	string="01:16" lemma="01:16" category="CD"
+3	6,7	GATE_Token	string="," lemma="," category=","
+4	8,10	GATE_Token	string="19" lemma="19" category="CD"
+5	11,19	GATE_Token	string="December" lemma="December" category="NNP"
+6	20,24	GATE_Token	string="2009" lemma="2009" category="CD"
+7	25,30	GATE_Token	string="-LRB-" lemma="-lrb-" category="-LRB-"
+8	31,34	GATE_Token	string="UTC" lemma="utc" category="NN"
+9	35,40	GATE_Token	string="-RRB-" lemma="-rrb-" category="-RRB-"

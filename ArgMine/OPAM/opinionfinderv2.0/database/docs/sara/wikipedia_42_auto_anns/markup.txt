@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">The goal is to make Wikipedia as <MPQAPOL autoclass="neutral">good</MPQAPOL> as <MPQAPOL autoclass="neutral">possible</MPQAPOL> and , more <MPQAPOL autoclass="neutral">specifically</MPQAPOL> , this article as <MPQAPOL autoclass="neutral">good</MPQAPOL> as <MPQAPOL autoclass="neutral">possible</MPQAPOL> .</MPQASENT>

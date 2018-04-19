@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj"><MPQAPOL autoclass="neutral">Well</MPQAPOL> , you have had some <MPQAPOL autoclass="neutral">rather</MPQAPOL> um <MPQAPOL autoclass="negative">ambiguous</MPQAPOL> relationships with people of <MPQAPOL autoclass="neutral">suspicious</MPQAPOL> character .</MPQASENT>

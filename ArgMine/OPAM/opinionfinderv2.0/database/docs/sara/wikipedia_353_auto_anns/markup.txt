@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is Yakima , WA in the <MPQAPOL autoclass="neutral">good</MPQAPOL> old U.S.A. See the Diocese of Yakima .</MPQASENT>

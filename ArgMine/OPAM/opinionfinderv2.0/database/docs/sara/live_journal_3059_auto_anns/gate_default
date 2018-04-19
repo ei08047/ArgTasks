@@ -1,0 +1,11 @@
+1	0,35	GATE_Sentence
+2	0,4	GATE_Token	string="wait" lemma="wait" category="NN"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,10	GATE_Token	string="ill" lemma="ill" category="JJ"
+5	11,16	GATE_Token	string="dress" lemma="dress" category="NN"
+6	17,19	GATE_Token	string="it" lemma="it" category="PRP"
+7	20,22	GATE_Token	string="up" lemma="up" category="RP"
+8	23,25	GATE_Token	string="in" lemma="in" category="IN"
+9	26,28	GATE_Token	string="my" lemma="my" category="PRP$"
+10	29,33	GATE_Token	string="love" lemma="love" category="NN"
+11	34,35	GATE_Token	string="." lemma="." category="."

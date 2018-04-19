@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And <MPQAPOL autoclass="neutral">facts</MPQAPOL> and theories are different things , not rungs in a hierarchy of increasing certainty .</MPQASENT>

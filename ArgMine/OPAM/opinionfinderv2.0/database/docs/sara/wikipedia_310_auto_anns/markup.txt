@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Catholics are <MPQAPOL autoclass="neutral">challenging</MPQAPOL> the Pope about the sex <MPQAPOL autoclass="negative">abuse</MPQAPOL> <MPQAPOL autoclass="negative">denial</MPQAPOL> and not Anglicans or Protestants .</MPQASENT>

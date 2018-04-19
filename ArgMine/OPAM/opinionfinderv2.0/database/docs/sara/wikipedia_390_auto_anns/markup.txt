@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This , as I said earlier , is a <MPQAPOL autoclass="neutral">complex</MPQAPOL> issue .</MPQASENT>

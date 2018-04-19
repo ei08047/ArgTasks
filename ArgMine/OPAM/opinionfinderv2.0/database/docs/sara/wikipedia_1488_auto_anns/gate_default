@@ -1,0 +1,12 @@
+1	0,56	GATE_Sentence
+2	0,7	GATE_Token	string="Failing" lemma="fail" category="VBG"
+3	8,12	GATE_Token	string="that" lemma="that" category="IN"
+4	13,14	GATE_Token	string="," lemma="," category=","
+5	15,23	GATE_Token	string="renaming" lemma="rename" category="VBG"
+6	24,28	GATE_Token	string="that" lemma="that" category="IN"
+7	29,36	GATE_Token	string="heading" lemma="head" category="VBG"
+8	37,39	GATE_Token	string="to" lemma="to" category="TO"
+9	40,46	GATE_Token	string="Topics" lemma="topic" category="NNS"
+10	47,49	GATE_Token	string="is" lemma="be" category="VBZ"
+11	50,54	GATE_Token	string="good" lemma="good" category="JJ"
+12	55,56	GATE_Token	string="." lemma="." category="."

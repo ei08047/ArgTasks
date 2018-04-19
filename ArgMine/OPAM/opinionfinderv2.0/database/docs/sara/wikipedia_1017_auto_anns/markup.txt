@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And I also <MPQAPOL autoclass="neutral">believe</MPQAPOL> acid rock <MPQAPOL autoclass="neutral">should</MPQAPOL> be in the box since it was the heaviest form of psychedelia .</MPQASENT>

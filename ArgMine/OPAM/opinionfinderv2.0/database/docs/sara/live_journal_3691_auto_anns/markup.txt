@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">especially</MPQAPOL> <MPQAPOL autoclass="positive">love</MPQAPOL> the guy <MPQAPOL autoclass="neutral">throwing</MPQAPOL> his mind out the window ( he <MPQAPOL autoclass="neutral">lost</MPQAPOL> his mind <MPQAPOL autoclass="neutral">voluntarily</MPQAPOL> ) .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,36	GATE_Sentence
+2	0,8	GATE_Token	string="Actually" lemma="actually" category="RB"
+3	9,10	GATE_Token	string="," lemma="," category=","
+4	11,15	GATE_Token	string="that" lemma="that" category="DT"
+5	16,18	GATE_Token	string="is" lemma="be" category="VBZ"
+6	19,21	GATE_Token	string="an" lemma="a" category="DT"
+7	22,34	GATE_Token	string="exaggeration" lemma="exaggeration" category="NN"
+8	35,36	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">\* <MPQAPOL autoclass="neutral">hugs</MPQAPOL> \* I <MPQAPOL autoclass="positive">feel</MPQAPOL> like I have <MPQAPOL autoclass="neutral">completely</MPQAPOL> <MPQAPOL autoclass="negative">lost</MPQAPOL> track of a lot of stuff lately .</MPQASENT>

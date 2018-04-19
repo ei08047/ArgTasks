@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If only I had the funds to <MPQAPOL autoclass="neutral">waste</MPQAPOL> invest in geeky collectables <MPQAPOL autoclass="neutral">modern</MPQAPOL> art .</MPQASENT>

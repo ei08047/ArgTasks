@@ -1,0 +1,7 @@
+1	0,32	GATE_Sentence
+2	0,4	GATE_Token	string="They" lemma="they" category="PRP"
+3	5,8	GATE_Token	string="are" lemma="be" category="VBP"
+4	9,13	GATE_Token	string="both" lemma="both" category="DT"
+5	14,18	GATE_Token	string="from" lemma="from" category="IN"
+6	19,30	GATE_Token	string="Wikicommons" lemma="Wikicommons" category="NNPS"
+7	31,32	GATE_Token	string="." lemma="." category="."

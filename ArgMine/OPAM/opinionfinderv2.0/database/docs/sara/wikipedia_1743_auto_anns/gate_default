@@ -1,0 +1,8 @@
+1	0,40	GATE_Sentence
+2	0,5	GATE_Token	string="There" lemma="there" category="EX"
+3	6,9	GATE_Token	string="are" lemma="be" category="VBP"
+4	10,15	GATE_Token	string="other" lemma="other" category="JJ"
+5	16,20	GATE_Token	string="more" lemma="more" category="RBR"
+6	21,29	GATE_Token	string="specific" lemma="specific" category="JJ"
+7	30,38	GATE_Token	string="articles" lemma="article" category="NNS"
+8	39,40	GATE_Token	string="." lemma="." category="."

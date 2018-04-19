@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">We are both <MPQAPOL autoclass="neutral">thinking</MPQAPOL> of you , never <MPQAPOL autoclass="negative">doubt</MPQAPOL> that .</MPQASENT>

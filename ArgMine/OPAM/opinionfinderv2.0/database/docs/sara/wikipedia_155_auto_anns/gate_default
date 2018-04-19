@@ -1,0 +1,13 @@
+1	0,59	GATE_Sentence
+2	0,7	GATE_Token	string="Descibe" lemma="descibe" category="VB"
+3	8,11	GATE_Token	string="the" lemma="the" category="DT"
+4	12,17	GATE_Token	string="creed" lemma="creed" category="NN"
+5	18,20	GATE_Token	string="in" lemma="in" category="IN"
+6	21,26	GATE_Token	string="terms" lemma="term" category="NNS"
+7	27,29	GATE_Token	string="of" lemma="of" category="IN"
+8	30,33	GATE_Token	string="its" lemma="its" category="PRP$"
+9	34,44	GATE_Token	string="importance" lemma="importance" category="NN"
+10	45,47	GATE_Token	string="to" lemma="to" category="TO"
+11	48,51	GATE_Token	string="the" lemma="the" category="DT"
+12	52,57	GATE_Token	string="faith" lemma="faith" category="NN"
+13	58,59	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,6 @@
+1	2,7	matchfeat	type="trainJWman" mpqapolarity="neutral"
+2	11,17	matchfeat	type="strongjandiss" mpqapolarity="strongneg"
+3	18,22	matchfeat	type="bl_desire_verb" mpqapolarity="neutral"
+4	31,39	matchfeat	type="PolPmanweak" mpqapolarity="neutral"
+5	40,49	matchfeat	type="PolPmanweak" mpqapolarity="strongpos"
+6	71,76	matchfeat	type="trainJWman" mpqapolarity="weakpos"

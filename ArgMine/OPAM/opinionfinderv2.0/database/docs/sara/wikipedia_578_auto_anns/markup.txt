@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Roland was <MPQAPOL autoclass="neutral">quite</MPQAPOL> <MPQAPOL autoclass="positive">right</MPQAPOL> to point out that <MPQAPOL autoclass="neutral">facts</MPQAPOL> and theories are different .</MPQASENT>

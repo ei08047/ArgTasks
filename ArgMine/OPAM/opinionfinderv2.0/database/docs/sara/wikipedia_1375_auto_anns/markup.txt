@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">P.D.D. : I have been told that my <MPQAPOL autoclass="neutral">comment</MPQAPOL> is <MPQAPOL autoclass="neutral">uncivil</MPQAPOL> .</MPQASENT>

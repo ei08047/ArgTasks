@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Too</MPQAPOL> late to list coats and <MPQAPOL autoclass="neutral">too</MPQAPOL> early to list dresses .</MPQASENT>

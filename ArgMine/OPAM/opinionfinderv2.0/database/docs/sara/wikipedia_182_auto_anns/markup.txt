@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Can we <MPQAPOL autoclass="positive">please</MPQAPOL> stop the <MPQAPOL autoclass="negative">bickering</MPQAPOL> ?</MPQASENT>

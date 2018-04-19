@@ -1,0 +1,10 @@
+1	0,60	GATE_Sentence
+2	0,7	GATE_Token	string="Belongs" lemma="belong" category="NNS"
+3	8,10	GATE_Token	string="in" lemma="in" category="IN"
+4	11,21	GATE_Token	string="superceded" lemma="supercede" category="VBN"
+5	22,32	GATE_Token	string="scientific" lemma="scientific" category="JJ"
+6	33,41	GATE_Token	string="theories" lemma="theory" category="NNS"
+7	42,48	GATE_Token	string="rather" lemma="rather" category="RB"
+8	49,53	GATE_Token	string="than" lemma="than" category="IN"
+9	54,58	GATE_Token	string="here" lemma="here" category="RB"
+10	59,60	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,4	GATE_Token	string="oooh" lemma="oooh" category="NN"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,15	GATE_Token	string="cinnamon" lemma="cinnamon" category="NNP"
+5	16,19	GATE_Token	string="and" lemma="and" category="CC"
+6	20,26	GATE_Token	string="cloves" lemma="clove" category="NNS"
+7	27,33	GATE_Token	string="sounds" lemma="sound" category="VBZ"
+8	34,38	GATE_Token	string="nice" lemma="nice" category="JJ"
+9	39,40	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,13 @@
+1	0,54	GATE_Sentence
+2	0,4	GATE_Token	string="Read" lemma="read" category="VB"
+3	5,8	GATE_Token	string="the" lemma="the" category="DT"
+4	9,14	GATE_Token	string="cited" lemma="cite" category="VBN"
+5	15,22	GATE_Token	string="chapter" lemma="chapter" category="NN"
+6	23,25	GATE_Token	string="of" lemma="of" category="IN"
+7	26,28	GATE_Token	string="``" lemma="``" category="``"
+8	29,33	GATE_Token	string="Gods" lemma="god" category="NNS"
+9	34,37	GATE_Token	string="War" lemma="War" category="NNP"
+10	38,40	GATE_Token	string="''" lemma="''" category="''"
+11	41,44	GATE_Token	string="for" lemma="for" category="IN"
+12	45,52	GATE_Token	string="details" lemma="detail" category="NNS"
+13	53,54	GATE_Token	string="." lemma="." category="."

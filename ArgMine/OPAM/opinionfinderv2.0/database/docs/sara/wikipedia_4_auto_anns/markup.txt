@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I have <MPQAPOL autoclass="neutral">moved</MPQAPOL> it <MPQAPOL autoclass="neutral">too</MPQAPOL> , but I will not <MPQAPOL autoclass="neutral">move</MPQAPOL> it back until we have <MPQAPOL autoclass="neutral">consensus</MPQAPOL> .</MPQASENT>

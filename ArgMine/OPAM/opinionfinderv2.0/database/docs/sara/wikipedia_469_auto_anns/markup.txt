@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">JPG This article <MPQAPOL autoclass="neutral">should</MPQAPOL> be mainly about the science of <MPQAPOL autoclass="neutral">death</MPQAPOL> , and its ties with human culture secondary .</MPQASENT>

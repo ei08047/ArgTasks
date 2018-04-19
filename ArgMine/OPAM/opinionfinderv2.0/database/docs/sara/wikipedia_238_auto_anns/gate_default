@@ -1,0 +1,13 @@
+1	0,58	GATE_Sentence
+2	0,3	GATE_Token	string="How" lemma="how" category="WRB"
+3	4,9	GATE_Token	string="about" lemma="about" category="RB"
+4	10,12	GATE_Token	string="an" lemma="a" category="DT"
+5	13,19	GATE_Token	string="actual" lemma="actual" category="JJ"
+6	20,26	GATE_Token	string="number" lemma="number" category="NN"
+7	27,29	GATE_Token	string="of" lemma="of" category="IN"
+8	30,33	GATE_Token	string="the" lemma="the" category="DT"
+9	34,41	GATE_Token	string="victims" lemma="victim" category="NNS"
+10	42,44	GATE_Token	string="of" lemma="of" category="IN"
+11	45,48	GATE_Token	string="the" lemma="the" category="DT"
+12	49,56	GATE_Token	string="abusers" lemma="abuser" category="NNS"
+13	57,58	GATE_Token	string="?" lemma="?" category="."

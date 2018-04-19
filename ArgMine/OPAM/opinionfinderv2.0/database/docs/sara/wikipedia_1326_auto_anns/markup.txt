@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">To stop edit warring leave it out until <MPQAPOL autoclass="neutral">consensus</MPQAPOL> is reached , but the discussion is somewhat <MPQAPOL autoclass="negative">fragmented</MPQAPOL> right now .</MPQASENT>

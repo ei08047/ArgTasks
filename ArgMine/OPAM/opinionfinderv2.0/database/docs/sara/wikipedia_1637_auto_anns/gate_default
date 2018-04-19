@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,3	GATE_Token	string="Gov" lemma="Gov" category="NNP"
+3	4,6	GATE_Token	string="is" lemma="be" category="VBZ"
+4	7,11	GATE_Token	string="used" lemma="use" category="VBN"
+5	12,14	GATE_Token	string="as" lemma="as" category="IN"
+6	15,16	GATE_Token	string="a" lemma="a" category="DT"
+7	17,26	GATE_Token	string="reference" lemma="reference" category="NN"
+8	27,29	GATE_Token	string="on" lemma="on" category="IN"
+9	30,39	GATE_Token	string="Wikipedia" lemma="Wikipedia" category="NNP"
+10	40,45	GATE_Token	string="-LRB-" lemma="-lrb-" category="-LRB-"
+11	46,47	GATE_Token	string="2" lemma="2" category="LS"
+12	48,53	GATE_Token	string="-RRB-" lemma="-rrb-" category="-RRB-"

@@ -1,0 +1,10 @@
+1	0,39	GATE_Sentence
+2	0,2	GATE_Token	string="Oh" lemma="oh" category="UH"
+3	3,7	GATE_Token	string="yeah" lemma="yeah" category="RB"
+4	8,9	GATE_Token	string="," lemma="," category=","
+5	10,11	GATE_Token	string="I" lemma="I" category="PRP"
+6	12,14	GATE_Token	string="am" lemma="be" category="VBP"
+7	15,25	GATE_Token	string="graduating" lemma="graduate" category="VBG"
+8	26,30	GATE_Token	string="this" lemma="this" category="DT"
+9	31,37	GATE_Token	string="Friday" lemma="Friday" category="NNP"
+10	38,39	GATE_Token	string="." lemma="." category="."

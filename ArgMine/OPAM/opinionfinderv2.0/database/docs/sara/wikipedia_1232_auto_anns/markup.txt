@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">New image far more <MPQAPOL autoclass="positive">satisfactory</MPQAPOL> and <MPQAPOL autoclass="neutral">informative</MPQAPOL> .</MPQASENT>

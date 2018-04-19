@@ -1,0 +1,8 @@
+1	0,33	GATE_Sentence
+2	0,4	GATE_Token	string="when" lemma="when" category="WRB"
+3	5,8	GATE_Token	string="the" lemma="the" category="DT"
+4	9,13	GATE_Token	string="hell" lemma="hell" category="NN"
+5	14,17	GATE_Token	string="did" lemma="do" category="VBD"
+6	18,21	GATE_Token	string="you" lemma="you" category="PRP"
+7	22,26	GATE_Token	string="move" lemma="move" category="VB"
+8	27,33	GATE_Token	string="?!?!?!" lemma="?!?!?!" category="RB"

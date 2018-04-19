@@ -1,0 +1,13 @@
+1	0,59	GATE_Sentence
+2	0,5	GATE_Token	string="Again" lemma="again" category="RB"
+3	6,7	GATE_Token	string="," lemma="," category=","
+4	8,9	GATE_Token	string="I" lemma="I" category="PRP"
+5	10,15	GATE_Token	string="never" lemma="never" category="RB"
+6	16,22	GATE_Token	string="called" lemma="call" category="VBD"
+7	23,29	GATE_Token	string="having" lemma="have" category="VBG"
+8	30,35	GATE_Token	string="blues" lemma="blues" category="NNS"
+9	36,45	GATE_Token	string="influence" lemma="influence" category="VBP"
+10	46,48	GATE_Token	string="``" lemma="``" category="``"
+11	49,54	GATE_Token	string="blues" lemma="blues" category="NNS"
+12	55,56	GATE_Token	string="." lemma="." category="."
+13	57,59	GATE_Token	string="''" lemma="''" category="''"

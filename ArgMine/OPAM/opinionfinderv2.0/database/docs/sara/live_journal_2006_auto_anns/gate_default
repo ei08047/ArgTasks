@@ -1,0 +1,13 @@
+1	0,64	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,11	GATE_Token	string="guarantee" lemma="guarantee" category="NN"
+4	12,17	GATE_Token	string="there" lemma="there" category="EX"
+5	18,21	GATE_Token	string="are" lemma="be" category="VBP"
+6	22,26	GATE_Token	string="more" lemma="more" category="RBR"
+7	27,31	GATE_Token	string="shit" lemma="shit" category="JJ"
+8	32,39	GATE_Token	string="photogs" lemma="photog" category="NNS"
+9	40,46	GATE_Token	string="around" lemma="around" category="IN"
+10	47,51	GATE_Token	string="than" lemma="than" category="IN"
+11	52,56	GATE_Token	string="shit" lemma="shit" category="NN"
+12	57,62	GATE_Token	string="dslrs" lemma="dslr" category="NNS"
+13	63,64	GATE_Token	string="." lemma="." category="."

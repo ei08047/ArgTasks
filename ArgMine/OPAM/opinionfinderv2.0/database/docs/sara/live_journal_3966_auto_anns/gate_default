@@ -1,0 +1,11 @@
+1	0,28	GATE_Sentence
+2	0,2	GATE_Token	string="If" lemma="if" category="IN"
+3	3,5	GATE_Token	string="it" lemma="it" category="PRP"
+4	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+5	9,10	GATE_Token	string="2" lemma="2" category="LS"
+6	11,12	GATE_Token	string=")" lemma=")" category="-RRB-"
+7	13,14	GATE_Token	string="," lemma="," category=","
+8	15,19	GATE_Token	string="well" lemma="well" category="RB"
+9	20,21	GATE_Token	string="," lemma="," category=","
+10	22,26	GATE_Token	string="yeah" lemma="yeah" category="NN"
+11	27,28	GATE_Token	string="." lemma="." category="."

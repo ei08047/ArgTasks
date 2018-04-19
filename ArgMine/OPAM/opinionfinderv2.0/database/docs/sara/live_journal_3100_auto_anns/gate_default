@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,4	GATE_Token	string="When" lemma="when" category="WRB"
+3	5,8	GATE_Token	string="you" lemma="you" category="PRP"
+4	9,16	GATE_Token	string="applied" lemma="apply" category="VBD"
+5	17,20	GATE_Token	string="did" lemma="do" category="VBD"
+6	21,24	GATE_Token	string="you" lemma="you" category="PRP"
+7	25,30	GATE_Token	string="bring" lemma="bring" category="VB"
+8	31,32	GATE_Token	string="a" lemma="a" category="DT"
+9	33,42	GATE_Token	string="portfolio" lemma="portfolio" category="NN"
+10	43,46	GATE_Token	string="and" lemma="and" category="CC"
+11	47,53	GATE_Token	string="resume" lemma="resume" category="VB"
+12	54,55	GATE_Token	string="." lemma="." category="."
+13	55,56	GATE_Token	string="." lemma="." category="."

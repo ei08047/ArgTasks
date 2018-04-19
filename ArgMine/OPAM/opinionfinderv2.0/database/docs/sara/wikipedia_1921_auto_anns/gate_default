@@ -1,0 +1,12 @@
+1	0,62	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,11	GATE_Token	string="current" lemma="current" category="JJ"
+4	12,18	GATE_Token	string="format" lemma="format" category="NN"
+5	19,25	GATE_Token	string="should" lemma="should" category="MD"
+6	26,32	GATE_Token	string="remain" lemma="remain" category="VB"
+7	33,36	GATE_Token	string="for" lemma="for" category="IN"
+8	37,40	GATE_Token	string="the" lemma="the" category="DT"
+9	41,45	GATE_Token	string="sake" lemma="sake" category="NN"
+10	46,48	GATE_Token	string="of" lemma="of" category="IN"
+11	49,60	GATE_Token	string="consistency" lemma="consistency" category="NN"
+12	61,62	GATE_Token	string="." lemma="." category="."

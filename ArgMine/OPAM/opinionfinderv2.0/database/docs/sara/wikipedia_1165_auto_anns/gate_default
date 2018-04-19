@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,14	GATE_Token	string="compromise" lemma="compromise" category="NN"
+4	15,17	GATE_Token	string="is" lemma="be" category="VBZ"
+5	18,20	GATE_Token	string="ok" lemma="ok" category="JJ"
+6	21,24	GATE_Token	string="too" lemma="too" category="RB"
+7	25,31	GATE_Token	string="though" lemma="though" category="RB"
+8	32,35	GATE_Token	string="..." lemma="..." category=":"
+9	36,38	GATE_Token	string="--" lemma="--" category=":"

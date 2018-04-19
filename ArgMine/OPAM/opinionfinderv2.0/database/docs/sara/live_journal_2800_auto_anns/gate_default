@@ -1,0 +1,13 @@
+1	0,60	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="found" lemma="find" category="VBD"
+4	8,12	GATE_Token	string="this" lemma="this" category="DT"
+5	13,16	GATE_Token	string="guy" lemma="guy" category="NN"
+6	17,22	GATE_Token	string="doing" lemma="do" category="VBG"
+7	23,24	GATE_Token	string="a" lemma="a" category="DT"
+8	25,31	GATE_Token	string="random" lemma="random" category="JJ"
+9	32,38	GATE_Token	string="google" lemma="google" category="NN"
+10	39,45	GATE_Token	string="search" lemma="search" category="NN"
+11	46,49	GATE_Token	string="for" lemma="for" category="IN"
+12	50,58	GATE_Token	string="simt.com" lemma="simt.com" category="NNP"
+13	59,60	GATE_Token	string="." lemma="." category="."

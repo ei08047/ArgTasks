@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Conjures up some <MPQAPOL autoclass="neutral">beautiful</MPQAPOL> imagery .</MPQASENT>

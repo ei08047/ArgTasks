@@ -1,0 +1,10 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="Why" lemma="why" category="WRB"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+5	9,11	GATE_Token	string="it" lemma="it" category="PRP"
+6	12,16	GATE_Token	string="like" lemma="like" category="IN"
+7	17,26	GATE_Token	string="Amsterdam" lemma="Amsterdam" category="NNP"
+8	27,31	GATE_Token	string="only" lemma="only" category="RB"
+9	32,38	GATE_Token	string="closer" lemma="closer" category="RBR"
+10	39,40	GATE_Token	string="?" lemma="?" category="."

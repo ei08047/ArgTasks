@@ -1,0 +1,12 @@
+1	0,63	GATE_Sentence
+2	0,8	GATE_Token	string="Simplify" lemma="simplify" category="VB"
+3	9,19	GATE_Token	string="everything" lemma="everything" category="NN"
+4	20,23	GATE_Token	string="and" lemma="and" category="CC"
+5	24,26	GATE_Token	string="it" lemma="it" category="PRP"
+6	27,31	GATE_Token	string="will" lemma="will" category="MD"
+7	32,34	GATE_Token	string="be" lemma="be" category="VB"
+8	35,36	GATE_Token	string="a" lemma="a" category="DT"
+9	37,41	GATE_Token	string="most" lemma="most" category="RBS"
+10	42,53	GATE_Token	string="informative" lemma="informative" category="JJ"
+11	54,61	GATE_Token	string="article" lemma="article" category="NN"
+12	62,63	GATE_Token	string="." lemma="." category="."

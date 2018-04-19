@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="positive">hope</MPQAPOL> it was CC <MPQAPOL autoclass="neutral">'d</MPQAPOL> to Paul and Linda .</MPQASENT>

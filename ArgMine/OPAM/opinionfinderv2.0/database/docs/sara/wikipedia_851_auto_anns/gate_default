@@ -1,0 +1,10 @@
+1	0,40	GATE_Sentence
+2	0,2	GATE_Token	string="we" lemma="we" category="PRP"
+3	3,7	GATE_Token	string="need" lemma="need" category="VBP"
+4	8,10	GATE_Token	string="to" lemma="to" category="TO"
+5	11,16	GATE_Token	string="stick" lemma="stick" category="VB"
+6	17,19	GATE_Token	string="to" lemma="to" category="TO"
+7	20,23	GATE_Token	string="the" lemma="the" category="DT"
+8	24,33	GATE_Token	string="guideline" lemma="guideline" category="NN"
+9	34,38	GATE_Token	string="here" lemma="here" category="RB"
+10	39,40	GATE_Token	string="." lemma="." category="."

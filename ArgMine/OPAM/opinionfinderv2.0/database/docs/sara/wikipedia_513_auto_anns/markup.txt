@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Would</MPQAPOL> be <MPQAPOL autoclass="neutral">good</MPQAPOL> if you <MPQAPOL autoclass="neutral">could</MPQAPOL> say what those <MPQAPOL autoclass="neutral">reasons</MPQAPOL> are .</MPQASENT>

@@ -1,0 +1,12 @@
+1	0,49	GATE_Sentence
+2	0,2	GATE_Token	string="``" lemma="``" category="``"
+3	3,7	GATE_Token	string="Some" lemma="some" category="DT"
+4	8,14	GATE_Token	string="people" lemma="people" category="NNS"
+5	15,17	GATE_Token	string="''" lemma="''" category="''"
+6	18,22	GATE_Token	string="here" lemma="here" category="RB"
+7	23,28	GATE_Token	string="would" lemma="would" category="MD"
+8	29,36	GATE_Token	string="include" lemma="include" category="VB"
+9	37,42	GATE_Token	string="Hamas" lemma="Hamas" category="NNP"
+10	43,44	GATE_Token	string="," lemma="," category=","
+11	45,47	GATE_Token	string="no" lemma="no" category="DT"
+12	48,49	GATE_Token	string="?" lemma="?" category="."

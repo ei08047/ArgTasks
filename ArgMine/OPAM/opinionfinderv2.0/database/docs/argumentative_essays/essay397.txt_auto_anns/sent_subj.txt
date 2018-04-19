@@ -1,0 +1,12 @@
+argumentative_essays_essay397.txt_0_183	subj
+argumentative_essays_essay397.txt_184_414	subj
+argumentative_essays_essay397.txt_415_489	obj
+argumentative_essays_essay397.txt_490_703	obj
+argumentative_essays_essay397.txt_704_779	obj
+argumentative_essays_essay397.txt_780_1050	obj
+argumentative_essays_essay397.txt_1051_1138	obj
+argumentative_essays_essay397.txt_1139_1296	obj
+argumentative_essays_essay397.txt_1297_1415	obj
+argumentative_essays_essay397.txt_1416_1516	obj
+argumentative_essays_essay397.txt_1517_1647	obj
+argumentative_essays_essay397.txt_1648_1765	obj

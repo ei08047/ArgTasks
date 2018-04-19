@@ -1,0 +1,11 @@
+1	0,46	GATE_Sentence
+2	0,2	GATE_Token	string="Or" lemma="or" category="CC"
+3	3,6	GATE_Token	string="the" lemma="the" category="DT"
+4	7,15	GATE_Token	string="children" lemma="child" category="NNS"
+5	16,18	GATE_Token	string="of" lemma="of" category="IN"
+6	19,25	GATE_Token	string="alumni" lemma="alumnus" category="NNS"
+7	26,27	GATE_Token	string="," lemma="," category=","
+8	28,30	GATE_Token	string="or" lemma="or" category="CC"
+9	31,37	GATE_Token	string="famous" lemma="famous" category="JJ"
+10	38,44	GATE_Token	string="people" lemma="people" category="NNS"
+11	45,46	GATE_Token	string="." lemma="." category="."

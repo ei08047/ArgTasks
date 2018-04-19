@@ -1,0 +1,7 @@
+1	0,30	GATE_Sentence
+2	0,6	GATE_Token	string="Martin" lemma="Martin" category="NNP"
+3	7,11	GATE_Token	string="gets" lemma="get" category="VBZ"
+4	12,15	GATE_Token	string="off" lemma="off" category="RP"
+5	16,20	GATE_Token	string="very" lemma="very" category="RB"
+6	21,28	GATE_Token	string="lightly" lemma="lightly" category="RB"
+7	29,30	GATE_Token	string="." lemma="." category="."

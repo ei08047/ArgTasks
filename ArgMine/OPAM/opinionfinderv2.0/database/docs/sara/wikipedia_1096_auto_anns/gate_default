@@ -1,0 +1,13 @@
+1	0,52	GATE_Sentence
+2	0,1	GATE_Token	string="D" lemma="d" category="NN"
+3	1,2	GATE_Token	string=")" lemma=")" category="-RRB-"
+4	3,6	GATE_Token	string="The" lemma="the" category="DT"
+5	7,13	GATE_Token	string="Arbcom" lemma="Arbcom" category="NNP"
+6	14,19	GATE_Token	string="links" lemma="link" category="NNS"
+7	20,23	GATE_Token	string="are" lemma="be" category="VBP"
+8	24,26	GATE_Token	string="in" lemma="in" category="IN"
+9	27,30	GATE_Token	string="the" lemma="the" category="DT"
+10	31,36	GATE_Token	string="first" lemma="first" category="JJ"
+11	37,44	GATE_Token	string="infobox" lemma="infobox" category="NN"
+12	45,50	GATE_Token	string="above" lemma="above" category="IN"
+13	51,52	GATE_Token	string="." lemma="." category="."

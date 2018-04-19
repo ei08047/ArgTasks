@@ -1,0 +1,11 @@
+1	0,40	GATE_Sentence
+2	0,6	GATE_Token	string="theres" lemma="there" category="NNS"
+3	7,9	GATE_Token	string="my" lemma="my" category="PRP$"
+4	10,13	GATE_Token	string="two" lemma="two" category="CD"
+5	14,19	GATE_Token	string="cents" lemma="cent" category="NNS"
+6	20,21	GATE_Token	string="," lemma="," category=","
+7	22,24	GATE_Token	string="do" lemma="do" category="VBP"
+8	25,27	GATE_Token	string="as" lemma="as" category="IN"
+9	28,31	GATE_Token	string="you" lemma="you" category="PRP"
+10	32,36	GATE_Token	string="will" lemma="will" category="MD"
+11	37,40	GATE_Token	string="..." lemma="..." category=":"

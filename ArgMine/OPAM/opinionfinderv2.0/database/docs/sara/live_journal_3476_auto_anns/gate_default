@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,3	GATE_Token	string="Yep" lemma="yep" category="RB"
+3	4,7	GATE_Token	string="..." lemma="..." category=":"
+4	8,13	GATE_Token	string="those" lemma="those" category="DT"
+5	14,19	GATE_Token	string="would" lemma="would" category="MD"
+6	20,22	GATE_Token	string="be" lemma="be" category="VB"
+7	23,26	GATE_Token	string="the" lemma="the" category="DT"
+8	27,31	GATE_Token	string="ones" lemma="one" category="NNS"
+9	32,33	GATE_Token	string="." lemma="." category="."

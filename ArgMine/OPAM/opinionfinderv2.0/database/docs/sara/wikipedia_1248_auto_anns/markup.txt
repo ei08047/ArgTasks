@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do you have a <MPQAPOL autoclass="neutral">comment</MPQAPOL> on the proposed draft ?<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

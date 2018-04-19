@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Whatever</MPQAPOL> his reasoning , people who <MPQAPOL autoclass="neutral">insisted</MPQAPOL> on staying <MPQAPOL autoclass="positive">true</MPQAPOL> to being catholic got <MPQAPOL autoclass="negative">brutally</MPQAPOL> <MPQAPOL autoclass="negative">persecuted</MPQAPOL> .</MPQASENT>

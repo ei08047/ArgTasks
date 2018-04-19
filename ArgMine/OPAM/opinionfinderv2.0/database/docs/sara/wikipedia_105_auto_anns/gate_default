@@ -1,0 +1,13 @@
+1	0,60	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,11	GATE_Token	string="really" lemma="really" category="RB"
+4	12,15	GATE_Token	string="was" lemma="be" category="VBD"
+5	16,19	GATE_Token	string="sad" lemma="sad" category="JJ"
+6	20,24	GATE_Token	string="from" lemma="from" category="IN"
+7	25,26	GATE_Token	string="a" lemma="a" category="DT"
+8	27,35	GATE_Token	string="supposed" lemma="suppose" category="VBN"
+9	36,38	GATE_Token	string="``" lemma="``" category="``"
+10	39,50	GATE_Token	string="encyclopdia" lemma="encyclopdium" category="NN"
+11	51,53	GATE_Token	string="''" lemma="''" category="''"
+12	54,58	GATE_Token	string="site" lemma="site" category="NN"
+13	59,60	GATE_Token	string="." lemma="." category="."

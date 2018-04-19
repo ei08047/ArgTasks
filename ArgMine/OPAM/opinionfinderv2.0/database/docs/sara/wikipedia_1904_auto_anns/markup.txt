@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Here is the result of the <MPQAPOL autoclass="neutral">most</MPQAPOL> recent effort of only a few weeks ago .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

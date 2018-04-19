@@ -1,0 +1,13 @@
+1	0,64	GATE_Sentence
+2	0,9	GATE_Token	string="Wikipedia" lemma="Wikipedia" category="NNP"
+3	10,15	GATE_Token	string="needs" lemma="need" category="VBZ"
+4	16,20	GATE_Token	string="some" lemma="some" category="DT"
+5	21,28	GATE_Token	string="quality" lemma="quality" category="NN"
+6	29,31	GATE_Token	string="to" lemma="to" category="TO"
+7	32,37	GATE_Token	string="raise" lemma="raise" category="VB"
+8	38,41	GATE_Token	string="its" lemma="its" category="PRP$"
+9	42,46	GATE_Token	string="head" lemma="head" category="NN"
+10	47,52	GATE_Token	string="above" lemma="above" category="IN"
+11	53,56	GATE_Token	string="the" lemma="the" category="DT"
+12	57,62	GATE_Token	string="slime" lemma="slime" category="NN"
+13	63,64	GATE_Token	string="!" lemma="!" category="."

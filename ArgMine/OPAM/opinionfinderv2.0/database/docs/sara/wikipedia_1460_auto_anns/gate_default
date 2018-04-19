@@ -1,0 +1,11 @@
+1	0,42	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,9	GATE_Token	string="basis" lemma="basis" category="NN"
+4	10,12	GATE_Token	string="of" lemma="of" category="IN"
+5	13,17	GATE_Token	string="this" lemma="this" category="DT"
+6	18,25	GATE_Token	string="article" lemma="article" category="NN"
+7	26,28	GATE_Token	string="is" lemma="be" category="VBZ"
+8	29,32	GATE_Token	string="not" lemma="not" category="RB"
+9	33,35	GATE_Token	string="at" lemma="at" category="IN"
+10	36,40	GATE_Token	string="risk" lemma="risk" category="NN"
+11	41,42	GATE_Token	string="." lemma="." category="."

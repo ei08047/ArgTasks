@@ -1,0 +1,4 @@
+sara_wikipedia_1907_7_12	neutral
+sara_wikipedia_1907_28_33	negative
+sara_wikipedia_1907_47_53	neutral
+sara_wikipedia_1907_54_57	neutral

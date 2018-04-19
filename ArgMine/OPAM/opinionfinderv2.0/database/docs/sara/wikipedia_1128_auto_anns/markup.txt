@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">An editor <MPQAPOL autoclass="neutral">So</MPQAPOL> are you <MPQAPOL autoclass="neutral">agreeing</MPQAPOL> to my suggestion ?</MPQASENT>

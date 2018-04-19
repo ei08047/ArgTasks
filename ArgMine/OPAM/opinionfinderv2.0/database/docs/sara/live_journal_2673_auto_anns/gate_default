@@ -1,0 +1,7 @@
+1	0,41	GATE_Sentence
+2	0,3	GATE_Token	string="the" lemma="the" category="DT"
+3	4,12	GATE_Token	string="drawings" lemma="drawing" category="NNS"
+4	13,16	GATE_Token	string="are" lemma="be" category="VBP"
+5	17,26	GATE_Token	string="obviously" lemma="obviously" category="RB"
+6	27,39	GATE_Token	string="breathtaking" lemma="breathtaking" category="JJ"
+7	40,41	GATE_Token	string="." lemma="." category="."

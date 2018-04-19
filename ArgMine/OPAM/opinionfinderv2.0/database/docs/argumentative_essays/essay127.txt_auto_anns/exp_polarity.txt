@@ -1,0 +1,6 @@
+argumentative_essays_essay127.txt_1652_1655	neutral
+argumentative_essays_essay127.txt_1656_1660	negative
+argumentative_essays_essay127.txt_1688_1696	neutral
+argumentative_essays_essay127.txt_1712_1724	neutral
+argumentative_essays_essay127.txt_1737_1746	neutral
+argumentative_essays_essay127.txt_1769_1773	neutral

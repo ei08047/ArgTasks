@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">qualifying</MPQAPOL> exam <MPQAPOL autoclass="neutral">looks</MPQAPOL> like this : 1 .</MPQASENT>

@@ -1,0 +1,11 @@
+1	0,30	GATE_Sentence
+2	0,2	GATE_Token	string="XD" lemma="xd" category="NN"
+3	3,4	GATE_Token	string="I" lemma="i" category="NN"
+4	5,8	GATE_Token	string="got" lemma="get" category="VBD"
+5	9,10	GATE_Token	string="a" lemma="a" category="DT"
+6	11,15	GATE_Token	string="used" lemma="use" category="VBN"
+7	16,19	GATE_Token	string="one" lemma="one" category="CD"
+8	20,23	GATE_Token	string="for" lemma="for" category="IN"
+9	24,25	GATE_Token	string="$" lemma="$" category="$"
+10	26,28	GATE_Token	string="50" lemma="50" category="CD"
+11	29,30	GATE_Token	string="." lemma="." category="."

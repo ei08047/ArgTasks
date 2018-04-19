@@ -1,0 +1,10 @@
+1	0,47	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,9	GATE_Token	string="search" lemma="search" category="NN"
+4	10,16	GATE_Token	string="search" lemma="search" category="NN"
+5	17,23	GATE_Token	string="search" lemma="search" category="NN"
+6	24,26	GATE_Token	string="\*" lemma="\*" category="SYM"
+7	27,30	GATE_Token	string="..." lemma="..." category=":"
+8	31,38	GATE_Token	string="Phillip" lemma="Phillip" category="NNP"
+9	39,45	GATE_Token	string="Pulman" lemma="Pulman" category="NNP"
+10	46,47	GATE_Token	string="?" lemma="?" category="."

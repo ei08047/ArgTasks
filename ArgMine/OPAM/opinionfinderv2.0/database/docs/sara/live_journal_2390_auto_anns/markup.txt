@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">But now <MPQAPOL autoclass="neutral">maybe</MPQAPOL> Congress will do the <MPQAPOL autoclass="neutral">right</MPQAPOL> thing after all .</MPQASENT>

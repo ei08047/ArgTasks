@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I currently <MPQAPOL autoclass="positive">support</MPQAPOL> the removal of Darwinism ( which is not a <MPQAPOL autoclass="neutral">well</MPQAPOL> defined term <MPQAPOL autoclass="neutral">anyway</MPQAPOL> )</MPQASENT>

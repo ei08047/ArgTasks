@@ -1,0 +1,11 @@
+1	0,58	GATE_Sentence
+2	0,3	GATE_Token	string="NOW" lemma="now" category="RB"
+3	4,5	GATE_Token	string="I" lemma="I" category="PRP"
+4	6,8	GATE_Token	string="AM" lemma="be" category="VBP"
+5	9,12	GATE_Token	string="OFF" lemma="OFF" category="NNP"
+6	13,15	GATE_Token	string="TO" lemma="to" category="TO"
+7	16,21	GATE_Token	string="WATCH" lemma="watch" category="VB"
+8	22,27	GATE_Token	string="PANIC" lemma="panic" category="NN"
+9	28,30	GATE_Token	string="ON" lemma="on" category="IN"
+10	31,34	GATE_Token	string="SNL" lemma="SNL" category="NNP"
+11	35,58	GATE_Token	string="!!!!!!!!!!!!!!!!!!!!!!!" lemma="!!!!!!!!!!!!!!!!!!!!!!!" category="CD"

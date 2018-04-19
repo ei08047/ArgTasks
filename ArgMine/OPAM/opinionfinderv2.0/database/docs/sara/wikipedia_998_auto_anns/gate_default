@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,3	GATE_Token	string="Wow" lemma="wow" category="UH"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,9	GATE_Token	string="how" lemma="how" category="WRB"
+5	10,19	GATE_Token	string="insulting" lemma="insulting" category="JJ"
+6	20,23	GATE_Token	string="..." lemma="..." category=":"
+7	24,30	GATE_Token	string="Albert" lemma="Albert" category="NNP"
+8	31,32	GATE_Token	string="?" lemma="?" category="."

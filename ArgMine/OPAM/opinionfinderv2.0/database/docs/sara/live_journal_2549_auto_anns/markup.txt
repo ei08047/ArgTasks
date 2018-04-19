@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Also , I have heard <MPQAPOL autoclass="neutral">arguments</MPQAPOL> on both sides of the seal hunt , without <MPQAPOL autoclass="neutral">really</MPQAPOL> having any <MPQAPOL autoclass="negative">hard</MPQAPOL> data that is <MPQAPOL autoclass="neutral">impartial</MPQAPOL> .</MPQASENT>

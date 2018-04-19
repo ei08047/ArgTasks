@@ -1,0 +1,10 @@
+1	0,44	GATE_Sentence
+2	0,4	GATE_Token	string="Next" lemma="next" category="JJ"
+3	5,6	GATE_Token	string=":" lemma=":" category=":"
+4	7,13	GATE_Token	string="saving" lemma="save" category="VBG"
+5	14,16	GATE_Token	string="up" lemma="up" category="RP"
+6	17,20	GATE_Token	string="for" lemma="for" category="IN"
+7	21,24	GATE_Token	string="the" lemma="the" category="DT"
+8	25,38	GATE_Token	string="newly-cheaper" lemma="newly-cheaper" category="JJ"
+9	39,42	GATE_Token	string="PS3" lemma="PS3" category="NNP"
+10	43,44	GATE_Token	string="." lemma="." category="."

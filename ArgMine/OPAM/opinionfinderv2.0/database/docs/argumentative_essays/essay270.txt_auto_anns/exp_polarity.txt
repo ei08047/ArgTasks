@@ -1,0 +1,7 @@
+argumentative_essays_essay270.txt_2624_2631	neutral
+argumentative_essays_essay270.txt_2696_2698	neutral
+argumentative_essays_essay270.txt_2703_2710	neutral
+argumentative_essays_essay270.txt_2735_2746	neutral
+argumentative_essays_essay270.txt_2749_2757	neutral
+argumentative_essays_essay270.txt_2762_2767	negative
+argumentative_essays_essay270.txt_2783_2787	neutral

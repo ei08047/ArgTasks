@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,7	GATE_Token	string="However" lemma="however" category="RB"
+3	8,9	GATE_Token	string="," lemma="," category=","
+4	10,14	GATE_Token	string="this" lemma="this" category="DT"
+5	15,20	GATE_Token	string="image" lemma="image" category="NN"
+6	21,25	GATE_Token	string="does" lemma="do" category="VBZ"
+7	26,29	GATE_Token	string="the" lemma="the" category="DT"
+8	30,38	GATE_Token	string="opposite" lemma="opposite" category="JJ"
+9	39,40	GATE_Token	string="." lemma="." category="."

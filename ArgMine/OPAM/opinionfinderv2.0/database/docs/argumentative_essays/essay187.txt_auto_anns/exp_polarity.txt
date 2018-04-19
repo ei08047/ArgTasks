@@ -1,0 +1,7 @@
+argumentative_essays_essay187.txt_1751_1759	neutral
+argumentative_essays_essay187.txt_1793_1797	neutral
+argumentative_essays_essay187.txt_1813_1819	positive
+argumentative_essays_essay187.txt_1820_1824	positive
+argumentative_essays_essay187.txt_1830_1840	neutral
+argumentative_essays_essay187.txt_1909_1919	neutral
+argumentative_essays_essay187.txt_1940_1948	neutral

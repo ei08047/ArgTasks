@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,10	GATE_Token	string="disagree" lemma="disagree" category="VBP"
+4	11,14	GATE_Token	string="but" lemma="but" category="CC"
+5	15,19	GATE_Token	string="have" lemma="have" category="VBP"
+6	20,27	GATE_Token	string="removed" lemma="remove" category="VBN"
+7	28,30	GATE_Token	string="it" lemma="it" category="PRP"
+8	31,32	GATE_Token	string="." lemma="." category="."

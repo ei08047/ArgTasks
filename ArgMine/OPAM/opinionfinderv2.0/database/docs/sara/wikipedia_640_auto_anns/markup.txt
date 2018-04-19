@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">With all due <MPQAPOL autoclass="positive">respect</MPQAPOL> , that is taking <MPQAPOL autoclass="neutral">liberties</MPQAPOL> with the topic .</MPQASENT>

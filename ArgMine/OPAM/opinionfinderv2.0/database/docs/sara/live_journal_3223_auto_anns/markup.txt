@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It was <MPQAPOL autoclass="neutral">just</MPQAPOL> a spur of the moment thing .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,8	GATE_Token	string="have" lemma="have" category="VBP"
+4	9,15	GATE_Token	string="proved" lemma="prove" category="VBN"
+5	16,20	GATE_Token	string="shit" lemma="shit" category="NN"
+6	21,22	GATE_Token	string="," lemma="," category=","
+7	23,29	GATE_Token	string="Albert" lemma="Albert" category="NNP"
+8	30,31	GATE_Token	string="." lemma="." category="."

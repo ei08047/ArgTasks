@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That <MPQAPOL autoclass="neutral">should</MPQAPOL> be made <MPQAPOL autoclass="neutral">clear</MPQAPOL> in the article .</MPQASENT>

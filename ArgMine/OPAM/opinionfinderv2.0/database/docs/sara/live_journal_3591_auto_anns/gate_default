@@ -1,0 +1,10 @@
+1	0,44	GATE_Sentence
+2	0,1	GATE_Token	string="A" lemma="a" category="DT"
+3	2,11	GATE_Token	string="stylistic" lemma="stylistic" category="JJ"
+4	12,20	GATE_Token	string="decision" lemma="decision" category="NN"
+5	21,26	GATE_Token	string="makes" lemma="make" category="VBZ"
+6	27,28	GATE_Token	string="a" lemma="a" category="DT"
+7	29,33	GATE_Token	string="very" lemma="very" category="RB"
+8	34,38	GATE_Token	string="good" lemma="good" category="JJ"
+9	39,42	GATE_Token	string="hat" lemma="hat" category="NN"
+10	43,44	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,52	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,13	GATE_Token	string="President" lemma="President" category="NNP"
+4	14,16	GATE_Token	string="of" lemma="of" category="IN"
+5	17,20	GATE_Token	string="the" lemma="the" category="DT"
+6	21,27	GATE_Token	string="United" lemma="United" category="NNP"
+7	28,34	GATE_Token	string="States" lemma="States" category="NNPS"
+8	35,37	GATE_Token	string="is" lemma="be" category="VBZ"
+9	38,45	GATE_Token	string="exactly" lemma="exactly" category="RB"
+10	46,50	GATE_Token	string="that" lemma="that" category="IN"
+11	51,52	GATE_Token	string="." lemma="." category="."

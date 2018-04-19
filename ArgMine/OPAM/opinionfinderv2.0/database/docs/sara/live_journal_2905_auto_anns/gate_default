@@ -1,0 +1,7 @@
+1	0,31	GATE_Sentence
+2	0,4	GATE_Token	string="love" lemma="love" category="NN"
+3	5,10	GATE_Token	string="tooth" lemma="tooth" category="NN"
+4	11,18	GATE_Token	string="picking" lemma="pick" category="VBG"
+5	19,21	GATE_Token	string="up" lemma="up" category="RP"
+6	22,29	GATE_Token	string="through" lemma="through" category="IN"
+7	30,31	GATE_Token	string="." lemma="." category="."

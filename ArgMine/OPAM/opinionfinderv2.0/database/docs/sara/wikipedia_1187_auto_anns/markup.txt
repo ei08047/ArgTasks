@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am <MPQAPOL autoclass="negative">very</MPQAPOL> <MPQAPOL autoclass="negative">sorry</MPQAPOL> : that crucial <MPQAPOL autoclass="neutral">point</MPQAPOL> got <MPQAPOL autoclass="neutral">lost</MPQAPOL> in all the volumes of discussion .</MPQASENT>

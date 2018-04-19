@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">But that is <MPQAPOL autoclass="neutral">rather</MPQAPOL> a <MPQAPOL autoclass="neutral">curious</MPQAPOL> result from the scientific dogma itself .</MPQASENT>

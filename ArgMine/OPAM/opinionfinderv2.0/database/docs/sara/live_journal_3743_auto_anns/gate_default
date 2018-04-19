@@ -1,0 +1,12 @@
+1	0,47	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,4	GATE_Token	string="am" lemma="be" category="VBP"
+4	5,9	GATE_Token	string="glad" lemma="glad" category="JJ"
+5	10,13	GATE_Token	string="you" lemma="you" category="PRP"
+6	14,17	GATE_Token	string="had" lemma="have" category="VBD"
+7	18,22	GATE_Token	string="each" lemma="each" category="DT"
+8	23,28	GATE_Token	string="other" lemma="other" category="JJ"
+9	29,34	GATE_Token	string="while" lemma="while" category="IN"
+10	35,38	GATE_Token	string="you" lemma="you" category="PRP"
+11	39,42	GATE_Token	string="did" lemma="do" category="VBD"
+12	43,47	GATE_Token	string="xxxx" lemma="xxxx" category="NN"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If you are <MPQAPOL autoclass="neutral">looking</MPQAPOL> for a founding ` event ' for partition , that is your starting <MPQAPOL autoclass="neutral">point</MPQAPOL> .</MPQASENT>

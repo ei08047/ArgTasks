@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">just</MPQAPOL> remember , <MPQAPOL autoclass="neutral">even</MPQAPOL> superman <MPQAPOL autoclass="negative">falls</MPQAPOL> .</MPQASENT>

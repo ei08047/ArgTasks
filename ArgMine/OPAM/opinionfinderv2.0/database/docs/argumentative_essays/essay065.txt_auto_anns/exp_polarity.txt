@@ -1,0 +1,5 @@
+argumentative_essays_essay065.txt_1905_1910	positive
+argumentative_essays_essay065.txt_1924_1930	neutral
+argumentative_essays_essay065.txt_1979_1985	neutral
+argumentative_essays_essay065.txt_2003_2015	positive
+argumentative_essays_essay065.txt_2055_2064	neutral

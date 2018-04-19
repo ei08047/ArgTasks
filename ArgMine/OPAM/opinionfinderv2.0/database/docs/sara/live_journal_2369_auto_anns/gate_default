@@ -1,0 +1,9 @@
+1	0,35	GATE_Sentence
+2	0,3	GATE_Token	string="how" lemma="how" category="WRB"
+3	4,7	GATE_Token	string="did" lemma="do" category="VBD"
+4	8,11	GATE_Token	string="you" lemma="you" category="PRP"
+5	12,16	GATE_Token	string="know" lemma="know" category="VBP"
+6	17,19	GATE_Token	string="it" lemma="it" category="PRP"
+7	20,23	GATE_Token	string="was" lemma="be" category="VBD"
+8	24,31	GATE_Token	string="raining" lemma="rain" category="VBG"
+9	32,35	GATE_Token	string="???" lemma="???" category="CD"

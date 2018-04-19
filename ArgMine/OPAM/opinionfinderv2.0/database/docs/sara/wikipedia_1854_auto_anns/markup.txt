@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That is a <MPQAPOL autoclass="neutral">rather</MPQAPOL> Islamic first name if ever I heard one .</MPQASENT>

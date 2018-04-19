@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">but sleeping <MPQAPOL autoclass="neutral">too</MPQAPOL> <MPQAPOL autoclass="negative">much</MPQAPOL> isnt <MPQAPOL autoclass="positive">good</MPQAPOL> for you .</MPQASENT>

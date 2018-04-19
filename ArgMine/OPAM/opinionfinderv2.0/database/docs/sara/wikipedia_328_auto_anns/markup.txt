@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am <MPQAPOL autoclass="negative">sorry</MPQAPOL> , Nancy , I do not <MPQAPOL autoclass="neutral">understand</MPQAPOL> how this version is anti-Catholic .</MPQASENT>

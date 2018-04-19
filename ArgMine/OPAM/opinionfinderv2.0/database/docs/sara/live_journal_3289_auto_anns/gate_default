@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,9	GATE_Token	string="Wednesday" lemma="Wednesday" category="NNP"
+3	10,17	GATE_Token	string="evening" lemma="evening" category="NN"
+4	18,19	GATE_Token	string="," lemma="," category=","
+5	20,24	GATE_Token	string="love" lemma="love" category="NN"
+6	25,29	GATE_Token	string="will" lemma="will" category="MD"
+7	30,33	GATE_Token	string="win" lemma="win" category="VB"
+8	34,37	GATE_Token	string="out" lemma="out" category="RP"
+9	38,40	GATE_Token	string="!!" lemma="!!" category="IN"

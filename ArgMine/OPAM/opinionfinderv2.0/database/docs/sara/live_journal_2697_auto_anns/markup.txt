@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Oh</MPQAPOL> and you get the Pink Panther <MPQAPOL autoclass="negative">curse</MPQAPOL> <MPQAPOL autoclass="negative">too</MPQAPOL> , <MPQAPOL autoclass="negative">unfortunately</MPQAPOL> .</MPQASENT>

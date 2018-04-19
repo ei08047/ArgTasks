@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">the english word <MPQAPOL autoclass="neutral">claim</MPQAPOL> <MPQAPOL autoclass="neutral">easily</MPQAPOL> fits the quote `` we do not <MPQAPOL autoclass="neutral">accept</MPQAPOL> this <MPQAPOL autoclass="neutral">claim</MPQAPOL> '' .</MPQASENT>

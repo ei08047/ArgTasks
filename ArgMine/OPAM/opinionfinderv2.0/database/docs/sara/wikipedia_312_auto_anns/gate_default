@@ -1,0 +1,12 @@
+1	0,66	GATE_Sentence
+2	0,8	GATE_Token	string="Changing" lemma="change" category="VBG"
+3	9,11	GATE_Token	string="it" lemma="it" category="PRP"
+4	12,16	GATE_Token	string="will" lemma="will" category="MD"
+5	17,21	GATE_Token	string="make" lemma="make" category="VB"
+6	22,24	GATE_Token	string="it" lemma="it" category="PRP"
+7	25,28	GATE_Token	string="POV" lemma="pov" category="NN"
+8	29,42	GATE_Token	string="anti-Catholic" lemma="anti-catholic" category="JJ"
+9	43,46	GATE_Token	string="and" lemma="and" category="CC"
+10	47,56	GATE_Token	string="factually" lemma="factually" category="RB"
+11	57,64	GATE_Token	string="lacking" lemma="lack" category="VBG"
+12	65,66	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Our objective is <MPQAPOL autoclass="neutral">constructive</MPQAPOL> <MPQAPOL autoclass="negative">criticism</MPQAPOL> and not the sharing of <MPQAPOL autoclass="negative">negative</MPQAPOL> <MPQAPOL autoclass="negative">opinions</MPQAPOL> .</MPQASENT>

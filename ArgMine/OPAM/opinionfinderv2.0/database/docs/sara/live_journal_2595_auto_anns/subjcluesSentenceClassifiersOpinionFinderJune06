@@ -1,0 +1,2 @@
+1	30,34	matchfeat	type="trainJWman" mpqapolarity="weakpos"
+2	35,39	matchfeat	type="PolMmanweak" mpqapolarity="strongneg"

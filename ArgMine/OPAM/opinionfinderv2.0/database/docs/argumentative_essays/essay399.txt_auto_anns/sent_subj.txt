@@ -1,0 +1,12 @@
+argumentative_essays_essay399.txt_0_153	subj
+argumentative_essays_essay399.txt_154_341	subj
+argumentative_essays_essay399.txt_342_430	obj
+argumentative_essays_essay399.txt_431_526	subj
+argumentative_essays_essay399.txt_527_646	subj
+argumentative_essays_essay399.txt_647_738	subj
+argumentative_essays_essay399.txt_739_786	obj
+argumentative_essays_essay399.txt_787_952	obj
+argumentative_essays_essay399.txt_953_1074	subj
+argumentative_essays_essay399.txt_1075_1307	subj
+argumentative_essays_essay399.txt_1308_1391	subj
+argumentative_essays_essay399.txt_1392_1550	subj

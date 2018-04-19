@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="have" lemma="have" category="VBP"
+4	7,11	GATE_Token	string="been" lemma="be" category="VBN"
+5	12,19	GATE_Token	string="lurking" lemma="lurk" category="VBG"
+6	20,26	GATE_Token	string="around" lemma="around" category="IN"
+7	27,31	GATE_Token	string="your" lemma="you" category="PRP$"
+8	32,39	GATE_Token	string="journal" lemma="journal" category="NN"
+9	40,43	GATE_Token	string="for" lemma="for" category="IN"
+10	44,45	GATE_Token	string="a" lemma="a" category="DT"
+11	46,51	GATE_Token	string="while" lemma="while" category="NN"
+12	52,53	GATE_Token	string="." lemma="." category="."

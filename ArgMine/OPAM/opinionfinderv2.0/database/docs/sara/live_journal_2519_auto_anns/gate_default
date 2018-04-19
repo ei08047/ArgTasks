@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,3	GATE_Token	string="Not" lemma="not" category="RB"
+3	4,8	GATE_Token	string="just" lemma="just" category="RB"
+4	9,17	GATE_Token	string="villains" lemma="villain" category="NNS"
+5	18,19	GATE_Token	string="," lemma="," category=","
+6	20,21	GATE_Token	string="I" lemma="I" category="PRP"
+7	22,25	GATE_Token	string="had" lemma="have" category="VBD"
+8	26,31	GATE_Token	string="wager" lemma="wager" category="NN"
+9	32,33	GATE_Token	string="." lemma="." category="."

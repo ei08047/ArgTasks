@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,6	GATE_Token	string="Adding" lemma="add" category="VBG"
+3	7,16	GATE_Token	string="chocolate" lemma="chocolate" category="NN"
+4	17,22	GATE_Token	string="chips" lemma="chip" category="NNS"
+5	23,26	GATE_Token	string="was" lemma="be" category="VBD"
+6	27,30	GATE_Token	string="n't" lemma="not" category="RB"
+7	31,34	GATE_Token	string="the" lemma="the" category="DT"
+8	35,41	GATE_Token	string="answer" lemma="answer" category="NN"
+9	42,43	GATE_Token	string="." lemma="." category="."

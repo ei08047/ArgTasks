@@ -1,0 +1,13 @@
+1	0,81	GATE_Sentence
+2	0,3	GATE_Token	string="FYI" lemma="FYI" category="NNP"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,9	GATE_Token	string="the" lemma="the" category="DT"
+5	10,14	GATE_Token	string="link" lemma="link" category="NN"
+6	15,36	GATE_Token	string="www.lashtal.com/wiki/" lemma="www.lashtal.com/wiki/" category="NN"
+7	37,43	GATE_Token	string="Please" lemma="please" category="VB"
+8	44,48	GATE_Token	string="stop" lemma="stop" category="VB"
+9	49,55	GATE_Token	string="Source" lemma="source" category="NN"
+10	56,66	GATE_Token	string="soliciting" lemma="solicit" category="VBG"
+11	67,71	GATE_Token	string="your" lemma="you" category="PRP$"
+12	72,79	GATE_Token	string="Website" lemma="website" category="NN"
+13	80,81	GATE_Token	string="." lemma="." category="."

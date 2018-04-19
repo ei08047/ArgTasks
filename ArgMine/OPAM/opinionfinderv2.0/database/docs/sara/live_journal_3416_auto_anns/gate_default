@@ -1,0 +1,13 @@
+1	0,51	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,6	GATE_Token	string="he" lemma="he" category="PRP"
+4	7,12	GATE_Token	string="rapes" lemma="rape" category="VBZ"
+5	13,16	GATE_Token	string="the" lemma="the" category="DT"
+6	17,21	GATE_Token	string="poor" lemma="poor" category="JJ"
+7	22,28	GATE_Token	string="chooks" lemma="chook" category="NNS"
+8	29,33	GATE_Token	string="more" lemma="more" category="RBR"
+9	34,38	GATE_Token	string="than" lemma="than" category="IN"
+10	39,43	GATE_Token	string="once" lemma="once" category="RB"
+11	44,45	GATE_Token	string="a" lemma="a" category="DT"
+12	46,49	GATE_Token	string="day" lemma="day" category="NN"
+13	50,51	GATE_Token	string="." lemma="." category="."

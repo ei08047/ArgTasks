@@ -1,0 +1,15 @@
+1	0,75	GATE_Sentence
+2	0,3	GATE_Token	string="Can" lemma="can" category="MD"
+3	4,10	GATE_Token	string="anyone" lemma="anyone" category="NN"
+4	11,14	GATE_Token	string="see" lemma="see" category="VB"
+5	15,16	GATE_Token	string="a" lemma="a" category="DT"
+6	17,23	GATE_Token	string="better" lemma="better" category="JJR"
+7	24,27	GATE_Token	string="way" lemma="way" category="NN"
+8	28,30	GATE_Token	string="of" lemma="of" category="IN"
+9	31,41	GATE_Token	string="succinctly" lemma="succinctly" category="RB"
+10	42,55	GATE_Token	string="accommodating" lemma="accommodate" category="VBG"
+11	56,60	GATE_Token	string="both" lemma="both" category="DT"
+12	61,73	GATE_Token	string="perspectives" lemma="perspective" category="NNS"
+13	74,75	GATE_Token	string="?" lemma="?" category="."
+14	75,77	GATE_Sentence
+15	75,77	GATE_Token	string="--" lemma="--" category=":"

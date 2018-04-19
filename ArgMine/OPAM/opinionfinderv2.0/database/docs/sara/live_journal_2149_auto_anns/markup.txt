@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">\* clings back \* It is a <MPQAPOL autoclass="neutral">miracle</MPQAPOL> to return with my house <MPQAPOL autoclass="neutral">still</MPQAPOL> <MPQAPOL autoclass="positive">standing</MPQAPOL> !</MPQASENT>

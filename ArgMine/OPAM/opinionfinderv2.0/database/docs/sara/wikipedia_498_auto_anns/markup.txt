@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I see that we have again a new lead image , the skull from the painting <MPQAPOL autoclass="neutral">isolated</MPQAPOL> , which I <MPQAPOL autoclass="neutral">think</MPQAPOL> is <MPQAPOL autoclass="neutral">good</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,25	GATE_Sentence
+2	0,1	GATE_Token	string="(" lemma="(" category="-LRB-"
+3	2,4	GATE_Token	string="It" lemma="it" category="PRP"
+4	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+5	8,11	GATE_Token	string="the" lemma="the" category="DT"
+6	12,19	GATE_Token	string="airport" lemma="airport" category="NN"
+7	20,23	GATE_Token	string="boy" lemma="boy" category="NN"
+8	24,25	GATE_Token	string=")" lemma=")" category="-RRB-"

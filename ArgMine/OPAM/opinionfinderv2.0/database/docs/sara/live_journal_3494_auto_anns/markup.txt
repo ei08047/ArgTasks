@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">know</MPQAPOL> because I only listen to the Beatles and Weezer , and it is <MPQAPOL autoclass="neutral">definitely</MPQAPOL> the Beatles .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">important</MPQAPOL> information conveyed by the sentence in question is that Basque is a language isolate .</MPQASENT>

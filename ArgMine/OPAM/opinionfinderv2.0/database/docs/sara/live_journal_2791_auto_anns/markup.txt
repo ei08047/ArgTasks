@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">It is <MPQAPOL autoclass="neutral">durable</MPQAPOL> , and smells <MPQAPOL autoclass="neutral">lovely</MPQAPOL> , and is <MPQAPOL autoclass="neutral">protective</MPQAPOL> , and malleable .</MPQASENT>

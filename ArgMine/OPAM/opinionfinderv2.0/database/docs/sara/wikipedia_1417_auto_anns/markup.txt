@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I am not <MPQAPOL autoclass="negative">happy</MPQAPOL> about (2) , as I was part of the <MPQAPOL autoclass="neutral">consensus</MPQAPOL> that led to the present solution .</MPQASENT>

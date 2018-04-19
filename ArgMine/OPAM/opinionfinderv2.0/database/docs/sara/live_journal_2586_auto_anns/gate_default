@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,4	GATE_Token	string="cook" lemma="cook" category="NN"
+3	5,11	GATE_Token	string="dinner" lemma="dinner" category="NN"
+4	12,15	GATE_Token	string="for" lemma="for" category="IN"
+5	16,20	GATE_Token	string="alot" lemma="alot" category="NN"
+6	21,23	GATE_Token	string="of" lemma="of" category="IN"
+7	24,28	GATE_Token	string="them" lemma="they" category="PRP"
+8	29,30	GATE_Token	string="." lemma="." category="."

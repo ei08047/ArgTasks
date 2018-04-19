@@ -1,0 +1,7 @@
+1	0,32	GATE_Sentence
+2	0,6	GATE_Token	string="Sounds" lemma="sound" category="VBZ"
+3	7,12	GATE_Token	string="great" lemma="great" category="JJ"
+4	13,20	GATE_Token	string="already" lemma="already" category="RB"
+5	21,22	GATE_Token	string="," lemma="," category=","
+6	23,30	GATE_Token	string="bitches" lemma="bitch" category="NNS"
+7	31,32	GATE_Token	string="." lemma="." category="."

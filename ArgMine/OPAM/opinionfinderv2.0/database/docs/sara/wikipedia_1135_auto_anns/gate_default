@@ -1,0 +1,18 @@
+1	0,87	GATE_Sentence
+2	0,3	GATE_Token	string="How" lemma="how" category="WRB"
+3	4,7	GATE_Token	string="are" lemma="be" category="VBP"
+4	8,11	GATE_Token	string="you" lemma="you" category="PRP"
+5	12,19	GATE_Token	string="getting" lemma="get" category="VBG"
+6	20,22	GATE_Token	string="on" lemma="on" category="IN"
+7	23,27	GATE_Token	string="with" lemma="with" category="IN"
+8	28,35	GATE_Token	string="finding" lemma="finding" category="NN"
+9	36,46	GATE_Token	string="references" lemma="reference" category="NNS"
+10	47,50	GATE_Token	string="for" lemma="for" category="IN"
+11	51,54	GATE_Token	string="the" lemma="the" category="DT"
+12	55,57	GATE_Token	string="``" lemma="``" category="``"
+13	58,72	GATE_Token	string="administrative" lemma="administrative" category="JJ"
+14	73,75	GATE_Token	string="''" lemma="''" category="''"
+15	76,85	GATE_Token	string="adjective" lemma="adjective" category="NN"
+16	86,87	GATE_Token	string="." lemma="." category="."
+17	87,89	GATE_Sentence
+18	87,89	GATE_Token	string="--" lemma="--" category=":"

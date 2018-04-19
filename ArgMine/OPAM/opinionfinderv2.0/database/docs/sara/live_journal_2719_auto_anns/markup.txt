@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am <MPQAPOL autoclass="negative">sick</MPQAPOL> and exams have started and I am a <MPQAPOL autoclass="negative">terrible</MPQAPOL> , <MPQAPOL autoclass="negative">terrible</MPQAPOL> person .</MPQASENT>

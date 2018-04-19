@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It is not a secret that politicians <MPQAPOL autoclass="neutral">lie</MPQAPOL> ... My <MPQAPOL autoclass="neutral">position</MPQAPOL> is to state the <MPQAPOL autoclass="neutral">facts</MPQAPOL> ... ... .</MPQASENT>

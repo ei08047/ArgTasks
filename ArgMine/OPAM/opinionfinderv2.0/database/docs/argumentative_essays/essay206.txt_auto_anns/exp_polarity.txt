@@ -1,0 +1,7 @@
+argumentative_essays_essay206.txt_1900_1907	neutral
+argumentative_essays_essay206.txt_1917_1924	neutral
+argumentative_essays_essay206.txt_1925_1929	neutral
+argumentative_essays_essay206.txt_1966_1975	positive
+argumentative_essays_essay206.txt_1980_1990	positive
+argumentative_essays_essay206.txt_2000_2007	negative
+argumentative_essays_essay206.txt_2012_2018	negative

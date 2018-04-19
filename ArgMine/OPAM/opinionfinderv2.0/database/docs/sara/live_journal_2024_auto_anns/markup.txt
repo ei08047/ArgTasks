@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">oh</MPQAPOL> <MPQAPOL autoclass="neutral">yes</MPQAPOL> , i got the extended 3 year warranty for it <MPQAPOL autoclass="neutral">too</MPQAPOL> !</MPQASENT>

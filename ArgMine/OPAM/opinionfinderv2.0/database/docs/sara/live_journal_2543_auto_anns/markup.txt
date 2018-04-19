@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I thoroughly <MPQAPOL autoclass="positive">enjoyed</MPQAPOL> it , <MPQAPOL autoclass="neutral">less</MPQAPOL> for the whinging and more for the <MPQAPOL autoclass="neutral">astute</MPQAPOL> observations of Hollywood culture .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Mike , the words of Jesus are <MPQAPOL autoclass="neutral">still</MPQAPOL> used in the consecration - what are you <MPQAPOL autoclass="neutral">trying</MPQAPOL> to do ?</MPQASENT>

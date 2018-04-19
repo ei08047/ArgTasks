@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Yeah</MPQAPOL> for the <MPQAPOL autoclass="neutral">most</MPQAPOL> part , but I am <MPQAPOL autoclass="positive">sure</MPQAPOL> taking <MPQAPOL autoclass="negative">whatever</MPQAPOL> crank makes isnt <MPQAPOL autoclass="negative">entirely</MPQAPOL> legal either .</MPQASENT>

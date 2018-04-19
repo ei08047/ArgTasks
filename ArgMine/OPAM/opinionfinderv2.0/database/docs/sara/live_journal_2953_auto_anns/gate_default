@@ -1,0 +1,13 @@
+1	0,58	GATE_Sentence
+2	0,10	GATE_Token	string="clementine" lemma="clementine" category="NN"
+3	11,13	GATE_Token	string="is" lemma="be" category="VBZ"
+4	14,20	GATE_Token	string="almost" lemma="almost" category="RB"
+5	21,23	GATE_Token	string="14" lemma="14" category="CD"
+6	24,30	GATE_Token	string="months" lemma="month" category="NNS"
+7	31,34	GATE_Token	string="old" lemma="old" category="JJ"
+8	35,38	GATE_Token	string="and" lemma="and" category="CC"
+9	39,42	GATE_Token	string="she" lemma="she" category="PRP"
+10	43,45	GATE_Token	string="is" lemma="be" category="VBZ"
+11	46,48	GATE_Token	string="so" lemma="so" category="RB"
+12	49,56	GATE_Token	string="amazing" lemma="amazing" category="JJ"
+13	57,58	GATE_Token	string="." lemma="." category="."

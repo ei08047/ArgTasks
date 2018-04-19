@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">most</MPQAPOL> <MPQAPOL autoclass="neutral">clear</MPQAPOL> example that non all energy is <MPQAPOL autoclass="neutral">lost</MPQAPOL> into space is that we have <MPQAPOL autoclass="positive">warm</MPQAPOL> weather .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

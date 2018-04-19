@@ -1,0 +1,12 @@
+1	0,61	GATE_Sentence
+2	0,3	GATE_Token	string="Can" lemma="can" category="MD"
+3	4,7	GATE_Token	string="not" lemma="not" category="RB"
+4	8,10	GATE_Token	string="we" lemma="we" category="PRP"
+5	11,15	GATE_Token	string="just" lemma="just" category="RB"
+6	16,21	GATE_Token	string="state" lemma="state" category="VBP"
+7	22,25	GATE_Token	string="WHO" lemma="who" category="WP"
+8	26,39	GATE_Token	string="characterized" lemma="characterize" category="VBD"
+9	40,42	GATE_Token	string="it" lemma="it" category="PRP"
+10	43,45	GATE_Token	string="as" lemma="as" category="IN"
+11	46,59	GATE_Token	string="pseudoscience" lemma="pseudoscience" category="NN"
+12	60,61	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,8	GATE_Token	string="Earplugs" lemma="earplug" category="NNS"
+3	9,12	GATE_Token	string="are" lemma="be" category="VBP"
+4	13,16	GATE_Token	string="the" lemma="the" category="DT"
+5	17,22	GATE_Token	string="smart" lemma="smart" category="JJ"
+6	23,28	GATE_Token	string="thing" lemma="thing" category="NN"
+7	29,31	GATE_Token	string="to" lemma="to" category="TO"
+8	32,34	GATE_Token	string="do" lemma="do" category="VB"
+9	35,36	GATE_Token	string="." lemma="." category="."

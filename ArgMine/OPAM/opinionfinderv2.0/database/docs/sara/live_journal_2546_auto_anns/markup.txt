@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Plus <MPQAPOL autoclass="negative">criticisms</MPQAPOL> like that , coming from someone who <MPQAPOL autoclass="neutral">lost</MPQAPOL> , <MPQAPOL autoclass="neutral">just</MPQAPOL> come off as petty .</MPQASENT>

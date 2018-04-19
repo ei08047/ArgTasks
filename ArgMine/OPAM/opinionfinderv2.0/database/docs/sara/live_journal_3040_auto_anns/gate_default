@@ -1,0 +1,12 @@
+1	0,42	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,5	GATE_Token	string="did" lemma="do" category="VBD"
+4	6,9	GATE_Token	string="not" lemma="not" category="RB"
+5	10,14	GATE_Token	string="have" lemma="have" category="VB"
+6	15,19	GATE_Token	string="time" lemma="time" category="NN"
+7	20,22	GATE_Token	string="to" lemma="to" category="TO"
+8	23,27	GATE_Token	string="drop" lemma="drop" category="VB"
+9	28,30	GATE_Token	string="by" lemma="by" category="IN"
+10	31,34	GATE_Token	string="P&T" lemma="P&T" category="NNP"
+11	35,40	GATE_Token	string="today" lemma="today" category="NN"
+12	41,42	GATE_Token	string="." lemma="." category="."

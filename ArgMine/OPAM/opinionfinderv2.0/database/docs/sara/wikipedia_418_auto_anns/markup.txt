@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">OK , but as it is repeated , <MPQAPOL autoclass="neutral">should</MPQAPOL> the copy in the lede stay ?</MPQASENT>

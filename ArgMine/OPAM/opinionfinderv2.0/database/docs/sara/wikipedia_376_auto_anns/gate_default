@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,12	GATE_Token	string="Crusades" lemma="crusade" category="NNS"
+4	13,17	GATE_Token	string="were" lemma="be" category="VBD"
+5	18,25	GATE_Token	string="another" lemma="another" category="DT"
+6	26,34	GATE_Token	string="surprise" lemma="surprise" category="NN"
+7	35,38	GATE_Token	string="for" lemma="for" category="IN"
+8	39,41	GATE_Token	string="me" lemma="I" category="PRP"
+9	42,43	GATE_Token	string="." lemma="." category="."

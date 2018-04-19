@@ -1,0 +1,4 @@
+argumentative_essays_essay032.txt_2309_2316	positive
+argumentative_essays_essay032.txt_2356_2360	neutral
+argumentative_essays_essay032.txt_2371_2376	neutral
+argumentative_essays_essay032.txt_2457_2463	positive

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Theocratic news organs are not <MPQAPOL autoclass="neutral">reliable</MPQAPOL> sources and <MPQAPOL autoclass="neutral">should</MPQAPOL> always be treated with care .</MPQASENT>

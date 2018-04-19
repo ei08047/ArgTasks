@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">do you <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="negative">think</MPQAPOL> that this article <MPQAPOL autoclass="neutral">should</MPQAPOL> change <MPQAPOL autoclass="neutral">according</MPQAPOL> to the last ever quote of AM <MPQAPOL autoclass="neutral">regarding</MPQAPOL> the holocaust ?</MPQASENT>

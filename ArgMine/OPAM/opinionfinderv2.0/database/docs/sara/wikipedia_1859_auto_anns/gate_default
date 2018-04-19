@@ -1,0 +1,12 @@
+1	0,38	GATE_Sentence
+2	0,4	GATE_Token	string="Also" lemma="also" category="RB"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,10	GATE_Token	string="her" lemma="she" category="PRP$"
+5	11,15	GATE_Token	string="next" lemma="next" category="JJ"
+6	16,21	GATE_Token	string="album" lemma="album" category="NN"
+7	22,24	GATE_Token	string="is" lemma="be" category="VBZ"
+8	25,31	GATE_Token	string="months" lemma="month" category="NNS"
+9	32,36	GATE_Token	string="away" lemma="away" category="RB"
+10	37,38	GATE_Token	string="." lemma="." category="."
+11	38,40	GATE_Sentence
+12	38,40	GATE_Token	string="--" lemma="--" category=":"

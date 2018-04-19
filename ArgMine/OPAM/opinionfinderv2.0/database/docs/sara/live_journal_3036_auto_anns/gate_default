@@ -1,0 +1,12 @@
+1	0,46	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,8	GATE_Token	string="sends" lemma="send" category="VBZ"
+4	9,15	GATE_Token	string="XTREME" lemma="XTREME" category="NNP"
+5	16,19	GATE_Token	string="hmv" lemma="hmv" category="NN"
+6	20,24	GATE_Token	string="luck" lemma="luck" category="NN"
+7	25,27	GATE_Token	string="\*" lemma="\*" category="SYM"
+8	28,32	GATE_Token	string="many" lemma="many" category="JJ"
+9	33,37	GATE_Token	string="luck" lemma="luck" category="NN"
+10	38,40	GATE_Token	string="to" lemma="to" category="TO"
+11	41,44	GATE_Token	string="YOU" lemma="you" category="PRP"
+12	45,46	GATE_Token	string="!" lemma="!" category="."

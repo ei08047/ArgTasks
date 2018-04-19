@@ -1,0 +1,77 @@
+C:\Users\Ze\AppData\Local\Programs\Python\Python36-32\python.exe C:/Users/Ze/Desktop/ArgMineCode.tar/ArgMineCode/ArgMine/asd_en/EnglishASD.py
+
+ Loading Configurations ...
+
+
+ Loading Dataset ...
+
+starting addLearningInstancesToDataset
+ended addLearningInstancesToDataset
+no. argumentative sentences= 5510
+no. not argumentative sentences= 1229
+total no. of sentences= 6739
+config and test done
+
+
++++++   Argumentative Sentence Detection   +++++
+
+
+
+
+++++   arguing_lexicon   ++++
+
+
+
+Saving DatasetLoader to pickled file ...
+starting getTrainingTestSetSplit
+ended getTrainingTestSetSplit
+pipe done
+time to learn
+ Building Pipeline ...
+
+ Obtaining Predictions ...
+
+
+[Cross-validation performed in 1213.2440075874329 sec.]
+
+
+Cross Validation Metrics - Training data:
+
+Accuracy= 0.40928347762
+
+Confusion Matrix:
+[[ 848  129]
+ [3078 1374]]
+             precision    recall  f1-score   support
+
+no argument       0.22      0.87      0.35       977
+   argument       0.91      0.31      0.46      4452
+
+avg / total       0.79      0.41      0.44      5429
+
+
+ Saving model (pipeline) ...
+Test data length: 1310
+
+Evaluation Metrics - Test Set:
+
+Accuracy= 0.412213740458
+
+Confusion Matrix:
+[[211  41]
+ [729 329]]
+             precision    recall  f1-score   support
+
+no argument       0.22      0.84      0.35       252
+   argument       0.89      0.31      0.46      1058
+
+avg / total       0.76      0.41      0.44      1310
+
+
+[Learning Process performed in 1390.1203515529633 sec.]
+
+
+
+The end!
+
+Process finished with exit code 0

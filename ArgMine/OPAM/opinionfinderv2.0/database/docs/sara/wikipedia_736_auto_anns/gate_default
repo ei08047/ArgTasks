@@ -1,0 +1,13 @@
+1	0,61	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,6	GATE_Token	string="has" lemma="have" category="VBZ"
+4	7,12	GATE_Token	string="never" lemma="never" category="RB"
+5	13,17	GATE_Token	string="been" lemma="be" category="VBN"
+6	18,23	GATE_Token	string="shown" lemma="show" category="VBN"
+7	24,28	GATE_Token	string="that" lemma="that" category="IN"
+8	29,35	GATE_Token	string="Israel" lemma="Israel" category="NNP"
+9	36,41	GATE_Token	string="tried" lemma="try" category="VBD"
+10	42,44	GATE_Token	string="to" lemma="to" category="TO"
+11	45,49	GATE_Token	string="kill" lemma="kill" category="VB"
+12	50,59	GATE_Token	string="civilians" lemma="civilian" category="NNS"
+13	60,61	GATE_Token	string="." lemma="." category="."

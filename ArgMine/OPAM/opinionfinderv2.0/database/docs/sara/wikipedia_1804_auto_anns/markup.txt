@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The extra info makes the sentence <MPQAPOL autoclass="neutral">feel</MPQAPOL> like a jolting roller-coaster of topics without stopping for a period break .</MPQASENT>

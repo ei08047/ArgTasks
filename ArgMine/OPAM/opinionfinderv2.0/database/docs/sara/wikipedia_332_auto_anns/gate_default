@@ -1,0 +1,9 @@
+1	0,42	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,10	GATE_Token	string="disagree" lemma="disagree" category="VBP"
+4	11,15	GATE_Token	string="with" lemma="with" category="IN"
+5	16,20	GATE_Token	string="both" lemma="both" category="DT"
+6	21,23	GATE_Token	string="of" lemma="of" category="IN"
+7	24,28	GATE_Token	string="your" lemma="you" category="PRP$"
+8	29,40	GATE_Token	string="perceptions" lemma="perception" category="NNS"
+9	41,42	GATE_Token	string="." lemma="." category="."

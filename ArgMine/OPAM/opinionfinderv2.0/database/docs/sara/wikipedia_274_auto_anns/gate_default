@@ -1,0 +1,10 @@
+1	0,43	GATE_Sentence
+2	0,3	GATE_Token	string="How" lemma="how" category="WRB"
+3	4,6	GATE_Token	string="do" lemma="do" category="VBP"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,17	GATE_Token	string="people" lemma="people" category="NNS"
+6	18,22	GATE_Token	string="here" lemma="here" category="RB"
+7	23,27	GATE_Token	string="view" lemma="view" category="VBP"
+8	28,30	GATE_Token	string="my" lemma="my" category="PRP$"
+9	31,41	GATE_Token	string="perception" lemma="perception" category="NN"
+10	42,43	GATE_Token	string="." lemma="." category="."

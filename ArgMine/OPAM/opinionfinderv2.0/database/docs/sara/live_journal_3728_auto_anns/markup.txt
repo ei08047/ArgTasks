@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I was <MPQAPOL autoclass="neutral">truly</MPQAPOL> <MPQAPOL autoclass="negative">flabbergasted</MPQAPOL> , and a <MPQAPOL autoclass="negative">little</MPQAPOL> <MPQAPOL autoclass="negative">disgusted</MPQAPOL> with the state of <MPQAPOL autoclass="negative">humanity</MPQAPOL> when I saw them .</MPQASENT>

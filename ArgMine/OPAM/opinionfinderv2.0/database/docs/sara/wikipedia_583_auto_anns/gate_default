@@ -1,0 +1,13 @@
+1	0,73	GATE_Sentence
+2	0,4	GATE_Token	string="They" lemma="they" category="PRP"
+3	5,8	GATE_Token	string="are" lemma="be" category="VBP"
+4	9,17	GATE_Token	string="theories" lemma="theory" category="NNS"
+5	18,20	GATE_Token	string="or" lemma="or" category="CC"
+6	21,30	GATE_Token	string="paradigms" lemma="paradigm" category="NNS"
+7	31,36	GATE_Token	string="which" lemma="which" category="WDT"
+8	37,47	GATE_Token	string="themselves" lemma="themselves" category="PRP"
+9	48,54	GATE_Token	string="depend" lemma="depend" category="VBP"
+10	55,57	GATE_Token	string="on" lemma="on" category="IN"
+11	58,65	GATE_Token	string="certain" lemma="certain" category="JJ"
+12	66,71	GATE_Token	string="facts" lemma="fact" category="NNS"
+13	72,73	GATE_Token	string="." lemma="." category="."

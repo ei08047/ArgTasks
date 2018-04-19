@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They all <MPQAPOL autoclass="neutral">steal</MPQAPOL> some of his bits sooner or later <MPQAPOL autoclass="negative">anyway</MPQAPOL> .</MPQASENT>

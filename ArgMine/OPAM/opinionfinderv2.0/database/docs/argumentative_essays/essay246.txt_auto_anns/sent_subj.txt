@@ -1,0 +1,11 @@
+argumentative_essays_essay246.txt_0_104	subj
+argumentative_essays_essay246.txt_105_308	subj
+argumentative_essays_essay246.txt_309_376	subj
+argumentative_essays_essay246.txt_377_550	subj
+argumentative_essays_essay246.txt_551_663	subj
+argumentative_essays_essay246.txt_664_833	subj
+argumentative_essays_essay246.txt_834_874	obj
+argumentative_essays_essay246.txt_875_990	subj
+argumentative_essays_essay246.txt_991_1202	subj
+argumentative_essays_essay246.txt_1203_1283	obj
+argumentative_essays_essay246.txt_1284_1428	obj

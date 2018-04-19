@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Its temperature may <MPQAPOL autoclass="neutral">well</MPQAPOL> change because of a changing atmosphere and <MPQAPOL autoclass="neutral">so</MPQAPOL> forth .</MPQASENT>

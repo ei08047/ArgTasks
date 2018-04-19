@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">That sentence is also in the <MPQAPOL autoclass="neutral">Beliefs</MPQAPOL> section under subsection `` church '' .</MPQASENT>

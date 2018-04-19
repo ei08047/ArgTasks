@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">e ) Ask you something I have <MPQAPOL autoclass="positive">wanted</MPQAPOL> to <MPQAPOL autoclass="neutral">know</MPQAPOL> about you f ) Tell you my <MPQAPOL autoclass="positive">favorite</MPQAPOL> userpic from your profile .</MPQASENT>

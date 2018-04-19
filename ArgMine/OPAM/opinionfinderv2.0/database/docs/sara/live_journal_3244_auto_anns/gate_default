@@ -1,0 +1,13 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="^" lemma="^" category="NNP"
+3	1,2	GATE_Token	string="_" lemma="_" category="NNP"
+4	2,3	GATE_Token	string="^" lemma="^" category="VBD"
+5	4,8	GATE_Token	string="Best" lemma="best" category="JJS"
+6	9,11	GATE_Token	string="of" lemma="of" category="IN"
+7	12,16	GATE_Token	string="luck" lemma="luck" category="NN"
+8	17,18	GATE_Token	string="," lemma="," category=","
+9	19,27	GATE_Token	string="ganbatte" lemma="ganbatte" category="NN"
+10	28,29	GATE_Token	string="," lemma="," category=","
+11	30,34	GATE_Token	string="etc." lemma="etc." category="FW"
+12	35,39	GATE_Token	string="etc." lemma="etc." category="FW"
+13	40,41	GATE_Token	string="!" lemma="!" category="."

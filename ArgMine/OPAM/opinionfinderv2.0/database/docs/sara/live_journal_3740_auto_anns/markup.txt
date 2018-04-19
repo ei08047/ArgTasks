@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Bethers , ima <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">sorry</MPQAPOL> to hear the news .</MPQASENT>

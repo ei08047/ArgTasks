@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Photos were <MPQAPOL autoclass="neutral">apparently</MPQAPOL> taken <MPQAPOL autoclass="neutral">though</MPQAPOL> ... They <MPQAPOL autoclass="neutral">must</MPQAPOL> be <MPQAPOL autoclass="neutral">destroyed</MPQAPOL> at all costs !!</MPQASENT>

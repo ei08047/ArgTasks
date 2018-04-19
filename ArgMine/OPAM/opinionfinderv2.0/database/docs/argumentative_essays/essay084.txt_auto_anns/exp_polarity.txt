@@ -1,0 +1,6 @@
+argumentative_essays_essay084.txt_2585_2592	positive
+argumentative_essays_essay084.txt_2615_2621	neutral
+argumentative_essays_essay084.txt_2642_2649	neutral
+argumentative_essays_essay084.txt_2673_2677	neutral
+argumentative_essays_essay084.txt_2707_2714	neutral
+argumentative_essays_essay084.txt_2752_2758	neutral

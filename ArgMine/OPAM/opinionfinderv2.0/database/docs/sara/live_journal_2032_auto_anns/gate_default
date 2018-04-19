@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,5	GATE_Token	string="youre" lemma="youre" category="NN"
+3	6,13	GATE_Token	string="selling" lemma="sell" category="VBG"
+4	14,16	GATE_Token	string="an" lemma="a" category="DT"
+5	17,20	GATE_Token	string="ACD" lemma="acd" category="NN"
+6	21,23	GATE_Token	string="to" lemma="to" category="TO"
+7	24,27	GATE_Token	string="get" lemma="get" category="VB"
+8	28,29	GATE_Token	string="a" lemma="a" category="DT"
+9	30,36	GATE_Token	string="pentax" lemma="pentax" category="NN"
+10	37,38	GATE_Token	string="?" lemma="?" category="."

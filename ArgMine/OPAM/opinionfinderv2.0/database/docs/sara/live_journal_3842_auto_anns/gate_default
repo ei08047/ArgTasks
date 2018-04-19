@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,4	GATE_Token	string="They" lemma="they" category="PRP"
+3	5,8	GATE_Token	string="all" lemma="all" category="DT"
+4	9,14	GATE_Token	string="steal" lemma="steal" category="VBP"
+5	15,19	GATE_Token	string="some" lemma="some" category="DT"
+6	20,22	GATE_Token	string="of" lemma="of" category="IN"
+7	23,26	GATE_Token	string="his" lemma="he" category="PRP$"
+8	27,31	GATE_Token	string="bits" lemma="bit" category="NNS"
+9	32,38	GATE_Token	string="sooner" lemma="sooner" category="RBR"
+10	39,41	GATE_Token	string="or" lemma="or" category="CC"
+11	42,47	GATE_Token	string="later" lemma="later" category="RBR"
+12	48,54	GATE_Token	string="anyway" lemma="anyway" category="RB"
+13	55,56	GATE_Token	string="." lemma="." category="."

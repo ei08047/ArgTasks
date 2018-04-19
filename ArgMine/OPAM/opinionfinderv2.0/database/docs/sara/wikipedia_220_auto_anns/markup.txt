@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Therefore</MPQAPOL> I do not <MPQAPOL autoclass="neutral">think</MPQAPOL> the <MPQAPOL autoclass="neutral">unsupported</MPQAPOL> <MPQAPOL autoclass="neutral">comment</MPQAPOL> by Duffy has a place in what is already a <MPQAPOL autoclass="neutral">quite</MPQAPOL> lengthy section .</MPQASENT>

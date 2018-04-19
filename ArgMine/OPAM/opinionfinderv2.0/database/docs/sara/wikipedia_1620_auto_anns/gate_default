@@ -1,0 +1,12 @@
+1	0,46	GATE_Sentence
+2	0,2	GATE_Token	string="PS" lemma="PS" category="NNP"
+3	3,4	GATE_Token	string=":" lemma=":" category=":"
+4	5,8	GATE_Token	string="one" lemma="one" category="CD"
+5	9,13	GATE_Token	string="with" lemma="with" category="IN"
+6	14,21	GATE_Token	string="English" lemma="english" category="JJ"
+7	22,29	GATE_Token	string="problem" lemma="problem" category="NN"
+8	30,32	GATE_Token	string="is" lemma="be" category="VBZ"
+9	33,36	GATE_Token	string="you" lemma="you" category="PRP"
+10	37,38	GATE_Token	string="," lemma="," category=","
+11	39,44	GATE_Token	string="Wayne" lemma="Wayne" category="NNP"
+12	45,46	GATE_Token	string="." lemma="." category="."

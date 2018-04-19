@@ -1,0 +1,11 @@
+1	0,51	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,7	GATE_Token	string="heard" lemma="hear" category="VBD"
+4	8,12	GATE_Token	string="that" lemma="that" category="IN"
+5	13,16	GATE_Token	string="GAP" lemma="gap" category="NN"
+6	17,23	GATE_Token	string="stands" lemma="stand" category="VBZ"
+7	24,27	GATE_Token	string="for" lemma="for" category="IN"
+8	28,31	GATE_Token	string="Gay" lemma="gay" category="NNS"
+9	32,39	GATE_Token	string="Apparel" lemma="Apparel" category="NNP"
+10	40,49	GATE_Token	string="Something" lemma="something" category="NN"
+11	50,51	GATE_Token	string="." lemma="." category="."

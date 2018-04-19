@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">One <MPQAPOL autoclass="neutral">mad</MPQAPOL> character , one <MPQAPOL autoclass="neutral">selfish</MPQAPOL> , both are <MPQAPOL autoclass="negative">odd</MPQAPOL> kindreds in some way ... I <MPQAPOL autoclass="neutral">just</MPQAPOL> can not figure out why .</MPQASENT>

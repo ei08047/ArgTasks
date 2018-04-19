@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They do not <MPQAPOL autoclass="neutral">specifically</MPQAPOL> state that their <MPQAPOL autoclass="neutral">intention</MPQAPOL> is to target civilians ... .</MPQASENT>

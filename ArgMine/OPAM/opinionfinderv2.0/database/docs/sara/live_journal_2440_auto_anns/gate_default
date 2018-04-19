@@ -1,0 +1,11 @@
+1	0,36	GATE_Sentence
+2	0,1	GATE_Token	string="[" lemma="[" category="-LRB-"
+3	1,2	GATE_Token	string="/" lemma="/" category=":"
+4	2,9	GATE_Token	string="sarcasm" lemma="sarcasm" category="NN"
+5	9,10	GATE_Token	string="]" lemma="]" category="-RRB-"
+6	11,14	GATE_Token	string="lol" lemma="lol" category="NN"
+7	15,19	GATE_Token	string="Good" lemma="good" category="JJ"
+8	20,24	GATE_Token	string="luck" lemma="luck" category="NN"
+9	25,29	GATE_Token	string="with" lemma="with" category="IN"
+10	30,34	GATE_Token	string="that" lemma="that" category="DT"
+11	35,36	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">D ) I <MPQAPOL autoclass="positive">hope</MPQAPOL> this <MPQAPOL autoclass="neutral">resolves</MPQAPOL> the pic issue for at <MPQAPOL autoclass="neutral">least</MPQAPOL> the time being .</MPQASENT>

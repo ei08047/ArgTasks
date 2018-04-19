@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">He has another reprieve cos Al is <MPQAPOL autoclass="neutral">too</MPQAPOL> <MPQAPOL autoclass="negative">busy</MPQAPOL> today to do him in .</MPQASENT>

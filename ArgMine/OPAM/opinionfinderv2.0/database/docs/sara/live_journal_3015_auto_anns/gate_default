@@ -1,0 +1,11 @@
+1	0,49	GATE_Sentence
+2	0,3	GATE_Token	string="Our" lemma="we" category="PRP$"
+3	4,9	GATE_Token	string="first" lemma="first" category="JJ"
+4	10,14	GATE_Token	string="real" lemma="real" category="JJ"
+5	15,26	GATE_Token	string="contretemps" lemma="contretemps" category="NNS"
+6	27,29	GATE_Token	string="of" lemma="of" category="IN"
+7	30,33	GATE_Token	string="the" lemma="the" category="DT"
+8	34,38	GATE_Token	string="trip" lemma="trip" category="NN"
+9	39,40	GATE_Token	string="," lemma="," category=","
+10	41,47	GATE_Token	string="though" lemma="though" category="RB"
+11	48,49	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,49	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,9	GATE_Token	string="these" lemma="these" category="DT"
+4	10,15	GATE_Token	string="exams" lemma="exam" category="NNS"
+5	16,19	GATE_Token	string="are" lemma="be" category="VBP"
+6	20,26	GATE_Token	string="really" lemma="really" category="RB"
+7	27,36	GATE_Token	string="stressing" lemma="stress" category="VBG"
+8	37,39	GATE_Token	string="me" lemma="I" category="PRP"
+9	40,43	GATE_Token	string="out" lemma="out" category="RP"
+10	44,47	GATE_Token	string="too" lemma="too" category="RB"
+11	48,49	GATE_Token	string="." lemma="." category="."

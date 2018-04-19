@@ -1,0 +1,10 @@
+1	0,47	GATE_Sentence
+2	0,4	GATE_Token	string="What" lemma="what" category="WDT"
+3	5,12	GATE_Token	string="Mitford" lemma="mitford" category="NN"
+4	13,19	GATE_Token	string="called" lemma="call" category="VBD"
+5	20,23	GATE_Token	string="The" lemma="The" category="NNP"
+6	24,32	GATE_Token	string="American" lemma="American" category="NNP"
+7	33,36	GATE_Token	string="Way" lemma="Way" category="NNP"
+8	37,39	GATE_Token	string="of" lemma="of" category="IN"
+9	40,45	GATE_Token	string="Death" lemma="Death" category="NNP"
+10	46,47	GATE_Token	string="." lemma="." category="."

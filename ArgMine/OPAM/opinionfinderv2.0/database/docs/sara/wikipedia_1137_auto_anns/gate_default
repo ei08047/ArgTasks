@@ -1,0 +1,13 @@
+1	0,64	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,10	GATE_Token	string="answered" lemma="answer" category="VBD"
+4	11,15	GATE_Token	string="with" lemma="with" category="IN"
+5	16,24	GATE_Token	string="whatever" lemma="whatever" category="WDT"
+6	25,33	GATE_Token	string="relevant" lemma="relevant" category="JJ"
+7	34,35	GATE_Token	string="I" lemma="I" category="PRP"
+8	36,41	GATE_Token	string="found" lemma="find" category="VBD"
+9	42,44	GATE_Token	string="in" lemma="in" category="IN"
+10	45,48	GATE_Token	string="the" lemma="the" category="DT"
+11	49,55	GATE_Token	string="Treaty" lemma="Treaty" category="NNP"
+12	56,62	GATE_Token	string="debate" lemma="debate" category="NN"
+13	63,64	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">A mention of the First Vision is <MPQAPOL autoclass="neutral">enough</MPQAPOL> .</MPQASENT>

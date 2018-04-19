@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">know</MPQAPOL> things have been <MPQAPOL autoclass="neutral">strained</MPQAPOL> between us , but my family is <MPQAPOL autoclass="positive">happy</MPQAPOL> to <MPQAPOL autoclass="neutral">help</MPQAPOL> you .</MPQASENT>

@@ -1,0 +1,7 @@
+argumentative_essays_essay266.txt_2318_2328	negative
+argumentative_essays_essay266.txt_2335_2342	neutral
+argumentative_essays_essay266.txt_2362_2366	neutral
+argumentative_essays_essay266.txt_2401_2405	neutral
+argumentative_essays_essay266.txt_2415_2420	neutral
+argumentative_essays_essay266.txt_2464_2468	neutral
+argumentative_essays_essay266.txt_2472_2478	neutral

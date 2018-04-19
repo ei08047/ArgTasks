@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I <MPQAPOL autoclass="positive">love</MPQAPOL> your art and I <MPQAPOL autoclass="positive">think</MPQAPOL> your photography is absolutely <MPQAPOL autoclass="negative">gorgeous</MPQAPOL> .</MPQASENT>

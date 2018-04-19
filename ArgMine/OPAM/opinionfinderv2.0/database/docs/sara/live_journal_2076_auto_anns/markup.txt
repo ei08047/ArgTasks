@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Last night was first rehearsal for the new rpoduction , <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="positive">promising</MPQAPOL> .</MPQASENT>

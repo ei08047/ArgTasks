@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Ermm ... Ok , that kinda <MPQAPOL autoclass="neutral">means</MPQAPOL> that being <MPQAPOL autoclass="negative">confrontational</MPQAPOL> with everyone is a <MPQAPOL autoclass="negative">bad</MPQAPOL> <MPQAPOL autoclass="neutral">idea</MPQAPOL> .</MPQASENT>

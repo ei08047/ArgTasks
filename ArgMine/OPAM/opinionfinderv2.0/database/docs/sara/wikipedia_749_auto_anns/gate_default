@@ -1,0 +1,9 @@
+1	0,37	GATE_Sentence
+2	0,6	GATE_Token	string="Notice" lemma="Notice" category="NNP"
+3	7,12	GATE_Token	string="under" lemma="under" category="IN"
+4	13,20	GATE_Token	string="article" lemma="article" category="NN"
+5	21,23	GATE_Token	string="57" lemma="57" category="CD"
+6	24,25	GATE_Token	string="," lemma="," category=","
+7	26,33	GATE_Token	string="section" lemma="section" category="NN"
+8	34,35	GATE_Token	string="2" lemma="2" category="CD"
+9	36,37	GATE_Token	string="." lemma="." category="."

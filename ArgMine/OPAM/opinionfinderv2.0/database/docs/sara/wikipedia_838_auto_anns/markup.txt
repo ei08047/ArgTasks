@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">In any case , remember - it is always <MPQAPOL autoclass="positive">better</MPQAPOL> to describe <MPQAPOL autoclass="neutral">facts</MPQAPOL> , and let the reader <MPQAPOL autoclass="neutral">decide</MPQAPOL> .</MPQASENT>

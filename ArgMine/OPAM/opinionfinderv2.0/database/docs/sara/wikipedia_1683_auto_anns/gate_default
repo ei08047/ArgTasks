@@ -1,0 +1,11 @@
+1	0,56	GATE_Sentence
+2	0,5	GATE_Token	string="Again" lemma="again" category="RB"
+3	6,10	GATE_Token	string="this" lemma="this" category="DT"
+4	11,13	GATE_Token	string="is" lemma="be" category="VBZ"
+5	14,17	GATE_Token	string="the" lemma="the" category="DT"
+6	18,28	GATE_Token	string="foundation" lemma="foundation" category="NN"
+7	29,31	GATE_Token	string="of" lemma="of" category="IN"
+8	32,35	GATE_Token	string="the" lemma="the" category="DT"
+9	36,45	GATE_Token	string="Mormonism" lemma="Mormonism" category="NNP"
+10	46,54	GATE_Token	string="movement" lemma="movement" category="NN"
+11	55,56	GATE_Token	string="." lemma="." category="."

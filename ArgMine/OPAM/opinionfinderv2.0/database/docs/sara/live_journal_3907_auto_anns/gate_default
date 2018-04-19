@@ -1,0 +1,13 @@
+1	0,55	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,8	GATE_Token	string="edited" lemma="edit" category="VBD"
+4	9,13	GATE_Token	string="them" lemma="they" category="PRP"
+5	14,17	GATE_Token	string="out" lemma="out" category="RP"
+6	18,19	GATE_Token	string="," lemma="," category=","
+7	20,27	GATE_Token	string="because" lemma="because" category="IN"
+8	28,29	GATE_Token	string="I" lemma="I" category="PRP"
+9	30,33	GATE_Token	string="was" lemma="be" category="VBD"
+10	34,37	GATE_Token	string="n't" lemma="not" category="RB"
+11	38,45	GATE_Token	string="wearing" lemma="wear" category="VBG"
+12	46,53	GATE_Token	string="clothes" lemma="clothes" category="NNS"
+13	54,55	GATE_Token	string="." lemma="." category="."

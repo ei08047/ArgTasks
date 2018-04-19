@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Is it <MPQAPOL autoclass="neutral">possible</MPQAPOL> to find any <MPQAPOL autoclass="neutral">compromise</MPQAPOL> between all these ?</MPQASENT>

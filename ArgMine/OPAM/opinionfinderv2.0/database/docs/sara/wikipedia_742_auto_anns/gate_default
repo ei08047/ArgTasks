@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="let" lemma="let" category="VB"
+3	4,6	GATE_Token	string="us" lemma="we" category="PRP"
+4	7,11	GATE_Token	string="take" lemma="take" category="VB"
+5	12,13	GATE_Token	string="a" lemma="a" category="DT"
+6	14,23	GATE_Token	string="different" lemma="different" category="JJ"
+7	24,32	GATE_Token	string="approach" lemma="approach" category="NN"
+8	33,36	GATE_Token	string="..." lemma="..." category=":"
+9	37,38	GATE_Token	string="." lemma="." category="."

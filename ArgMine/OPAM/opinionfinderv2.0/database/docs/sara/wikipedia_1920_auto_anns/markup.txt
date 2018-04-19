@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj"><MPQAPOL autoclass="neutral">Support</MPQAPOL> <MPQAPOL autoclass="neutral">Primary</MPQAPOL> topics <MPQAPOL autoclass="neutral">should</MPQAPOL> have the <MPQAPOL autoclass="negative">unqualified</MPQAPOL> name .</MPQASENT>

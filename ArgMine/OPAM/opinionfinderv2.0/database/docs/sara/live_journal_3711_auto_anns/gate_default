@@ -1,0 +1,8 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,9	GATE_Token	string="skies" lemma="sky" category="NNS"
+4	10,14	GATE_Token	string="seem" lemma="seem" category="VBP"
+5	15,22	GATE_Token	string="selfish" lemma="selfish" category="JJ"
+6	23,25	GATE_Token	string="by" lemma="by" category="IN"
+7	26,36	GATE_Token	string="themselves" lemma="themselves" category="PRP"
+8	37,38	GATE_Token	string="." lemma="." category="."

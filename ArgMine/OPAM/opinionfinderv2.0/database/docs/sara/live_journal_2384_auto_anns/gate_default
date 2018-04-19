@@ -1,0 +1,10 @@
+1	0,48	GATE_Sentence
+2	0,9	GATE_Token	string="Obviously" lemma="obviously" category="RB"
+3	10,11	GATE_Token	string="i" lemma="i" category="FW"
+4	12,14	GATE_Token	string="am" lemma="be" category="VBP"
+5	15,19	GATE_Token	string="some" lemma="some" category="DT"
+6	20,24	GATE_Token	string="kind" lemma="kind" category="NN"
+7	25,27	GATE_Token	string="of" lemma="of" category="IN"
+8	28,35	GATE_Token	string="psychic" lemma="psychic" category="JJ"
+9	36,46	GATE_Token	string="weatherman" lemma="weatherman" category="NN"
+10	47,48	GATE_Token	string="." lemma="." category="."

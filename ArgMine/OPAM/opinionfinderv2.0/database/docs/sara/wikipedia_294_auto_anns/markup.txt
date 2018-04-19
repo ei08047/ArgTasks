@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">( I also <MPQAPOL autoclass="negative">disagree</MPQAPOL> with characterizing Erasmus as The <MPQAPOL autoclass="neutral">most</MPQAPOL> <MPQAPOL autoclass="positive">famous</MPQAPOL> scholar of the age . )</MPQASENT>

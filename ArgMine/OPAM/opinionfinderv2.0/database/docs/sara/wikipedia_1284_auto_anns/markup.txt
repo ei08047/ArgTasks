@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That <MPQAPOL autoclass="negative">crazy</MPQAPOL> frog was on drugs or something .</MPQASENT>

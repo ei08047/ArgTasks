@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">( 190 ) His theses <MPQAPOL autoclass="negative">protested</MPQAPOL> key <MPQAPOL autoclass="neutral">points</MPQAPOL> of Catholic doctrine as <MPQAPOL autoclass="neutral">well</MPQAPOL> as the sale of <MPQAPOL autoclass="neutral">indulgences</MPQAPOL> .</MPQASENT>

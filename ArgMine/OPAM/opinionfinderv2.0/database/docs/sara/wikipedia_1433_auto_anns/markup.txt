@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If you <MPQAPOL autoclass="positive">wish</MPQAPOL> to add a qualifier or <MPQAPOL autoclass="positive">cogent</MPQAPOL> note on the entry <MPQAPOL autoclass="positive">please</MPQAPOL> do <MPQAPOL autoclass="neutral">so</MPQAPOL> .</MPQASENT>

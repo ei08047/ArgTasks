@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> when a <MPQAPOL autoclass="positive">friendship</MPQAPOL> turns into social politics , you <MPQAPOL autoclass="neutral">should</MPQAPOL> draw the line .</MPQASENT>

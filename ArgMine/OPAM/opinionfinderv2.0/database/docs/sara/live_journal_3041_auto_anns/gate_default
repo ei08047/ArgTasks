@@ -1,0 +1,11 @@
+1	0,42	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,4	GATE_Token	string="do" lemma="do" category="VBP"
+4	5,8	GATE_Token	string="not" lemma="not" category="RB"
+5	9,13	GATE_Token	string="have" lemma="have" category="VB"
+6	14,17	GATE_Token	string="any" lemma="any" category="DT"
+7	18,22	GATE_Token	string="real" lemma="real" category="JJ"
+8	23,27	GATE_Token	string="life" lemma="life" category="NN"
+9	28,33	GATE_Token	string="goals" lemma="goal" category="NNS"
+10	34,40	GATE_Token	string="either" lemma="either" category="CC"
+11	41,42	GATE_Token	string="." lemma="." category="."

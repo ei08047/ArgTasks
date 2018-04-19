@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This morning there was a <MPQAPOL autoclass="neutral">fight</MPQAPOL> to the <MPQAPOL autoclass="neutral">death</MPQAPOL> and Cleo has the battle <MPQAPOL autoclass="neutral">scars</MPQAPOL> .</MPQASENT>

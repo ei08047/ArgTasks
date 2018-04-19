@@ -1,0 +1,9 @@
+1	0,44	GATE_Sentence
+2	0,1	GATE_Token	string="a" lemma="a" category="DT"
+3	2,14	GATE_Token	string="professional" lemma="professional" category="JJ"
+4	15,19	GATE_Token	string="sort" lemma="sort" category="NN"
+5	20,22	GATE_Token	string="of" lemma="of" category="IN"
+6	23,34	GATE_Token	string="infatuation" lemma="infatuation" category="NN"
+7	35,36	GATE_Token	string="I" lemma="I" category="PRP"
+8	37,42	GATE_Token	string="guess" lemma="guess" category="VBP"
+9	43,44	GATE_Token	string="." lemma="." category="."

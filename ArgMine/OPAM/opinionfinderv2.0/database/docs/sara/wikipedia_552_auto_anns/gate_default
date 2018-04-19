@@ -1,0 +1,12 @@
+1	0,55	GATE_Sentence
+2	0,1	GATE_Token	string="(" lemma="(" category="-LRB-"
+3	2,6	GATE_Token	string="both" lemma="both" category="DT"
+4	7,13	GATE_Token	string="Darwin" lemma="Darwin" category="NNP"
+5	14,17	GATE_Token	string="and" lemma="and" category="CC"
+6	18,21	GATE_Token	string="the" lemma="the" category="DT"
+7	22,28	GATE_Token	string="modern" lemma="modern" category="JJ"
+8	29,38	GATE_Token	string="synthesis" lemma="synthesis" category="NN"
+9	39,42	GATE_Token	string="are" lemma="be" category="VBP"
+10	43,51	GATE_Token	string="agnostic" lemma="agnostic" category="JJ"
+11	52,53	GATE_Token	string=")" lemma=")" category="-RRB-"
+12	54,55	GATE_Token	string="." lemma="." category="."

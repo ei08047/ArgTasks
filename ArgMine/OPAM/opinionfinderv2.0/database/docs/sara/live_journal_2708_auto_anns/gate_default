@@ -1,0 +1,13 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="^" lemma="^" category="NN"
+3	1,2	GATE_Token	string="_" lemma="_" category="CD"
+4	2,3	GATE_Token	string="^" lemma="^" category="CD"
+5	4,6	GATE_Token	string="We" lemma="we" category="PRP"
+6	7,13	GATE_Token	string="should" lemma="should" category="MD"
+7	14,17	GATE_Token	string="all" lemma="all" category="RB"
+8	18,20	GATE_Token	string="do" lemma="do" category="VB"
+9	21,23	GATE_Token	string="it" lemma="it" category="PRP"
+10	24,29	GATE_Token	string="again" lemma="again" category="RB"
+11	30,34	GATE_Token	string="next" lemma="next" category="JJ"
+12	35,39	GATE_Token	string="year" lemma="year" category="NN"
+13	40,41	GATE_Token	string="!" lemma="!" category="."

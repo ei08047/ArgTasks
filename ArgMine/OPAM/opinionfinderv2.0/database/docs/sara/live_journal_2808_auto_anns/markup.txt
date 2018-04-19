@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">He <MPQAPOL autoclass="neutral">really</MPQAPOL> does make <MPQAPOL autoclass="positive">good</MPQAPOL> on his <MPQAPOL autoclass="positive">promises</MPQAPOL> !</MPQASENT>

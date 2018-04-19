@@ -1,0 +1,10 @@
+argumentative_essays_essay396.txt_0_225	subj
+argumentative_essays_essay396.txt_226_301	obj
+argumentative_essays_essay396.txt_302_414	obj
+argumentative_essays_essay396.txt_415_538	obj
+argumentative_essays_essay396.txt_539_638	obj
+argumentative_essays_essay396.txt_639_748	subj
+argumentative_essays_essay396.txt_749_822	obj
+argumentative_essays_essay396.txt_823_939	obj
+argumentative_essays_essay396.txt_940_1149	obj
+argumentative_essays_essay396.txt_1151_1274	obj

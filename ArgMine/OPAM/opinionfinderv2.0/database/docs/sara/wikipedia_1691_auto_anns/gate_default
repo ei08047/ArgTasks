@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,2	GATE_Token	string="He" lemma="he" category="PRP"
+3	3,7	GATE_Token	string="gets" lemma="get" category="VBZ"
+4	8,17	GATE_Token	string="published" lemma="publish" category="VBN"
+5	18,20	GATE_Token	string="in" lemma="in" category="IN"
+6	21,22	GATE_Token	string="a" lemma="a" category="DT"
+7	23,28	GATE_Token	string="local" lemma="local" category="JJ"
+8	29,34	GATE_Token	string="paper" lemma="paper" category="NN"
+9	35,36	GATE_Token	string="." lemma="." category="."

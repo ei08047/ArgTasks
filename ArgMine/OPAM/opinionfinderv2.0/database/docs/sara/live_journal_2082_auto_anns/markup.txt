@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">\* <MPQAPOL autoclass="neutral">hugs</MPQAPOL> \* thanks for the morning <MPQAPOL autoclass="neutral">funnies</MPQAPOL> !</MPQASENT>

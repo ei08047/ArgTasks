@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="positive">wish</MPQAPOL> my life had nothing going on to the <MPQAPOL autoclass="neutral">point</MPQAPOL> where I <MPQAPOL autoclass="neutral">could</MPQAPOL> <MPQAPOL autoclass="neutral">just</MPQAPOL> wait in line for days to see a movie .</MPQASENT>

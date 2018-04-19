@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Am I an editor <MPQAPOL autoclass="negative">refusing</MPQAPOL> to <MPQAPOL autoclass="neutral">allow</MPQAPOL> `` any mention '' of it in the article ?</MPQASENT>

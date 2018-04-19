@@ -1,0 +1,8 @@
+1	0,48	GATE_Sentence
+2	0,8	GATE_Token	string="Vladimir" lemma="Vladimir" category="NNP"
+3	9,21	GATE_Token	string="Putin\/Yulia" lemma="Putin\/Yulia" category="NNP"
+4	22,32	GATE_Token	string="Tymoshenko" lemma="Tymoshenko" category="NNP"
+5	33,36	GATE_Token	string="het" lemma="het" category="NN"
+6	37,42	GATE_Token	string="lemon" lemma="lemon" category="JJ"
+7	43,46	GATE_Token	string="fic" lemma="fic" category="NN"
+8	47,48	GATE_Token	string="." lemma="." category="."

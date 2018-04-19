@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj"><MPQAPOL autoclass="neutral">Perhaps</MPQAPOL> next time I will <MPQAPOL autoclass="neutral">simply</MPQAPOL> <MPQAPOL autoclass="negative">ignore</MPQAPOL> you instead of quoting you , and providing sources for your <MPQAPOL autoclass="neutral">argument</MPQAPOL> .</MPQASENT>

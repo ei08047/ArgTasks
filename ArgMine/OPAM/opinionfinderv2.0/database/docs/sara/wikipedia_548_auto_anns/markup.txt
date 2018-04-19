@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">We do not <MPQAPOL autoclass="neutral">need</MPQAPOL> to provide en <MPQAPOL autoclass="neutral">extensive</MPQAPOL> , detailed account of the second law , that belongs in the linked article .</MPQASENT>

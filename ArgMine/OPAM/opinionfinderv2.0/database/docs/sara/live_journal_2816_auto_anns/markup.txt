@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">We <MPQAPOL autoclass="neutral">tried</MPQAPOL> to <MPQAPOL autoclass="neutral">overthrow</MPQAPOL> our Prime Minister , but he went <MPQAPOL autoclass="neutral">crying</MPQAPOL> to the Governor General .</MPQASENT>

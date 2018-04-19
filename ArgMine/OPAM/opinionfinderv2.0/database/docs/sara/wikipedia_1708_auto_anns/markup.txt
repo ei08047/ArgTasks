@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I was speaking kind of in Wikipedia-ese , and I <MPQAPOL autoclass="neutral">think</MPQAPOL> you have <MPQAPOL autoclass="negative">misunderstood</MPQAPOL> my meaning .</MPQASENT>

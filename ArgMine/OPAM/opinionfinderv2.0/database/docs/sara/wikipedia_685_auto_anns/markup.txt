@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And yet they <MPQAPOL autoclass="neutral">try</MPQAPOL> , <MPQAPOL autoclass="neutral">try</MPQAPOL> again .</MPQASENT>

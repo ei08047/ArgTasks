@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">\* glomps \* I was <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="negative">thinking</MPQAPOL> about you the other day !</MPQASENT>

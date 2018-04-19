@@ -1,0 +1,4 @@
+argumentative_essays_essay072.txt_1562_1574	neutral
+argumentative_essays_essay072.txt_1594_1598	positive
+argumentative_essays_essay072.txt_1606_1617	negative
+argumentative_essays_essay072.txt_1618_1624	negative

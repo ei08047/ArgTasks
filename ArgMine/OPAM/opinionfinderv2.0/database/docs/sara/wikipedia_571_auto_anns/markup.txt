@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Let s be <MPQAPOL autoclass="neutral">specific</MPQAPOL> and we may <MPQAPOL autoclass="neutral">avoid</MPQAPOL> <MPQAPOL autoclass="negative">misunderstandings</MPQAPOL> . ''</MPQASENT>

@@ -1,0 +1,9 @@
+1	0,47	GATE_Sentence
+2	0,5	GATE_Token	string="Maybe" lemma="maybe" category="RB"
+3	6,9	GATE_Token	string="the" lemma="the" category="DT"
+4	10,14	GATE_Token	string="word" lemma="word" category="NN"
+5	15,23	GATE_Token	string="overseas" lemma="overseas" category="RB"
+6	24,33	GATE_Token	string="triggered" lemma="trigger" category="VBD"
+7	34,38	GATE_Token	string="this" lemma="this" category="DT"
+8	39,45	GATE_Token	string="memory" lemma="memory" category="NN"
+9	46,47	GATE_Token	string="?" lemma="?" category="."

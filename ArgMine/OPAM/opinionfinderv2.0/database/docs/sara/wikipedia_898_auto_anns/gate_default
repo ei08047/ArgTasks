@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,5	GATE_Token	string="Blues" lemma="blues" category="NNS"
+3	6,9	GATE_Token	string="did" lemma="do" category="VBD"
+4	10,13	GATE_Token	string="not" lemma="not" category="RB"
+5	14,20	GATE_Token	string="invent" lemma="invent" category="VB"
+6	21,24	GATE_Token	string="the" lemma="the" category="DT"
+7	25,30	GATE_Token	string="minor" lemma="minor" category="JJ"
+8	31,36	GATE_Token	string="scale" lemma="scale" category="NN"
+9	37,38	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,56	GATE_Sentence
+2	0,4	GATE_Token	string="Stop" lemma="stop" category="VB"
+3	5,13	GATE_Token	string="removing" lemma="remove" category="VBG"
+4	14,21	GATE_Token	string="content" lemma="content" category="NN"
+5	22,27	GATE_Token	string="which" lemma="which" category="WDT"
+6	28,31	GATE_Token	string="can" lemma="can" category="MD"
+7	32,34	GATE_Token	string="be" lemma="be" category="VB"
+8	35,43	GATE_Token	string="improved" lemma="improve" category="VBN"
+9	44,46	GATE_Token	string="by" lemma="by" category="IN"
+10	47,54	GATE_Token	string="editing" lemma="editing" category="NN"
+11	55,56	GATE_Token	string="." lemma="." category="."

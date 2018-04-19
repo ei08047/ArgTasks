@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,2	GATE_Token	string="He" lemma="he" category="PRP"
+3	3,9	GATE_Token	string="should" lemma="should" category="MD"
+4	10,13	GATE_Token	string="not" lemma="not" category="RB"
+5	14,18	GATE_Token	string="need" lemma="need" category="VB"
+6	19,21	GATE_Token	string="to" lemma="to" category="TO"
+7	22,30	GATE_Token	string="distance" lemma="distance" category="VB"
+8	31,38	GATE_Token	string="himself" lemma="himself" category="PRP"
+9	39,40	GATE_Token	string="." lemma="." category="."

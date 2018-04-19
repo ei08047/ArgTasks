@@ -1,0 +1,7 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="Falk" lemma="Falk" category="NNP"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,18	GATE_Token	string="especially" lemma="especially" category="RB"
+5	19,22	GATE_Token	string="not" lemma="not" category="RB"
+6	23,34	GATE_Token	string="trustworthy" lemma="trustworthy" category="JJ"
+7	35,36	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">You interpret the texts <MPQAPOL autoclass="neutral">according</MPQAPOL> to your personal <MPQAPOL autoclass="neutral">opinion</MPQAPOL> , <MPQAPOL autoclass="neutral">regardless</MPQAPOL> of their <MPQAPOL autoclass="neutral">actual</MPQAPOL> meaning .</MPQASENT>

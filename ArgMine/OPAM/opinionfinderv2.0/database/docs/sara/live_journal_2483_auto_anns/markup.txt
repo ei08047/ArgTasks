@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> I am going to <MPQAPOL autoclass="neutral">guilt</MPQAPOL> them boys into giving me some flyer <MPQAPOL autoclass="neutral">points</MPQAPOL> <MPQAPOL autoclass="neutral">so</MPQAPOL> I can go to a tournament in Dallas in March .</MPQASENT>

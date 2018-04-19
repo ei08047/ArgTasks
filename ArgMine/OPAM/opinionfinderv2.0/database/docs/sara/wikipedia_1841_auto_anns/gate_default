@@ -1,0 +1,11 @@
+1	0,51	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="know" lemma="know" category="VBP"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,16	GATE_Token	string="Arabs" lemma="Arabs" category="NNPS"
+6	17,23	GATE_Token	string="better" lemma="better" category="JJR"
+7	24,28	GATE_Token	string="than" lemma="than" category="IN"
+8	29,33	GATE_Token	string="they" lemma="they" category="PRP"
+9	34,38	GATE_Token	string="know" lemma="know" category="VBP"
+10	39,49	GATE_Token	string="themselves" lemma="themselves" category="PRP"
+11	50,51	GATE_Token	string="." lemma="." category="."

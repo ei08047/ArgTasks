@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">Would</MPQAPOL> a mention of the issue with an internal link <MPQAPOL autoclass="neutral">such</MPQAPOL> as this be <MPQAPOL autoclass="neutral">acceptable</MPQAPOL> ?<MPQASENT autoclass1="unknown" autoclass2="obj">--</MPQASENT>

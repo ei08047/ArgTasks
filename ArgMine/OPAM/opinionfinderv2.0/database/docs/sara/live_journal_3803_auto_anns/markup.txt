@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">She was given an <MPQAPOL autoclass="neutral">opportunity</MPQAPOL> to <MPQAPOL autoclass="neutral">succeed</MPQAPOL> , and she did !</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,9	GATE_Token	string="state" lemma="state" category="NN"
+4	10,18	GATE_Token	string="remained" lemma="remain" category="VBD"
+5	19,22	GATE_Token	string="the" lemma="the" category="DT"
+6	23,29	GATE_Token	string="United" lemma="United" category="NNP"
+7	30,37	GATE_Token	string="Kingdom" lemma="Kingdom" category="NNP"
+8	38,39	GATE_Token	string="." lemma="." category="."

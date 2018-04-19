@@ -1,0 +1,13 @@
+1	0,49	GATE_Sentence
+2	0,2	GATE_Token	string="Oh" lemma="oh" category="UH"
+3	3,4	GATE_Token	string="," lemma="," category=","
+4	5,10	GATE_Token	string="there" lemma="there" category="EX"
+5	11,13	GATE_Token	string="is" lemma="be" category="VBZ"
+6	14,16	GATE_Token	string="so" lemma="so" category="RB"
+7	17,21	GATE_Token	string="much" lemma="much" category="RB"
+8	22,26	GATE_Token	string="more" lemma="more" category="JJR"
+9	27,29	GATE_Token	string="to" lemma="to" category="TO"
+10	30,36	GATE_Token	string="comics" lemma="comic" category="NNS"
+11	37,41	GATE_Token	string="than" lemma="than" category="IN"
+12	42,47	GATE_Token	string="X-Men" lemma="x-man" category="NN"
+13	48,49	GATE_Token	string="." lemma="." category="."

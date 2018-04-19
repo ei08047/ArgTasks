@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">stacy is going to be an <MPQAPOL autoclass="neutral">amazing</MPQAPOL> drum <MPQAPOL autoclass="neutral">major</MPQAPOL> .</MPQASENT>

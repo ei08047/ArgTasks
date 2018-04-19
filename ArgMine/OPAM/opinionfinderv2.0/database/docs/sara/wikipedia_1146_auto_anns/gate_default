@@ -1,0 +1,13 @@
+1	0,54	GATE_Sentence
+2	0,3	GATE_Token	string="Ive" lemma="ive" category="RB"
+3	4,11	GATE_Token	string="changed" lemma="change" category="VBN"
+4	12,14	GATE_Token	string="``" lemma="``" category="``"
+5	15,23	GATE_Token	string="rejoined" lemma="rejoin" category="VBN"
+6	24,26	GATE_Token	string="''" lemma="''" category="''"
+7	27,29	GATE_Token	string="to" lemma="to" category="TO"
+8	30,32	GATE_Token	string="``" lemma="``" category="``"
+9	33,41	GATE_Token	string="remained" lemma="remain" category="VBD"
+10	42,46	GATE_Token	string="part" lemma="part" category="NN"
+11	47,49	GATE_Token	string="of" lemma="of" category="IN"
+12	50,52	GATE_Token	string="''" lemma="''" category="''"
+13	53,54	GATE_Token	string="." lemma="." category="."

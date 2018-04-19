@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Acrylic or glass <MPQAPOL autoclass="neutral">would</MPQAPOL> be <MPQAPOL autoclass="neutral">nice</MPQAPOL> .</MPQASENT>

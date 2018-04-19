@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,4	GATE_Token	string="Time" lemma="Time" category="NNP"
+3	5,8	GATE_Token	string="for" lemma="for" category="IN"
+4	9,13	GATE_Token	string="some" lemma="some" category="DT"
+5	14,22	GATE_Token	string="delishus" lemma="delishus" category="NN"
+6	23,26	GATE_Token	string="FF3" lemma="ff3" category="NN"
+7	27,30	GATE_Token	string="now" lemma="now" category="RB"
+8	31,32	GATE_Token	string=":" lemma=":" category=":"
+9	32,33	GATE_Token	string="D" lemma="d" category="NN"

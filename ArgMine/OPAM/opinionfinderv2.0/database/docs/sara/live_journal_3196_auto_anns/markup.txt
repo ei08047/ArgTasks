@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Everyone says it is <MPQAPOL autoclass="negative">stressful</MPQAPOL> and <MPQAPOL autoclass="negative">awful</MPQAPOL> , but I <MPQAPOL autoclass="positive">LOVE</MPQAPOL> it .</MPQASENT>

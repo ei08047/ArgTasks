@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">indeed</MPQAPOL> , french canadian , and a cat for <MPQAPOL autoclass="neutral">good</MPQAPOL> measure .</MPQASENT>

@@ -1,0 +1,12 @@
+1	0,58	GATE_Sentence
+2	0,6	GATE_Token	string="Should" lemma="should" category="MD"
+3	7,10	GATE_Token	string="the" lemma="the" category="DT"
+4	11,15	GATE_Token	string="main" lemma="main" category="JJ"
+5	16,21	GATE_Token	string="image" lemma="image" category="NN"
+6	22,28	GATE_Token	string="relate" lemma="relate" category="VBP"
+7	29,31	GATE_Token	string="to" lemma="to" category="TO"
+8	32,37	GATE_Token	string="human" lemma="human" category="JJ"
+9	38,40	GATE_Token	string="or" lemma="or" category="CC"
+10	41,50	GATE_Token	string="non-human" lemma="non-human" category="JJ"
+11	51,56	GATE_Token	string="death" lemma="death" category="NN"
+12	57,58	GATE_Token	string="?" lemma="?" category="."

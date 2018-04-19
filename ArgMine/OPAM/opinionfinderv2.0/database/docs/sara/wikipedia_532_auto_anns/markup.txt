@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">In an <MPQAPOL autoclass="neutral">open</MPQAPOL> system structure may form without <MPQAPOL autoclass="negative">violating</MPQAPOL> any physical law .</MPQASENT>

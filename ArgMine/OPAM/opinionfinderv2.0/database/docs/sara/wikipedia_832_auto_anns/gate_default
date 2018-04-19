@@ -1,0 +1,13 @@
+1	0,81	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,14	GATE_Token	string="specifically" lemma="specifically" category="RB"
+4	15,19	GATE_Token	string="said" lemma="say" category="VBD"
+5	20,22	GATE_Token	string="``" lemma="``" category="``"
+6	23,24	GATE_Token	string="a" lemma="a" category="DT"
+7	25,35	GATE_Token	string="resistance" lemma="resistance" category="NN"
+8	36,48	GATE_Token	string="organization" lemma="organization" category="NN"
+9	49,57	GATE_Token	string="fighting" lemma="fight" category="VBG"
+10	58,65	GATE_Token	string="Israeli" lemma="israeli" category="JJ"
+11	66,76	GATE_Token	string="occupation" lemma="occupation" category="NN"
+12	77,79	GATE_Token	string="''" lemma="''" category="''"
+13	80,81	GATE_Token	string="." lemma="." category="."

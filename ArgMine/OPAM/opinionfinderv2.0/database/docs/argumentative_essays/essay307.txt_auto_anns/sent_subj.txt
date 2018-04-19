@@ -1,0 +1,11 @@
+argumentative_essays_essay307.txt_0_121	obj
+argumentative_essays_essay307.txt_122_277	subj
+argumentative_essays_essay307.txt_278_436	subj
+argumentative_essays_essay307.txt_438_564	obj
+argumentative_essays_essay307.txt_565_662	obj
+argumentative_essays_essay307.txt_663_884	subj
+argumentative_essays_essay307.txt_886_986	subj
+argumentative_essays_essay307.txt_987_1105	subj
+argumentative_essays_essay307.txt_1106_1242	subj
+argumentative_essays_essay307.txt_1243_1399	obj
+argumentative_essays_essay307.txt_1400_1689	subj

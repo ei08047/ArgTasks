@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Should</MPQAPOL> not be <MPQAPOL autoclass="neutral">so</MPQAPOL> hard , you being a musician , as <MPQAPOL autoclass="neutral">well</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,1	GATE_Token	string="`" lemma="`" category="``"
+3	2,6	GATE_Token	string="Hard" lemma="hard" category="JJ"
+4	7,11	GATE_Token	string="rock" lemma="rock" category="NN"
+5	12,13	GATE_Token	string="'" lemma="'" category="''"
+6	14,17	GATE_Token	string="has" lemma="have" category="VBZ"
+7	18,21	GATE_Token	string="two" lemma="two" category="CD"
+8	22,31	GATE_Token	string="different" lemma="different" category="JJ"
+9	32,40	GATE_Token	string="meanings" lemma="meaning" category="NNS"
+10	41,42	GATE_Token	string="." lemma="." category="."

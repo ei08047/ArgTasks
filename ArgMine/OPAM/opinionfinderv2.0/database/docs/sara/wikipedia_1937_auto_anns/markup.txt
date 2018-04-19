@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="negative">blame</MPQAPOL> myself for not heeding my repeated <MPQAPOL autoclass="neutral">advice</MPQAPOL> not to use edit summaries to explain beyond the <MPQAPOL autoclass="negative">simplistic</MPQAPOL> .</MPQASENT>

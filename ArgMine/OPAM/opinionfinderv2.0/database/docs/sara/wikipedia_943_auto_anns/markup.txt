@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Iommi has been <MPQAPOL autoclass="neutral">very</MPQAPOL> public about <MPQAPOL autoclass="neutral">influence</MPQAPOL> from Clapton .</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,3	GATE_Token	string="how" lemma="how" category="WRB"
+3	4,6	GATE_Token	string="is" lemma="be" category="VBZ"
+4	7,11	GATE_Token	string="that" lemma="that" category="IN"
+5	12,15	GATE_Token	string="not" lemma="not" category="RB"
+6	16,17	GATE_Token	string="a" lemma="a" category="DT"
+7	18,21	GATE_Token	string="hot" lemma="hot" category="JJ"
+8	22,28	GATE_Token	string="button" lemma="button" category="NN"
+9	29,34	GATE_Token	string="issue" lemma="issue" category="NN"
+10	35,36	GATE_Token	string="?" lemma="?" category="."

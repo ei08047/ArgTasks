@@ -1,0 +1,10 @@
+1	0,64	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,9	GATE_Token	string="thought" lemma="think" category="VBD"
+4	10,13	GATE_Token	string="the" lemma="the" category="DT"
+5	14,30	GATE_Token	string="African-American" lemma="african-american" category="JJ"
+6	31,40	GATE_Token	string="community" lemma="community" category="NN"
+7	41,46	GATE_Token	string="would" lemma="would" category="MD"
+8	47,51	GATE_Token	string="have" lemma="have" category="VB"
+9	52,62	GATE_Token	string="understood" lemma="understand" category="VBN"
+10	63,64	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">All those promeses I made , about my family <MPQAPOL autoclass="positive">willing</MPQAPOL> to <MPQAPOL autoclass="neutral">protect</MPQAPOL> you and give you a home for a while , <MPQAPOL autoclass="neutral">really</MPQAPOL> is <MPQAPOL autoclass="positive">true</MPQAPOL> .</MPQASENT>

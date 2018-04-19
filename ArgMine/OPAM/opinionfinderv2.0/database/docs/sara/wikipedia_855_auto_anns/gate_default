@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,5	GATE_Token	string="Would" lemma="would" category="MD"
+3	6,12	GATE_Token	string="saying" lemma="say" category="VBG"
+4	13,17	GATE_Token	string="that" lemma="that" category="IN"
+5	18,22	GATE_Token	string="work" lemma="work" category="NN"
+6	23,26	GATE_Token	string="for" lemma="for" category="IN"
+7	27,30	GATE_Token	string="you" lemma="you" category="PRP"
+8	31,32	GATE_Token	string="?" lemma="?" category="."

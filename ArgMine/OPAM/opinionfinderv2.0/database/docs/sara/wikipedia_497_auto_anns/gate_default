@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="hope" lemma="hope" category="VBP"
+4	7,11	GATE_Token	string="this" lemma="this" category="DT"
+5	12,17	GATE_Token	string="meets" lemma="meet" category="VBZ"
+6	18,22	GATE_Token	string="with" lemma="with" category="IN"
+7	23,30	GATE_Token	string="general" lemma="general" category="JJ"
+8	31,39	GATE_Token	string="approval" lemma="approval" category="NN"
+9	40,41	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This Telegraph article <MPQAPOL autoclass="positive">highlights</MPQAPOL> the NPOV <MPQAPOL autoclass="neutral">problem</MPQAPOL> with this article .</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,51	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,9	GATE_Token	string="not" lemma="not" category="RB"
+5	10,14	GATE_Token	string="even" lemma="even" category="RB"
+6	15,18	GATE_Token	string="the" lemma="the" category="DT"
+7	19,26	GATE_Token	string="subject" lemma="subject" category="JJ"
+8	27,33	GATE_Token	string="matter" lemma="matter" category="NN"
+9	34,36	GATE_Token	string="in" lemma="in" category="IN"
+10	37,41	GATE_Token	string="what" lemma="what" category="WP"
+11	42,44	GATE_Token	string="he" lemma="he" category="PRP"
+12	45,49	GATE_Token	string="says" lemma="say" category="VBZ"
+13	50,51	GATE_Token	string="." lemma="." category="."

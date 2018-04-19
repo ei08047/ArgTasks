@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is a lot simpler than character animation , but there is a <MPQAPOL autoclass="neutral">real</MPQAPOL> <MPQAPOL autoclass="neutral">knowledge</MPQAPOL> gap with editors and motion-graphics guys .</MPQASENT>

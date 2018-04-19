@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I will <MPQAPOL autoclass="neutral">try</MPQAPOL> not to <MPQAPOL autoclass="neutral">bore</MPQAPOL> you with <MPQAPOL autoclass="neutral">too</MPQAPOL> many details .</MPQASENT>

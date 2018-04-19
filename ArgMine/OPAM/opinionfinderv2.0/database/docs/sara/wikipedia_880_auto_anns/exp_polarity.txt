@@ -1,0 +1,3 @@
+sara_wikipedia_880_0_8	neutral
+sara_wikipedia_880_50_55	neutral
+sara_wikipedia_880_69_80	neutral

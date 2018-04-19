@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,11	GATE_Token	string="one" lemma="one" category="CD"
+5	12,14	GATE_Token	string="of" lemma="of" category="IN"
+6	15,18	GATE_Token	string="the" lemma="the" category="DT"
+7	19,27	GATE_Token	string="greatest" lemma="greatest" category="JJS"
+8	28,33	GATE_Token	string="shows" lemma="show" category="NNS"
+9	34,38	GATE_Token	string="ever" lemma="ever" category="RB"
+10	39,43	GATE_Token	string="made" lemma="make" category="VBN"
+11	44,45	GATE_Token	string="." lemma="." category="."

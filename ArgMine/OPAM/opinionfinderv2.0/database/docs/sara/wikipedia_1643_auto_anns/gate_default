@@ -1,0 +1,8 @@
+1	0,33	GATE_Sentence
+2	0,2	GATE_Token	string="In" lemma="in" category="IN"
+3	3,6	GATE_Token	string="the" lemma="the" category="DT"
+4	7,11	GATE_Token	string="same" lemma="same" category="JJ"
+5	12,15	GATE_Token	string="way" lemma="way" category="NN"
+6	16,20	GATE_Token	string="that" lemma="that" category="IN"
+7	21,31	GATE_Token	string="Whitehouse" lemma="Whitehouse" category="NNP"
+8	32,33	GATE_Token	string="." lemma="." category="."

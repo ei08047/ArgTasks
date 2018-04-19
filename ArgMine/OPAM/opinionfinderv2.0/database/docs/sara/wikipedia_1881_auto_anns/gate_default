@@ -1,0 +1,13 @@
+1	0,68	GATE_Sentence
+2	0,6	GATE_Token	string="Second" lemma="second" category="RB"
+3	7,8	GATE_Token	string="," lemma="," category=","
+4	9,18	GATE_Token	string="billboard" lemma="billboard" category="NN"
+5	19,21	GATE_Token	string="is" lemma="be" category="VBZ"
+6	22,33	GATE_Token	string="referencing" lemma="reference" category="VBG"
+7	34,39	GATE_Token	string="where" lemma="where" category="WRB"
+8	40,43	GATE_Token	string="she" lemma="she" category="PRP"
+9	44,50	GATE_Token	string="places" lemma="place" category="VBZ"
+10	51,53	GATE_Token	string="on" lemma="on" category="IN"
+11	54,59	GATE_Token	string="their" lemma="they" category="PRP$"
+12	60,66	GATE_Token	string="charts" lemma="chart" category="NNS"
+13	67,68	GATE_Token	string="." lemma="." category="."

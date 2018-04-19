@@ -1,0 +1,4 @@
+sara_live_journal_2602_10_16	negative
+sara_live_journal_2602_17_20	negative
+sara_live_journal_2602_28_32	positive
+sara_live_journal_2602_51_56	negative

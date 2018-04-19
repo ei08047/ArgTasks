@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Yes</MPQAPOL> there are <MPQAPOL autoclass="neutral">lectures</MPQAPOL> on Saturdays .</MPQASENT>

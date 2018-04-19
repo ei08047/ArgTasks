@@ -1,0 +1,6 @@
+argumentative_essays_essay346.txt_1343_1353	negative
+argumentative_essays_essay346.txt_1354_1364	positive
+argumentative_essays_essay346.txt_1374_1386	neutral
+argumentative_essays_essay346.txt_1403_1415	positive
+argumentative_essays_essay346.txt_1419_1426	neutral
+argumentative_essays_essay346.txt_1455_1462	neutral

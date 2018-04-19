@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Five instances of vandalism a day is <MPQAPOL autoclass="negative">really</MPQAPOL> <MPQAPOL autoclass="negative">low</MPQAPOL> , <MPQAPOL autoclass="neutral">especially</MPQAPOL> for an article this high-profile .</MPQASENT>

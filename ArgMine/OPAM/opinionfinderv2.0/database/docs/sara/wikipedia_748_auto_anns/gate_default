@@ -1,0 +1,10 @@
+1	0,50	GATE_Sentence
+2	0,3	GATE_Token	string="Not" lemma="not" category="RB"
+3	4,14	GATE_Token	string="collateral" lemma="collateral" category="NN"
+4	15,21	GATE_Token	string="damage" lemma="damage" category="NN"
+5	22,23	GATE_Token	string="," lemma="," category=","
+6	24,27	GATE_Token	string="but" lemma="but" category="CC"
+7	28,31	GATE_Token	string="the" lemma="the" category="DT"
+8	32,40	GATE_Token	string="intended" lemma="intended" category="JJ"
+9	41,48	GATE_Token	string="targets" lemma="target" category="NNS"
+10	49,50	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,10 @@
+1	0,31	GATE_Sentence
+2	0,2	GATE_Token	string="Hi" lemma="Hi" category="NNP"
+3	3,8	GATE_Token	string="Erica" lemma="Erica" category="NNP"
+4	9,10	GATE_Token	string="^" lemma="^" category="NNP"
+5	10,11	GATE_Token	string="_" lemma="_" category="NNP"
+6	11,12	GATE_Token	string="^" lemma="^" category="VBD"
+7	13,17	GATE_Token	string="This" lemma="this" category="DT"
+8	18,20	GATE_Token	string="is" lemma="be" category="VBZ"
+9	21,29	GATE_Token	string="Karoline" lemma="Karoline" category="NNP"
+10	30,31	GATE_Token	string="." lemma="." category="."

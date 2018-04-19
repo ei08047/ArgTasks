@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">As <MPQAPOL autoclass="neutral">much</MPQAPOL> as I <MPQAPOL autoclass="neutral">might</MPQAPOL> <MPQAPOL autoclass="neutral">consider</MPQAPOL> changing my store name , I will not out of <MPQAPOL autoclass="negative">fear</MPQAPOL> of <MPQAPOL autoclass="negative">fickle</MPQAPOL> buyers !</MPQASENT>

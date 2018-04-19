@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">if i stay in bed <MPQAPOL autoclass="neutral">too</MPQAPOL> long , my body aches and my muscles <MPQAPOL autoclass="negative">feel</MPQAPOL> <MPQAPOL autoclass="negative">dead</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,12 @@
+1	0,59	GATE_Sentence
+2	0,11	GATE_Token	string="Disallowing" lemma="disallow" category="VBG"
+3	12,16	GATE_Token	string="CCHR" lemma="cchr" category="NN"
+4	17,19	GATE_Token	string="'s" lemma="'s" category="POS"
+5	20,25	GATE_Token	string="point" lemma="point" category="NN"
+6	26,28	GATE_Token	string="of" lemma="of" category="IN"
+7	29,33	GATE_Token	string="view" lemma="view" category="NN"
+8	34,35	GATE_Token	string="," lemma="," category=","
+9	36,43	GATE_Token	string="clearly" lemma="clearly" category="RB"
+10	44,52	GATE_Token	string="violates" lemma="violate" category="VBZ"
+11	53,57	GATE_Token	string="NPOV" lemma="npov" category="NN"
+12	58,59	GATE_Token	string="." lemma="." category="."

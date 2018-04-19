@@ -1,0 +1,10 @@
+1	0,46	GATE_Sentence
+2	0,8	GATE_Token	string="Panthers" lemma="Panthers" category="NNPS"
+3	9,12	GATE_Token	string="are" lemma="be" category="VBP"
+4	13,16	GATE_Token	string="the" lemma="the" category="DT"
+5	17,21	GATE_Token	string="best" lemma="best" category="JJS"
+6	22,28	GATE_Token	string="mascot" lemma="mascot" category="NN"
+7	29,30	GATE_Token	string="," lemma="," category=","
+8	31,34	GATE_Token	string="for" lemma="for" category="IN"
+9	35,44	GATE_Token	string="seriously" lemma="seriously" category="RB"
+10	45,46	GATE_Token	string="!" lemma="!" category="."

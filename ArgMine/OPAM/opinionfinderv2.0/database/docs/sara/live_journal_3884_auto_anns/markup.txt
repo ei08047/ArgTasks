@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">big</MPQAPOL> <MPQAPOL autoclass="neutral">problem</MPQAPOL> was that there <MPQAPOL autoclass="neutral">'d</MPQAPOL> be one bathroom for six of us .</MPQASENT>

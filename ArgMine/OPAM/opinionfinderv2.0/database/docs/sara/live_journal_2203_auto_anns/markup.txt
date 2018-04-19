@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">My over-exuberant Indian <MPQAPOL autoclass="neutral">friend</MPQAPOL> <MPQAPOL autoclass="positive">suggested</MPQAPOL> blowing up Mecca , but that is <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="negative">preposterous</MPQAPOL> .</MPQASENT>

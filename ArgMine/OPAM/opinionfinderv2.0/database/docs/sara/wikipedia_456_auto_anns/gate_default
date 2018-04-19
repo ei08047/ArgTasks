@@ -1,0 +1,11 @@
+1	0,57	GATE_Sentence
+2	0,3	GATE_Token	string="Can" lemma="can" category="MD"
+3	4,6	GATE_Token	string="we" lemma="we" category="PRP"
+4	7,13	GATE_Token	string="please" lemma="please" category="VB"
+5	14,18	GATE_Token	string="have" lemma="have" category="VBP"
+6	19,29	GATE_Token	string="discussion" lemma="discussion" category="NN"
+7	30,36	GATE_Token	string="before" lemma="before" category="IN"
+8	37,45	GATE_Token	string="changing" lemma="change" category="VBG"
+9	46,49	GATE_Token	string="the" lemma="the" category="DT"
+10	50,55	GATE_Token	string="image" lemma="image" category="NN"
+11	56,57	GATE_Token	string="." lemma="." category="."

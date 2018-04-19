@@ -1,0 +1,8 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,10	GATE_Token	string="verbal" lemma="verbal" category="JJ"
+4	11,16	GATE_Token	string="vomit" lemma="vomit" category="NN"
+5	17,20	GATE_Token	string="was" lemma="be" category="VBD"
+6	21,25	GATE_Token	string="much" lemma="much" category="JJ"
+7	26,37	GATE_Token	string="appreciated" lemma="appreciate" category="VBN"
+8	38,39	GATE_Token	string="." lemma="." category="."

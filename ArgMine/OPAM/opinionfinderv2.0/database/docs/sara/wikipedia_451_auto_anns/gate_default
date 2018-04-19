@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,4	GATE_Token	string="When" lemma="when" category="WRB"
+3	5,8	GATE_Token	string="you" lemma="you" category="PRP"
+4	9,12	GATE_Token	string="see" lemma="see" category="VBP"
+5	13,22	GATE_Token	string="vandalism" lemma="vandalism" category="NN"
+6	23,24	GATE_Token	string="," lemma="," category=","
+7	25,28	GATE_Token	string="you" lemma="you" category="PRP"
+8	29,33	GATE_Token	string="know" lemma="know" category="VBP"
+9	34,36	GATE_Token	string="it" lemma="it" category="PRP"
+10	37,38	GATE_Token	string="." lemma="." category="."

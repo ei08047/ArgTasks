@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The media is <MPQAPOL autoclass="neutral">independent</MPQAPOL> from the government , I do not see why there <MPQAPOL autoclass="neutral">would</MPQAPOL> be any <MPQAPOL autoclass="neutral">problem</MPQAPOL> in using them .<MPQASENT autoclass1="obj" autoclass2="obj">-</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is a <MPQAPOL autoclass="neutral">waste</MPQAPOL> of time and it does nothing to <MPQAPOL autoclass="neutral">improve</MPQAPOL> Wikipedia .</MPQASENT>

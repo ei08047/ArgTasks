@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The underlying <MPQAPOL autoclass="neutral">facts</MPQAPOL> are <MPQAPOL autoclass="neutral">agreed</MPQAPOL> , and <MPQAPOL autoclass="neutral">clear</MPQAPOL> references are available for them .</MPQASENT>

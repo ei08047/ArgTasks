@@ -1,0 +1,12 @@
+argumentative_essays_essay153.txt_0_157	subj
+argumentative_essays_essay153.txt_158_237	obj
+argumentative_essays_essay153.txt_238_439	obj
+argumentative_essays_essay153.txt_440_546	obj
+argumentative_essays_essay153.txt_547_931	subj
+argumentative_essays_essay153.txt_932_1184	subj
+argumentative_essays_essay153.txt_1185_1415	subj
+argumentative_essays_essay153.txt_1416_1527	obj
+argumentative_essays_essay153.txt_1528_1632	obj
+argumentative_essays_essay153.txt_1633_1767	obj
+argumentative_essays_essay153.txt_1768_1899	obj
+argumentative_essays_essay153.txt_1900_2032	subj

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">\* <MPQAPOL autoclass="positive">grins</MPQAPOL> <MPQAPOL autoclass="negative">wickedly</MPQAPOL> \* \* smooches \*</MPQASENT>

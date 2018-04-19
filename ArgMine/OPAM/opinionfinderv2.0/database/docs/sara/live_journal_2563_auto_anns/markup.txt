@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">truth</MPQAPOL> is that I <MPQAPOL autoclass="negative">disagree</MPQAPOL> with the seal hunt in <MPQAPOL autoclass="neutral">principle</MPQAPOL> , in the same way that I <MPQAPOL autoclass="negative">disagree</MPQAPOL> with game hunting .</MPQASENT>

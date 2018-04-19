@@ -1,0 +1,13 @@
+1	0,72	GATE_Sentence
+2	0,6	GATE_Token	string="Please" lemma="please" category="VB"
+3	7,9	GATE_Token	string="do" lemma="do" category="VB"
+4	10,13	GATE_Token	string="not" lemma="not" category="RB"
+5	14,18	GATE_Token	string="make" lemma="make" category="VB"
+6	19,29	GATE_Token	string="unilateral" lemma="unilateral" category="JJ"
+7	30,37	GATE_Token	string="changes" lemma="change" category="NNS"
+8	38,43	GATE_Token	string="while" lemma="while" category="IN"
+9	44,54	GATE_Token	string="discussion" lemma="discussion" category="NN"
+10	55,57	GATE_Token	string="is" lemma="be" category="VBZ"
+11	58,64	GATE_Token	string="taking" lemma="take" category="VBG"
+12	65,70	GATE_Token	string="place" lemma="place" category="NN"
+13	71,72	GATE_Token	string="." lemma="." category="."

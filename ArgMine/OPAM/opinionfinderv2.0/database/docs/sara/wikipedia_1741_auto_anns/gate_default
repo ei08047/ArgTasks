@@ -1,0 +1,13 @@
+1	0,66	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,9	GATE_Token	string="First" lemma="First" category="NNP"
+4	10,16	GATE_Token	string="Vision" lemma="Vision" category="NNP"
+5	17,19	GATE_Token	string="is" lemma="be" category="VBZ"
+6	20,21	GATE_Token	string="a" lemma="a" category="DT"
+7	22,26	GATE_Token	string="very" lemma="very" category="RB"
+8	27,36	GATE_Token	string="important" lemma="important" category="JJ"
+9	37,41	GATE_Token	string="part" lemma="part" category="NN"
+10	42,44	GATE_Token	string="of" lemma="of" category="IN"
+11	45,54	GATE_Token	string="post-1900" lemma="post-1900" category="JJ"
+12	55,64	GATE_Token	string="Mormonism" lemma="mormonism" category="NN"
+13	65,66	GATE_Token	string="." lemma="." category="."

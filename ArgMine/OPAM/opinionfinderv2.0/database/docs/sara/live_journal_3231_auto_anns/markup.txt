@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">; ____ ; \* <MPQAPOL autoclass="neutral">hug</MPQAPOL> \* Was it a <MPQAPOL autoclass="neutral">full</MPQAPOL> format or a <MPQAPOL autoclass="neutral">quick</MPQAPOL> format ?</MPQASENT>

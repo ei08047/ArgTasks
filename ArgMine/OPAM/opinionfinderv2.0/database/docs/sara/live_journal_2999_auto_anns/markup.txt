@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">We are a pair of <MPQAPOL autoclass="negative">sad</MPQAPOL> game-a-holics .</MPQASENT>

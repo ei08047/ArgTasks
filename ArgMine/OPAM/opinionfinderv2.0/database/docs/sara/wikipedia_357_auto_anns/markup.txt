@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">many people do not <MPQAPOL autoclass="neutral">know</MPQAPOL> that Catholics were ever <MPQAPOL autoclass="negative">persecuted</MPQAPOL> .</MPQASENT>

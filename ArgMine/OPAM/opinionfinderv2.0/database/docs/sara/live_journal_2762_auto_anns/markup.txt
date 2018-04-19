@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">Bad</MPQAPOL> company is the <MPQAPOL autoclass="neutral">best</MPQAPOL> kind !</MPQASENT>

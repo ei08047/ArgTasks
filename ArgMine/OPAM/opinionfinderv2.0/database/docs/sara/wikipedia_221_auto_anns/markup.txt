@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">These are not different Rites <MPQAPOL autoclass="neutral">such</MPQAPOL> as <MPQAPOL autoclass="neutral">Byzantine</MPQAPOL> , Coptic , Carmelite , or Dominican .</MPQASENT>

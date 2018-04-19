@@ -1,0 +1,10 @@
+1	0,51	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+3	9,16	GATE_Token	string="Zombies" lemma="Zombies" category="NNPS"
+4	17,20	GATE_Token	string="are" lemma="be" category="VBP"
+5	21,22	GATE_Token	string="a" lemma="a" category="DT"
+6	23,31	GATE_Token	string="allegory" lemma="allegory" category="NN"
+7	32,35	GATE_Token	string="for" lemma="for" category="IN"
+8	36,41	GATE_Token	string="class" lemma="class" category="NN"
+9	42,49	GATE_Token	string="warfare" lemma="warfare" category="NN"
+10	50,51	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,10 @@
+1	0,45	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,5	GATE_Token	string="did" lemma="do" category="VBD"
+4	6,9	GATE_Token	string="not" lemma="not" category="RB"
+5	10,17	GATE_Token	string="suggest" lemma="suggest" category="VB"
+6	18,26	GATE_Token	string="removing" lemma="remove" category="VBG"
+7	27,30	GATE_Token	string="the" lemma="the" category="DT"
+8	31,38	GATE_Token	string="Ireland" lemma="Ireland" category="NNP"
+9	39,43	GATE_Token	string="flag" lemma="flag" category="NN"
+10	44,45	GATE_Token	string="." lemma="." category="."

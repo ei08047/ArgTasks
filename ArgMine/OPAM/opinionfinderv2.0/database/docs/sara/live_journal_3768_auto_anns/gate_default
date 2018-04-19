@@ -1,0 +1,13 @@
+1	0,53	GATE_Sentence
+2	0,2	GATE_Token	string="``" lemma="``" category="``"
+3	3,7	GATE_Token	string="Thud" lemma="thud" category="NN"
+4	8,10	GATE_Token	string="''" lemma="''" category="''"
+5	11,16	GATE_Token	string="means" lemma="mean" category="VBZ"
+6	17,19	GATE_Token	string="it" lemma="it" category="PRP"
+7	20,22	GATE_Token	string="is" lemma="be" category="VBZ"
+8	23,27	GATE_Token	string="just" lemma="just" category="RB"
+9	28,29	GATE_Token	string="a" lemma="a" category="DT"
+10	30,36	GATE_Token	string="boring" lemma="boring" category="JJ"
+11	37,46	GATE_Token	string="wordcount" lemma="wordcount" category="NN"
+12	47,51	GATE_Token	string="post" lemma="post" category="NN"
+13	52,53	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,37	GATE_Sentence
+2	0,2	GATE_Token	string="We" lemma="we" category="PRP"
+3	3,7	GATE_Token	string="also" lemma="also" category="RB"
+4	8,14	GATE_Token	string="bought" lemma="buy" category="VBD"
+5	15,22	GATE_Token	string="seasons" lemma="season" category="NNS"
+6	23,24	GATE_Token	string="8" lemma="8" category="CD"
+7	25,26	GATE_Token	string="," lemma="," category=","
+8	27,28	GATE_Token	string="9" lemma="9" category="CD"
+9	29,32	GATE_Token	string="and" lemma="and" category="CC"
+10	33,35	GATE_Token	string="10" lemma="10" category="CD"
+11	36,37	GATE_Token	string="." lemma="." category="."

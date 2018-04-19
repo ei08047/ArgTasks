@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">sleep with your head towards the door , you <MPQAPOL autoclass="neutral">might</MPQAPOL> <MPQAPOL autoclass="negative">scare</MPQAPOL> random children if they walk by the tent and it is <MPQAPOL autoclass="neutral">open</MPQAPOL> !!</MPQASENT>

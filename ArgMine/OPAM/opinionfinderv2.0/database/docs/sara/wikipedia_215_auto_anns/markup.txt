@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">The <MPQAPOL autoclass="neutral">idea</MPQAPOL> that Xavier only <MPQAPOL autoclass="positive">preached</MPQAPOL> among Thomas christians is <MPQAPOL autoclass="neutral">simply</MPQAPOL> <MPQAPOL autoclass="negative">wrong</MPQAPOL> .</MPQASENT>

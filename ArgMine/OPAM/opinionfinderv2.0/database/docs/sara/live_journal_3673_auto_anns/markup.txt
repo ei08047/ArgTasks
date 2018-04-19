@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Doors at 6:00 , bout at 7:00 .</MPQASENT>

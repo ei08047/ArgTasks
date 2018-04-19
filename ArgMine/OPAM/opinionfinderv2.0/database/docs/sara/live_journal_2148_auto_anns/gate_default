@@ -1,0 +1,11 @@
+1	0,38	GATE_Sentence
+2	0,4	GATE_Token	string="Then" lemma="then" category="RB"
+3	5,11	GATE_Token	string="Friday" lemma="Friday" category="NNP"
+4	12,14	GATE_Token	string="we" lemma="we" category="PRP"
+5	15,17	GATE_Token	string="go" lemma="go" category="VBP"
+6	18,20	GATE_Token	string="to" lemma="to" category="TO"
+7	21,23	GATE_Token	string="NH" lemma="NH" category="NNP"
+8	24,26	GATE_Token	string="to" lemma="to" category="TO"
+9	27,32	GATE_Token	string="visit" lemma="visit" category="VB"
+10	33,36	GATE_Token	string="mom" lemma="mom" category="NN"
+11	37,38	GATE_Token	string="." lemma="." category="."

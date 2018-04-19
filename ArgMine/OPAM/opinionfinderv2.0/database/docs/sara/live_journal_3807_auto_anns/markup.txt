@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Antony 's <MPQAPOL autoclass="neutral">pretty</MPQAPOL> , makes me <MPQAPOL autoclass="negative">laugh</MPQAPOL> , and listens to <MPQAPOL autoclass="positive">better</MPQAPOL> music than I do .</MPQASENT>

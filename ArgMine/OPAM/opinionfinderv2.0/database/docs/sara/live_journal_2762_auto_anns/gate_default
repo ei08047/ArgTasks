@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,3	GATE_Token	string="Bad" lemma="bad" category="JJ"
+3	4,11	GATE_Token	string="company" lemma="company" category="NN"
+4	12,14	GATE_Token	string="is" lemma="be" category="VBZ"
+5	15,18	GATE_Token	string="the" lemma="the" category="DT"
+6	19,23	GATE_Token	string="best" lemma="best" category="JJS"
+7	24,28	GATE_Token	string="kind" lemma="kind" category="NN"
+8	29,30	GATE_Token	string="!" lemma="!" category="."

@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,9	GATE_Token	string="Wikipedia" lemma="Wikipedia" category="NNP"
+3	10,14	GATE_Token	string="also" lemma="also" category="RB"
+4	15,22	GATE_Token	string="forbids" lemma="forbid" category="VBZ"
+5	23,26	GATE_Token	string="the" lemma="the" category="DT"
+6	27,30	GATE_Token	string="use" lemma="use" category="NN"
+7	31,33	GATE_Token	string="of" lemma="of" category="IN"
+8	34,38	GATE_Token	string="role" lemma="role" category="NN"
+9	39,47	GATE_Token	string="accounts" lemma="account" category="NNS"
+10	48,49	GATE_Token	string="," lemma="," category=","
+11	50,54	GATE_Token	string="such" lemma="such" category="JJ"
+12	55,57	GATE_Token	string="as" lemma="as" category="IN"

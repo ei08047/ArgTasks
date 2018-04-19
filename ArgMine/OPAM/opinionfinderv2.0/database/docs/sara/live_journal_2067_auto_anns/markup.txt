@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">Although</MPQAPOL> teaching 14 kids under 12 the jazz square is a bit <MPQAPOL autoclass="negative">daunting</MPQAPOL> !</MPQASENT>

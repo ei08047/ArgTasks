@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">that <MPQAPOL autoclass="neutral">just</MPQAPOL> made my chest hurt .</MPQASENT>

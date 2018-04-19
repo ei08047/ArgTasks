@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,4	GATE_Token	string="this" lemma="this" category="DT"
+3	5,13	GATE_Token	string="deserves" lemma="deserve" category="VBZ"
+4	14,15	GATE_Token	string="a" lemma="a" category="DT"
+5	16,23	GATE_Token	string="picture" lemma="picture" category="NN"
+6	24,26	GATE_Token	string="of" lemma="of" category="IN"
+7	27,30	GATE_Token	string="the" lemma="the" category="DT"
+8	31,33	GATE_Token	string="YA" lemma="YA" category="NNP"
+9	34,37	GATE_Token	string="RLY" lemma="RLY" category="NNP"
+10	38,41	GATE_Token	string="owl" lemma="owl" category="NN"

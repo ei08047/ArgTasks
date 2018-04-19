@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Sometimes I <MPQAPOL autoclass="neutral">look</MPQAPOL> forward to getting wrinkles -- if I am <MPQAPOL autoclass="positive">lucky</MPQAPOL> <MPQAPOL autoclass="neutral">enough</MPQAPOL> to live long <MPQAPOL autoclass="neutral">enough</MPQAPOL> to get them !</MPQASENT>

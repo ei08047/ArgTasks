@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="positive">like</MPQAPOL> to <MPQAPOL autoclass="neutral">think</MPQAPOL> of myself as a <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="positive">open</MPQAPOL> <MPQAPOL autoclass="negative">minded</MPQAPOL> person .</MPQASENT>

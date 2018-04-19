@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Article <MPQAPOL autoclass="neutral">should</MPQAPOL> more represent <MPQAPOL autoclass="neutral">facts</MPQAPOL> as discovered by those who have done research , than by <MPQAPOL autoclass="neutral">critics</MPQAPOL> who have not .</MPQASENT>

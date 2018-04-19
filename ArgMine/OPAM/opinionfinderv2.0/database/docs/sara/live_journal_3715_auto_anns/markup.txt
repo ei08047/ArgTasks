@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This is a <MPQAPOL autoclass="neutral">lovely</MPQAPOL> piece of poetry .</MPQASENT>

@@ -1,0 +1,12 @@
+1	0,50	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,9	GATE_Token	string="might" lemma="might" category="MD"
+4	10,13	GATE_Token	string="try" lemma="try" category="VB"
+5	14,22	GATE_Token	string="Fletcher" lemma="Fletcher" category="NNP"
+6	23,25	GATE_Token	string="'s" lemma="'s" category="POS"
+7	26,30	GATE_Token	string="Boat" lemma="Boat" category="NNP"
+8	31,36	GATE_Token	string="House" lemma="House" category="NNP"
+9	37,38	GATE_Token	string="," lemma="," category=","
+10	39,42	GATE_Token	string="but" lemma="but" category="CC"
+11	43,48	GATE_Token	string="dunno" lemma="dunno" category="NN"
+12	49,50	GATE_Token	string="." lemma="." category="."

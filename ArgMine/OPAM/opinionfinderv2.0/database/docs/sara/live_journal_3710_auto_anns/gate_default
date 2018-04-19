@@ -1,0 +1,13 @@
+1	0,50	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,8	GATE_Token	string="same" lemma="same" category="JJ"
+4	9,13	GATE_Token	string="goes" lemma="go" category="VBZ"
+5	14,17	GATE_Token	string="for" lemma="for" category="IN"
+6	18,20	GATE_Token	string="``" lemma="``" category="``"
+7	21,24	GATE_Token	string="She" lemma="she" category="PRP"
+8	25,32	GATE_Token	string="brought" lemma="bring" category="VBD"
+9	33,38	GATE_Token	string="about" lemma="about" category="RB"
+10	39,40	GATE_Token	string="a" lemma="a" category="DT"
+11	41,45	GATE_Token	string="star" lemma="star" category="NN"
+12	46,47	GATE_Token	string="." lemma="." category="."
+13	48,50	GATE_Token	string="''" lemma="''" category="''"

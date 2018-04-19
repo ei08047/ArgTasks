@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That <MPQAPOL autoclass="neutral">would</MPQAPOL> be a total <MPQAPOL autoclass="negative">twisting</MPQAPOL> of the <MPQAPOL autoclass="neutral">idea</MPQAPOL> behind this list .</MPQASENT>

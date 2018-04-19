@@ -1,0 +1,5 @@
+1	0,35	GATE_Sentence
+2	0,6	GATE_Token	string="e-mail" lemma="e-mail" category="VB"
+3	7,9	GATE_Token	string="me" lemma="I" category="PRP"
+4	10,11	GATE_Token	string=":" lemma=":" category=":"
+5	12,35	GATE_Token	string="vitamincsaint@gmail.com" lemma="vitamincsaint@gmail.com" category="NN"

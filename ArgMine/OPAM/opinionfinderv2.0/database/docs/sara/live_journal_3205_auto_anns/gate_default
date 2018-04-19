@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,7	GATE_Token	string="does" lemma="do" category="VBZ"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,19	GATE_Token	string="bitches" lemma="bitch" category="NNS"
+6	20,24	GATE_Token	string="hand" lemma="hand" category="NN"
+7	25,31	GATE_Token	string="motion" lemma="motion" category="NN"
+8	32,34	GATE_Token	string="\*" lemma="\*" category="SYM"

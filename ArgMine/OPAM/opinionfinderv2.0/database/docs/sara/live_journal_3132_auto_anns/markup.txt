@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">And they have these <MPQAPOL autoclass="negative">terrible</MPQAPOL> <MPQAPOL autoclass="negative">annoying</MPQAPOL> radio ads for it <MPQAPOL autoclass="neutral">too</MPQAPOL> .</MPQASENT>

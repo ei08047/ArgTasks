@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And I did not get <MPQAPOL autoclass="negative">offended</MPQAPOL> one bit by you swearing , I <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="negative">satirized</MPQAPOL> wikipedian policy .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Just</MPQAPOL> because your hands <MPQAPOL autoclass="negative">feel</MPQAPOL> <MPQAPOL autoclass="positive">fine</MPQAPOL> now is no <MPQAPOL autoclass="neutral">guarantee</MPQAPOL> they will <MPQAPOL autoclass="negative">feel</MPQAPOL> <MPQAPOL autoclass="positive">fine</MPQAPOL> later .</MPQASENT>

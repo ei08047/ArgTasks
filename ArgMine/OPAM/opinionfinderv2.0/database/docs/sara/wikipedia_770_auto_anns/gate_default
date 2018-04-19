@@ -1,0 +1,11 @@
+1	0,48	GATE_Sentence
+2	0,4	GATE_Token	string="Then" lemma="then" category="RB"
+3	5,8	GATE_Token	string="you" lemma="you" category="PRP"
+4	9,12	GATE_Token	string="had" lemma="have" category="VBD"
+5	13,17	GATE_Token	string="have" lemma="have" category="VBP"
+6	18,20	GATE_Token	string="to" lemma="to" category="TO"
+7	21,26	GATE_Token	string="argue" lemma="argue" category="VB"
+8	27,31	GATE_Token	string="with" lemma="with" category="IN"
+9	32,37	GATE_Token	string="Hamas" lemma="Hamas" category="NNP"
+10	38,46	GATE_Token	string="directly" lemma="directly" category="RB"
+11	47,48	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Those authors have collected and cited <MPQAPOL autoclass="neutral">reliable</MPQAPOL> sources .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">We <MPQAPOL autoclass="neutral">know</MPQAPOL> from the BBCNews report that UN officials at the school said missiles landed <MPQAPOL autoclass="neutral">just</MPQAPOL> outside the school .</MPQASENT>

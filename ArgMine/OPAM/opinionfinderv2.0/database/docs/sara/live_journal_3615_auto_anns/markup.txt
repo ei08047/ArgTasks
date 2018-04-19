@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I had figure if a <MPQAPOL autoclass="neutral">friend</MPQAPOL> can tell you <MPQAPOL autoclass="positive">nice</MPQAPOL> AND `` <MPQAPOL autoclass="neutral">mean</MPQAPOL> '' things , that <MPQAPOL autoclass="neutral">means</MPQAPOL> they are not bullshitting you .</MPQASENT>

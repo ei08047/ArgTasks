@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">-- The <MPQAPOL autoclass="neutral">reliable</MPQAPOL> sources noticeboard has already <MPQAPOL autoclass="neutral">agreed</MPQAPOL> that the quotes <MPQAPOL autoclass="neutral">should</MPQAPOL> be in the article .</MPQASENT>

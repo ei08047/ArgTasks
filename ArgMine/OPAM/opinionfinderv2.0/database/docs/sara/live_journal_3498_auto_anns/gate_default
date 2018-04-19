@@ -1,0 +1,11 @@
+1	0,49	GATE_Sentence
+2	0,2	GATE_Token	string="Is" lemma="be" category="VBZ"
+3	3,7	GATE_Token	string="that" lemma="that" category="IN"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,15	GATE_Token	string="one" lemma="one" category="CD"
+6	16,18	GATE_Token	string="we" lemma="we" category="PRP"
+7	19,23	GATE_Token	string="were" lemma="be" category="VBD"
+8	24,31	GATE_Token	string="talking" lemma="talk" category="VBG"
+9	32,37	GATE_Token	string="about" lemma="about" category="IN"
+10	38,47	GATE_Token	string="yesterday" lemma="yesterday" category="NN"
+11	48,49	GATE_Token	string="?" lemma="?" category="."

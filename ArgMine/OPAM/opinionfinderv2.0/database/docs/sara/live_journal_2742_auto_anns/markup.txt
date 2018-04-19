@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i <MPQAPOL autoclass="neutral">think</MPQAPOL> they are <MPQAPOL autoclass="negative">idiots</MPQAPOL> because their premises <MPQAPOL autoclass="negative">alienate</MPQAPOL> and <MPQAPOL autoclass="negative">destroy</MPQAPOL> .</MPQASENT>

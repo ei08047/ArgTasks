@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,7	GATE_Token	string="made" lemma="make" category="VBD"
+4	8,10	GATE_Token	string="me" lemma="I" category="PRP"
+5	11,15	GATE_Token	string="feel" lemma="feel" category="VB"
+6	16,22	GATE_Token	string="better" lemma="better" category="JJR"
+7	23,28	GATE_Token	string="about" lemma="about" category="IN"
+8	29,32	GATE_Token	string="the" lemma="the" category="DT"
+9	33,38	GATE_Token	string="state" lemma="state" category="NN"
+10	39,41	GATE_Token	string="of" lemma="of" category="IN"
+11	42,44	GATE_Token	string="my" lemma="my" category="PRP$"
+12	45,54	GATE_Token	string="apartment" lemma="apartment" category="NN"
+13	55,56	GATE_Token	string="." lemma="." category="."

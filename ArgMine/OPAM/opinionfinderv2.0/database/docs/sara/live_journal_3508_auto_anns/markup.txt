@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Quite</MPQAPOL> <MPQAPOL autoclass="neutral">possibly</MPQAPOL> , I DO NOT RECALL .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Compact , <MPQAPOL autoclass="neutral">direct</MPQAPOL> to the <MPQAPOL autoclass="neutral">point</MPQAPOL> .</MPQASENT>

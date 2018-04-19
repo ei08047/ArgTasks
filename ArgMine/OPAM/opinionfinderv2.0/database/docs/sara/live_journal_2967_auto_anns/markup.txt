@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I have been <MPQAPOL autoclass="negative">feeling</MPQAPOL> <MPQAPOL autoclass="negative">very</MPQAPOL> <MPQAPOL autoclass="negative">sick</MPQAPOL> in the last year or <MPQAPOL autoclass="neutral">so</MPQAPOL> , and lately it has gotten <MPQAPOL autoclass="negative">worse</MPQAPOL> .</MPQASENT>

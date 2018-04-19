@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">they are <MPQAPOL autoclass="neutral">still</MPQAPOL> there , as of an hour and a half ago , as <MPQAPOL autoclass="neutral">well</MPQAPOL> .</MPQASENT>

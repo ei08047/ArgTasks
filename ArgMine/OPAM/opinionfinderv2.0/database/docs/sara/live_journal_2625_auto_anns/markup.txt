@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Telling fairies that they do not exist is <MPQAPOL autoclass="neutral">largely</MPQAPOL> <MPQAPOL autoclass="negative">regarded</MPQAPOL> as <MPQAPOL autoclass="negative">rude</MPQAPOL> .</MPQASENT>

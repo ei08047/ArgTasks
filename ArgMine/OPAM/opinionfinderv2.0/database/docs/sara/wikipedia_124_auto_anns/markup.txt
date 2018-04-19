@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">In Hungary , <MPQAPOL autoclass="neutral">yes</MPQAPOL> , but <MPQAPOL autoclass="neutral">even</MPQAPOL> Khanty and Mansi <MPQAPOL autoclass="neutral">lie</MPQAPOL> within Europe .</MPQASENT>

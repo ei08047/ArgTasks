@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">however</MPQAPOL> your journal <MPQAPOL autoclass="neutral">seems</MPQAPOL> like a <MPQAPOL autoclass="positive">good</MPQAPOL> thing , <MPQAPOL autoclass="neutral">so</MPQAPOL> why not .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">She had pancreatic <MPQAPOL autoclass="neutral">cancer</MPQAPOL> , and she was <MPQAPOL autoclass="neutral">wasting</MPQAPOL> away .</MPQASENT>

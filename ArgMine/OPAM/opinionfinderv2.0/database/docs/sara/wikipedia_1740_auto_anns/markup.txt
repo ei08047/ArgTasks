@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">The article <MPQAPOL autoclass="neutral">should</MPQAPOL> mention that Smith said he saw God and Jesus and that <MPQAPOL autoclass="neutral">seems</MPQAPOL> to me to be <MPQAPOL autoclass="neutral">appropriate</MPQAPOL> .</MPQASENT>

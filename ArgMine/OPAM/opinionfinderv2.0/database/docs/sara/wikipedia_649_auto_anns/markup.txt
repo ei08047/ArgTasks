@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is <MPQAPOL autoclass="negative">nonsense</MPQAPOL> and <MPQAPOL autoclass="neutral">should</MPQAPOL> be removed as it is homophobic .</MPQASENT>

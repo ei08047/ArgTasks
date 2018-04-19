@@ -1,0 +1,8 @@
+1	0,33	GATE_Sentence
+2	0,4	GATE_Token	string="dont" lemma="dont" category="NN"
+3	5,11	GATE_Token	string="forget" lemma="forget" category="VB"
+4	12,17	GATE_Token	string="about" lemma="about" category="IN"
+5	18,25	GATE_Token	string="hooking" lemma="hook" category="VBG"
+6	26,28	GATE_Token	string="us" lemma="we" category="PRP"
+7	29,31	GATE_Token	string="up" lemma="up" category="RP"
+8	32,33	GATE_Token	string="!" lemma="!" category="."

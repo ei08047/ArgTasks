@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is more a case of ` this priest <MPQAPOL autoclass="neutral">knows</MPQAPOL> this archbishop\/bishop\/cardinal and uses his <MPQAPOL autoclass="neutral">friendship</MPQAPOL> to skate <MPQAPOL autoclass="neutral">clear</MPQAPOL> ' .</MPQASENT>

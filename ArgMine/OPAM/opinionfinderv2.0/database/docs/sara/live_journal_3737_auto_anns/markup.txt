@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">( <MPQAPOL autoclass="neutral">Hugs</MPQAPOL> and <MPQAPOL autoclass="neutral">Kisses</MPQAPOL> from Afar ) You and Sadie were <MPQAPOL autoclass="neutral">lucky</MPQAPOL> to have each other .</MPQASENT>

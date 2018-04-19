@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">I <MPQAPOL autoclass="neutral">know</MPQAPOL> this is an <MPQAPOL autoclass="negative">odd</MPQAPOL> place to post this , but I <MPQAPOL autoclass="positive">just</MPQAPOL> <MPQAPOL autoclass="positive">wanted</MPQAPOL> to say it was <MPQAPOL autoclass="positive">great</MPQAPOL> having you on our relay team !</MPQASENT>

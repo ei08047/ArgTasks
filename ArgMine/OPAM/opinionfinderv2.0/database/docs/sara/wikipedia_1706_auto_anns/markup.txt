@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> this is detail that <MPQAPOL autoclass="neutral">could</MPQAPOL> be <MPQAPOL autoclass="neutral">relevant</MPQAPOL> and be included in a more <MPQAPOL autoclass="positive">specific</MPQAPOL> article , <MPQAPOL autoclass="neutral">such</MPQAPOL> as First Vision .</MPQASENT>

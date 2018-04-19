@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is a <MPQAPOL autoclass="neutral">problem</MPQAPOL> that one faction of editors does not <MPQAPOL autoclass="neutral">understand</MPQAPOL> .</MPQASENT>

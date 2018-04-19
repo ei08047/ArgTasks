@@ -1,0 +1,11 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,10	GATE_Token	string="do" lemma="do" category="VBP"
+5	11,14	GATE_Token	string="not" lemma="not" category="RB"
+6	15,19	GATE_Token	string="have" lemma="have" category="VB"
+7	20,21	GATE_Token	string="a" lemma="a" category="DT"
+8	22,27	GATE_Token	string="sword" lemma="sword" category="NN"
+9	28,29	GATE_Token	string="," lemma="," category=","
+10	30,36	GATE_Token	string="either" lemma="either" category="CC"
+11	37,38	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">And it <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="neutral">indeed</MPQAPOL> be <MPQAPOL autoclass="positive">good</MPQAPOL> to have the <MPQAPOL autoclass="neutral">original</MPQAPOL> quote , which is in Farsi , and not English .</MPQASENT>

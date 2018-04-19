@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I was struggling with where to place them before to make it <MPQAPOL autoclass="neutral">look</MPQAPOL> <MPQAPOL autoclass="neutral">good</MPQAPOL> , but <MPQAPOL autoclass="neutral">maybe</MPQAPOL> <MPQAPOL autoclass="neutral">just</MPQAPOL> the sidewalk <MPQAPOL autoclass="neutral">could</MPQAPOL> be blacker ?</MPQASENT>

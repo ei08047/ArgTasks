@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="hope" lemma="hope" category="VBP"
+4	7,9	GATE_Token	string="we" lemma="we" category="PRP"
+5	10,13	GATE_Token	string="are" lemma="be" category="VBP"
+6	14,22	GATE_Token	string="somewhat" lemma="somewhat" category="RB"
+7	23,32	GATE_Token	string="neighbors" lemma="neighbor" category="NNS"
+8	33,37	GATE_Token	string="soon" lemma="soon" category="RB"
+9	38,39	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,5	GATE_Token	string="Agree" lemma="agree" category="VB"
+3	6,10	GATE_Token	string="with" lemma="with" category="IN"
+4	11,14	GATE_Token	string="you" lemma="you" category="PRP"
+5	15,20	GATE_Token	string="Brown" lemma="brown" category="JJ"
+6	21,27	GATE_Token	string="Haired" lemma="Haired" category="NNP"
+7	28,32	GATE_Token	string="girl" lemma="girl" category="NN"
+8	33,34	GATE_Token	string="." lemma="." category="."

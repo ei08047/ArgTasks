@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">If I did not <MPQAPOL autoclass="neutral">care</MPQAPOL> about the article I <MPQAPOL autoclass="neutral">would</MPQAPOL> not <MPQAPOL autoclass="neutral">even</MPQAPOL> <MPQAPOL autoclass="negative">bother</MPQAPOL> watchlisting it .</MPQASENT>

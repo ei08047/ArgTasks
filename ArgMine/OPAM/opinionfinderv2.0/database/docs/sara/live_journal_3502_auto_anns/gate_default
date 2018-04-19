@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,2	GATE_Token	string="No" lemma="no" category="DT"
+3	3,7	GATE_Token	string="need" lemma="need" category="NN"
+4	8,10	GATE_Token	string="to" lemma="to" category="TO"
+5	11,16	GATE_Token	string="waste" lemma="waste" category="VB"
+6	17,21	GATE_Token	string="your" lemma="you" category="PRP$"
+7	22,26	GATE_Token	string="time" lemma="time" category="NN"
+8	27,34	GATE_Token	string="looking" lemma="look" category="VBG"
+9	35,38	GATE_Token	string="for" lemma="for" category="IN"
+10	39,43	GATE_Token	string="your" lemma="you" category="PRP$"
+11	44,50	GATE_Token	string="arcade" lemma="arcade" category="NN"
+12	51,54	GATE_Token	string="fix" lemma="fix" category="NN"
+13	55,56	GATE_Token	string="." lemma="." category="."

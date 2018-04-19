@@ -1,0 +1,7 @@
+1	0,40	GATE_Sentence
+2	0,4	GATE_Token	string="They" lemma="they" category="PRP"
+3	5,8	GATE_Token	string="are" lemma="be" category="VBP"
+4	9,16	GATE_Token	string="gravely" lemma="gravely" category="RB"
+5	17,33	GATE_Token	string="underappreciated" lemma="underappreciate" category="VBN"
+6	34,38	GATE_Token	string="here" lemma="here" category="RB"
+7	39,40	GATE_Token	string="." lemma="." category="."

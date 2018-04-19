@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,8	GATE_Token	string="Close-up" lemma="close-up" category="NN"
+3	9,11	GATE_Token	string="of" lemma="of" category="IN"
+4	12,15	GATE_Token	string="JFK" lemma="JFK" category="NNP"
+5	16,18	GATE_Token	string="'s" lemma="'s" category="POS"
+6	19,29	GATE_Token	string="head-wound" lemma="head-wound" category="NN"
+7	30,31	GATE_Token	string=":" lemma=":" category=":"
+8	32,39	GATE_Token	string="problem" lemma="problem" category="NN"
+9	40,41	GATE_Token	string="." lemma="." category="."

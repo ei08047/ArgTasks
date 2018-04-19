@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That lawn <MPQAPOL autoclass="neutral">really</MPQAPOL> stuck out in my mind .</MPQASENT>

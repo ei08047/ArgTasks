@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">that movie was <MPQAPOL autoclass="positive">better</MPQAPOL> than I expected !</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Kind of a <MPQAPOL autoclass="negative">boring</MPQAPOL> answer , I <MPQAPOL autoclass="neutral">suppose</MPQAPOL> .</MPQASENT>

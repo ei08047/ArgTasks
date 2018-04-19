@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Good</MPQAPOL> <MPQAPOL autoclass="positive">luck</MPQAPOL> on exams , and I <MPQAPOL autoclass="positive">hope</MPQAPOL> you <MPQAPOL autoclass="negative">feel</MPQAPOL> <MPQAPOL autoclass="positive">better</MPQAPOL> soon !</MPQASENT>

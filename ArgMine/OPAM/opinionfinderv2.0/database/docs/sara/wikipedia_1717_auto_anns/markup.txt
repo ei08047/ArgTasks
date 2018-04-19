@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It is <MPQAPOL autoclass="neutral">relevant</MPQAPOL> because it adds a historical dimension to these <MPQAPOL autoclass="negative">critical</MPQAPOL> events at the beginning of Mormonism .</MPQASENT>

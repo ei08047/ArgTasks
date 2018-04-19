@@ -1,0 +1,4 @@
+1	0,38	GATE_Sentence
+2	0,12	GATE_Token	string="hahahahahaha" lemma="hahahahahaha" category="NN"
+3	13,24	GATE_Token	string="YESSSSSSSSS" lemma="yesssssssss" category="NN"
+4	25,38	GATE_Token	string="!!!!!!!!!!!!!" lemma="!!!!!!!!!!!!!" category="CD"

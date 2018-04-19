@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,3	GATE_Token	string="the" lemma="the" category="DT"
+3	4,8	GATE_Token	string="only" lemma="only" category="JJ"
+4	9,14	GATE_Token	string="thing" lemma="thing" category="NN"
+5	15,20	GATE_Token	string="funny" lemma="funny" category="JJ"
+6	21,26	GATE_Token	string="about" lemma="about" category="IN"
+7	27,31	GATE_Token	string="leno" lemma="leno" category="NN"
+8	32,34	GATE_Token	string="is" lemma="be" category="VBZ"
+9	35,38	GATE_Token	string="his" lemma="he" category="PRP$"
+10	39,43	GATE_Token	string="face" lemma="face" category="NN"
+11	44,45	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,13 @@
+1	0,64	GATE_Sentence
+2	0,6	GATE_Token	string="Taking" lemma="take" category="VBG"
+3	7,9	GATE_Token	string="on" lemma="on" category="IN"
+4	10,13	GATE_Token	string="the" lemma="the" category="DT"
+5	14,26	GATE_Token	string="Panther-ness" lemma="panther-ness" category="NN"
+6	27,28	GATE_Token	string="," lemma="," category=","
+7	29,41	GATE_Token	string="representing" lemma="represent" category="VBG"
+8	42,45	GATE_Token	string="the" lemma="the" category="DT"
+9	46,50	GATE_Token	string="pink" lemma="pink" category="NN"
+10	51,52	GATE_Token	string="," lemma="," category=","
+11	53,57	GATE_Token	string="etc." lemma="etc." category="FW"
+12	58,62	GATE_Token	string="etc." lemma="etc." category="FW"
+13	63,64	GATE_Token	string="." lemma="." category="."

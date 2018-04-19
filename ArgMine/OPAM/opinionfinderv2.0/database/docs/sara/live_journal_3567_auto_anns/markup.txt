@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Congratulations , you have created a living thing with not <MPQAPOL autoclass="neutral">much</MPQAPOL> in the way of <MPQAPOL autoclass="neutral">memories</MPQAPOL> !</MPQASENT>

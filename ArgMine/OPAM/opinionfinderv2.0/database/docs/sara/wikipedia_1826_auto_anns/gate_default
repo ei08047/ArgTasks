@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,1	GATE_Token	string="`" lemma="`" category="``"
+3	2,6	GATE_Token	string="This" lemma="this" category="DT"
+4	7,17	GATE_Token	string="settlement" lemma="settlement" category="NN"
+5	18,22	GATE_Token	string="will" lemma="will" category="MD"
+6	23,28	GATE_Token	string="never" lemma="never" category="RB"
+7	29,31	GATE_Token	string="be" lemma="be" category="VB"
+8	32,37	GATE_Token	string="moved" lemma="move" category="VBN"
+9	38,39	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,13 @@
+1	0,55	GATE_Sentence
+2	0,6	GATE_Token	string="indeed" lemma="indeed" category="RB"
+3	7,8	GATE_Token	string="," lemma="," category=","
+4	9,15	GATE_Token	string="french" lemma="french" category="JJ"
+5	16,24	GATE_Token	string="canadian" lemma="canadian" category="JJ"
+6	25,26	GATE_Token	string="," lemma="," category=","
+7	27,30	GATE_Token	string="and" lemma="and" category="CC"
+8	31,32	GATE_Token	string="a" lemma="a" category="DT"
+9	33,36	GATE_Token	string="cat" lemma="cat" category="NN"
+10	37,40	GATE_Token	string="for" lemma="for" category="IN"
+11	41,45	GATE_Token	string="good" lemma="good" category="JJ"
+12	46,53	GATE_Token	string="measure" lemma="measure" category="NN"
+13	54,55	GATE_Token	string="." lemma="." category="."

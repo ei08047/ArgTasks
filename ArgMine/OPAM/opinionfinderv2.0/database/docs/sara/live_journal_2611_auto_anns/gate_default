@@ -1,0 +1,9 @@
+1	0,42	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,8	GATE_Token	string="``" lemma="``" category="``"
+5	9,17	GATE_Token	string="actually" lemma="actually" category="RB"
+6	18,26	GATE_Token	string="existing" lemma="exist" category="VBG"
+7	27,37	GATE_Token	string="capitalism" lemma="capitalism" category="NN"
+8	38,40	GATE_Token	string="''" lemma="''" category="''"
+9	41,42	GATE_Token	string="." lemma="." category="."

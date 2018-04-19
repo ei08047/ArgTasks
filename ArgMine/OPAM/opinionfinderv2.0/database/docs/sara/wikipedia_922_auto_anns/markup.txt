@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have been addressed by the wikipedian authorities for less , you <MPQAPOL autoclass="neutral">know</MPQAPOL> !</MPQASENT>

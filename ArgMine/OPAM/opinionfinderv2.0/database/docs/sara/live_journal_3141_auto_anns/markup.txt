@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="positive">like</MPQAPOL> how it does not <MPQAPOL autoclass="neutral">even</MPQAPOL> <MPQAPOL autoclass="neutral">look</MPQAPOL> like they are putting the product on their faces .</MPQASENT>

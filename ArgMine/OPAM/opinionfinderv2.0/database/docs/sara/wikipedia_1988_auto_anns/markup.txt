@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The Treaty of Vereniging establish a single entity with a unified system of government over the <MPQAPOL autoclass="neutral">entire</MPQAPOL> territory .</MPQASENT>

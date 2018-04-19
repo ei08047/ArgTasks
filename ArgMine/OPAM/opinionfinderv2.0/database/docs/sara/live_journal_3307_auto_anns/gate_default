@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,3	GATE_Token	string="but" lemma="but" category="CC"
+3	4,12	GATE_Token	string="sleeping" lemma="sleep" category="VBG"
+4	13,16	GATE_Token	string="too" lemma="too" category="RB"
+5	17,21	GATE_Token	string="much" lemma="much" category="JJ"
+6	22,26	GATE_Token	string="isnt" lemma="isnt" category="NN"
+7	27,31	GATE_Token	string="good" lemma="good" category="JJ"
+8	32,35	GATE_Token	string="for" lemma="for" category="IN"
+9	36,39	GATE_Token	string="you" lemma="you" category="PRP"
+10	40,41	GATE_Token	string="." lemma="." category="."

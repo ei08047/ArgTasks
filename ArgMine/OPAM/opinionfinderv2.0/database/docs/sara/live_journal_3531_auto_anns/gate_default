@@ -1,0 +1,12 @@
+1	0,55	GATE_Sentence
+2	0,2	GATE_Token	string="he" lemma="he" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,9	GATE_Token	string="got" lemma="get" category="VBN"
+5	10,14	GATE_Token	string="that" lemma="that" category="IN"
+6	15,25	GATE_Token	string="Marx/early" lemma="Marx/early" category="NNP"
+7	26,31	GATE_Token	string="1900s" lemma="1900s" category="CD"
+8	32,39	GATE_Token	string="radical" lemma="radical" category="JJ"
+9	40,44	GATE_Token	string="look" lemma="look" category="NN"
+10	45,49	GATE_Token	string="down" lemma="down" category="IN"
+11	50,53	GATE_Token	string="pat" lemma="pat" category="NN"
+12	54,55	GATE_Token	string="!" lemma="!" category="."

@@ -1,0 +1,10 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="the" lemma="the" category="DT"
+3	4,8	GATE_Token	string="site" lemma="site" category="NN"
+4	9,12	GATE_Token	string="had" lemma="have" category="VBD"
+5	13,20	GATE_Token	string="expired" lemma="expire" category="VBN"
+6	21,23	GATE_Token	string="on" lemma="on" category="IN"
+7	24,26	GATE_Token	string="it" lemma="it" category="PRP"
+8	27,29	GATE_Token	string="or" lemma="or" category="CC"
+9	30,38	GATE_Token	string="whatever" lemma="whatever" category="WDT"
+10	39,40	GATE_Token	string="." lemma="." category="."

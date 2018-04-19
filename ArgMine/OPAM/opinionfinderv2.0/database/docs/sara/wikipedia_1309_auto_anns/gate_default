@@ -1,0 +1,9 @@
+1	0,34	GATE_Sentence
+2	0,2	GATE_Token	string="Er" lemma="er" category="NN"
+3	3,6	GATE_Token	string="..." lemma="..." category=":"
+4	7,9	GATE_Token	string="``" lemma="``" category="``"
+5	10,18	GATE_Token	string="improved" lemma="improve" category="VBN"
+6	19,21	GATE_Token	string="by" lemma="by" category="IN"
+7	22,29	GATE_Token	string="editing" lemma="editing" category="NN"
+8	30,32	GATE_Token	string="''" lemma="''" category="''"
+9	33,34	GATE_Token	string="?" lemma="?" category="."

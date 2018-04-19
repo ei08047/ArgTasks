@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I find that country <MPQAPOL autoclass="negative">scary</MPQAPOL> , it is one of the <MPQAPOL autoclass="neutral">reasons</MPQAPOL> why I <MPQAPOL autoclass="neutral">would</MPQAPOL> not <MPQAPOL autoclass="positive">like</MPQAPOL> to visit it , nevermind <MPQAPOL autoclass="neutral">live</MPQAPOL> there ...</MPQASENT>

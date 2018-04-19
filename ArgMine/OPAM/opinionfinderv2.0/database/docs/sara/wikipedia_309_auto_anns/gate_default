@@ -1,0 +1,10 @@
+1	0,64	GATE_Sentence
+2	0,8	GATE_Token	string="Catholic" lemma="catholic" category="JJ"
+3	9,21	GATE_Token	string="persecutions" lemma="persecution" category="NNS"
+4	22,25	GATE_Token	string="are" lemma="be" category="VBP"
+5	26,37	GATE_Token	string="represented" lemma="represent" category="VBN"
+6	38,42	GATE_Token	string="well" lemma="well" category="RB"
+7	43,45	GATE_Token	string="in" lemma="in" category="IN"
+8	46,49	GATE_Token	string="the" lemma="the" category="DT"
+9	50,62	GATE_Token	string="Inquisitions" lemma="Inquisitions" category="NNPS"
+10	63,64	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,43	GATE_Sentence
+2	0,5	GATE_Token	string="Would" lemma="would" category="MD"
+3	6,10	GATE_Token	string="that" lemma="that" category="WDT"
+4	11,13	GATE_Token	string="be" lemma="be" category="VB"
+5	14,15	GATE_Token	string="a" lemma="a" category="DT"
+6	16,24	GATE_Token	string="balanced" lemma="balanced" category="JJ"
+7	25,32	GATE_Token	string="picture" lemma="picture" category="NN"
+8	33,34	GATE_Token	string="-" lemma="-" category=":"
+9	35,37	GATE_Token	string="or" lemma="or" category="CC"
+10	38,41	GATE_Token	string="POV" lemma="pov" category="NN"
+11	42,43	GATE_Token	string="?" lemma="?" category="."

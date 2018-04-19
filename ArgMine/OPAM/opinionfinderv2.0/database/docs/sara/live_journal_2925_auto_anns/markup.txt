@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">i <MPQAPOL autoclass="neutral">know</MPQAPOL> how <MPQAPOL autoclass="negative">bad</MPQAPOL> this <MPQAPOL autoclass="neutral">hurts</MPQAPOL> :(</MPQASENT>

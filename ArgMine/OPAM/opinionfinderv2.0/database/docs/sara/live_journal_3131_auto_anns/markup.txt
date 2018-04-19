@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">And I <MPQAPOL autoclass="neutral">think</MPQAPOL> the <MPQAPOL autoclass="neutral">white</MPQAPOL> top in the photo makes my skin <MPQAPOL autoclass="neutral">look</MPQAPOL> <MPQAPOL autoclass="negative">slightly</MPQAPOL> darker in comparison <MPQAPOL autoclass="neutral">too</MPQAPOL> .</MPQASENT>

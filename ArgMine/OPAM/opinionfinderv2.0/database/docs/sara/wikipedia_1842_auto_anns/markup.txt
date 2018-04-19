@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I was told in <MPQAPOL autoclass="positive">confidence</MPQAPOL> that he is the son of an Italian officer , by a <MPQAPOL autoclass="neutral">reliable</MPQAPOL> source .</MPQASENT>

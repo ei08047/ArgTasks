@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It was received <MPQAPOL autoclass="neutral">wisdom</MPQAPOL> that no state <MPQAPOL autoclass="neutral">could</MPQAPOL> <MPQAPOL autoclass="neutral">survive</MPQAPOL> with two <MPQAPOL autoclass="negative">antagonistic</MPQAPOL> <MPQAPOL autoclass="negative">faiths</MPQAPOL> within it .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">\* g \* All in all I <MPQAPOL autoclass="positive">feel</MPQAPOL> <MPQAPOL autoclass="positive">quite</MPQAPOL> <MPQAPOL autoclass="positive">accomplished</MPQAPOL> .</MPQASENT>

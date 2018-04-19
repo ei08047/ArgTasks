@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">and i <MPQAPOL autoclass="neutral">know</MPQAPOL> it SUCKS , but his <MPQAPOL autoclass="negative">crazy</MPQAPOL> plans usually work .</MPQASENT>

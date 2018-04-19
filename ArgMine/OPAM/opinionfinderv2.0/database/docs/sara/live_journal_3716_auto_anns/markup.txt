@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This is a play on negatives ; it is <MPQAPOL autoclass="neutral">beautifully</MPQAPOL> rendered .</MPQASENT>

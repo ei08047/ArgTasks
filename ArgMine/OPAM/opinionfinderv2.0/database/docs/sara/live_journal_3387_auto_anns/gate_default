@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,3	GATE_Token	string="Add" lemma="add" category="VB"
+3	4,7	GATE_Token	string="the" lemma="the" category="DT"
+4	8,11	GATE_Token	string="egg" lemma="egg" category="NN"
+5	12,15	GATE_Token	string="and" lemma="and" category="CC"
+6	16,19	GATE_Token	string="mix" lemma="mix" category="NN"
+7	20,30	GATE_Token	string="thoroughly" lemma="thoroughly" category="RB"
+8	31,32	GATE_Token	string="." lemma="." category="."

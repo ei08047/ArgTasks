@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">The only thing I will say is this - your <MPQAPOL autoclass="neutral">opinion</MPQAPOL> <MPQAPOL autoclass="neutral">regarding</MPQAPOL> the designation of Hamas as terrorist is <MPQAPOL autoclass="negative">irrelevant</MPQAPOL> .</MPQASENT>

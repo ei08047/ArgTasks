@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">;_; I <MPQAPOL autoclass="positive">loved</MPQAPOL> Xion <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">much</MPQAPOL> more than I <MPQAPOL autoclass="positive">thought</MPQAPOL> I <MPQAPOL autoclass="neutral">would</MPQAPOL> .</MPQASENT>

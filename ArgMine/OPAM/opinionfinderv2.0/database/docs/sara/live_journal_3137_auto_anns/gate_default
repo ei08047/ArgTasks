@@ -1,0 +1,13 @@
+1	0,57	GATE_Sentence
+2	0,8	GATE_Token	string="hahahaha" lemma="hahahaha" category="NN"
+3	9,10	GATE_Token	string="i" lemma="i" category="FW"
+4	11,14	GATE_Token	string="bet" lemma="bet" category="VB"
+5	15,18	GATE_Token	string="you" lemma="you" category="PRP"
+6	19,22	GATE_Token	string="can" lemma="can" category="MD"
+7	23,26	GATE_Token	string="use" lemma="use" category="VB"
+8	27,29	GATE_Token	string="it" lemma="it" category="PRP"
+9	30,32	GATE_Token	string="as" lemma="as" category="IN"
+10	33,40	GATE_Token	string="mascara" lemma="mascara" category="NN"
+11	41,44	GATE_Token	string="and" lemma="and" category="CC"
+12	45,53	GATE_Token	string="eyeliner" lemma="eyeliner" category="NN"
+13	54,57	GATE_Token	string="too" lemma="too" category="RB"

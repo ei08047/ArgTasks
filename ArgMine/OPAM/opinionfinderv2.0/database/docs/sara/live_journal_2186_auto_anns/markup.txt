@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">A lot of the message <MPQAPOL autoclass="neutral">would</MPQAPOL> get <MPQAPOL autoclass="neutral">lost</MPQAPOL> in translation I am <MPQAPOL autoclass="negative">afraid</MPQAPOL> .</MPQASENT>

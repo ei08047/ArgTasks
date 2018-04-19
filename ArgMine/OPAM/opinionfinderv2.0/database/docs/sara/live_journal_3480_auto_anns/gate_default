@@ -1,0 +1,11 @@
+1	0,41	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,7	GATE_Token	string="ahem" lemma="ahem" category="FW"
+4	8,10	GATE_Token	string="\*" lemma="\*" category="SYM"
+5	11,16	GATE_Token	string="Sorry" lemma="Sorry" category="NNP"
+6	17,18	GATE_Token	string="," lemma="," category=","
+7	19,22	GATE_Token	string="got" lemma="get" category="VBD"
+8	23,24	GATE_Token	string="a" lemma="a" category="DT"
+9	25,31	GATE_Token	string="little" lemma="little" category="JJ"
+10	32,39	GATE_Token	string="excited" lemma="excited" category="JJ"
+11	40,41	GATE_Token	string="." lemma="." category="."

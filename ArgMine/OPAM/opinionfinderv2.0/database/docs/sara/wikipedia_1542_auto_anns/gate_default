@@ -1,0 +1,12 @@
+1	0,56	GATE_Sentence
+2	0,7	GATE_Token	string="Zionist" lemma="Zionist" category="NNP"
+3	8,14	GATE_Token	string="regime" lemma="regime" category="NN"
+4	15,18	GATE_Token	string="and" lemma="and" category="CC"
+5	19,26	GATE_Token	string="Zionist" lemma="zionist" category="NN"
+6	27,33	GATE_Token	string="entity" lemma="entity" category="NN"
+7	34,37	GATE_Token	string="are" lemma="be" category="VBP"
+8	38,41	GATE_Token	string="one" lemma="one" category="CD"
+9	42,45	GATE_Token	string="and" lemma="and" category="CC"
+10	46,49	GATE_Token	string="the" lemma="the" category="DT"
+11	50,54	GATE_Token	string="same" lemma="same" category="JJ"
+12	55,56	GATE_Token	string="." lemma="." category="."

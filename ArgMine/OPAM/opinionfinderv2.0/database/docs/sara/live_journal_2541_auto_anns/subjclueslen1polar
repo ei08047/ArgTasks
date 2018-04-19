@@ -1,0 +1,6 @@
+1	8,17	matchfeat	type="strongsubj" mpqapolarity="strongneg"
+2	18,28	matchfeat	type="strongsubj" mpqapolarity="strongneg"
+3	44,49	matchfeat	type="strongsubj" mpqapolarity="neutral"
+4	54,60	matchfeat	type="strongsubj" mpqapolarity="neutral"
+5	61,73	matchfeat	type="weaksubj" mpqapolarity="strongpos"
+6	99,103	matchfeat	type="weaksubj" mpqapolarity="neutral"

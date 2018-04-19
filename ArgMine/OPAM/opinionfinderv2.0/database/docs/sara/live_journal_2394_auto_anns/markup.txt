@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is not all that we <MPQAPOL autoclass="neutral">would</MPQAPOL> have <MPQAPOL autoclass="positive">wanted</MPQAPOL> , but it is more than ever happened under Bush .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That turned out to be less of an issue than I had <MPQAPOL autoclass="neutral">thought</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,3	GATE_Token	string="and" lemma="and" category="CC"
+3	4,8	GATE_Token	string="this" lemma="this" category="DT"
+4	9,14	GATE_Token	string="might" lemma="might" category="MD"
+5	15,17	GATE_Token	string="be" lemma="be" category="VB"
+6	18,23	GATE_Token	string="funny" lemma="funny" category="JJ"
+7	24,27	GATE_Token	string="too" lemma="too" category="RB"
+8	28,30	GATE_Token	string="!!" lemma="!!" category="IN"

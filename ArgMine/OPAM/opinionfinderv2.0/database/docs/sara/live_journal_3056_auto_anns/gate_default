@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,6	GATE_Token	string="will" lemma="will" category="MD"
+4	7,12	GATE_Token	string="never" lemma="never" category="RB"
+5	13,17	GATE_Token	string="ever" lemma="ever" category="RB"
+6	18,23	GATE_Token	string="dress" lemma="dress" category="NN"
+7	24,28	GATE_Token	string="that" lemma="that" category="WDT"
+8	29,34	GATE_Token	string="puppy" lemma="puppy" category="NN"
+9	35,36	GATE_Token	string="." lemma="." category="."

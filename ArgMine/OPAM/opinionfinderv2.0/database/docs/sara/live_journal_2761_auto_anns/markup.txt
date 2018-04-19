@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">\* squee \* <MPQAPOL autoclass="negative">Too</MPQAPOL> <MPQAPOL autoclass="negative">bad</MPQAPOL> Willem Defoe 's not in it , <MPQAPOL autoclass="neutral">though</MPQAPOL> .</MPQASENT>

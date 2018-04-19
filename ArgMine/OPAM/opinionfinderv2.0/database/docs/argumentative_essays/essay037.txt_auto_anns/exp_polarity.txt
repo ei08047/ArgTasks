@@ -1,0 +1,6 @@
+argumentative_essays_essay037.txt_2080_2088	positive
+argumentative_essays_essay037.txt_2092_2098	neutral
+argumentative_essays_essay037.txt_2111_2119	neutral
+argumentative_essays_essay037.txt_2134_2143	positive
+argumentative_essays_essay037.txt_2144_2152	neutral
+argumentative_essays_essay037.txt_2158_2162	neutral

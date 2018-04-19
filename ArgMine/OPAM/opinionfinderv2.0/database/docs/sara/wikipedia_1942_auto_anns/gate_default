@@ -1,0 +1,13 @@
+1	0,58	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,8	GATE_Token	string="notice" lemma="notice" category="VBP"
+4	9,13	GATE_Token	string="that" lemma="that" category="IN"
+5	14,17	GATE_Token	string="one" lemma="one" category="CD"
+6	18,20	GATE_Token	string="of" lemma="of" category="IN"
+7	21,24	GATE_Token	string="our" lemma="we" category="PRP$"
+8	25,31	GATE_Token	string="iconic" lemma="iconic" category="JJ"
+9	32,37	GATE_Token	string="Santa" lemma="Santa" category="NNP"
+10	38,44	GATE_Token	string="images" lemma="image" category="NNS"
+11	45,48	GATE_Token	string="got" lemma="get" category="VBD"
+12	49,56	GATE_Token	string="deleted" lemma="delete" category="VBN"
+13	57,58	GATE_Token	string="." lemma="." category="."

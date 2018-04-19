@@ -1,0 +1,4 @@
+1	0,5	matchfeat	type="bl_judge_verb" mpqapolarity="strongpos"
+2	10,12	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+3	13,17	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+4	22,26	matchfeat	type="bl_desire_verb" mpqapolarity="neutral"

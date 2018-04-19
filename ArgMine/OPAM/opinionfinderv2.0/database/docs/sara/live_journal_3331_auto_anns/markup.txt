@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It is <MPQAPOL autoclass="negative">frustrating</MPQAPOL> , <MPQAPOL autoclass="neutral">though</MPQAPOL> , how every single job I am <MPQAPOL autoclass="positive">qualified</MPQAPOL> for requires me to be <MPQAPOL autoclass="neutral">outgoing</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,62	GATE_Sentence
+2	0,3	GATE_Token	string="Not" lemma="not" category="RB"
+3	4,10	GATE_Token	string="boring" lemma="bore" category="VBG"
+4	11,13	GATE_Token	string="at" lemma="at" category="IN"
+5	14,17	GATE_Token	string="all" lemma="all" category="DT"
+6	18,20	GATE_Token	string="--" lemma="--" category=":"
+7	21,29	GATE_Token	string="wrinkles" lemma="wrinkle" category="NNS"
+8	30,32	GATE_Token	string="do" lemma="do" category="VBP"
+9	33,36	GATE_Token	string="not" lemma="not" category="RB"
+10	37,40	GATE_Token	string="get" lemma="get" category="VB"
+11	41,47	GATE_Token	string="enough" lemma="enough" category="JJ"
+12	48,60	GATE_Token	string="appreciation" lemma="appreciation" category="NN"
+13	61,62	GATE_Token	string="." lemma="." category="."

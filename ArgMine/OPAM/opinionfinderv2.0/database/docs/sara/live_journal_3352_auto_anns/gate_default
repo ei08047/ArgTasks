@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,6	GATE_Token	string="sureal" lemma="sureal" category="NN"
+3	7,10	GATE_Token	string="..." lemma="..." category=":"
+4	11,18	GATE_Token	string="meaning" lemma="mean" category="VBG"
+5	19,22	GATE_Token	string="the" lemma="the" category="DT"
+6	23,30	GATE_Token	string="flowers" lemma="flower" category="NNS"
+7	31,32	GATE_Token	string="," lemma="," category=","
+8	33,41	GATE_Token	string="gretchen" lemma="gretchen" category="NN"
+9	42,43	GATE_Token	string="." lemma="." category="."

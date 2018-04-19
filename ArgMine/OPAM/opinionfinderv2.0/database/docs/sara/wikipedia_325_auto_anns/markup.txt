@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">agree</MPQAPOL> that the Catholic Church did a lot more <MPQAPOL autoclass="positive">good</MPQAPOL> than <MPQAPOL autoclass="negative">bad</MPQAPOL> ( and <MPQAPOL autoclass="neutral">still</MPQAPOL> does ) .</MPQASENT>

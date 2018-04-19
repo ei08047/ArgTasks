@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If you <MPQAPOL autoclass="neutral">decide</MPQAPOL> you <MPQAPOL autoclass="positive">want</MPQAPOL> to hang out with us , <MPQAPOL autoclass="neutral">just</MPQAPOL> give me a call !</MPQASENT>

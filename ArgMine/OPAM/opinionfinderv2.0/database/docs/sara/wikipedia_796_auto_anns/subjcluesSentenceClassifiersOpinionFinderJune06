@@ -1,0 +1,4 @@
+1	10,17	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="neutral"
+2	18,24	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+3	25,30	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+4	56,65	matchfeat	type="basilisk-2000nouns-strongsubj" mpqapolarity="weakneg"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">... I have no <MPQAPOL autoclass="neutral">hug</MPQAPOL> icon , <MPQAPOL autoclass="neutral">so</MPQAPOL> you get Jordan <MPQAPOL autoclass="neutral">proclaiming</MPQAPOL> his <MPQAPOL autoclass="positive">love</MPQAPOL> for soda water sort of hugging the fuel tank ?</MPQASENT>

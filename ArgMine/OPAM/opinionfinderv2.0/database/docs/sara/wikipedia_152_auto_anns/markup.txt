@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Also , <MPQAPOL autoclass="neutral">eliminating</MPQAPOL> the Nicene Creed will not <MPQAPOL autoclass="neutral">help</MPQAPOL> the reader who <MPQAPOL autoclass="positive">wants</MPQAPOL> to <MPQAPOL autoclass="neutral">know</MPQAPOL> what the Catholic Church <MPQAPOL autoclass="neutral">believes</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,34	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,6	GATE_Token	string="has" lemma="have" category="VBZ"
+4	7,11	GATE_Token	string="been" lemma="be" category="VBN"
+5	12,13	GATE_Token	string="a" lemma="a" category="DT"
+6	14,19	GATE_Token	string="while" lemma="while" category="NN"
+7	20,21	GATE_Token	string="," lemma="," category=","
+8	22,25	GATE_Token	string="yes" lemma="yes" category="UH"
+9	26,32	GATE_Token	string="indeed" lemma="indeed" category="RB"
+10	33,34	GATE_Token	string="." lemma="." category="."

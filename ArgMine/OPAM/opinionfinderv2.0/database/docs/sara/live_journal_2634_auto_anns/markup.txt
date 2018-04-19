@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I first <MPQAPOL autoclass="neutral">must</MPQAPOL> start blowing the dust off this <MPQAPOL autoclass="neutral">sucker</MPQAPOL> and gather my <MPQAPOL autoclass="neutral">thoughts</MPQAPOL> into some sort of <MPQAPOL autoclass="neutral">coherent</MPQAPOL> order .</MPQASENT>

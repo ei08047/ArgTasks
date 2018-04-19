@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They can not get their <MPQAPOL autoclass="neutral">facts</MPQAPOL> straight .</MPQASENT>

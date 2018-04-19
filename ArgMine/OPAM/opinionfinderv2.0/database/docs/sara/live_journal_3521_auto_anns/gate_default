@@ -1,0 +1,11 @@
+1	0,53	GATE_Sentence
+2	0,2	GATE_Token	string="My" lemma="my" category="PRP$"
+3	3,12	GATE_Token	string="childhood" lemma="childhood" category="NN"
+4	13,23	GATE_Token	string="obsessions" lemma="obsession" category="NNS"
+5	24,27	GATE_Token	string="are" lemma="be" category="VBP"
+6	28,34	GATE_Token	string="coming" lemma="come" category="VBG"
+7	35,39	GATE_Token	string="back" lemma="back" category="RB"
+8	40,42	GATE_Token	string="to" lemma="to" category="TO"
+9	43,48	GATE_Token	string="haunt" lemma="haunt" category="VB"
+10	49,51	GATE_Token	string="me" lemma="I" category="PRP"
+11	52,53	GATE_Token	string="." lemma="." category="."

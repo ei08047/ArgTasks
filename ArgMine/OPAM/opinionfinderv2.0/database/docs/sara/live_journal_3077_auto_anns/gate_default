@@ -1,0 +1,11 @@
+1	0,44	GATE_Sentence
+2	0,4	GATE_Token	string="Tell" lemma="tell" category="VB"
+3	5,8	GATE_Token	string="him" lemma="he" category="PRP"
+4	9,11	GATE_Token	string="it" lemma="it" category="PRP"
+5	12,14	GATE_Token	string="is" lemma="be" category="VBZ"
+6	15,22	GATE_Token	string="because" lemma="because" category="IN"
+7	23,25	GATE_Token	string="he" lemma="he" category="PRP"
+8	26,31	GATE_Token	string="looks" lemma="look" category="VBZ"
+9	32,34	GATE_Token	string="so" lemma="so" category="RB"
+10	35,42	GATE_Token	string="awesome" lemma="awesome" category="JJ"
+11	43,44	GATE_Token	string="." lemma="." category="."

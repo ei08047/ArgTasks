@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">It <MPQAPOL autoclass="neutral">seems</MPQAPOL> that my <MPQAPOL autoclass="neutral">error</MPQAPOL> was in declaring an <MPQAPOL autoclass="neutral">interest</MPQAPOL> in LAShTAL.COM in my user page .</MPQASENT>

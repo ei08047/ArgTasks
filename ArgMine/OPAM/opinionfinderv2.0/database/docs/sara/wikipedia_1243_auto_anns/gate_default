@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,3	GATE_Token	string="Yet" lemma="yet" category="RB"
+3	4,6	GATE_Token	string="NI" lemma="NI" category="NNP"
+4	7,9	GATE_Token	string="is" lemma="be" category="VBZ"
+5	10,16	GATE_Token	string="mostly" lemma="mostly" category="RB"
+6	17,23	GATE_Token	string="Ulster" lemma="Ulster" category="NNP"
+7	24,25	GATE_Token	string="," lemma="," category=","
+8	26,32	GATE_Token	string="except" lemma="except" category="IN"
+9	33,40	GATE_Token	string="Donegal" lemma="Donegal" category="NNP"
+10	41,42	GATE_Token	string="." lemma="." category="."

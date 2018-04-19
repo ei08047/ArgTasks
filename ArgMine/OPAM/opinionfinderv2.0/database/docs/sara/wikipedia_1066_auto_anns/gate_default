@@ -1,0 +1,6 @@
+1	0,31	GATE_Sentence
+2	0,4	GATE_Token	string="What" lemma="what" category="WDT"
+3	5,9	GATE_Token	string="next" lemma="next" category="JJ"
+4	10,11	GATE_Token	string="," lemma="," category=","
+5	12,29	GATE_Token	string="punk-reggae-metal" lemma="punk-reggae-metal" category="JJ"
+6	30,31	GATE_Token	string="?" lemma="?" category="."

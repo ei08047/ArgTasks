@@ -1,0 +1,9 @@
+1	0,37	GATE_Sentence
+2	0,8	GATE_Token	string="Boondock" lemma="Boondock" category="NNP"
+3	9,15	GATE_Token	string="Saints" lemma="Saints" category="NNP"
+4	16,17	GATE_Token	string="2" lemma="2" category="CD"
+5	18,23	GATE_Token	string="comes" lemma="come" category="VBZ"
+6	24,27	GATE_Token	string="out" lemma="out" category="RP"
+7	28,32	GATE_Token	string="Oct." lemma="Oct." category="NNP"
+8	33,35	GATE_Token	string="31" lemma="31" category="CD"
+9	36,37	GATE_Token	string="!" lemma="!" category="."

@@ -1,0 +1,8 @@
+1	0,39	GATE_Sentence
+2	0,2	GATE_Token	string="My" lemma="my" category="PRP$"
+3	3,10	GATE_Token	string="mistake" lemma="mistake" category="NN"
+4	11,16	GATE_Token	string="about" lemma="about" category="IN"
+5	17,25	GATE_Token	string="Orthodox" lemma="Orthodox" category="NNP"
+6	26,28	GATE_Token	string="v." lemma="v." category="CC"
+7	29,37	GATE_Token	string="orthodox" lemma="orthodox" category="NN"
+8	38,39	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,56	GATE_Sentence
+2	0,4	GATE_Token	string="Over" lemma="over" category="IN"
+3	5,9	GATE_Token	string="many" lemma="many" category="JJ"
+4	10,15	GATE_Token	string="years" lemma="year" category="NNS"
+5	16,17	GATE_Token	string="," lemma="," category=","
+6	18,21	GATE_Token	string="the" lemma="the" category="DT"
+7	22,34	GATE_Token	string="constitution" lemma="constitution" category="NN"
+8	35,42	GATE_Token	string="changed" lemma="change" category="VBD"
+9	43,46	GATE_Token	string="and" lemma="and" category="CC"
+10	47,54	GATE_Token	string="evolved" lemma="evolve" category="VBD"
+11	55,56	GATE_Token	string="." lemma="." category="."

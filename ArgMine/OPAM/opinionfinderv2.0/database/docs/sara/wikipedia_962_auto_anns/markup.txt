@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Not our <MPQAPOL autoclass="neutral">opinions</MPQAPOL> , or what we <MPQAPOL autoclass="neutral">think</MPQAPOL> is an <MPQAPOL autoclass="neutral">elevated</MPQAPOL> , <MPQAPOL autoclass="negative">false</MPQAPOL> , <MPQAPOL autoclass="negative">bloated</MPQAPOL> <MPQAPOL autoclass="negative">misconception</MPQAPOL> .</MPQASENT>

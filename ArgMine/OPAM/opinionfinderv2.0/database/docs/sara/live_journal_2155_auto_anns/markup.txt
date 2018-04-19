@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I am one of the <MPQAPOL autoclass="neutral">lucky</MPQAPOL> ones who had a place to go that is not on fire and is not a random <MPQAPOL autoclass="neutral">shelter</MPQAPOL> .</MPQASENT>

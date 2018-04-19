@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do you ever <MPQAPOL autoclass="positive">feel</MPQAPOL> <MPQAPOL autoclass="negative">guilty</MPQAPOL> about <MPQAPOL autoclass="neutral">missing</MPQAPOL> a day of posting in your LJ ?</MPQASENT>

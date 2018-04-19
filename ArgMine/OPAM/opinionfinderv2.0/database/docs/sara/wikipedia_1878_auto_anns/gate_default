@@ -1,0 +1,11 @@
+1	0,66	GATE_Sentence
+2	0,3	GATE_Token	string="Per" lemma="per" category="IN"
+3	4,12	GATE_Token	string="Template" lemma="Template" category="NNP"
+4	13,14	GATE_Token	string=":" lemma=":" category=":"
+5	15,37	GATE_Token	string="Infobox_Musical_artist" lemma="infobox_musical_artist" category="NN"
+6	38,39	GATE_Token	string="#" lemma="#" category="#"
+7	40,45	GATE_Token	string="Genre" lemma="Genre" category="NNP"
+8	46,49	GATE_Token	string="Aim" lemma="Aim" category="NNP"
+9	50,53	GATE_Token	string="for" lemma="for" category="IN"
+10	54,64	GATE_Token	string="generality" lemma="generality" category="NN"
+11	65,66	GATE_Token	string="." lemma="." category="."

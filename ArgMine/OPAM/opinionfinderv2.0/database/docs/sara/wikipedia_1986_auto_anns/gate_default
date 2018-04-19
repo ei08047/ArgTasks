@@ -1,0 +1,8 @@
+1	0,41	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,11	GATE_Token	string="history" lemma="history" category="NN"
+4	12,19	GATE_Token	string="section" lemma="section" category="NN"
+5	20,25	GATE_Token	string="shows" lemma="show" category="VBZ"
+6	26,30	GATE_Token	string="what" lemma="what" category="WP"
+7	31,39	GATE_Token	string="happened" lemma="happen" category="VBD"
+8	40,41	GATE_Token	string="." lemma="." category="."

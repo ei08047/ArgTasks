@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i <MPQAPOL autoclass="neutral">think</MPQAPOL> okedem has <MPQAPOL autoclass="neutral">agreed</MPQAPOL> on <MPQAPOL autoclass="neutral">most</MPQAPOL> of it .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">In an English-language article this is <MPQAPOL autoclass="neutral">important</MPQAPOL> Again a <MPQAPOL autoclass="neutral">significant</MPQAPOL> <MPQAPOL autoclass="negative">persecution</MPQAPOL> .</MPQASENT>

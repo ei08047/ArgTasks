@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That was a lot of words to say , `` I dunno . ''</MPQASENT>

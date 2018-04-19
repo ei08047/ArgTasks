@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Of course , there were <MPQAPOL autoclass="neutral">black</MPQAPOL> people who voted due to religion and there is no <MPQAPOL autoclass="negative">excuse</MPQAPOL> for that .</MPQASENT>

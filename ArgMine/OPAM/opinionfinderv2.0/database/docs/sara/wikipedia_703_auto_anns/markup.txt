@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do not <MPQAPOL autoclass="neutral">try</MPQAPOL> to hide the <MPQAPOL autoclass="neutral">facts</MPQAPOL> of what they do .</MPQASENT>

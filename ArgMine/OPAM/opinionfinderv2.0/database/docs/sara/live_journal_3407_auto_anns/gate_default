@@ -1,0 +1,12 @@
+1	0,40	GATE_Sentence
+2	0,4	GATE_Token	string="Pour" lemma="pour" category="VB"
+3	5,7	GATE_Token	string="in" lemma="in" category="IN"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,16	GATE_Token	string="milk" lemma="milk" category="NN"
+6	17,20	GATE_Token	string="and" lemma="and" category="CC"
+7	21,24	GATE_Token	string="oil" lemma="oil" category="NN"
+8	25,28	GATE_Token	string="and" lemma="and" category="CC"
+9	29,32	GATE_Token	string="mix" lemma="mix" category="NN"
+10	33,37	GATE_Token	string="well" lemma="well" category="RB"
+11	38,39	GATE_Token	string="." lemma="." category="."
+12	39,40	GATE_Token	string="." lemma="." category="."

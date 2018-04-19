@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,9	GATE_Token	string="Christian" lemma="christian" category="JJ"
+3	10,18	GATE_Token	string="children" lemma="child" category="NNS"
+4	19,21	GATE_Token	string="do" lemma="do" category="VBP"
+5	22,25	GATE_Token	string="not" lemma="not" category="RB"
+6	26,31	GATE_Token	string="study" lemma="study" category="VB"
+7	32,35	GATE_Token	string="the" lemma="the" category="DT"
+8	36,41	GATE_Token	string="Koran" lemma="Koran" category="NNP"
+9	42,43	GATE_Token	string="." lemma="." category="."

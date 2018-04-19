@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is like poetry in picture form , <MPQAPOL autoclass="neutral">complete</MPQAPOL> with some <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="positive">nice</MPQAPOL> soft shadows .</MPQASENT>

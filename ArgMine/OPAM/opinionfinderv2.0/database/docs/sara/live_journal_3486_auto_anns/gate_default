@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,5	GATE_Token	string="Found" lemma="find" category="VB"
+3	6,9	GATE_Token	string="you" lemma="you" category="PRP"
+4	10,12	GATE_Token	string="at" lemma="at" category="IN"
+5	13,16	GATE_Token	string="the" lemma="the" category="DT"
+6	17,22	GATE_Token	string="holes" lemma="hole" category="NNS"
+7	23,32	GATE_Token	string="community" lemma="community" category="NN"
+8	33,34	GATE_Token	string="." lemma="." category="."

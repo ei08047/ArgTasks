@@ -1,0 +1,12 @@
+1	0,54	GATE_Sentence
+2	0,4	GATE_Token	string="Also" lemma="also" category="RB"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,11	GATE_Token	string="that" lemma="that" category="IN"
+5	12,17	GATE_Token	string="looks" lemma="look" category="VBZ"
+6	18,25	GATE_Token	string="exactly" lemma="exactly" category="RB"
+7	26,30	GATE_Token	string="like" lemma="like" category="IN"
+8	31,34	GATE_Token	string="the" lemma="the" category="DT"
+9	35,38	GATE_Token	string="one" lemma="one" category="CD"
+10	39,44	GATE_Token	string="Jonas" lemma="Jonas" category="NNP"
+11	45,52	GATE_Token	string="brother" lemma="brother" category="NN"
+12	53,54	GATE_Token	string="." lemma="." category="."

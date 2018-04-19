@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Please</MPQAPOL> <MPQAPOL autoclass="positive">understand</MPQAPOL> the epistemological <MPQAPOL autoclass="neutral">nature</MPQAPOL> behind <MPQAPOL autoclass="neutral">fact</MPQAPOL> and theory .</MPQASENT>

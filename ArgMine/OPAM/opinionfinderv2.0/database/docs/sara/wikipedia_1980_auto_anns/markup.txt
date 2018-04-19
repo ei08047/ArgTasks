@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Please</MPQAPOL> do not edit my replies or my indentations to <MPQAPOL autoclass="positive">suit</MPQAPOL> your talk .</MPQASENT>

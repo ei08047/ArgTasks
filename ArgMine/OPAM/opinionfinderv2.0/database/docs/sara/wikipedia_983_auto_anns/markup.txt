@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They <MPQAPOL autoclass="neutral">should</MPQAPOL> get their own paragraph in the <MPQAPOL autoclass="neutral">very</MPQAPOL> beginning .</MPQASENT>

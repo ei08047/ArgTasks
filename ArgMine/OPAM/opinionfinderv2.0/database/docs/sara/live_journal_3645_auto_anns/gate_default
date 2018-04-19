@@ -1,0 +1,13 @@
+1	0,76	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="lllinkkk" category="CD"
+3	9,26	GATE_Token	string="IIIMAGEEELLLINKKK" lemma="iiimageeelllinkkk" category="NN"
+4	27,37	GATE_Token	string="coyotegoth" lemma="coyotegoth" category="NN"
+5	38,39	GATE_Token	string="-" lemma="-" category=":"
+6	40,45	GATE_Token	string="Shall" lemma="shall" category="NN"
+7	46,48	GATE_Token	string="we" lemma="we" category="PRP"
+8	49,53	GATE_Token	string="meet" lemma="meet" category="VBP"
+9	54,56	GATE_Token	string="at" lemma="at" category="IN"
+10	57,60	GATE_Token	string="the" lemma="the" category="DT"
+11	61,68	GATE_Token	string="theater" lemma="theater" category="NN"
+12	69,74	GATE_Token	string="3-ish" lemma="3-ish" category="NN"
+13	75,76	GATE_Token	string="?" lemma="?" category="."

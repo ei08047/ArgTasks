@@ -1,0 +1,7 @@
+1	0,40	GATE_Sentence
+2	0,4	GATE_Token	string="Only" lemma="only" category="RB"
+3	5,13	GATE_Token	string="reliable" lemma="reliable" category="JJ"
+4	14,23	GATE_Token	string="secondary" lemma="secondary" category="JJ"
+5	24,31	GATE_Token	string="sources" lemma="source" category="NNS"
+6	32,38	GATE_Token	string="matter" lemma="matter" category="NN"
+7	39,40	GATE_Token	string="." lemma="." category="."

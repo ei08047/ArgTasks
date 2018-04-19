@@ -1,0 +1,10 @@
+1	0,37	GATE_Sentence
+2	0,5	GATE_Token	string="Yummy" lemma="yummy" category="JJ"
+3	6,11	GATE_Token	string="yummy" lemma="yummy" category="JJ"
+4	12,17	GATE_Token	string="yummy" lemma="yummy" category="NN"
+5	18,19	GATE_Token	string="-" lemma="-" category=":"
+6	20,23	GATE_Token	string="not" lemma="not" category="RB"
+7	24,28	GATE_Token	string="flat" lemma="flat" category="JJ"
+8	29,31	GATE_Token	string="at" lemma="at" category="IN"
+9	32,35	GATE_Token	string="all" lemma="all" category="DT"
+10	36,37	GATE_Token	string="." lemma="." category="."

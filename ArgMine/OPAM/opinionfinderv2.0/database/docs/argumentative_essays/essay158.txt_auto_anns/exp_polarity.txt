@@ -1,0 +1,6 @@
+argumentative_essays_essay158.txt_1678_1680	neutral
+argumentative_essays_essay158.txt_1683_1688	neutral
+argumentative_essays_essay158.txt_1692_1698	neutral
+argumentative_essays_essay158.txt_1699_1706	neutral
+argumentative_essays_essay158.txt_1756_1760	neutral
+argumentative_essays_essay158.txt_1761_1772	positive

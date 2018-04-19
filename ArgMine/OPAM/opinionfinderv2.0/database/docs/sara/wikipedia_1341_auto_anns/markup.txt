@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">But remember , this is Wikipedia and NPOV is one of our <MPQAPOL autoclass="neutral">cornerstones</MPQAPOL> and we <MPQAPOL autoclass="neutral">must</MPQAPOL> <MPQAPOL autoclass="positive">abide</MPQAPOL> .<MPQASENT autoclass1="unknown" autoclass2="obj">--</MPQASENT>

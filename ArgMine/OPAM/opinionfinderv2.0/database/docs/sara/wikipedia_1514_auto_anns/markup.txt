@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I will review the archive and make <MPQAPOL autoclass="neutral">sure</MPQAPOL> that all <MPQAPOL autoclass="positive">credible</MPQAPOL> sources were <MPQAPOL autoclass="neutral">considered<MPQAPOL autoclass="neutral"></MPQASENT>

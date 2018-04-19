@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Most</MPQAPOL> books which chronicle the `` rock era '' of music discuss all <MPQAPOL autoclass="neutral">modern</MPQAPOL> genres .</MPQASENT>

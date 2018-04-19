@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">It does not <MPQAPOL autoclass="neutral">matter</MPQAPOL> to me why this is , people can <MPQAPOL autoclass="negative">protest</MPQAPOL> for their own <MPQAPOL autoclass="neutral">reasons</MPQAPOL> yet <MPQAPOL autoclass="neutral">still</MPQAPOL> be <MPQAPOL autoclass="negative">protesting</MPQAPOL> the same thing .</MPQASENT>

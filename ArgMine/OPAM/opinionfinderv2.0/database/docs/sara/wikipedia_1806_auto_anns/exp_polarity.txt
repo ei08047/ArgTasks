@@ -1,0 +1,4 @@
+sara_wikipedia_1806_4_7	neutral
+sara_wikipedia_1806_57_65	neutral
+sara_wikipedia_1806_79_83	neutral
+sara_wikipedia_1806_109_113	neutral

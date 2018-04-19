@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,4	GATE_Token	string="Time" lemma="Time" category="NNP"
+3	5,7	GATE_Token	string="to" lemma="to" category="TO"
+4	8,13	GATE_Token	string="write" lemma="write" category="VB"
+5	14,18	GATE_Token	string="love" lemma="love" category="NN"
+6	19,26	GATE_Token	string="letters" lemma="letter" category="NNS"
+7	27,29	GATE_Token	string="to" lemma="to" category="TO"
+8	30,38	GATE_Token	string="concrete" lemma="concrete" category="JJ"
+9	39,40	GATE_Token	string="!" lemma="!" category="."

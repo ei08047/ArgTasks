@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,8	GATE_Token	string="Congrads" lemma="congrad" category="NNS"
+3	9,12	GATE_Token	string="for" lemma="for" category="IN"
+4	13,21	GATE_Token	string="excaping" lemma="excaping" category="NN"
+5	22,23	GATE_Token	string="," lemma="," category=","
+6	24,27	GATE_Token	string="and" lemma="and" category="CC"
+7	28,32	GATE_Token	string="good" lemma="good" category="JJ"
+8	33,37	GATE_Token	string="luck" lemma="luck" category="NN"
+9	38,40	GATE_Token	string="in" lemma="in" category="IN"
+10	41,45	GATE_Token	string="your" lemma="you" category="PRP$"
+11	46,49	GATE_Token	string="new" lemma="new" category="JJ"
+12	50,54	GATE_Token	string="home" lemma="home" category="NN"
+13	55,56	GATE_Token	string="!" lemma="!" category="."

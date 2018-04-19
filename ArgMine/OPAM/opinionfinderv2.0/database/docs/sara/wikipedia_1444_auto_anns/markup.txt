@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Or Dr. Somewhat <MPQAPOL autoclass="neutral">Notable</MPQAPOL> has the <MPQAPOL autoclass="neutral">unique</MPQAPOL> viewpoint that foo is pseudoscience . )</MPQASENT>

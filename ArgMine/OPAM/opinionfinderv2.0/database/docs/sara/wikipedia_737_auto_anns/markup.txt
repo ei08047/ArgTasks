@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">It is <MPQAPOL autoclass="negative">irrelevant</MPQAPOL> to this discussion .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">This may sound <MPQAPOL autoclass="neutral">odd</MPQAPOL> , but I <MPQAPOL autoclass="positive">like</MPQAPOL> cemetarys .</MPQASENT>

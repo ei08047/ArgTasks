@@ -1,0 +1,9 @@
+1	0,47	GATE_Sentence
+2	0,4	GATE_Token	string="dont" lemma="dont" category="NN"
+3	5,9	GATE_Token	string="even" lemma="even" category="RB"
+4	10,15	GATE_Token	string="start" lemma="start" category="VB"
+5	16,27	GATE_Token	string="complaining" lemma="complain" category="VBG"
+6	28,33	GATE_Token	string="about" lemma="about" category="IN"
+7	34,37	GATE_Token	string="her" lemma="she" category="PRP$"
+8	38,45	GATE_Token	string="anymore" lemma="anymore" category="RB"
+9	46,47	GATE_Token	string="." lemma="." category="."

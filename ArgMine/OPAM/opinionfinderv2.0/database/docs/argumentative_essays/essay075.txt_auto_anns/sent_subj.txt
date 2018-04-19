@@ -1,0 +1,9 @@
+argumentative_essays_essay075.txt_0_46	obj
+argumentative_essays_essay075.txt_48_228	subj
+argumentative_essays_essay075.txt_229_299	subj
+argumentative_essays_essay075.txt_300_483	subj
+argumentative_essays_essay075.txt_484_630	subj
+argumentative_essays_essay075.txt_631_852	subj
+argumentative_essays_essay075.txt_853_1086	subj
+argumentative_essays_essay075.txt_1087_1162	obj
+argumentative_essays_essay075.txt_1163_1445	subj

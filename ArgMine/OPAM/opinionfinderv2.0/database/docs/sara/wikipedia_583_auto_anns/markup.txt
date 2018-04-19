@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They are theories or paradigms which themselves depend on <MPQAPOL autoclass="neutral">certain</MPQAPOL> <MPQAPOL autoclass="neutral">facts</MPQAPOL> .</MPQASENT>

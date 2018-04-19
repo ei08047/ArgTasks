@@ -1,0 +1,11 @@
+1	0,48	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,7	GATE_Token	string="sun" lemma="sun" category="NN"
+4	8,10	GATE_Token	string="is" lemma="be" category="VBZ"
+5	11,17	GATE_Token	string="indeed" lemma="indeed" category="RB"
+6	18,19	GATE_Token	string="a" lemma="a" category="DT"
+7	20,26	GATE_Token	string="source" lemma="source" category="NN"
+8	27,29	GATE_Token	string="of" lemma="of" category="IN"
+9	30,38	GATE_Token	string="negative" lemma="negative" category="JJ"
+10	39,46	GATE_Token	string="entropy" lemma="entropy" category="NN"
+11	47,48	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,8 @@
+1	0,40	GATE_Sentence
+2	0,8	GATE_Token	string="Normally" lemma="normally" category="RB"
+3	9,13	GATE_Token	string="they" lemma="they" category="PRP"
+4	14,18	GATE_Token	string="have" lemma="have" category="VBP"
+5	19,29	GATE_Token	string="everything" lemma="everything" category="NN"
+6	30,32	GATE_Token	string="on" lemma="on" category="IN"
+7	33,38	GATE_Token	string="there" lemma="there" category="EX"
+8	39,40	GATE_Token	string="." lemma="." category="."

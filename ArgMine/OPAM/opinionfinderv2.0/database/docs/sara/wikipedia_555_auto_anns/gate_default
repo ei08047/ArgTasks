@@ -1,0 +1,10 @@
+1	0,45	GATE_Sentence
+2	0,1	GATE_Token	string="A" lemma="a" category="DT"
+3	2,12	GATE_Token	string="scientific" lemma="scientific" category="JJ"
+4	13,19	GATE_Token	string="theory" lemma="theory" category="NN"
+5	20,23	GATE_Token	string="can" lemma="can" category="MD"
+6	24,29	GATE_Token	string="never" lemma="never" category="RB"
+7	30,36	GATE_Token	string="become" lemma="become" category="VB"
+8	37,38	GATE_Token	string="a" lemma="a" category="DT"
+9	39,43	GATE_Token	string="fact" lemma="fact" category="NN"
+10	44,45	GATE_Token	string="." lemma="." category="."

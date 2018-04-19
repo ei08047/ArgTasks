@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">On second <MPQAPOL autoclass="neutral">thought</MPQAPOL> , <MPQAPOL autoclass="neutral">could</MPQAPOL> it <MPQAPOL autoclass="neutral">possibly</MPQAPOL> be a Beatles cover ?</MPQASENT>

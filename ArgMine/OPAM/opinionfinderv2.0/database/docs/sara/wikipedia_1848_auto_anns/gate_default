@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,4	GATE_Token	string="Look" lemma="look" category="VB"
+3	5,8	GATE_Token	string="how" lemma="how" category="WRB"
+4	9,14	GATE_Token	string="close" lemma="close" category="JJ"
+5	15,17	GATE_Token	string="we" lemma="we" category="PRP"
+6	18,21	GATE_Token	string="are" lemma="be" category="VBP"
+7	22,24	GATE_Token	string="to" lemma="to" category="TO"
+8	25,31	GATE_Token	string="Israel" lemma="Israel" category="NNP"
+9	32,33	GATE_Token	string="." lemma="." category="."

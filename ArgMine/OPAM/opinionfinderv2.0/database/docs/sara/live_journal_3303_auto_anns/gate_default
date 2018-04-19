@@ -1,0 +1,9 @@
+1	0,34	GATE_Sentence
+2	0,5	GATE_Token	string="Would" lemma="would" category="MD"
+3	6,9	GATE_Token	string="you" lemma="you" category="PRP"
+4	10,14	GATE_Token	string="mind" lemma="mind" category="VB"
+5	15,17	GATE_Token	string="if" lemma="if" category="IN"
+6	18,19	GATE_Token	string="I" lemma="I" category="PRP"
+7	20,28	GATE_Token	string="friended" lemma="friend" category="VBD"
+8	29,32	GATE_Token	string="you" lemma="you" category="PRP"
+9	33,34	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">In more <MPQAPOL autoclass="neutral">specific</MPQAPOL> articles , more <MPQAPOL autoclass="neutral">specific</MPQAPOL> information is <MPQAPOL autoclass="neutral">appropriate</MPQAPOL> .</MPQASENT>

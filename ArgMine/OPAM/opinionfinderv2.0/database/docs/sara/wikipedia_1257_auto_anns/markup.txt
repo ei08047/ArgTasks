@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">My guess is someone will always <MPQAPOL autoclass="negative">object</MPQAPOL> to any <MPQAPOL autoclass="neutral">substantial</MPQAPOL> change as a lot of their work will go .</MPQASENT>

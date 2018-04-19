@@ -1,0 +1,9 @@
+1	0,54	GATE_Sentence
+2	0,4	GATE_Token	string="CCHR" lemma="cchr" category="NN"
+3	5,8	GATE_Token	string="has" lemma="have" category="VBZ"
+4	9,22	GATE_Token	string="characterized" lemma="characterize" category="VBN"
+5	23,33	GATE_Token	string="psychiatry" lemma="psychiatry" category="NN"
+6	34,36	GATE_Token	string="as" lemma="as" category="IN"
+7	37,38	GATE_Token	string="a" lemma="a" category="DT"
+8	39,52	GATE_Token	string="pseudoscience" lemma="pseudoscience" category="NN"
+9	53,54	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,59	GATE_Sentence
+2	0,4	GATE_Token	string="oooh" lemma="oooh" category="RB"
+3	5,9	GATE_Token	string="this" lemma="this" category="DT"
+4	10,15	GATE_Token	string="looks" lemma="look" category="VBZ"
+5	16,20	GATE_Token	string="like" lemma="like" category="IN"
+6	21,25	GATE_Token	string="your" lemma="you" category="PRP$"
+7	26,31	GATE_Token	string="first" lemma="first" category="JJ"
+8	32,41	GATE_Token	string="genuinely" lemma="genuinely" category="RB"
+9	42,51	GATE_Token	string="editorial" lemma="editorial" category="JJ"
+10	52,57	GATE_Token	string="piece" lemma="piece" category="NN"
+11	58,59	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">One does not <MPQAPOL autoclass="negative">protest</MPQAPOL> <MPQAPOL autoclass="neutral">True</MPQAPOL> Free Market Capitalism , because like fairies , it does not exist .</MPQASENT>

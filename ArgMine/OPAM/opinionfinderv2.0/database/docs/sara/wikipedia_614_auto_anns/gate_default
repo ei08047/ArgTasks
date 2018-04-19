@@ -1,0 +1,13 @@
+1	0,57	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,12	GATE_Token	string="purely" lemma="purely" category="RB"
+5	13,14	GATE_Token	string="a" lemma="a" category="DT"
+6	15,21	GATE_Token	string="gender" lemma="gender" category="NN"
+7	22,32	GATE_Token	string="stereotype" lemma="stereotype" category="NN"
+8	33,37	GATE_Token	string="that" lemma="that" category="WDT"
+9	38,42	GATE_Token	string="says" lemma="say" category="VBZ"
+10	43,45	GATE_Token	string="he" lemma="he" category="PRP"
+11	46,51	GATE_Token	string="could" lemma="could" category="MD"
+12	52,55	GATE_Token	string="not" lemma="not" category="RB"
+13	56,57	GATE_Token	string="." lemma="." category="."

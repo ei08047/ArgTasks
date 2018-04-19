@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">That is a <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="negative">careless</MPQAPOL> <MPQAPOL autoclass="negative">argument</MPQAPOL> .</MPQASENT>

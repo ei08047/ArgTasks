@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If I was a kid doing research , I am more <MPQAPOL autoclass="neutral">helped</MPQAPOL> by present wording with <MPQAPOL autoclass="neutral">appropriate</MPQAPOL> wikilinks .</MPQASENT>

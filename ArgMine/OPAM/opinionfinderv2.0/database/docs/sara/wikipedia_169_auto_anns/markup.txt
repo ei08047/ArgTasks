@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">My main <MPQAPOL autoclass="negative">objection</MPQAPOL> to change <MPQAPOL autoclass="neutral">would</MPQAPOL> be the amount of work <MPQAPOL autoclass="neutral">necessary</MPQAPOL> to re-order the article and re-write .</MPQASENT>

@@ -1,0 +1,5 @@
+sara_wikipedia_172_0_6	neutral
+sara_wikipedia_172_16_24	neutral
+sara_wikipedia_172_29_37	neutral
+sara_wikipedia_172_68_70	neutral
+sara_wikipedia_172_86_95	neutral

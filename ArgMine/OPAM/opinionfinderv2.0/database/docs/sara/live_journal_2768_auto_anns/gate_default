@@ -1,0 +1,11 @@
+1	0,49	GATE_Sentence
+2	0,4	GATE_Token	string="They" lemma="they" category="PRP"
+3	5,9	GATE_Token	string="have" lemma="have" category="VBP"
+4	10,14	GATE_Token	string="been" lemma="be" category="VBN"
+5	15,22	GATE_Token	string="talking" lemma="talk" category="VBG"
+6	23,28	GATE_Token	string="about" lemma="about" category="IN"
+7	29,30	GATE_Token	string="a" lemma="a" category="DT"
+8	31,37	GATE_Token	string="sequel" lemma="sequel" category="NN"
+9	38,41	GATE_Token	string="for" lemma="for" category="IN"
+10	42,47	GATE_Token	string="years" lemma="year" category="NNS"
+11	48,49	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And <MPQAPOL autoclass="neutral">contrary</MPQAPOL> to what you say , the wording does not <MPQAPOL autoclass="neutral">suggest</MPQAPOL> _ at_all _ that Linux was written to fill that gap .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

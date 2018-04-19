@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Have you read wikipedia 's article on <MPQAPOL autoclass="neutral">Black</MPQAPOL> Sabbath ?</MPQASENT>

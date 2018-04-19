@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You can test this <MPQAPOL autoclass="neutral">argument</MPQAPOL> on the WP : RS noticeboard if you <MPQAPOL autoclass="positive">wish</MPQAPOL> .</MPQASENT>

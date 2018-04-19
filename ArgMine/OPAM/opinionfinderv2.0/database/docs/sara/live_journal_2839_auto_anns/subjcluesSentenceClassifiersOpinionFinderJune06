@@ -1,0 +1,5 @@
+1	0,6	matchfeat	type="strongjandiss" mpqapolarity="neutral"
+2	18,25	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+3	28,34	matchfeat	type="PolMmanstrong" mpqapolarity="weakneg"
+4	35,40	matchfeat	type="strongjandiss" mpqapolarity="strongneg"
+5	75,80	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="strongneg"

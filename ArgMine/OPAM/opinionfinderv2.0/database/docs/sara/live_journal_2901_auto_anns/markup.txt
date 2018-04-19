@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">i <MPQAPOL autoclass="neutral">think</MPQAPOL> it is <MPQAPOL autoclass="neutral">gorgeous</MPQAPOL> as is .</MPQASENT>

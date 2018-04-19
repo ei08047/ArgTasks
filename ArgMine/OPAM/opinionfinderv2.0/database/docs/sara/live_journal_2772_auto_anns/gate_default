@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,1	GATE_Token	string=":" lemma=":" category=":"
+3	1,2	GATE_Token	string="D" lemma="d" category="NN"
+4	3,4	GATE_Token	string="I" lemma="I" category="PRP"
+5	5,9	GATE_Token	string="hope" lemma="hope" category="VBP"
+6	10,20	GATE_Token	string="everything" lemma="everything" category="NN"
+7	21,23	GATE_Token	string="'s" lemma="'s" category="POS"
+8	24,29	GATE_Token	string="going" lemma="go" category="VBG"
+9	30,43	GATE_Token	string="fantastically" lemma="fantastically" category="RB"
+10	44,47	GATE_Token	string="for" lemma="for" category="IN"
+11	48,51	GATE_Token	string="you" lemma="you" category="PRP"
+12	52,53	GATE_Token	string="!" lemma="!" category="."

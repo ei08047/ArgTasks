@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If the user <MPQAPOL autoclass="neutral">misbehaved</MPQAPOL> , you <MPQAPOL autoclass="neutral">should</MPQAPOL> have banned the user , not blacklisted the resource .</MPQASENT>

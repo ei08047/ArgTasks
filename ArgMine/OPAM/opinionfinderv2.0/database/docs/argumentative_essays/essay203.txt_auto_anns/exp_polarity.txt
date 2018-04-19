@@ -1,0 +1,6 @@
+argumentative_essays_essay203.txt_2360_2367	positive
+argumentative_essays_essay203.txt_2371_2375	negative
+argumentative_essays_essay203.txt_2389_2394	neutral
+argumentative_essays_essay203.txt_2399_2405	neutral
+argumentative_essays_essay203.txt_2406_2416	negative
+argumentative_essays_essay203.txt_2424_2428	positive

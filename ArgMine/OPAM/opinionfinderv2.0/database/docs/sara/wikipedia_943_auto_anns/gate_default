@@ -1,0 +1,11 @@
+1	0,57	GATE_Sentence
+2	0,5	GATE_Token	string="Iommi" lemma="Iommi" category="NNP"
+3	6,9	GATE_Token	string="has" lemma="have" category="VBZ"
+4	10,14	GATE_Token	string="been" lemma="be" category="VBN"
+5	15,19	GATE_Token	string="very" lemma="very" category="RB"
+6	20,26	GATE_Token	string="public" lemma="public" category="JJ"
+7	27,32	GATE_Token	string="about" lemma="about" category="IN"
+8	33,42	GATE_Token	string="influence" lemma="influence" category="NN"
+9	43,47	GATE_Token	string="from" lemma="from" category="IN"
+10	48,55	GATE_Token	string="Clapton" lemma="Clapton" category="NNP"
+11	56,57	GATE_Token	string="." lemma="." category="."

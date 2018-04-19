@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,4	GATE_Token	string="Epic" lemma="epic" category="NN"
+3	5,9	GATE_Token	string="does" lemma="do" category="VBZ"
+4	10,13	GATE_Token	string="not" lemma="not" category="RB"
+5	14,18	GATE_Token	string="even" lemma="even" category="RB"
+6	19,24	GATE_Token	string="begin" lemma="begin" category="VB"
+7	25,27	GATE_Token	string="to" lemma="to" category="TO"
+8	28,36	GATE_Token	string="describe" lemma="describe" category="VB"
+9	37,39	GATE_Token	string="it" lemma="it" category="PRP"
+10	40,41	GATE_Token	string="." lemma="." category="."

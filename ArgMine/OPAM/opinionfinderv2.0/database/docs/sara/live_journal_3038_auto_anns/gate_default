@@ -1,0 +1,12 @@
+1	0,49	GATE_Sentence
+2	0,9	GATE_Token	string="Hopefully" lemma="hopefully" category="RB"
+3	10,11	GATE_Token	string="I" lemma="I" category="PRP"
+4	12,16	GATE_Token	string="will" lemma="will" category="MD"
+5	17,20	GATE_Token	string="get" lemma="get" category="VB"
+6	21,22	GATE_Token	string="a" lemma="a" category="DT"
+7	23,26	GATE_Token	string="job" lemma="job" category="NN"
+8	27,32	GATE_Token	string="there" lemma="there" category="RB"
+9	33,39	GATE_Token	string="within" lemma="within" category="IN"
+10	40,41	GATE_Token	string="a" lemma="a" category="DT"
+11	42,47	GATE_Token	string="month" lemma="month" category="NN"
+12	48,49	GATE_Token	string="." lemma="." category="."

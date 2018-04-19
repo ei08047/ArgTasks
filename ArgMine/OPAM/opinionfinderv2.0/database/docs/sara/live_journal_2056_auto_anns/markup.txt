@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">know</MPQAPOL> , I am <MPQAPOL autoclass="positive">just</MPQAPOL> <MPQAPOL autoclass="negative">terrible</MPQAPOL> at updating my journal !</MPQASENT>

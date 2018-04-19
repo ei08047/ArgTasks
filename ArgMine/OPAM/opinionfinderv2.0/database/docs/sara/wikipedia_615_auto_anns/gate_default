@@ -1,0 +1,13 @@
+1	0,61	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,8	GATE_Token	string="would" lemma="would" category="MD"
+4	9,13	GATE_Token	string="also" lemma="also" category="RB"
+5	14,16	GATE_Token	string="be" lemma="be" category="VB"
+6	17,24	GATE_Token	string="helpful" lemma="helpful" category="JJ"
+7	25,27	GATE_Token	string="if" lemma="if" category="IN"
+8	28,31	GATE_Token	string="you" lemma="you" category="PRP"
+9	32,37	GATE_Token	string="could" lemma="could" category="MD"
+10	38,44	GATE_Token	string="supply" lemma="supply" category="VB"
+11	45,49	GATE_Token	string="your" lemma="you" category="PRP$"
+12	50,59	GATE_Token	string="resources" lemma="resource" category="NNS"
+13	60,61	GATE_Token	string="." lemma="." category="."

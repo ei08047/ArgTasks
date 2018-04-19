@@ -1,0 +1,12 @@
+argumentative_essays_essay315.txt_0_224	subj
+argumentative_essays_essay315.txt_225_322	obj
+argumentative_essays_essay315.txt_323_420	subj
+argumentative_essays_essay315.txt_421_536	subj
+argumentative_essays_essay315.txt_537_744	subj
+argumentative_essays_essay315.txt_745_890	obj
+argumentative_essays_essay315.txt_891_1049	subj
+argumentative_essays_essay315.txt_1050_1297	subj
+argumentative_essays_essay315.txt_1298_1436	obj
+argumentative_essays_essay315.txt_1437_1612	obj
+argumentative_essays_essay315.txt_1613_1826	subj
+argumentative_essays_essay315.txt_1827_2061	subj

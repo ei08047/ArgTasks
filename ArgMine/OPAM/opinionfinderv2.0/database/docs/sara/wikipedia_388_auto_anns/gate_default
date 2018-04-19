@@ -1,0 +1,12 @@
+1	0,64	GATE_Sentence
+2	0,5	GATE_Token	string="These" lemma="these" category="DT"
+3	6,20	GATE_Token	string="considerations" lemma="consideration" category="NNS"
+4	21,25	GATE_Token	string="were" lemma="be" category="VBD"
+5	26,34	GATE_Token	string="powerful" lemma="powerful" category="JJ"
+6	35,39	GATE_Token	string="ones" lemma="one" category="NNS"
+7	40,42	GATE_Token	string="in" lemma="in" category="IN"
+8	43,46	GATE_Token	string="the" lemma="the" category="DT"
+9	47,52	GATE_Token	string="minds" lemma="mind" category="NNS"
+10	53,55	GATE_Token	string="of" lemma="of" category="IN"
+11	56,62	GATE_Token	string="rulers" lemma="ruler" category="NNS"
+12	63,64	GATE_Token	string="." lemma="." category="."

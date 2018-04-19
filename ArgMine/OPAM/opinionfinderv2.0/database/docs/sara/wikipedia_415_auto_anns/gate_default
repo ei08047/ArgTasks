@@ -1,0 +1,11 @@
+1	0,42	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,5	GATE_Token	string="had" lemma="have" category="VBD"
+4	6,10	GATE_Token	string="vote" lemma="vote" category="NN"
+5	11,14	GATE_Token	string="for" lemma="for" category="IN"
+6	15,23	GATE_Token	string="removing" lemma="remove" category="VBG"
+7	24,26	GATE_Token	string="it" lemma="it" category="PRP"
+8	27,31	GATE_Token	string="from" lemma="from" category="IN"
+9	32,35	GATE_Token	string="the" lemma="the" category="DT"
+10	36,40	GATE_Token	string="lead" lemma="lead" category="NN"
+11	41,42	GATE_Token	string="." lemma="." category="."

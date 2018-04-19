@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">She <MPQAPOL autoclass="neutral">knows</MPQAPOL> you did it because you <MPQAPOL autoclass="neutral">care</MPQAPOL> .</MPQASENT>

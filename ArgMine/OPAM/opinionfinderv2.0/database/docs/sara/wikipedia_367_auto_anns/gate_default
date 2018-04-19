@@ -1,0 +1,13 @@
+1	0,70	GATE_Sentence
+2	0,6	GATE_Token	string="Should" lemma="should" category="MD"
+3	7,11	GATE_Token	string="they" lemma="they" category="PRP"
+4	12,15	GATE_Token	string="all" lemma="all" category="DT"
+5	16,21	GATE_Token	string="share" lemma="share" category="VBP"
+6	22,30	GATE_Token	string="enormous" lemma="enormous" category="JJ"
+7	31,37	GATE_Token	string="chunks" lemma="chunk" category="NNS"
+8	38,40	GATE_Token	string="of" lemma="of" category="IN"
+9	41,44	GATE_Token	string="the" lemma="the" category="DT"
+10	45,53	GATE_Token	string="Catholic" lemma="Catholic" category="NNP"
+11	54,60	GATE_Token	string="Church" lemma="Church" category="NNP"
+12	61,68	GATE_Token	string="article" lemma="article" category="NN"
+13	69,70	GATE_Token	string="." lemma="." category="."

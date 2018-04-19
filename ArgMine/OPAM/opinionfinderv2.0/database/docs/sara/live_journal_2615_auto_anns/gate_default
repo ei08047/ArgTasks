@@ -1,0 +1,7 @@
+1	0,34	GATE_Sentence
+2	0,3	GATE_Token	string="Let" lemma="let" category="VB"
+3	4,6	GATE_Token	string="us" lemma="we" category="PRP"
+4	7,10	GATE_Token	string="try" lemma="try" category="VB"
+5	11,22	GATE_Token	string="libertarian" lemma="libertarian" category="JJ"
+6	23,32	GATE_Token	string="socialism" lemma="socialism" category="NN"
+7	33,34	GATE_Token	string="." lemma="." category="."

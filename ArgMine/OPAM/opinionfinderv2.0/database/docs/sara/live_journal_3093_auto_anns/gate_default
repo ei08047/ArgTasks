@@ -1,0 +1,11 @@
+1	0,42	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,5	GATE_Token	string="was" lemma="be" category="VBD"
+4	6,13	GATE_Token	string="already" lemma="already" category="RB"
+5	14,19	GATE_Token	string="hired" lemma="hire" category="VBN"
+6	20,22	GATE_Token	string="in" lemma="in" category="IN"
+7	23,25	GATE_Token	string="as" lemma="as" category="IN"
+8	26,29	GATE_Token	string="the" lemma="the" category="DT"
+9	30,39	GATE_Token	string="assistant" lemma="assistant" category="NN"
+10	40,41	GATE_Token	string="." lemma="." category="."
+11	41,42	GATE_Token	string="." lemma="." category="."

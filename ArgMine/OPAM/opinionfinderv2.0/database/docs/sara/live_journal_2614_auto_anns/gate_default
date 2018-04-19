@@ -1,0 +1,10 @@
+1	0,69	GATE_Sentence
+2	0,4	GATE_Token	string="Just" lemma="just" category="RB"
+3	5,7	GATE_Token	string="as" lemma="as" category="IN"
+4	8,16	GATE_Token	string="actually" lemma="actually" category="RB"
+5	17,25	GATE_Token	string="existing" lemma="exist" category="VBG"
+6	26,36	GATE_Token	string="capitalism" lemma="capitalism" category="NN"
+7	37,47	GATE_Token	string="socializes" lemma="socialize" category="VBZ"
+8	48,58	GATE_Token	string="ecological" lemma="ecological" category="JJ"
+9	59,67	GATE_Token	string="problems" lemma="problem" category="NNS"
+10	68,69	GATE_Token	string="." lemma="." category="."

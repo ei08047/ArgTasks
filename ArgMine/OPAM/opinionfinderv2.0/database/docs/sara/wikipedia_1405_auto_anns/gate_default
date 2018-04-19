@@ -1,0 +1,11 @@
+1	0,55	GATE_Sentence
+2	0,2	GATE_Token	string="By" lemma="by" category="IN"
+3	3,6	GATE_Token	string="all" lemma="all" category="DT"
+4	7,12	GATE_Token	string="means" lemma="mean" category="VBZ"
+5	13,18	GATE_Token	string="state" lemma="state" category="NN"
+6	19,22	GATE_Token	string="how" lemma="how" category="WRB"
+7	23,29	GATE_Token	string="Popper" lemma="Popper" category="NNP"
+8	30,39	GATE_Token	string="rephrased" lemma="rephrase" category="VBD"
+9	40,43	GATE_Token	string="his" lemma="he" category="PRP$"
+10	44,53	GATE_Token	string="statement" lemma="statement" category="NN"
+11	54,55	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,10 @@
+1	0,37	GATE_Sentence
+2	0,4	GATE_Token	string="Soon" lemma="soon" category="RB"
+3	5,7	GATE_Token	string="'s" lemma="'s" category="POS"
+4	8,9	GATE_Token	string="I" lemma="I" category="PRP"
+5	10,13	GATE_Token	string="get" lemma="get" category="VBP"
+6	14,18	GATE_Token	string="back" lemma="back" category="RB"
+7	19,23	GATE_Token	string="from" lemma="from" category="IN"
+8	24,27	GATE_Token	string="gay" lemma="gay" category="JJ"
+9	28,33	GATE_Token	string="paree" lemma="paree" category="NN"
+10	34,37	GATE_Token	string="..." lemma="..." category=":"

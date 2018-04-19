@@ -1,0 +1,13 @@
+1	0,53	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="have" lemma="have" category="VBP"
+4	7,11	GATE_Token	string="been" lemma="be" category="VBN"
+5	12,19	GATE_Token	string="meaning" lemma="mean" category="VBG"
+6	20,22	GATE_Token	string="to" lemma="to" category="TO"
+7	23,28	GATE_Token	string="write" lemma="write" category="VB"
+8	29,30	GATE_Token	string="," lemma="," category=","
+9	31,40	GATE_Token	string="wondering" lemma="wonder" category="VBG"
+10	41,45	GATE_Token	string="what" lemma="what" category="WP"
+11	46,48	GATE_Token	string="is" lemma="be" category="VBZ"
+12	49,51	GATE_Token	string="up" lemma="up" category="RB"
+13	52,53	GATE_Token	string="." lemma="." category="."

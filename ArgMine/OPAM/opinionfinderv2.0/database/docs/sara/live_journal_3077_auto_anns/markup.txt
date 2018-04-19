@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Tell him it is because he <MPQAPOL autoclass="neutral">looks</MPQAPOL> <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">awesome</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The translation to english of MA speech was flawed in <MPQAPOL autoclass="neutral">much</MPQAPOL> of the english media .</MPQASENT>

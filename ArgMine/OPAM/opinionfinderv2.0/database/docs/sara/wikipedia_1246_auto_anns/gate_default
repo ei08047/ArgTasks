@@ -1,0 +1,13 @@
+1	0,65	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,7	GATE_Token	string="the" lemma="the" category="DT"
+4	8,16	GATE_Token	string="articles" lemma="article" category="NNS"
+5	17,26	GATE_Token	string="reporting" lemma="reporting" category="NN"
+6	27,29	GATE_Token	string="of" lemma="of" category="IN"
+7	30,33	GATE_Token	string="the" lemma="the" category="DT"
+8	34,38	GATE_Token	string="Code" lemma="Code" category="NNP"
+9	39,41	GATE_Token	string="of" lemma="of" category="IN"
+10	42,49	GATE_Token	string="Conduct" lemma="Conduct" category="NNP"
+11	50,58	GATE_Token	string="reflects" lemma="reflect" category="VBZ"
+12	59,63	GATE_Token	string="this" lemma="this" category="DT"
+13	64,65	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">A few people <MPQAPOL autoclass="positive">applauded</MPQAPOL> , but <MPQAPOL autoclass="neutral">most</MPQAPOL> started spreading `` <MPQAPOL autoclass="negative">rumors</MPQAPOL> '' that I was gay .</MPQASENT>

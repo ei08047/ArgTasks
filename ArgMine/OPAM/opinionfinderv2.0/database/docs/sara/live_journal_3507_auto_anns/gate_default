@@ -1,0 +1,9 @@
+1	0,42	GATE_Sentence
+2	0,12	GATE_Token	string="OutGamed.com" lemma="OutGamed.com" category="NNP"
+3	13,15	GATE_Token	string="is" lemma="be" category="VBZ"
+4	16,19	GATE_Token	string="the" lemma="the" category="DT"
+5	20,23	GATE_Token	string="hub" lemma="hub" category="NN"
+6	24,26	GATE_Token	string="of" lemma="of" category="IN"
+7	27,33	GATE_Token	string="online" lemma="online" category="JJ"
+8	34,40	GATE_Token	string="gaming" lemma="gaming" category="NN"
+9	41,42	GATE_Token	string="." lemma="." category="."

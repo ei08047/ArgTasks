@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Man , the last two months <MPQAPOL autoclass="neutral">just</MPQAPOL> flew .</MPQASENT>

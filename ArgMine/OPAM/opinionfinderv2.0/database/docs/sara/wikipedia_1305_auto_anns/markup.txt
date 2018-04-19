@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This can <MPQAPOL autoclass="neutral">certainly</MPQAPOL> be <MPQAPOL autoclass="negative">argued</MPQAPOL> for things like gcc , but not the userspace .</MPQASENT>

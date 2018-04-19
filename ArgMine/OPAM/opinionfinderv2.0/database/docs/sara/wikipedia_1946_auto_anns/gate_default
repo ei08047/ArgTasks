@@ -1,0 +1,10 @@
+1	0,50	GATE_Sentence
+2	0,6	GATE_Token	string="Please" lemma="please" category="VB"
+3	7,14	GATE_Token	string="discuss" lemma="discuss" category="VB"
+4	15,17	GATE_Token	string="if" lemma="if" category="IN"
+5	18,21	GATE_Token	string="you" lemma="you" category="PRP"
+6	22,26	GATE_Token	string="feel" lemma="feel" category="VBP"
+7	27,31	GATE_Token	string="this" lemma="this" category="DT"
+8	32,34	GATE_Token	string="is" lemma="be" category="VBZ"
+9	35,48	GATE_Token	string="inappropriate" lemma="inappropriate" category="JJ"
+10	49,50	GATE_Token	string="." lemma="." category="."

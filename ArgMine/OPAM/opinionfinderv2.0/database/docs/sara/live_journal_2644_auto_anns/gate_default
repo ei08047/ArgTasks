@@ -1,0 +1,9 @@
+1	0,32	GATE_Sentence
+2	0,5	GATE_Token	string="Sorry" lemma="sorry" category="JJ"
+3	6,7	GATE_Token	string="I" lemma="I" category="PRP"
+4	8,12	GATE_Token	string="have" lemma="have" category="VBP"
+5	13,16	GATE_Token	string="not" lemma="not" category="RB"
+6	17,21	GATE_Token	string="kept" lemma="keep" category="VBN"
+7	22,24	GATE_Token	string="in" lemma="in" category="IN"
+8	25,30	GATE_Token	string="touch" lemma="touch" category="NN"
+9	31,32	GATE_Token	string="." lemma="." category="."

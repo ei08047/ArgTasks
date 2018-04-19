@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,2	GATE_Token	string="Oh" lemma="oh" category="UH"
+3	3,9	GATE_Token	string="whoops" lemma="whoop" category="VBZ"
+4	10,14	GATE_Token	string="some" lemma="some" category="DT"
+5	15,26	GATE_Token	string="punctuation" lemma="punctuation" category="NN"
+6	27,32	GATE_Token	string="snuck" lemma="snuck" category="NN"
+7	33,35	GATE_Token	string="in" lemma="in" category="IN"
+8	36,41	GATE_Token	string="there" lemma="there" category="RB"
+9	42,43	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,48	GATE_Sentence
+2	0,4	GATE_Token	string="Your" lemma="you" category="PRP$"
+3	5,14	GATE_Token	string="situation" lemma="situation" category="NN"
+4	15,17	GATE_Token	string="'s" lemma="'s" category="POS"
+5	18,23	GATE_Token	string="balls" lemma="ball" category="NNS"
+6	24,25	GATE_Token	string="," lemma="," category=","
+7	26,29	GATE_Token	string="but" lemma="but" category="CC"
+8	30,33	GATE_Token	string="you" lemma="you" category="PRP"
+9	34,38	GATE_Token	string="will" lemma="will" category="MD"
+10	39,46	GATE_Token	string="survive" lemma="survive" category="VB"
+11	47,48	GATE_Token	string="." lemma="." category="."

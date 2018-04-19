@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">and with quantities in this range , there is less <MPQAPOL autoclass="negative">tolerance</MPQAPOL> for <MPQAPOL autoclass="neutral">error</MPQAPOL> , but that is not <MPQAPOL autoclass="negative">bad</MPQAPOL> .</MPQASENT>

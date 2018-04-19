@@ -1,0 +1,13 @@
+1	0,70	GATE_Sentence
+2	0,3	GATE_Token	string="WHO" lemma="who" category="WP"
+3	4,11	GATE_Token	string="legally" lemma="legally" category="RB"
+4	12,19	GATE_Token	string="defined" lemma="define" category="VBD"
+5	20,26	GATE_Token	string="native" lemma="native" category="JJ"
+6	27,33	GATE_Token	string="people" lemma="people" category="NNS"
+7	34,36	GATE_Token	string="as" lemma="as" category="IN"
+8	37,45	GATE_Token	string="children" lemma="child" category="NNS"
+9	46,47	GATE_Token	string="," lemma="," category=","
+10	48,54	GATE_Token	string="Church" lemma="Church" category="NNP"
+11	55,56	GATE_Token	string="," lemma="," category=","
+12	57,68	GATE_Token	string="Governments" lemma="government" category="NNS"
+13	69,70	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">dave is <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="negative">weird</MPQAPOL> and <MPQAPOL autoclass="negative">lecherous</MPQAPOL> and <MPQAPOL autoclass="negative">unpleasant</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,16 @@
+1	0,71	GATE_Sentence
+2	0,10	GATE_Token	string="Regardless" lemma="regardless" category="RB"
+3	11,12	GATE_Token	string="," lemma="," category=","
+4	13,14	GATE_Token	string="I" lemma="I" category="PRP"
+5	15,22	GATE_Token	string="support" lemma="support" category="VBP"
+6	23,30	GATE_Token	string="talking" lemma="talk" category="VBG"
+7	31,36	GATE_Token	string="about" lemma="about" category="IN"
+8	37,40	GATE_Token	string="the" lemma="the" category="DT"
+9	41,46	GATE_Token	string="First" lemma="First" category="NNP"
+10	47,53	GATE_Token	string="Vision" lemma="Vision" category="NNP"
+11	54,56	GATE_Token	string="in" lemma="in" category="IN"
+12	57,61	GATE_Token	string="this" lemma="this" category="DT"
+13	62,69	GATE_Token	string="article" lemma="article" category="NN"
+14	70,71	GATE_Token	string="." lemma="." category="."
+15	71,72	GATE_Sentence
+16	71,72	GATE_Token	string="-" lemma="-" category=":"

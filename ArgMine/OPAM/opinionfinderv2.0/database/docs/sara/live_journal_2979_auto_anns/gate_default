@@ -1,0 +1,13 @@
+1	0,59	GATE_Sentence
+2	0,2	GATE_Token	string="At" lemma="at" category="IN"
+3	3,8	GATE_Token	string="least" lemma="least" category="JJS"
+4	9,11	GATE_Token	string="my" lemma="my" category="PRP$"
+5	12,14	GATE_Token	string="DS" lemma="d" category="NN"
+6	15,20	GATE_Token	string="could" lemma="could" category="MD"
+7	21,23	GATE_Token	string="be" lemma="be" category="VB"
+8	24,33	GATE_Token	string="justified" lemma="justify" category="VBN"
+9	34,38	GATE_Token	string="with" lemma="with" category="IN"
+10	39,43	GATE_Token	string="more" lemma="more" category="JJR"
+11	44,51	GATE_Token	string="awesome" lemma="awesome" category="JJ"
+12	52,57	GATE_Token	string="games" lemma="game" category="NNS"
+13	58,59	GATE_Token	string="." lemma="." category="."

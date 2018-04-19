@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And yet , the one that <MPQAPOL autoclass="neutral">seemed</MPQAPOL> the <MPQAPOL autoclass="neutral">most</MPQAPOL> fun .</MPQASENT>

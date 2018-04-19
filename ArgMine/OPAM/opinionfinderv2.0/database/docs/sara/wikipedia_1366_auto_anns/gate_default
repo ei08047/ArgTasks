@@ -1,0 +1,12 @@
+1	0,45	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,10	GATE_Token	string="just" lemma="just" category="RB"
+5	11,21	GATE_Token	string="disruptive" lemma="disruptive" category="JJ"
+6	22,25	GATE_Token	string="and" lemma="and" category="CC"
+7	26,27	GATE_Token	string="a" lemma="a" category="DT"
+8	28,33	GATE_Token	string="POINT" lemma="point" category="JJ"
+9	34,43	GATE_Token	string="violation" lemma="violation" category="NN"
+10	44,45	GATE_Token	string="." lemma="." category="."
+11	45,47	GATE_Sentence
+12	45,47	GATE_Token	string="--" lemma="--" category=":"

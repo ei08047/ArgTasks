@@ -1,0 +1,12 @@
+1	0,60	GATE_Sentence
+2	0,3	GATE_Token	string="Gap" lemma="gap" category="NN"
+3	4,6	GATE_Token	string="is" lemma="be" category="VBZ"
+4	7,13	GATE_Token	string="indeed" lemma="indeed" category="RB"
+5	14,27	GATE_Token	string="participating" lemma="participate" category="VBG"
+6	28,30	GATE_Token	string="in" lemma="in" category="IN"
+7	31,34	GATE_Token	string="the" lemma="the" category="DT"
+8	35,42	GATE_Token	string="editing" lemma="editing" category="NN"
+9	43,45	GATE_Token	string="of" lemma="of" category="IN"
+10	46,50	GATE_Token	string="this" lemma="this" category="DT"
+11	51,58	GATE_Token	string="article" lemma="article" category="NN"
+12	59,60	GATE_Token	string="." lemma="." category="."

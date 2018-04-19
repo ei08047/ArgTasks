@@ -1,0 +1,13 @@
+1	0,51	GATE_Sentence
+2	0,1	GATE_Token	string=":" lemma=":" category=":"
+3	1,2	GATE_Token	string="D" lemma="d" category="NN"
+4	3,6	GATE_Token	string="IMO" lemma="imo" category="NN"
+5	7,8	GATE_Token	string="," lemma="," category=","
+6	9,12	GATE_Token	string="art" lemma="art" category="NN"
+7	13,20	GATE_Token	string="history" lemma="history" category="NN"
+8	21,22	GATE_Token	string=">" lemma=">" category="-RRB-"
+9	23,29	GATE_Token	string="actual" lemma="actual" category="JJ"
+10	30,37	GATE_Token	string="history" lemma="history" category="NN"
+11	38,39	GATE_Token	string="," lemma="," category=","
+12	40,49	GATE_Token	string="sometimes" lemma="sometimes" category="RB"
+13	50,51	GATE_Token	string="." lemma="." category="."

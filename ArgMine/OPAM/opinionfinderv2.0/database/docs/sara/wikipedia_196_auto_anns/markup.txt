@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">If the book is POV or the writer has only a <MPQAPOL autoclass="neutral">slender</MPQAPOL> grasp of <MPQAPOL autoclass="neutral">relevant</MPQAPOL> issues , material can be <MPQAPOL autoclass="neutral">wrong</MPQAPOL> .</MPQASENT>

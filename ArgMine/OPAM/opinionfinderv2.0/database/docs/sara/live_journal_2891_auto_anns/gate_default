@@ -1,0 +1,10 @@
+1	0,40	GATE_Sentence
+2	0,4	GATE_Token	string="well" lemma="well" category="RB"
+3	5,6	GATE_Token	string="I" lemma="I" category="PRP"
+4	7,12	GATE_Token	string="think" lemma="think" category="VBP"
+5	13,18	GATE_Token	string="there" lemma="there" category="EX"
+6	19,21	GATE_Token	string="is" lemma="be" category="VBZ"
+7	22,23	GATE_Token	string="a" lemma="a" category="DT"
+8	24,33	GATE_Token	string="childrens" lemma="children" category="NNS"
+9	34,38	GATE_Token	string="area" lemma="area" category="NN"
+10	39,40	GATE_Token	string="!" lemma="!" category="."

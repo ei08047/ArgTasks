@@ -1,0 +1,11 @@
+1	0,83	GATE_Sentence
+2	0,5	GATE_Token	string="Could" lemma="could" category="MD"
+3	6,9	GATE_Token	string="you" lemma="you" category="PRP"
+4	10,14	GATE_Token	string="guys" lemma="guy" category="NNS"
+5	15,19	GATE_Token	string="read" lemma="read" category="VB"
+6	20,26	GATE_Token	string="Please" lemma="please" category="UH"
+7	27,31	GATE_Token	string="read" lemma="read" category="VB"
+8	32,67	GATE_Token	string="Citizens_Commission_on_Human_Rights" lemma="citizens_commission_on_human_rights" category="NNS"
+9	68,69	GATE_Token	string="#" lemma="#" category="#"
+10	70,81	GATE_Token	string="Controversy" lemma="Controversy" category="NNP"
+11	82,83	GATE_Token	string="?" lemma="?" category="."

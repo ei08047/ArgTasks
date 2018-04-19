@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If Funk metal <MPQAPOL autoclass="neutral">should</MPQAPOL> not have it is own paragraph at <MPQAPOL autoclass="neutral">least</MPQAPOL> they <MPQAPOL autoclass="positive">deserve</MPQAPOL> to get mentioned .</MPQASENT>

@@ -1,0 +1,11 @@
+1	0,54	GATE_Sentence
+2	0,2	GATE_Token	string="as" lemma="as" category="IN"
+3	3,13	GATE_Token	string="levine2112" lemma="levine2112" category="NN"
+4	14,18	GATE_Token	string="says" lemma="say" category="VBZ"
+5	19,21	GATE_Token	string="we" lemma="we" category="PRP"
+6	22,27	GATE_Token	string="could" lemma="could" category="MD"
+7	28,32	GATE_Token	string="also" lemma="also" category="RB"
+8	33,39	GATE_Token	string="rename" lemma="rename" category="VB"
+9	40,43	GATE_Token	string="the" lemma="the" category="DT"
+10	44,48	GATE_Token	string="list" lemma="list" category="NN"
+11	49,54	GATE_Token	string="again" lemma="again" category="RB"

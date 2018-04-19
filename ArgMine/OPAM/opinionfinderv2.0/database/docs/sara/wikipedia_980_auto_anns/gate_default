@@ -1,0 +1,13 @@
+1	0,57	GATE_Sentence
+2	0,5	GATE_Token	string="There" lemma="there" category="EX"
+3	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+4	9,15	GATE_Token	string="plenty" lemma="plenty" category="NN"
+5	16,18	GATE_Token	string="of" lemma="of" category="IN"
+6	19,26	GATE_Token	string="sources" lemma="source" category="NNS"
+7	27,32	GATE_Token	string="there" lemma="there" category="RB"
+8	33,37	GATE_Token	string="that" lemma="that" category="IN"
+9	38,42	GATE_Token	string="back" lemma="back" category="RB"
+10	43,45	GATE_Token	string="my" lemma="my" category="PRP$"
+11	46,52	GATE_Token	string="thesis" lemma="thesis" category="NN"
+12	53,55	GATE_Token	string="up" lemma="up" category="RP"
+13	56,57	GATE_Token	string="." lemma="." category="."

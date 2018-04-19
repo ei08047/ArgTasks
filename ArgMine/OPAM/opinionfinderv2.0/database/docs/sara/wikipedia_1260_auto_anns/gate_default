@@ -1,0 +1,12 @@
+1	0,56	GATE_Sentence
+2	0,2	GATE_Token	string="We" lemma="we" category="PRP"
+3	3,6	GATE_Token	string="can" lemma="can" category="MD"
+4	7,11	GATE_Token	string="then" lemma="then" category="RB"
+5	12,16	GATE_Token	string="work" lemma="work" category="VB"
+6	17,21	GATE_Token	string="from" lemma="from" category="IN"
+7	22,26	GATE_Token	string="that" lemma="that" category="DT"
+8	27,32	GATE_Token	string="point" lemma="point" category="NN"
+9	33,36	GATE_Token	string="and" lemma="and" category="CC"
+10	37,44	GATE_Token	string="discuss" lemma="discuss" category="VBP"
+11	45,54	GATE_Token	string="specifics" lemma="specifics" category="NNS"
+12	55,56	GATE_Token	string="." lemma="." category="."

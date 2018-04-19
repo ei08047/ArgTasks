@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Tenacious</MPQAPOL> <MPQAPOL autoclass="neutral">misunderstandings</MPQAPOL> are <MPQAPOL autoclass="neutral">quite</MPQAPOL> a bit more of a <MPQAPOL autoclass="negative">problem</MPQAPOL> .</MPQASENT>

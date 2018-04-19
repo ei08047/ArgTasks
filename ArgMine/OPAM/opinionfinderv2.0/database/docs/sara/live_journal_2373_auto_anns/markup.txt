@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I never found mushrooms <MPQAPOL autoclass="neutral">though</MPQAPOL> , which <MPQAPOL autoclass="neutral">would</MPQAPOL> be cool .</MPQASENT>

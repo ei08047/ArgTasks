@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> `` Physical Graffiti '' is <MPQAPOL autoclass="neutral">very</MPQAPOL> heavy in a <MPQAPOL autoclass="neutral">very</MPQAPOL> metal way , and it is one of my <MPQAPOL autoclass="positive">favorite</MPQAPOL> albums .</MPQASENT>

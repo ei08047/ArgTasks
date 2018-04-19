@@ -1,0 +1,8 @@
+1	0,50	GATE_Sentence
+2	0,6	GATE_Token	string="please" lemma="please" category="VB"
+3	7,12	GATE_Token	string="email" lemma="email" category="NN"
+4	13,15	GATE_Token	string="me" lemma="I" category="PRP"
+5	16,22	GATE_Token	string="direct" lemma="direct" category="JJ"
+6	23,25	GATE_Token	string="at" lemma="at" category="IN"
+7	26,48	GATE_Token	string="sextrumental@gmail.com" lemma="sextrumental@gmail.com" category="NNP"
+8	49,50	GATE_Token	string="." lemma="." category="."

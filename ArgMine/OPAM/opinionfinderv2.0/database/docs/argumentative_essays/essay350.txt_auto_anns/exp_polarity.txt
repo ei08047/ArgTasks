@@ -1,0 +1,6 @@
+argumentative_essays_essay350.txt_1913_1917	neutral
+argumentative_essays_essay350.txt_1949_1953	neutral
+argumentative_essays_essay350.txt_2045_2050	neutral
+argumentative_essays_essay350.txt_2051_2058	neutral
+argumentative_essays_essay350.txt_2060_2066	neutral
+argumentative_essays_essay350.txt_2067_2078	neutral

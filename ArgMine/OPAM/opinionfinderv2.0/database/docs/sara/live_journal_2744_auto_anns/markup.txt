@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">my subjective <MPQAPOL autoclass="neutral">feeling</MPQAPOL> is that a republican vote is <MPQAPOL autoclass="negative">harmful</MPQAPOL> to this country .</MPQASENT>

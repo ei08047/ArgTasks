@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Thanks for try to <MPQAPOL autoclass="negative">insult</MPQAPOL> me <MPQAPOL autoclass="neutral">though</MPQAPOL> , I will keep it in mind .</MPQASENT>

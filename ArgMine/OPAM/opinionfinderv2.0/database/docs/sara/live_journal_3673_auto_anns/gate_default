@@ -1,0 +1,9 @@
+1	0,30	GATE_Sentence
+2	0,5	GATE_Token	string="Doors" lemma="door" category="NNS"
+3	6,8	GATE_Token	string="at" lemma="at" category="IN"
+4	9,13	GATE_Token	string="6:00" lemma="6:00" category="CD"
+5	14,15	GATE_Token	string="," lemma="," category=","
+6	16,20	GATE_Token	string="bout" lemma="bout" category="NN"
+7	21,23	GATE_Token	string="at" lemma="at" category="IN"
+8	24,28	GATE_Token	string="7:00" lemma="7:00" category="CD"
+9	29,30	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Characterized = <MPQAPOL autoclass="neutral">point</MPQAPOL> of <MPQAPOL autoclass="neutral">view</MPQAPOL> and hence this article <MPQAPOL autoclass="neutral">should</MPQAPOL> adhere to NPOV by presenting all <MPQAPOL autoclass="neutral">significant</MPQAPOL> POVs .</MPQASENT>

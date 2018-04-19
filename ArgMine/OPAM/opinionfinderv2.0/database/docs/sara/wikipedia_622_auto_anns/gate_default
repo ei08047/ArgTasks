@@ -1,0 +1,15 @@
+1	0,83	GATE_Sentence
+2	0,6	GATE_Token	string="Please" lemma="please" category="VB"
+3	7,14	GATE_Token	string="refrain" lemma="refrain" category="VB"
+4	15,19	GATE_Token	string="from" lemma="from" category="IN"
+5	20,29	GATE_Token	string="inserting" lemma="insert" category="VBG"
+6	30,39	GATE_Token	string="incorrect" lemma="incorrect" category="JJ"
+7	40,43	GATE_Token	string="and" lemma="and" category="CC"
+8	44,55	GATE_Token	string="non-factual" lemma="non-factual" category="JJ"
+9	56,63	GATE_Token	string="changes" lemma="change" category="NNS"
+10	64,68	GATE_Token	string="into" lemma="into" category="IN"
+11	69,73	GATE_Token	string="this" lemma="this" category="DT"
+12	74,81	GATE_Token	string="article" lemma="article" category="NN"
+13	82,83	GATE_Token	string="." lemma="." category="."
+14	83,84	GATE_Sentence
+15	83,84	GATE_Token	string="-" lemma="-" category=":"

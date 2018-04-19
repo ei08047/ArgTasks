@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That is the <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="neutral">reason</MPQAPOL> we understandably <MPQAPOL autoclass="neutral">try</MPQAPOL> to reduce it to a <MPQAPOL autoclass="negative">mere</MPQAPOL> concept .</MPQASENT>

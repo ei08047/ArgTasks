@@ -1,0 +1,13 @@
+1	0,65	GATE_Sentence
+2	0,10	GATE_Token	string="Portraying" lemma="portray" category="VBG"
+3	11,14	GATE_Token	string="him" lemma="he" category="PRP"
+4	15,17	GATE_Token	string="as" lemma="as" category="IN"
+5	18,19	GATE_Token	string="a" lemma="a" category="DT"
+6	20,29	GATE_Token	string="holocaust" lemma="holocaust" category="NN"
+7	30,36	GATE_Token	string="denier" lemma="denier" category="NN"
+8	37,39	GATE_Token	string="is" lemma="be" category="VBZ"
+9	40,41	GATE_Token	string="a" lemma="a" category="DT"
+10	42,52	GATE_Token	string="distortion" lemma="distortion" category="NN"
+11	53,55	GATE_Token	string="of" lemma="of" category="IN"
+12	56,59	GATE_Token	string="the" lemma="the" category="DT"
+13	60,65	GATE_Token	string="truth" lemma="truth" category="NN"

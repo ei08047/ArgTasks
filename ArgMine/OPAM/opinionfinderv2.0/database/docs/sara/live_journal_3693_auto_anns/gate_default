@@ -1,0 +1,11 @@
+1	0,51	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="love" lemma="love" category="VBP"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,18	GATE_Token	string="imagery" lemma="imagery" category="NN"
+6	19,22	GATE_Token	string="and" lemma="and" category="CC"
+7	23,26	GATE_Token	string="the" lemma="the" category="DT"
+8	27,30	GATE_Token	string="use" lemma="use" category="NN"
+9	31,33	GATE_Token	string="of" lemma="of" category="IN"
+10	34,49	GATE_Token	string="personification" lemma="personification" category="NN"
+11	50,51	GATE_Token	string="." lemma="." category="."

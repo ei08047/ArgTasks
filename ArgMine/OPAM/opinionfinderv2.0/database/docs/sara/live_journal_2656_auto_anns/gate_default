@@ -1,0 +1,11 @@
+1	0,41	GATE_Sentence
+2	0,5	GATE_Token	string="Cakes" lemma="Cakes" category="NNP"
+3	6,7	GATE_Token	string="," lemma="," category=","
+4	8,11	GATE_Token	string="why" lemma="why" category="WRB"
+5	12,14	GATE_Token	string="do" lemma="do" category="VBP"
+6	15,19	GATE_Token	string="they" lemma="they" category="PRP"
+7	20,23	GATE_Token	string="all" lemma="all" category="DT"
+8	24,28	GATE_Token	string="look" lemma="look" category="VBP"
+9	29,33	GATE_Token	string="like" lemma="like" category="IN"
+10	34,39	GATE_Token	string="cakes" lemma="cake" category="NNS"
+11	40,41	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,13 @@
+1	0,54	GATE_Sentence
+2	0,3	GATE_Token	string="Too" lemma="too" category="RB"
+3	4,8	GATE_Token	string="late" lemma="late" category="JJ"
+4	9,11	GATE_Token	string="to" lemma="to" category="TO"
+5	12,16	GATE_Token	string="list" lemma="list" category="NN"
+6	17,22	GATE_Token	string="coats" lemma="coat" category="NNS"
+7	23,26	GATE_Token	string="and" lemma="and" category="CC"
+8	27,30	GATE_Token	string="too" lemma="too" category="RB"
+9	31,36	GATE_Token	string="early" lemma="early" category="JJ"
+10	37,39	GATE_Token	string="to" lemma="to" category="TO"
+11	40,44	GATE_Token	string="list" lemma="list" category="NN"
+12	45,52	GATE_Token	string="dresses" lemma="dress" category="NNS"
+13	53,54	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The person who replied to this before <MPQAPOL autoclass="neutral">basically</MPQAPOL> <MPQAPOL autoclass="positive">just</MPQAPOL> confirmed it , <MPQAPOL autoclass="neutral">so</MPQAPOL> I <MPQAPOL autoclass="neutral">decided</MPQAPOL> to consolidate .</MPQASENT>

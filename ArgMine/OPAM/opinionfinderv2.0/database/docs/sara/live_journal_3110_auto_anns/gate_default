@@ -1,0 +1,12 @@
+1	0,55	GATE_Sentence
+2	0,6	GATE_Token	string="Expect" lemma="expect" category="VB"
+3	7,9	GATE_Token	string="it" lemma="it" category="PRP"
+4	10,18	GATE_Token	string="sometime" lemma="sometime" category="RB"
+5	19,23	GATE_Token	string="when" lemma="when" category="WRB"
+6	24,25	GATE_Token	string="I" lemma="I" category="PRP"
+7	26,28	GATE_Token	string="am" lemma="be" category="VBP"
+8	29,33	GATE_Token	string="less" lemma="less" category="RBR"
+9	34,43	GATE_Token	string="exhausted" lemma="exhaust" category="VBN"
+10	44,47	GATE_Token	string="and" lemma="and" category="CC"
+11	48,53	GATE_Token	string="tipsy" lemma="tipsy" category="JJ"
+12	54,55	GATE_Token	string="." lemma="." category="."

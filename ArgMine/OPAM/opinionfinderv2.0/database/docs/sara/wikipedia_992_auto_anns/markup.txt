@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">What is more , I contacted one of my more studied <MPQAPOL autoclass="neutral">friends</MPQAPOL> , and they <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="negative">much</MPQAPOL> <MPQAPOL autoclass="positive">agreed</MPQAPOL> with my <MPQAPOL autoclass="positive">sentiment</MPQAPOL> .</MPQASENT>

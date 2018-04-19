@@ -1,0 +1,4 @@
+sara_wikipedia_927_2_6	neutral
+sara_wikipedia_927_7_13	neutral
+sara_wikipedia_927_31_39	neutral
+sara_wikipedia_927_66_75	neutral

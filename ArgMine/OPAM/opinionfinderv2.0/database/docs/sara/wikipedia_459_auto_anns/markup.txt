@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am <MPQAPOL autoclass="neutral">rather</MPQAPOL> <MPQAPOL autoclass="negative">upset</MPQAPOL> with the current image Image : Civil War graves .</MPQASENT>

@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,5	GATE_Token	string="Whats" lemma="Whats" category="NNP"
+3	6,11	GATE_Token	string="wrong" lemma="wrong" category="RB"
+4	12,15	GATE_Token	string="now" lemma="now" category="RB"
+5	16,20	GATE_Token	string="with" lemma="with" category="IN"
+6	21,24	GATE_Token	string="the" lemma="the" category="DT"
+7	25,33	GATE_Token	string="national" lemma="national" category="JJ"
+8	34,38	GATE_Token	string="flag" lemma="flag" category="NN"
+9	39,40	GATE_Token	string="?" lemma="?" category="."

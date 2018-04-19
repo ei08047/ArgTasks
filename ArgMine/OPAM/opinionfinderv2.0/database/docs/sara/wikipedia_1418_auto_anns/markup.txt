@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I am <MPQAPOL autoclass="positive">reasonably</MPQAPOL> OK with this <MPQAPOL autoclass="neutral">position</MPQAPOL> <MPQAPOL autoclass="neutral">too</MPQAPOL> , if it turns out to be the <MPQAPOL autoclass="neutral">consensus</MPQAPOL> <MPQAPOL autoclass="neutral">position</MPQAPOL> on the scope of the list .</MPQASENT>

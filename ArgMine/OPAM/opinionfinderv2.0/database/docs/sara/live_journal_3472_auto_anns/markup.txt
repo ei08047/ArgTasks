@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Why <MPQAPOL autoclass="neutral">should</MPQAPOL> one religion have more legislative <MPQAPOL autoclass="neutral">influence</MPQAPOL> than any other ?</MPQASENT>

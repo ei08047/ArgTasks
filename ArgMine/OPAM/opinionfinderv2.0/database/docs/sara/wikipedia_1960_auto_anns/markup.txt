@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I did not <MPQAPOL autoclass="neutral">know</MPQAPOL> that RSA was not the same as ZAR , it makes <MPQAPOL autoclass="neutral">sense</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,12 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,6	GATE_Token	string="UN" lemma="UN" category="NNP"
+4	7,13	GATE_Token	string="report" lemma="report" category="NN"
+5	14,16	GATE_Token	string="is" lemma="be" category="VBZ"
+6	17,18	GATE_Token	string="a" lemma="a" category="DT"
+7	19,23	GATE_Token	string="joke" lemma="joke" category="NN"
+8	24,25	GATE_Token	string="," lemma="," category=","
+9	26,31	GATE_Token	string="sorry" lemma="sorry" category="JJ"
+10	32,34	GATE_Token	string="to" lemma="to" category="TO"
+11	35,38	GATE_Token	string="say" lemma="say" category="VB"
+12	39,40	GATE_Token	string="." lemma="." category="."

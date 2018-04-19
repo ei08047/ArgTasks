@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">know</MPQAPOL> you do not like the title of <MPQAPOL autoclass="positive">best</MPQAPOL> <MPQAPOL autoclass="positive">friend</MPQAPOL> , but normally that is the person you can be <MPQAPOL autoclass="neutral">most</MPQAPOL> <MPQAPOL autoclass="positive">honest</MPQAPOL> with .</MPQASENT>

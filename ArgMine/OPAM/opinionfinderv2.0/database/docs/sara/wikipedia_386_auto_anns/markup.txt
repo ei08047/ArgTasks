@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">There are also <MPQAPOL autoclass="negative">little</MPQAPOL> wording issues like The <MPQAPOL autoclass="negative">hostile</MPQAPOL> <MPQAPOL autoclass="negative">criticisms</MPQAPOL> of the Reformation which insert a <MPQAPOL autoclass="neutral">subtle</MPQAPOL> POV .</MPQASENT>

@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="Have" lemma="have" category="VBP"
+3	5,8	GATE_Token	string="you" lemma="you" category="PRP"
+4	9,13	GATE_Token	string="gone" lemma="go" category="VBN"
+5	14,17	GATE_Token	string="mad" lemma="mad" category="JJ"
+6	18,20	GATE_Token	string="at" lemma="at" category="IN"
+7	21,25	GATE_Token	string="this" lemma="this" category="DT"
+8	26,34	GATE_Token	string="talkpage" lemma="talkpage" category="NN"
+9	35,36	GATE_Token	string="?" lemma="?" category="."

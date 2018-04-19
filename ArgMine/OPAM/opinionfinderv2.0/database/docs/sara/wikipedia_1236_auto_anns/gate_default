@@ -1,0 +1,9 @@
+1	0,32	GATE_Sentence
+2	0,4	GATE_Token	string="Some" lemma="some" category="DT"
+3	5,11	GATE_Token	string="points" lemma="point" category="NNS"
+4	12,13	GATE_Token	string="I" lemma="I" category="PRP"
+5	14,17	GATE_Token	string="had" lemma="have" category="VBD"
+6	18,22	GATE_Token	string="like" lemma="like" category="IN"
+7	23,25	GATE_Token	string="to" lemma="to" category="TO"
+8	26,30	GATE_Token	string="make" lemma="make" category="VB"
+9	31,32	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,4 @@
+sara_live_journal_2554_14_19	negative
+sara_live_journal_2554_30_35	neutral
+sara_live_journal_2554_40_44	negative
+sara_live_journal_2554_58_63	neutral

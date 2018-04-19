@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">That sounds like an <MPQAPOL autoclass="neutral">intriguingly</MPQAPOL> <MPQAPOL autoclass="positive">nice</MPQAPOL> way to <MPQAPOL autoclass="neutral">simplify</MPQAPOL> the levels we are using .</MPQASENT>

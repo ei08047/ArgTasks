@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">If the answer to both questions is `` <MPQAPOL autoclass="neutral">yes</MPQAPOL> , '' then I <MPQAPOL autoclass="neutral">think</MPQAPOL> we shoulod keep in the <MPQAPOL autoclass="neutral">misconception</MPQAPOL> , and explain it .</MPQASENT>

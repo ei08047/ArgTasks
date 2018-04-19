@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,2	GATE_Token	string="Do" lemma="do" category="VBP"
+3	3,6	GATE_Token	string="the" lemma="the" category="DT"
+4	7,13	GATE_Token	string="French" lemma="french" category="JJ"
+5	14,17	GATE_Token	string="not" lemma="not" category="RB"
+6	18,25	GATE_Token	string="believe" lemma="believe" category="VB"
+7	26,28	GATE_Token	string="in" lemma="in" category="IN"
+8	29,35	GATE_Token	string="clocks" lemma="clock" category="NNS"
+9	36,38	GATE_Token	string="?!" lemma="?!" category="IN"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Yes</MPQAPOL> , we <MPQAPOL autoclass="neutral">should</MPQAPOL> not base our information on sources that are <MPQAPOL autoclass="negative">biased</MPQAPOL> in the other direction .</MPQASENT>

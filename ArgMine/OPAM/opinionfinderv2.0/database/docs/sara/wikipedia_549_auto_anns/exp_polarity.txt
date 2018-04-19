@@ -1,0 +1,5 @@
+sara_wikipedia_549_3_9	neutral
+sara_wikipedia_549_18_22	neutral
+sara_wikipedia_549_23_29	positive
+sara_wikipedia_549_30_32	neutral
+sara_wikipedia_549_53_63	neutral

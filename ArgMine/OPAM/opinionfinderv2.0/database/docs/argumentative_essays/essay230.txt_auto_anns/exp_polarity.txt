@@ -1,0 +1,7 @@
+argumentative_essays_essay230.txt_1601_1605	neutral
+argumentative_essays_essay230.txt_1650_1656	neutral
+argumentative_essays_essay230.txt_1683_1687	neutral
+argumentative_essays_essay230.txt_1712_1719	neutral
+argumentative_essays_essay230.txt_1726_1731	neutral
+argumentative_essays_essay230.txt_1736_1745	positive
+argumentative_essays_essay230.txt_1783_1787	neutral

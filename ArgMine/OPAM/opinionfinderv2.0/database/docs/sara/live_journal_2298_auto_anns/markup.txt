@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">b ) You make me <MPQAPOL autoclass="positive">want</MPQAPOL> mexican food , <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">bad</MPQAPOL> .</MPQASENT>

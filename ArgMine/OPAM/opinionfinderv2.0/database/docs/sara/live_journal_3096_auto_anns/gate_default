@@ -1,0 +1,9 @@
+1	0,45	GATE_Sentence
+2	0,4	GATE_Token	string="that" lemma="that" category="IN"
+3	5,14	GATE_Token	string="sometimes" lemma="sometimes" category="RB"
+4	15,20	GATE_Token	string="helps" lemma="help" category="VBZ"
+5	21,24	GATE_Token	string="..." lemma="..." category=":"
+6	25,34	GATE_Token	string="sometimes" lemma="sometimes" category="RB"
+7	35,39	GATE_Token	string="does" lemma="do" category="VBZ"
+8	40,43	GATE_Token	string="not" lemma="not" category="RB"
+9	44,45	GATE_Token	string="." lemma="." category="."

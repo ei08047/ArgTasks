@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Getting rid of manga is a <MPQAPOL autoclass="neutral">tricky</MPQAPOL> business , because nowhere around here that I <MPQAPOL autoclass="neutral">know</MPQAPOL> of buys books .</MPQASENT>

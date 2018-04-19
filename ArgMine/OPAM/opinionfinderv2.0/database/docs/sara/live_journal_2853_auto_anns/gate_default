@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,6	GATE_Token	string="Loosen" lemma="loosen" category="VB"
+3	7,9	GATE_Token	string="up" lemma="up" category="RP"
+4	10,14	GATE_Token	string="Matt" lemma="Matt" category="NNP"
+5	15,16	GATE_Token	string="I" lemma="I" category="PRP"
+6	17,21	GATE_Token	string="have" lemma="have" category="VBP"
+7	22,27	GATE_Token	string="faith" lemma="faith" category="NN"
+8	28,30	GATE_Token	string="in" lemma="in" category="IN"
+9	31,34	GATE_Token	string="you" lemma="you" category="PRP"
+10	35,36	GATE_Token	string="!" lemma="!" category="."

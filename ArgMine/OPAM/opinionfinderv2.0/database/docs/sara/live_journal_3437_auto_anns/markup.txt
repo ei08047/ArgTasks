@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">... as if their <MPQAPOL autoclass="neutral">happiness</MPQAPOL> is <MPQAPOL autoclass="negative">harmful</MPQAPOL> .</MPQASENT>

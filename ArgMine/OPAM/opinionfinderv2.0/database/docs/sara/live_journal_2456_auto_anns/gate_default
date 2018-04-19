@@ -1,0 +1,8 @@
+1	0,35	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,6	GATE_Token	string="have" lemma="have" category="VBP"
+4	7,15	GATE_Token	string="absolute" lemma="absolute" category="JJ"
+5	16,26	GATE_Token	string="confidence" lemma="confidence" category="NN"
+6	27,29	GATE_Token	string="in" lemma="in" category="IN"
+7	30,33	GATE_Token	string="her" lemma="she" category="PRP"
+8	34,35	GATE_Token	string="." lemma="." category="."

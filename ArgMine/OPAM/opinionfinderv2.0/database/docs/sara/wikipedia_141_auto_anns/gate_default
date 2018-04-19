@@ -1,0 +1,13 @@
+1	0,66	GATE_Sentence
+2	0,5	GATE_Token	string="Their" lemma="they" category="PRP$"
+3	6,15	GATE_Token	string="long-term" lemma="long-term" category="JJ"
+4	16,24	GATE_Token	string="presence" lemma="presence" category="NN"
+5	25,27	GATE_Token	string="is" lemma="be" category="VBZ"
+6	28,32	GATE_Token	string="also" lemma="also" category="RB"
+7	33,39	GATE_Token	string="backed" lemma="back" category="VBN"
+8	40,42	GATE_Token	string="up" lemma="up" category="RP"
+9	43,45	GATE_Token	string="by" lemma="by" category="IN"
+10	46,49	GATE_Token	string="the" lemma="the" category="DT"
+11	50,57	GATE_Token	string="genetic" lemma="genetic" category="JJ"
+12	58,64	GATE_Token	string="record" lemma="record" category="NN"
+13	65,66	GATE_Token	string="." lemma="." category="."

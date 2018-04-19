@@ -1,0 +1,10 @@
+1	0,45	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,9	GATE_Token	string="where" lemma="where" category="WRB"
+4	10,13	GATE_Token	string="the" lemma="the" category="DT"
+5	14,22	GATE_Token	string="American" lemma="American" category="NNP"
+6	23,28	GATE_Token	string="Union" lemma="Union" category="NNP"
+7	29,33	GATE_Token	string="will" lemma="will" category="MD"
+8	34,38	GATE_Token	string="come" lemma="come" category="VB"
+9	39,43	GATE_Token	string="from" lemma="from" category="IN"
+10	44,45	GATE_Token	string="." lemma="." category="."

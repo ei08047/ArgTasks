@@ -1,0 +1,13 @@
+1	0,63	GATE_Sentence
+2	0,3	GATE_Token	string="How" lemma="how" category="WRB"
+3	4,8	GATE_Token	string="many" lemma="many" category="JJ"
+4	9,16	GATE_Token	string="sources" lemma="source" category="NNS"
+5	17,19	GATE_Token	string="do" lemma="do" category="VBP"
+6	20,23	GATE_Token	string="you" lemma="you" category="PRP"
+7	24,28	GATE_Token	string="have" lemma="have" category="VB"
+8	29,35	GATE_Token	string="saying" lemma="say" category="VBG"
+9	36,39	GATE_Token	string="the" lemma="the" category="DT"
+10	40,45	GATE_Token	string="terms" lemma="term" category="NNS"
+11	46,50	GATE_Token	string="were" lemma="be" category="VBD"
+12	51,61	GATE_Token	string="synonymous" lemma="synonymous" category="JJ"
+13	62,63	GATE_Token	string="?" lemma="?" category="."

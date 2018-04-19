@@ -1,0 +1,10 @@
+1	0,60	GATE_Sentence
+2	0,7	GATE_Token	string="Iranian" lemma="iranian" category="JJ"
+3	8,20	GATE_Token	string="state-funded" lemma="state-funded" category="JJ"
+4	21,25	GATE_Token	string="news" lemma="news" category="NN"
+5	26,32	GATE_Token	string="organs" lemma="organ" category="NNS"
+6	33,36	GATE_Token	string="are" lemma="be" category="VBP"
+7	37,40	GATE_Token	string="not" lemma="not" category="RB"
+8	41,47	GATE_Token	string="solely" lemma="solely" category="RB"
+9	48,58	GATE_Token	string="acceptable" lemma="acceptable" category="JJ"
+10	59,60	GATE_Token	string="." lemma="." category="."

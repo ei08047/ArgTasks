@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj"><MPQAPOL autoclass="neutral">Very</MPQAPOL> <MPQAPOL autoclass="negative">little</MPQAPOL> is said about Henry 's <MPQAPOL autoclass="neutral">persecutions</MPQAPOL> - or what happened in Ireland Vague <MPQAPOL autoclass="negative">criticism</MPQAPOL> .</MPQASENT>

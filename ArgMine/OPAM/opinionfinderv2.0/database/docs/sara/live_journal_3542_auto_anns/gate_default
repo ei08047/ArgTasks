@@ -1,0 +1,8 @@
+1	0,35	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,11	GATE_Token	string="condoms" lemma="condom" category="NNS"
+4	12,20	GATE_Token	string="floating" lemma="float" category="VBG"
+5	21,23	GATE_Token	string="in" lemma="in" category="IN"
+6	24,27	GATE_Token	string="the" lemma="the" category="DT"
+7	28,33	GATE_Token	string="water" lemma="water" category="NN"
+8	34,35	GATE_Token	string="." lemma="." category="."

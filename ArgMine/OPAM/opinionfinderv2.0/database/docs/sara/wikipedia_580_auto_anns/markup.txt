@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The theory of evolution goes beyond <MPQAPOL autoclass="neutral">natural</MPQAPOL> selection .</MPQASENT>

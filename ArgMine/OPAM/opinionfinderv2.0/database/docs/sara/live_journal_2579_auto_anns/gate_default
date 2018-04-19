@@ -1,0 +1,12 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,5	GATE_Token	string="had" lemma="have" category="VBD"
+4	6,10	GATE_Token	string="like" lemma="like" category="IN"
+5	11,13	GATE_Token	string="to" lemma="to" category="TO"
+6	14,16	GATE_Token	string="go" lemma="go" category="VB"
+7	17,19	GATE_Token	string="to" lemma="to" category="TO"
+8	20,23	GATE_Token	string="the" lemma="the" category="DT"
+9	24,28	GATE_Token	string="next" lemma="next" category="JJ"
+10	29,32	GATE_Token	string="one" lemma="one" category="CD"
+11	33,39	GATE_Token	string="though" lemma="though" category="IN"
+12	40,41	GATE_Token	string="!" lemma="!" category="."

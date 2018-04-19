@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">There is <MPQAPOL autoclass="neutral">certainly</MPQAPOL> no academic <MPQAPOL autoclass="positive">merit</MPQAPOL> in your <MPQAPOL autoclass="positive">desire</MPQAPOL> to push one <MPQAPOL autoclass="neutral">point</MPQAPOL> of <MPQAPOL autoclass="neutral">view</MPQAPOL> .</MPQASENT>

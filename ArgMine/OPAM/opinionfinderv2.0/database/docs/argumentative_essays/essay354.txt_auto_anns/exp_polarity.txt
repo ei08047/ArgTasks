@@ -1,0 +1,7 @@
+argumentative_essays_essay354.txt_1330_1337	neutral
+argumentative_essays_essay354.txt_1358_1367	negative
+argumentative_essays_essay354.txt_1387_1395	neutral
+argumentative_essays_essay354.txt_1396_1400	neutral
+argumentative_essays_essay354.txt_1530_1538	neutral
+argumentative_essays_essay354.txt_1539_1548	negative
+argumentative_essays_essay354.txt_1571_1578	neutral

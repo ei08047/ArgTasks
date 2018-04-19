@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">In <MPQAPOL autoclass="neutral">fact</MPQAPOL> , we are <MPQAPOL autoclass="neutral">obliged</MPQAPOL> to do that by WP : BLP .</MPQASENT>

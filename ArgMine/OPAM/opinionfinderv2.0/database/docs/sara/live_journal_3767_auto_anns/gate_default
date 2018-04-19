@@ -1,0 +1,8 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,8	GATE_Token	string="will" lemma="will" category="MD"
+4	9,15	GATE_Token	string="always" lemma="always" category="RB"
+5	16,21	GATE_Token	string="share" lemma="share" category="VB"
+6	22,27	GATE_Token	string="those" lemma="those" category="DT"
+7	28,36	GATE_Token	string="memories" lemma="memory" category="NNS"
+8	37,38	GATE_Token	string="." lemma="." category="."

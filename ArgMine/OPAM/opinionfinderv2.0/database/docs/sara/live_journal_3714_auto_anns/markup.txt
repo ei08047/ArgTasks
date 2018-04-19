@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This has none of those <MPQAPOL autoclass="neutral">detractions</MPQAPOL> .</MPQASENT>

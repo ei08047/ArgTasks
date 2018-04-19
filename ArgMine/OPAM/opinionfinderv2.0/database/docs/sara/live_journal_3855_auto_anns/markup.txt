@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">( Hey , <MPQAPOL autoclass="neutral">maybe</MPQAPOL> the milk will rinse out the <MPQAPOL autoclass="neutral">stain</MPQAPOL> from where I spilled coffee . )</MPQASENT>

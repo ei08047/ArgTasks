@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">we have <MPQAPOL autoclass="positive">better</MPQAPOL> santas and mince pies than anywhere <MPQAPOL autoclass="neutral">else</MPQAPOL> ... except <MPQAPOL autoclass="neutral">perhaps</MPQAPOL> germany , norway and the rest of europe .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> it <MPQAPOL autoclass="neutral">looks</MPQAPOL> a lot <MPQAPOL autoclass="positive">better</MPQAPOL> , but we 'll see once I have stepped away from it long <MPQAPOL autoclass="neutral">enough</MPQAPOL> to get a new <MPQAPOL autoclass="neutral">perspective</MPQAPOL> .</MPQASENT>

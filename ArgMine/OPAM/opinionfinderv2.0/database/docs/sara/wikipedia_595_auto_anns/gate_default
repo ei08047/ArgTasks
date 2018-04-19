@@ -1,0 +1,11 @@
+1	0,51	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,8	GATE_Token	string="lets" lemma="let" category="VBZ"
+4	9,11	GATE_Token	string="go" lemma="go" category="VB"
+5	12,19	GATE_Token	string="through" lemma="through" category="IN"
+6	20,24	GATE_Token	string="your" lemma="you" category="PRP$"
+7	25,34	GATE_Token	string="arguments" lemma="argument" category="NNS"
+8	35,40	GATE_Token	string="point" lemma="point" category="NN"
+9	41,43	GATE_Token	string="by" lemma="by" category="IN"
+10	44,49	GATE_Token	string="point" lemma="point" category="NN"
+11	50,51	GATE_Token	string="." lemma="." category="."

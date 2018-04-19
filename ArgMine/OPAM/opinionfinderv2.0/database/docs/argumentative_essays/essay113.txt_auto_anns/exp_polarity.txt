@@ -1,0 +1,4 @@
+argumentative_essays_essay113.txt_1930_1936	neutral
+argumentative_essays_essay113.txt_1947_1961	positive
+argumentative_essays_essay113.txt_1966_1973	neutral
+argumentative_essays_essay113.txt_2071_2077	positive

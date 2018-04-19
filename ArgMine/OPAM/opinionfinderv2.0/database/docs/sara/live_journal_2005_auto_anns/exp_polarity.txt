@@ -1,0 +1,4 @@
+sara_live_journal_2005_5_11	negative
+sara_live_journal_2005_15_20	neutral
+sara_live_journal_2005_63_71	negative
+sara_live_journal_2005_72_81	negative

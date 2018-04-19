@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I never <MPQAPOL autoclass="negative">rejected</MPQAPOL> your proposed wording , I said unambiguously that I was in <MPQAPOL autoclass="neutral">favor</MPQAPOL> of it .</MPQASENT>

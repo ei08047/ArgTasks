@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">It veered dangerously <MPQAPOL autoclass="neutral">close</MPQAPOL> to being a <MPQAPOL autoclass="negative">protest</MPQAPOL> !</MPQASENT>

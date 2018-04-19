@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">We can pick him up , <MPQAPOL autoclass="neutral">even</MPQAPOL> while he was <MPQAPOL autoclass="neutral">battling</MPQAPOL> , and he does not <MPQAPOL autoclass="neutral">touch</MPQAPOL> us .</MPQASENT>

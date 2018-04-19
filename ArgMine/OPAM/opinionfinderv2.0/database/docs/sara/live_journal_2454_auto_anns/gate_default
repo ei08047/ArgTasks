@@ -1,0 +1,13 @@
+1	0,65	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,7	GATE_Token	string="could" lemma="could" category="MD"
+4	8,12	GATE_Token	string="have" lemma="have" category="VB"
+5	13,17	GATE_Token	string="told" lemma="tell" category="VBN"
+6	18,19	GATE_Token	string="u" lemma="u" category="NN"
+7	20,24	GATE_Token	string="that" lemma="that" category="IN"
+8	25,26	GATE_Token	string="a" lemma="a" category="DT"
+9	27,47	GATE_Token	string="looooooonnnngggggggg" lemma="looooooonnnngggggggg" category="NN"
+10	48,52	GATE_Token	string="time" lemma="time" category="NN"
+11	53,56	GATE_Token	string="ago" lemma="ago" category="IN"
+12	57,63	GATE_Token	string="darlin" lemma="darlin" category="NN"
+13	64,65	GATE_Token	string="!" lemma="!" category="."

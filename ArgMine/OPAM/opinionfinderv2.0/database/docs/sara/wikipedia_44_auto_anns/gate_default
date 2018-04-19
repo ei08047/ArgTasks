@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,10	GATE_Token	string="sooner" lemma="sooner" category="RBR"
+4	11,15	GATE_Token	string="this" lemma="this" category="DT"
+5	16,18	GATE_Token	string="is" lemma="be" category="VBZ"
+6	19,28	GATE_Token	string="rectified" lemma="rectify" category="VBN"
+7	29,32	GATE_Token	string="the" lemma="the" category="DT"
+8	33,39	GATE_Token	string="better" lemma="better" category="JJR"
+9	40,41	GATE_Token	string="." lemma="." category="."

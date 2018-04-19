@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">-LRB- 177 -RRB- I find a lot of this information <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="negative">dubious</MPQAPOL> .</MPQASENT>

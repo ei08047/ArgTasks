@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Nightcrawling in cities is a <MPQAPOL autoclass="positive">wonderful</MPQAPOL> thing if it can be done with relative safety .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">LLLINKKK There was a beach , and it was <MPQAPOL autoclass="neutral">rocky</MPQAPOL> , and I <MPQAPOL autoclass="neutral">stood</MPQAPOL> on it .</MPQASENT>

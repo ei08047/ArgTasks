@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have <MPQAPOL autoclass="neutral">admitted</MPQAPOL> to myself that I am getting this system almost <MPQAPOL autoclass="neutral">entirely</MPQAPOL> for Kingdom Hearts .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Non-IE langs <MPQAPOL autoclass="neutral">such</MPQAPOL> as Maltese are no <MPQAPOL autoclass="neutral">big</MPQAPOL> <MPQAPOL autoclass="neutral">deal</MPQAPOL> , since they are recent introductions .</MPQASENT>

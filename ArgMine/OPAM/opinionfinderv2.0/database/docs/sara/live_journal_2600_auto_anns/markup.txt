@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It <MPQAPOL autoclass="neutral">could</MPQAPOL> be almost <MPQAPOL autoclass="neutral">close</MPQAPOL> to <MPQAPOL autoclass="neutral">black</MPQAPOL> .</MPQASENT>

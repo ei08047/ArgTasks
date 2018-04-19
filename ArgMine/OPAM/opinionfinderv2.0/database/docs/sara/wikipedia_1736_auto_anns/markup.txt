@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">So</MPQAPOL> I <MPQAPOL autoclass="neutral">should</MPQAPOL> play <MPQAPOL autoclass="neutral">nice</MPQAPOL> and <MPQAPOL autoclass="neutral">simply</MPQAPOL> bow down to your <MPQAPOL autoclass="neutral">consensus</MPQAPOL> ?</MPQASENT>

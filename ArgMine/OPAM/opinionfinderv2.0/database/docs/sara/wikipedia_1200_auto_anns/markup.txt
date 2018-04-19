@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That has been <MPQAPOL autoclass="negative">rejected</MPQAPOL> by both sides , with <MPQAPOL autoclass="neutral">demands</MPQAPOL> for references for the use of the adjective `` technically '' .</MPQASENT>

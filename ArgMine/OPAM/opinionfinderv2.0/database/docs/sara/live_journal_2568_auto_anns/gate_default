@@ -1,0 +1,7 @@
+1	0,34	GATE_Sentence
+2	0,10	GATE_Token	string="Graduation" lemma="graduation" category="NN"
+3	11,13	GATE_Token	string="is" lemma="be" category="VBZ"
+4	14,22	GATE_Token	string="tomorrow" lemma="tomorrow" category="NN"
+5	23,24	GATE_Token	string="," lemma="," category=","
+6	25,32	GATE_Token	string="finally" lemma="finally" category="RB"
+7	33,34	GATE_Token	string="." lemma="." category="."

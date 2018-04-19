@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,3	GATE_Token	string="Can" lemma="can" category="MD"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,16	GATE_Token	string="nominate" lemma="nominate" category="VB"
+5	17,18	GATE_Token	string="a" lemma="a" category="DT"
+6	19,30	GATE_Token	string="replacement" lemma="replacement" category="NN"
+7	31,36	GATE_Token	string="image" lemma="image" category="NN"
+8	37,41	GATE_Token	string="then" lemma="then" category="RB"
+9	42,43	GATE_Token	string="?" lemma="?" category="."

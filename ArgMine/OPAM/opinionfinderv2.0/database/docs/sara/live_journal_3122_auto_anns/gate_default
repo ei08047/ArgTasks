@@ -1,0 +1,8 @@
+1	0,44	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,9	GATE_Token	string="sounds" lemma="sound" category="VBZ"
+4	10,20	GATE_Token	string="incredibly" lemma="incredibly" category="RB"
+5	21,32	GATE_Token	string="complicated" lemma="complicate" category="VBN"
+6	33,36	GATE_Token	string="and" lemma="and" category="CC"
+7	37,42	GATE_Token	string="scary" lemma="scary" category="JJ"
+8	43,44	GATE_Token	string="." lemma="." category="."

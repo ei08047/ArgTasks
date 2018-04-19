@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Ghosties and <MPQAPOL autoclass="neutral">dead</MPQAPOL> people give me the willies , <MPQAPOL autoclass="neutral">so</MPQAPOL> cemetaries drive me <MPQAPOL autoclass="neutral">mad</MPQAPOL> .</MPQASENT>

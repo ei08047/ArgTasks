@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Together they do <MPQAPOL autoclass="positive">support</MPQAPOL> the <MPQAPOL autoclass="neutral">idea</MPQAPOL> that Smith did <MPQAPOL autoclass="neutral">claim</MPQAPOL> to have a vision <MPQAPOL autoclass="neutral">much</MPQAPOL> earlier than I have read some <MPQAPOL autoclass="neutral">believe</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">When he asked for the pamphlets back to pass around to the next class , I <MPQAPOL autoclass="neutral">stood</MPQAPOL> up and tore my copy up in front of him .</MPQASENT>

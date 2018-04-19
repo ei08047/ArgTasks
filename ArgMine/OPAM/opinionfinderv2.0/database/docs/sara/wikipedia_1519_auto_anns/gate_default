@@ -1,0 +1,8 @@
+1	0,42	GATE_Sentence
+2	0,4	GATE_Token	string="More" lemma="more" category="RBR"
+3	5,13	GATE_Token	string="reliable" lemma="reliable" category="JJ"
+4	14,21	GATE_Token	string="scholar" lemma="scholar" category="NN"
+5	22,29	GATE_Token	string="sources" lemma="source" category="NNS"
+6	30,35	GATE_Token	string="prove" lemma="prove" category="VBP"
+7	36,40	GATE_Token	string="that" lemma="that" category="IN"
+8	41,42	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,8	GATE_Token	string="insist" lemma="insist" category="VBP"
+4	9,12	GATE_Token	string="you" lemma="you" category="PRP"
+5	13,19	GATE_Token	string="submit" lemma="submit" category="VB"
+6	20,22	GATE_Token	string="it" lemma="it" category="PRP"
+7	23,26	GATE_Token	string="for" lemma="for" category="IN"
+8	27,38	GATE_Token	string="publication" lemma="publication" category="NN"
+9	39,40	GATE_Token	string="." lemma="." category="."

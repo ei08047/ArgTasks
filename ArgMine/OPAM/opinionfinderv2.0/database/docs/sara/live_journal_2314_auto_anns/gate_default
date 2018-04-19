@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,1	GATE_Token	string="e" lemma="e" category="LS"
+3	2,3	GATE_Token	string=")" lemma=")" category="-RRB-"
+4	4,8	GATE_Token	string="What" lemma="what" category="WP"
+5	9,11	GATE_Token	string="is" lemma="be" category="VBZ"
+6	12,16	GATE_Token	string="your" lemma="you" category="PRP$"
+7	17,24	GATE_Token	string="biggest" lemma="biggest" category="JJS"
+8	25,31	GATE_Token	string="regret" lemma="regret" category="NN"
+9	32,33	GATE_Token	string="?" lemma="?" category="."

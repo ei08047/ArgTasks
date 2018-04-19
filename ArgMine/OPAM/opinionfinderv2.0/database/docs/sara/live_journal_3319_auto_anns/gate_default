@@ -1,0 +1,8 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="Any" lemma="any" category="DT"
+3	4,8	GATE_Token	string="time" lemma="time" category="NN"
+4	9,10	GATE_Token	string="a" lemma="a" category="DT"
+5	11,21	GATE_Token	string="Republican" lemma="Republican" category="NNP"
+6	22,26	GATE_Token	string="says" lemma="say" category="VBZ"
+7	27,36	GATE_Token	string="something" lemma="something" category="NN"
+8	37,38	GATE_Token	string="?" lemma="?" category="."

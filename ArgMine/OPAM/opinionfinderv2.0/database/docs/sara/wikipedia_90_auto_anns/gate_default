@@ -1,0 +1,10 @@
+1	0,63	GATE_Sentence
+2	0,2	GATE_Token	string="--" lemma="--" category=":"
+3	3,12	GATE_Token	string="Preceding" lemma="precede" category="VBG"
+4	13,21	GATE_Token	string="unsigned" lemma="unsigned" category="JJ"
+5	22,29	GATE_Token	string="comment" lemma="comment" category="NN"
+6	30,35	GATE_Token	string="added" lemma="add" category="VBN"
+7	36,38	GATE_Token	string="by" lemma="by" category="IN"
+8	39,52	GATE_Token	string="24.196.105.69" lemma="24.196.105.69" category="CD"
+9	53,58	GATE_Token	string="-LRB-" lemma="-lrb-" category="-LRB-"
+10	59,63	GATE_Token	string="talk" lemma="talk" category="NN"

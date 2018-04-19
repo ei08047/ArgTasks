@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I work in a <MPQAPOL autoclass="neutral">very</MPQAPOL> conservative office , and I was humming that today .</MPQASENT>

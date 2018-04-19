@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Glad</MPQAPOL> you <MPQAPOL autoclass="neutral">thought</MPQAPOL> it was as <MPQAPOL autoclass="neutral">funny</MPQAPOL> as I did .</MPQASENT>

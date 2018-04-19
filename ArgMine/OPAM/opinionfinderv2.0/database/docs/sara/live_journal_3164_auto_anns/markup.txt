@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It does not <MPQAPOL autoclass="neutral">matter</MPQAPOL> if I stretch , if I <MPQAPOL autoclass="neutral">try</MPQAPOL> to take it slow , it goes out .</MPQASENT>

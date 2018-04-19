@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">problem</MPQAPOL> with tombstones is that it is ( a ) human ( b ) American and ( c ) recent .</MPQASENT>

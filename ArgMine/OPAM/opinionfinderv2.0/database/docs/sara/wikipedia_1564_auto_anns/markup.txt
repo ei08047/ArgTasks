@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If I say : `` I do not <MPQAPOL autoclass="neutral">accept</MPQAPOL> your <MPQAPOL autoclass="neutral">claim</MPQAPOL> .</MPQASENT>

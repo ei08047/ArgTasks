@@ -1,0 +1,13 @@
+1	0,55	GATE_Sentence
+2	0,4	GATE_Token	string="your" lemma="you" category="PRP$"
+3	5,14	GATE_Token	string="interests" lemma="interest" category="NNS"
+4	15,19	GATE_Token	string="nail" lemma="nail" category="VBP"
+5	20,22	GATE_Token	string="it" lemma="it" category="PRP"
+6	23,25	GATE_Token	string="to" lemma="to" category="TO"
+7	26,29	GATE_Token	string="the" lemma="the" category="DT"
+8	30,36	GATE_Token	string="basics" lemma="basics" category="NNS"
+9	37,40	GATE_Token	string="..." lemma="..." category=":"
+10	41,45	GATE_Token	string="that" lemma="that" category="DT"
+11	46,48	GATE_Token	string="is" lemma="be" category="VBZ"
+12	49,53	GATE_Token	string="good" lemma="good" category="JJ"
+13	54,55	GATE_Token	string="." lemma="." category="."

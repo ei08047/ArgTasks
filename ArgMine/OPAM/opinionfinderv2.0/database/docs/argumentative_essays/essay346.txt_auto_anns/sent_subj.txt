@@ -1,0 +1,13 @@
+argumentative_essays_essay346.txt_0_180	obj
+argumentative_essays_essay346.txt_181_227	obj
+argumentative_essays_essay346.txt_228_346	subj
+argumentative_essays_essay346.txt_347_415	obj
+argumentative_essays_essay346.txt_416_502	obj
+argumentative_essays_essay346.txt_503_604	obj
+argumentative_essays_essay346.txt_605_676	subj
+argumentative_essays_essay346.txt_677_788	subj
+argumentative_essays_essay346.txt_789_962	obj
+argumentative_essays_essay346.txt_963_1055	obj
+argumentative_essays_essay346.txt_1056_1145	obj
+argumentative_essays_essay346.txt_1146_1287	subj
+argumentative_essays_essay346.txt_1288_1484	subj

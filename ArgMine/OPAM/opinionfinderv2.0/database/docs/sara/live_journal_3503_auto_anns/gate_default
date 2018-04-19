@@ -1,0 +1,9 @@
+1	0,32	GATE_Sentence
+2	0,4	GATE_Token	string="OKAY" lemma="OKAY" category="NNP"
+3	5,6	GATE_Token	string=":" lemma=":" category=":"
+4	7,9	GATE_Token	string="IT" lemma="it" category="PRP"
+5	10,12	GATE_Token	string="'S" lemma="be" category="VBZ"
+6	13,20	GATE_Token	string="DRIVING" lemma="DRIVING" category="NNP"
+7	21,23	GATE_Token	string="ME" lemma="ME" category="NNP"
+8	24,30	GATE_Token	string="INSANE" lemma="INSANE" category="NNP"
+9	31,32	GATE_Token	string="." lemma="." category="."

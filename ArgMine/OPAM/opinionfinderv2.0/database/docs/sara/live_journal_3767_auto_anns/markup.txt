@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You will always share those <MPQAPOL autoclass="neutral">memories</MPQAPOL> .</MPQASENT>

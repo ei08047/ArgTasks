@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I redyed my hair , it is this <MPQAPOL autoclass="negative">nice</MPQAPOL> <MPQAPOL autoclass="neutral">dark</MPQAPOL> red ..</MPQASENT>

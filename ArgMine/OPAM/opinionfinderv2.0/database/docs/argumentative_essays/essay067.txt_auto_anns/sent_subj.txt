@@ -1,0 +1,11 @@
+argumentative_essays_essay067.txt_0_234	subj
+argumentative_essays_essay067.txt_235_407	subj
+argumentative_essays_essay067.txt_408_669	subj
+argumentative_essays_essay067.txt_670_918	subj
+argumentative_essays_essay067.txt_919_1183	subj
+argumentative_essays_essay067.txt_1184_1274	subj
+argumentative_essays_essay067.txt_1275_1349	subj
+argumentative_essays_essay067.txt_1350_1421	obj
+argumentative_essays_essay067.txt_1422_1541	subj
+argumentative_essays_essay067.txt_1542_1935	subj
+argumentative_essays_essay067.txt_1936_2160	subj

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">But it is not any more <MPQAPOL autoclass="negative">hopeless</MPQAPOL> than <MPQAPOL autoclass="neutral">most</MPQAPOL> of the rest of the world .</MPQASENT>

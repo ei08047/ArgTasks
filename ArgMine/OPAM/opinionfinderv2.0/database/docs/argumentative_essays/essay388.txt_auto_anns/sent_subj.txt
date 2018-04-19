@@ -1,0 +1,12 @@
+argumentative_essays_essay388.txt_0_140	obj
+argumentative_essays_essay388.txt_141_276	obj
+argumentative_essays_essay388.txt_278_416	obj
+argumentative_essays_essay388.txt_417_461	obj
+argumentative_essays_essay388.txt_463_599	obj
+argumentative_essays_essay388.txt_600_762	obj
+argumentative_essays_essay388.txt_764_868	obj
+argumentative_essays_essay388.txt_869_942	obj
+argumentative_essays_essay388.txt_943_1097	subj
+argumentative_essays_essay388.txt_1099_1221	obj
+argumentative_essays_essay388.txt_1222_1292	obj
+argumentative_essays_essay388.txt_1293_1414	obj

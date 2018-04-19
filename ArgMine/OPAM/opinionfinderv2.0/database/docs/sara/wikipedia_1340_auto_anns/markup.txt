@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">As <MPQAPOL autoclass="neutral">such</MPQAPOL> , we <MPQAPOL autoclass="neutral">should</MPQAPOL> not <MPQAPOL autoclass="neutral">exclude</MPQAPOL> their <MPQAPOL autoclass="neutral">views</MPQAPOL> from this article - as per NPOV .</MPQASENT>

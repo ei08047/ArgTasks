@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">At <MPQAPOL autoclass="neutral">least</MPQAPOL> , I can not <MPQAPOL autoclass="neutral">think</MPQAPOL> of how you <MPQAPOL autoclass="neutral">could</MPQAPOL> <MPQAPOL autoclass="negative">heckle</MPQAPOL> about them .</MPQASENT>

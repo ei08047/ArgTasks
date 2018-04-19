@@ -1,0 +1,9 @@
+1	0,30	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="agree" lemma="agree" category="VBP"
+4	8,12	GATE_Token	string="that" lemma="that" category="IN"
+5	13,15	GATE_Token	string="it" lemma="it" category="PRP"
+6	16,18	GATE_Token	string="is" lemma="be" category="VBZ"
+7	19,22	GATE_Token	string="not" lemma="not" category="RB"
+8	23,28	GATE_Token	string="ideal" lemma="ideal" category="JJ"
+9	29,30	GATE_Token	string="." lemma="." category="."

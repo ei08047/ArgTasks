@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Considering</MPQAPOL> that there is no longer any <MPQAPOL autoclass="negative">criticism</MPQAPOL> section on the page .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It <MPQAPOL autoclass="neutral">seems</MPQAPOL> to focus not on <MPQAPOL autoclass="neutral">death</MPQAPOL> itself , but our <MPQAPOL autoclass="neutral">traditions</MPQAPOL> that revolve around its occurence .</MPQASENT>

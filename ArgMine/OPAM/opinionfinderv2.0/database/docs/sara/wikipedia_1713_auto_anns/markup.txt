@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Is not the material more <MPQAPOL autoclass="positive">appropriate</MPQAPOL> for First Vision , <MPQAPOL autoclass="neutral">though</MPQAPOL> ?</MPQASENT>

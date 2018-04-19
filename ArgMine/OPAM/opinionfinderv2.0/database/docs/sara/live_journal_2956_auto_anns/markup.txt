@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">hey hotstuff , take her to a <MPQAPOL autoclass="neutral">free</MPQAPOL> clinic .</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,58	GATE_Sentence
+2	0,3	GATE_Token	string="See" lemma="see" category="VB"
+3	4,8	GATE_Token	string="Talk" lemma="talk" category="NN"
+4	9,10	GATE_Token	string=":" lemma=":" category=":"
+5	11,15	GATE_Token	string="List" lemma="list" category="NN"
+6	16,18	GATE_Token	string="of" lemma="of" category="IN"
+7	19,35	GATE_Token	string="pseudoscientific" lemma="pseudoscientific" category="JJ"
+8	36,53	GATE_Token	string="theories\/Archive" lemma="theories\/archive" category="NN"
+9	54,56	GATE_Token	string="12" lemma="12" category="CD"
+10	57,58	GATE_Token	string="." lemma="." category="."

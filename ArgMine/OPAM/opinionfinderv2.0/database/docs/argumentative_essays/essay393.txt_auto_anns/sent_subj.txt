@@ -1,0 +1,11 @@
+argumentative_essays_essay393.txt_0_226	subj
+argumentative_essays_essay393.txt_227_316	obj
+argumentative_essays_essay393.txt_317_449	obj
+argumentative_essays_essay393.txt_450_607	obj
+argumentative_essays_essay393.txt_608_811	subj
+argumentative_essays_essay393.txt_812_1013	subj
+argumentative_essays_essay393.txt_1014_1183	subj
+argumentative_essays_essay393.txt_1184_1325	subj
+argumentative_essays_essay393.txt_1326_1501	subj
+argumentative_essays_essay393.txt_1502_1627	subj
+argumentative_essays_essay393.txt_1628_1869	subj

@@ -1,0 +1,9 @@
+1	0,44	GATE_Sentence
+2	0,4	GATE_Token	string="Each" lemma="each" category="DT"
+3	5,14	GATE_Token	string="applicant" lemma="applicant" category="NN"
+4	15,17	GATE_Token	string="is" lemma="be" category="VBZ"
+5	18,24	GATE_Token	string="ranked" lemma="rank" category="VBN"
+6	25,27	GATE_Token	string="in" lemma="in" category="IN"
+7	28,36	GATE_Token	string="his\/her" lemma="his\/her" category="NN"
+8	37,42	GATE_Token	string="group" lemma="group" category="NN"
+9	43,44	GATE_Token	string="." lemma="." category="."

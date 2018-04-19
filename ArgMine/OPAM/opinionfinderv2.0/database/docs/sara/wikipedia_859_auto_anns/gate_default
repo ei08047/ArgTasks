@@ -1,0 +1,13 @@
+1	0,61	GATE_Sentence
+2	0,3	GATE_Token	string="Are" lemma="be" category="VBP"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,14	GATE_Token	string="saying" lemma="say" category="VBG"
+5	15,22	GATE_Token	string="Israeli" lemma="israeli" category="JJ"
+6	23,28	GATE_Token	string="media" lemma="media" category="NNS"
+7	29,32	GATE_Token	string="can" lemma="can" category="MD"
+8	33,36	GATE_Token	string="not" lemma="not" category="RB"
+9	37,39	GATE_Token	string="be" lemma="be" category="VB"
+10	40,46	GATE_Token	string="quoted" lemma="quote" category="VBN"
+11	47,49	GATE_Token	string="on" lemma="on" category="IN"
+12	50,59	GATE_Token	string="Wikipedia" lemma="Wikipedia" category="NNP"
+13	60,61	GATE_Token	string="?" lemma="?" category="."

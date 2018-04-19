@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I had be <MPQAPOL autoclass="negative">quite</MPQAPOL> <MPQAPOL autoclass="positive">happy</MPQAPOL> to see all flags decommissioned from this article .</MPQASENT>

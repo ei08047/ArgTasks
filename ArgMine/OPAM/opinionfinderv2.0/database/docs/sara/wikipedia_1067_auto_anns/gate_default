@@ -1,0 +1,13 @@
+1	0,62	GATE_Sentence
+2	0,4	GATE_Token	string="When" lemma="when" category="WRB"
+3	5,9	GATE_Token	string="does" lemma="do" category="VBZ"
+4	10,13	GATE_Token	string="the" lemma="the" category="DT"
+5	14,25	GATE_Token	string="nationality" lemma="nationality" category="NN"
+6	26,28	GATE_Token	string="of" lemma="of" category="IN"
+7	29,30	GATE_Token	string="a" lemma="a" category="DT"
+8	31,40	GATE_Token	string="performer" lemma="performer" category="NN"
+9	41,45	GATE_Token	string="ever" lemma="ever" category="RB"
+10	46,52	GATE_Token	string="create" lemma="create" category="VB"
+11	53,54	GATE_Token	string="a" lemma="a" category="DT"
+12	55,60	GATE_Token	string="genre" lemma="genre" category="NN"
+13	61,62	GATE_Token	string="?" lemma="?" category="."

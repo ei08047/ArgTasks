@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,11	GATE_Token	string="sounds" lemma="sound" category="VBZ"
+4	12,16	GATE_Token	string="like" lemma="like" category="IN"
+5	17,18	GATE_Token	string="a" lemma="a" category="DT"
+6	19,23	GATE_Token	string="good" lemma="good" category="JJ"
+7	24,29	GATE_Token	string="title" lemma="title" category="NN"
+8	30,34	GATE_Token	string="idea" lemma="idea" category="NN"
+9	35,36	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">The statement expresses <MPQAPOL autoclass="negative">skepticism</MPQAPOL> - which is <MPQAPOL autoclass="negative">quite</MPQAPOL> different than <MPQAPOL autoclass="negative">denying</MPQAPOL> .</MPQASENT>

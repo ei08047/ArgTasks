@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,2	GATE_Token	string="We" lemma="we" category="PRP"
+3	3,6	GATE_Token	string="are" lemma="be" category="VBP"
+4	7,17	GATE_Token	string="apparently" lemma="apparently" category="RB"
+5	18,26	GATE_Token	string="supposed" lemma="suppose" category="VBN"
+6	27,29	GATE_Token	string="to" lemma="to" category="TO"
+7	30,34	GATE_Token	string="fake" lemma="fake" category="JJ"
+8	35,37	GATE_Token	string="it" lemma="it" category="PRP"
+9	38,39	GATE_Token	string="." lemma="." category="."

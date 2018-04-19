@@ -1,0 +1,11 @@
+1	0,46	GATE_Sentence
+2	0,4	GATE_Token	string="with" lemma="with" category="IN"
+3	5,8	GATE_Token	string="the" lemma="the" category="DT"
+4	9,16	GATE_Token	string="complex" lemma="complex" category="NN"
+5	17,22	GATE_Token	string="Sunni" lemma="Sunni" category="NNP"
+6	23,26	GATE_Token	string="and" lemma="and" category="CC"
+7	27,34	GATE_Token	string="Shi'ite" lemma="Shi'ite" category="NNP"
+8	35,44	GATE_Token	string="situation" lemma="situation" category="NN"
+9	45,46	GATE_Token	string="." lemma="." category="."
+10	46,47	GATE_Sentence
+11	46,47	GATE_Token	string="-" lemma="-" category=":"

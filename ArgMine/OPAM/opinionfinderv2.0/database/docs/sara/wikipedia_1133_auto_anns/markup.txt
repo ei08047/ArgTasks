@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">For a summary , keep the <MPQAPOL autoclass="neutral">key</MPQAPOL> <MPQAPOL autoclass="neutral">facts</MPQAPOL> that <MPQAPOL autoclass="neutral">allow</MPQAPOL> a new reader to <MPQAPOL autoclass="neutral">understand</MPQAPOL> what happened .</MPQASENT>

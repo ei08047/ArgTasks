@@ -1,0 +1,9 @@
+1	0,47	GATE_Sentence
+2	0,4	GATE_Token	string="Most" lemma="most" category="JJS"
+3	5,7	GATE_Token	string="of" lemma="of" category="IN"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,25	GATE_Token	string="organizations" lemma="organization" category="NNS"
+6	26,32	GATE_Token	string="listed" lemma="list" category="VBN"
+7	33,36	GATE_Token	string="are" lemma="be" category="VBP"
+8	37,45	GATE_Token	string="American" lemma="american" category="JJ"
+9	46,47	GATE_Token	string="." lemma="." category="."

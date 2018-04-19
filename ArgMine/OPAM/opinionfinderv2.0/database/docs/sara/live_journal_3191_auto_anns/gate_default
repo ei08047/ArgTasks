@@ -1,0 +1,9 @@
+1	0,37	GATE_Sentence
+2	0,2	GATE_Token	string="We" lemma="we" category="PRP"
+3	3,6	GATE_Token	string="can" lemma="can" category="MD"
+4	7,10	GATE_Token	string="get" lemma="get" category="VB"
+5	11,18	GATE_Token	string="seasons" lemma="season" category="NNS"
+6	19,25	GATE_Token	string="11-now" lemma="11-now" category="JJ"
+7	26,28	GATE_Token	string="on" lemma="on" category="IN"
+8	29,35	GATE_Token	string="itunes" lemma="itune" category="NNS"
+9	36,37	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,8	GATE_Token	string="bevy" lemma="bevy" category="NN"
+4	9,11	GATE_Token	string="of" lemma="of" category="IN"
+5	12,17	GATE_Token	string="links" lemma="link" category="NNS"
+6	18,21	GATE_Token	string="you" lemma="you" category="PRP"
+7	22,29	GATE_Token	string="provide" lemma="provide" category="VBP"
+8	30,34	GATE_Token	string="only" lemma="only" category="JJ"
+9	35,40	GATE_Token	string="serve" lemma="serve" category="VBP"
+10	41,43	GATE_Token	string="to" lemma="to" category="TO"
+11	44,49	GATE_Token	string="prove" lemma="prove" category="VB"
+12	50,54	GATE_Token	string="that" lemma="that" category="DT"
+13	55,56	GATE_Token	string="." lemma="." category="."

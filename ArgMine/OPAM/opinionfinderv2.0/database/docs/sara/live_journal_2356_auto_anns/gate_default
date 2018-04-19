@@ -1,0 +1,12 @@
+1	0,51	GATE_Sentence
+2	0,1	GATE_Token	string="a" lemma="a" category="DT"
+3	2,7	GATE_Token	string="rumba" lemma="rumba" category="NN"
+4	8,11	GATE_Token	string="for" lemma="for" category="IN"
+5	12,20	GATE_Token	string="roadways" lemma="roadway" category="NNS"
+6	21,24	GATE_Token	string="and" lemma="and" category="CC"
+7	25,26	GATE_Token	string="a" lemma="a" category="DT"
+8	27,35	GATE_Token	string="sparkler" lemma="sparkler" category="NN"
+9	36,38	GATE_Token	string="in" lemma="in" category="IN"
+10	39,44	GATE_Token	string="every" lemma="every" category="DT"
+11	45,49	GATE_Token	string="fist" lemma="fist" category="NN"
+12	50,51	GATE_Token	string="!" lemma="!" category="."

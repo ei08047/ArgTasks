@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Facts</MPQAPOL> do not go away when scientists <MPQAPOL autoclass="negative">debate</MPQAPOL> rival theories to explain them .</MPQASENT>

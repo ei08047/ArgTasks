@@ -1,0 +1,7 @@
+1	0,30	GATE_Sentence
+2	0,8	GATE_Token	string="Khaddafi" lemma="Khaddafi" category="NNP"
+3	9,11	GATE_Token	string="is" lemma="be" category="VBZ"
+4	12,15	GATE_Token	string="not" lemma="not" category="RB"
+5	16,18	GATE_Token	string="an" lemma="a" category="DT"
+6	19,28	GATE_Token	string="exception" lemma="exception" category="NN"
+7	29,30	GATE_Token	string="." lemma="." category="."

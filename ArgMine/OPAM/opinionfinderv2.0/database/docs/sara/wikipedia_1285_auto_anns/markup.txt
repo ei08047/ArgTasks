@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The Jim Henson page lists someone <MPQAPOL autoclass="neutral">else</MPQAPOL> .</MPQASENT>

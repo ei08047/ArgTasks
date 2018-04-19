@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,2	GATE_Token	string="At" lemma="at" category="IN"
+3	3,8	GATE_Token	string="least" lemma="least" category="JJS"
+4	9,11	GATE_Token	string="we" lemma="we" category="PRP"
+5	12,16	GATE_Token	string="will" lemma="will" category="MD"
+6	17,20	GATE_Token	string="all" lemma="all" category="DT"
+7	21,26	GATE_Token	string="learn" lemma="learn" category="VB"
+8	27,36	GATE_Token	string="something" lemma="something" category="NN"
+9	37,40	GATE_Token	string="new" lemma="new" category="JJ"
+10	41,42	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,13 @@
+1	0,61	GATE_Sentence
+2	0,2	GATE_Token	string="ir" lemma="ir" category="NN"
+3	3,8	GATE_Token	string="would" lemma="would" category="MD"
+4	9,11	GATE_Token	string="be" lemma="be" category="VB"
+5	12,22	GATE_Token	string="considered" lemma="consider" category="VBN"
+6	23,24	GATE_Token	string="a" lemma="a" category="DT"
+7	25,29	GATE_Token	string="self" lemma="self" category="NN"
+8	30,39	GATE_Token	string="published" lemma="publish" category="VBN"
+9	40,46	GATE_Token	string="source" lemma="source" category="NN"
+10	47,49	GATE_Token	string="on" lemma="on" category="IN"
+11	50,54	GATE_Token	string="this" lemma="this" category="DT"
+12	55,59	GATE_Token	string="page" lemma="page" category="NN"
+13	60,61	GATE_Token	string="." lemma="." category="."

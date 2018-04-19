@@ -1,0 +1,11 @@
+1	0,61	GATE_Sentence
+2	0,3	GATE_Token	string="See" lemma="see" category="VB"
+3	4,23	GATE_Token	string="Mahmoud_Ahmadinejad" lemma="Mahmoud_Ahmadinejad" category="NNP"
+4	24,25	GATE_Token	string="#" lemma="#" category="#"
+5	26,43	GATE_Token	string="Foreign_relations" lemma="foreign_relations" category="NNS"
+6	44,45	GATE_Token	string="," lemma="," category=","
+7	46,48	GATE_Token	string="we" lemma="we" category="PRP"
+8	49,51	GATE_Token	string="do" lemma="do" category="VBP"
+9	52,56	GATE_Token	string="link" lemma="link" category="VB"
+10	57,59	GATE_Token	string="it" lemma="it" category="PRP"
+11	60,61	GATE_Token	string="." lemma="." category="."

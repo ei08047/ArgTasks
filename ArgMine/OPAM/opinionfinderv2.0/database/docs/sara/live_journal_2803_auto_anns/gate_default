@@ -1,0 +1,12 @@
+1	0,81	GATE_Sentence
+2	0,5	GATE_Token	string="These" lemma="these" category="DT"
+3	6,16	GATE_Token	string="paragraphs" lemma="paragraph" category="NNS"
+4	17,21	GATE_Token	string="were" lemma="be" category="VBD"
+5	22,27	GATE_Token	string="taken" lemma="take" category="VBN"
+6	28,32	GATE_Token	string="from" lemma="from" category="IN"
+7	33,36	GATE_Token	string="his" lemma="he" category="PRP$"
+8	37,44	GATE_Token	string="myspace" lemma="myspace" category="NN"
+9	45,46	GATE_Token	string="(" lemma="(" category="-LRB-"
+10	47,77	GATE_Token	string="myspace.com/kapowmotherfuckers" lemma="myspace.com/kapowmotherfuckers" category="NNS"
+11	78,79	GATE_Token	string=")" lemma=")" category="-RRB-"
+12	80,81	GATE_Token	string="." lemma="." category="."

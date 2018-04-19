@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Instead of a symmetrical grid of days , calendars now <MPQAPOL autoclass="neutral">seem</MPQAPOL> like a hopscotch game in which everything is simultaneous .</MPQASENT>

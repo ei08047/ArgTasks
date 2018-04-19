@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">No one said the LDS website was <MPQAPOL autoclass="neutral">primary</MPQAPOL> , and if you <MPQAPOL autoclass="positive">wish</MPQAPOL> to <MPQAPOL autoclass="neutral">consider</MPQAPOL> it <MPQAPOL autoclass="neutral">primary</MPQAPOL> then the AAF <MPQAPOL autoclass="neutral">would</MPQAPOL> be secondary .</MPQASENT>

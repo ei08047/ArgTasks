@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I also have been bruising <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="neutral">easily</MPQAPOL> and have a few <MPQAPOL autoclass="negative">weird</MPQAPOL> patchy <MPQAPOL autoclass="neutral">bruises</MPQAPOL> that wont go away .</MPQASENT>

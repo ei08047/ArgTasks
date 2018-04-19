@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">They <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="negative">need</MPQAPOL> to rename it Scott Baio is 45 and a Douchebag , or <MPQAPOL autoclass="neutral">just</MPQAPOL> Scott Baio is a Douchebag .</MPQASENT>

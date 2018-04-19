@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,1	GATE_Token	string="@" lemma="@" category="IN"
+3	2,7	GATE_Token	string="Enric" lemma="Enric" category="NNP"
+4	8,9	GATE_Token	string="-" lemma="-" category=":"
+5	10,16	GATE_Token	string="Thanks" lemma="thanks" category="NNS"
+6	17,20	GATE_Token	string="for" lemma="for" category="IN"
+7	21,32	GATE_Token	string="refactoring" lemma="refactoring" category="NN"
+8	33,34	GATE_Token	string="." lemma="." category="."

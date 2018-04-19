@@ -1,0 +1,10 @@
+1	0,43	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,8	GATE_Token	string="really" lemma="really" category="RB"
+4	9,10	GATE_Token	string="," lemma="," category=","
+5	11,16	GATE_Token	string="truly" lemma="truly" category="RB"
+6	17,18	GATE_Token	string="," lemma="," category=","
+7	19,29	GATE_Token	string="understand" lemma="understand" category="VBP"
+8	30,35	GATE_Token	string="being" lemma="be" category="VBG"
+9	36,41	GATE_Token	string="upset" lemma="upset" category="VBN"
+10	42,43	GATE_Token	string="." lemma="." category="."

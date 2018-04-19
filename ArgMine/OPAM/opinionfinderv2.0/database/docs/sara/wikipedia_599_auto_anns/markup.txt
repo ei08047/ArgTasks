@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">By definition , the husband can not be the hostess , <MPQAPOL autoclass="neutral">so</MPQAPOL> who <MPQAPOL autoclass="neutral">would</MPQAPOL> be ?</MPQASENT>

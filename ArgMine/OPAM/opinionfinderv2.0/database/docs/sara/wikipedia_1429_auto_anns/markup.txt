@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="neutral">imagine</MPQAPOL> that these sources include highly-regarded scientific journals and various academies of science .</MPQASENT>

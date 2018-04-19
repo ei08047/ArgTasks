@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">There may be a <MPQAPOL autoclass="positive">better</MPQAPOL> way of saying this which can be <MPQAPOL autoclass="neutral">agreed</MPQAPOL> on , but atleast its not <MPQAPOL autoclass="neutral">wrong</MPQAPOL> .</MPQASENT>

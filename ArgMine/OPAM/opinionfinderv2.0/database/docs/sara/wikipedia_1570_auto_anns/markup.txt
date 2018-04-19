@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It does not <MPQAPOL autoclass="neutral">mean</MPQAPOL> that the opposite is <MPQAPOL autoclass="neutral">true</MPQAPOL> ( <MPQAPOL autoclass="neutral">whatever</MPQAPOL> you assume the opposite is ) .</MPQASENT>

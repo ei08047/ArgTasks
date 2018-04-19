@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">i am <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">enjoying</MPQAPOL> philosophy while it counts for a classics\/fine arts credit .</MPQASENT>

@@ -1,0 +1,9 @@
+1	0,31	GATE_Sentence
+2	0,2	GATE_Token	string="We" lemma="we" category="PRP"
+3	3,7	GATE_Token	string="have" lemma="have" category="VBP"
+4	8,11	GATE_Token	string="got" lemma="get" category="VBN"
+5	12,13	GATE_Token	string="a" lemma="a" category="DT"
+6	14,18	GATE_Token	string="full" lemma="full" category="JJ"
+7	19,24	GATE_Token	string="month" lemma="month" category="NN"
+8	25,29	GATE_Token	string="left" lemma="leave" category="VBD"
+9	30,31	GATE_Token	string="." lemma="." category="."

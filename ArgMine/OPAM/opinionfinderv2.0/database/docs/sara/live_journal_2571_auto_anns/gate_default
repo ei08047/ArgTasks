@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,9	GATE_Token	string="IIIMAGEEE" lemma="IIIMAGEEE" category="NNP"
+3	10,14	GATE_Token	string="This" lemma="this" category="DT"
+4	15,19	GATE_Token	string="sign" lemma="sign" category="NN"
+5	20,21	GATE_Token	string="I" lemma="I" category="PRP"
+6	22,25	GATE_Token	string="put" lemma="put" category="VBD"
+7	26,28	GATE_Token	string="up" lemma="up" category="RP"
+8	29,32	GATE_Token	string="was" lemma="be" category="VBD"
+9	33,39	GATE_Token	string="pretty" lemma="pretty" category="RB"
+10	40,44	GATE_Token	string="good" lemma="good" category="JJ"
+11	45,51	GATE_Token	string="though" lemma="though" category="IN"
+12	52,53	GATE_Token	string="!" lemma="!" category="."

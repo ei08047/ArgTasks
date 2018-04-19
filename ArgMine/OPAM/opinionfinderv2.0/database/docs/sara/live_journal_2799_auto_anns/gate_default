@@ -1,0 +1,7 @@
+1	0,61	GATE_Sentence
+2	0,35	GATE_Token	string="http://www.jbox.com/PRODUCT/PRIM073" lemma="http://www.jbox.com/product/prim073" category="NN"
+3	36,42	GATE_Token	string="PIGGIE" lemma="PIGGIE" category="NNP"
+4	43,48	GATE_Token	string="BENTO" lemma="BENTO" category="NNP"
+5	49,54	GATE_Token	string="LUNCH" lemma="LUNCH" category="NNP"
+6	55,58	GATE_Token	string="BOX" lemma="BOX" category="NNP"
+7	59,61	GATE_Token	string="!!" lemma="!!" category="NN"

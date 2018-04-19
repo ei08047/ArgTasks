@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,1	GATE_Token	string="B" lemma="b" category="NN"
+3	1,2	GATE_Token	string=")" lemma=")" category="-RRB-"
+4	3,5	GATE_Token	string="OK" lemma="ok" category="JJ"
+5	6,11	GATE_Token	string="thats" lemma="that" category="NNS"
+6	12,15	GATE_Token	string="one" lemma="one" category="CD"
+7	16,17	GATE_Token	string="," lemma="," category=","
+8	18,24	GATE_Token	string="easily" lemma="easily" category="RB"
+9	25,34	GATE_Token	string="corrected" lemma="correct" category="VBN"
+10	35,36	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Those are <MPQAPOL autoclass="positive">beautiful</MPQAPOL> and <MPQAPOL autoclass="negative">impressive</MPQAPOL> !</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I never <MPQAPOL autoclass="negative">thought</MPQAPOL> I <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="negative">miss</MPQAPOL> Connecticut <MPQAPOL autoclass="neutral">quite</MPQAPOL> <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">much</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,7 @@
+argumentative_essays_essay225.txt_1894_1899	positive
+argumentative_essays_essay225.txt_1935_1944	neutral
+argumentative_essays_essay225.txt_1954_1961	positive
+argumentative_essays_essay225.txt_1965_1972	neutral
+argumentative_essays_essay225.txt_1981_1986	neutral
+argumentative_essays_essay225.txt_2036_2041	neutral
+argumentative_essays_essay225.txt_2065_2072	neutral

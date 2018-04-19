@@ -1,0 +1,12 @@
+1	0,51	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,9	GATE_Token	string="first" lemma="first" category="JJ"
+4	10,15	GATE_Token	string="track" lemma="track" category="NN"
+5	16,18	GATE_Token	string="of" lemma="of" category="IN"
+6	19,24	GATE_Token	string="Black" lemma="black" category="JJ"
+7	25,32	GATE_Token	string="Sabbath" lemma="sabbath" category="NN"
+8	33,34	GATE_Token	string="I" lemma="I" category="PRP"
+9	35,40	GATE_Token	string="would" lemma="would" category="MD"
+10	41,45	GATE_Token	string="give" lemma="give" category="VB"
+11	46,49	GATE_Token	string="you" lemma="you" category="PRP"
+12	50,51	GATE_Token	string="." lemma="." category="."

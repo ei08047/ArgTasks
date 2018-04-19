@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And he <MPQAPOL autoclass="neutral">knows</MPQAPOL> what hes doing ...</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Civil</MPQAPOL> <MPQAPOL autoclass="neutral">wars</MPQAPOL> in germany , France and elsewhere <MPQAPOL autoclass="neutral">seemed</MPQAPOL> to bear this out .</MPQASENT>

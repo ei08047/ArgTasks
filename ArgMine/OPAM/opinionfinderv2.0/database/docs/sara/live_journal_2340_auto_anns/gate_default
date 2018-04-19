@@ -1,0 +1,11 @@
+1	0,55	GATE_Sentence
+2	0,6	GATE_Token	string="Cheese" lemma="Cheese" category="NNP"
+3	7,10	GATE_Token	string="and" lemma="and" category="CC"
+4	11,19	GATE_Token	string="crackers" lemma="cracker" category="NNS"
+5	20,23	GATE_Token	string="are" lemma="be" category="VBP"
+6	24,25	GATE_Token	string="a" lemma="a" category="DT"
+7	26,33	GATE_Token	string="classic" lemma="classic" category="JJ"
+8	34,37	GATE_Token	string="and" lemma="and" category="CC"
+9	38,44	GATE_Token	string="beyond" lemma="beyond" category="IN"
+10	45,53	GATE_Token	string="heckling" lemma="heckling" category="NN"
+11	54,55	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> that <MPQAPOL autoclass="neutral">would</MPQAPOL> be <MPQAPOL autoclass="neutral">hard</MPQAPOL> to <MPQAPOL autoclass="neutral">prove</MPQAPOL> .</MPQASENT>

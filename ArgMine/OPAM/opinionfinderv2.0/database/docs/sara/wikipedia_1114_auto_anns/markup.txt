@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is not all fairies and gobblins ; <MPQAPOL autoclass="neutral">actual</MPQAPOL> <MPQAPOL autoclass="neutral">real</MPQAPOL> people , <MPQAPOL autoclass="neutral">real</MPQAPOL> kingdoms .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Finally</MPQAPOL> , I am <MPQAPOL autoclass="neutral">definitely</MPQAPOL> not saying psychoanalysis is a fringe science .</MPQASENT>

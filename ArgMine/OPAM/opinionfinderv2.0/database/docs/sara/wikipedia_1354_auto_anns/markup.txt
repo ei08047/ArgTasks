@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am <MPQAPOL autoclass="positive">sure</MPQAPOL> we can find some mainstream <MPQAPOL autoclass="negative">criticisms</MPQAPOL> of <MPQAPOL autoclass="neutral">certain</MPQAPOL> aspects of psychiatry from <MPQAPOL autoclass="negative">truly</MPQAPOL> <MPQAPOL autoclass="negative">skeptical</MPQAPOL> sources .</MPQASENT>

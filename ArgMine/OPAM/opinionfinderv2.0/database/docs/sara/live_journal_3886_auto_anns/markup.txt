@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">There is something I <MPQAPOL autoclass="positive">liked</MPQAPOL> about an apartment <MPQAPOL autoclass="neutral">full</MPQAPOL> of kids .</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,47	GATE_Sentence
+2	0,4	GATE_Token	string="they" lemma="they" category="PRP"
+3	5,11	GATE_Token	string="should" lemma="should" category="MD"
+4	12,19	GATE_Token	string="promote" lemma="promote" category="VB"
+5	20,25	GATE_Token	string="goofy" lemma="goofy" category="JJ"
+6	26,33	GATE_Token	string="instead" lemma="instead" category="RB"
+7	34,35	GATE_Token	string="," lemma="," category=","
+8	36,38	GATE_Token	string="he" lemma="he" category="PRP"
+9	39,42	GATE_Token	string="can" lemma="can" category="MD"
+10	43,47	GATE_Token	string="talk" lemma="talk" category="VB"

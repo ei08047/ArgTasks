@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I had like to hang with people in the A as <MPQAPOL autoclass="neutral">well</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Deviating</MPQAPOL> from your <MPQAPOL autoclass="neutral">preference</MPQAPOL> does not necessarily equate to <MPQAPOL autoclass="neutral">deviating</MPQAPOL> from <MPQAPOL autoclass="neutral">Proper</MPQAPOL> English .</MPQASENT>

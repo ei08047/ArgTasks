@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,5	GATE_Token	string="Aargh" lemma="Aargh" category="NNP"
+3	6,7	GATE_Token	string=";" lemma=";" category=":"
+4	8,9	GATE_Token	string="I" lemma="I" category="PRP"
+5	10,14	GATE_Token	string="have" lemma="have" category="VBP"
+6	15,19	GATE_Token	string="been" lemma="be" category="VBN"
+7	20,24	GATE_Token	string="told" lemma="tell" category="VBN"
+8	25,32	GATE_Token	string="tonight" lemma="tonight" category="RB"
+9	33,37	GATE_Token	string="will" lemma="will" category="MD"
+10	38,46	GATE_Token	string="probably" lemma="probably" category="RB"
+11	47,49	GATE_Token	string="go" lemma="go" category="VB"
+12	50,54	GATE_Token	string="late" lemma="late" category="RB"
+13	55,56	GATE_Token	string="." lemma="." category="."

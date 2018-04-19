@@ -1,0 +1,13 @@
+1	0,44	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,8	GATE_Token	string="way" lemma="way" category="NN"
+4	9,10	GATE_Token	string="I" lemma="I" category="PRP"
+5	11,14	GATE_Token	string="can" lemma="can" category="MD"
+6	15,17	GATE_Token	string="do" lemma="do" category="VB"
+7	18,21	GATE_Token	string="all" lemma="all" category="DT"
+8	22,24	GATE_Token	string="my" lemma="my" category="PRP$"
+9	25,30	GATE_Token	string="hours" lemma="hour" category="NNS"
+10	31,35	GATE_Token	string="over" lemma="over" category="IN"
+11	36,38	GATE_Token	string="at" lemma="at" category="IN"
+12	39,42	GATE_Token	string="MCA" lemma="MCA" category="NNP"
+13	43,44	GATE_Token	string="." lemma="." category="."

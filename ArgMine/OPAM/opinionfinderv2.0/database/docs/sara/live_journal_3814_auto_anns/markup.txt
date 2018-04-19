@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">As soon as Im not <MPQAPOL autoclass="neutral">looking</MPQAPOL> , shazam !</MPQASENT>

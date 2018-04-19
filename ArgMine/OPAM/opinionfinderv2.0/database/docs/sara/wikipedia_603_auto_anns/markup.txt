@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am <MPQAPOL autoclass="negative">skeptical</MPQAPOL> , since I <MPQAPOL autoclass="neutral">think</MPQAPOL> OED <MPQAPOL autoclass="neutral">would</MPQAPOL> also <MPQAPOL autoclass="neutral">show</MPQAPOL> that usage , but am <MPQAPOL autoclass="neutral">open</MPQAPOL> to more information .</MPQASENT>

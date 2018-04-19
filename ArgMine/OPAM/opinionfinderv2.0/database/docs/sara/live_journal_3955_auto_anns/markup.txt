@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That is an <MPQAPOL autoclass="neutral">odd</MPQAPOL> comparison , and totally not <MPQAPOL autoclass="positive">true</MPQAPOL> for me AT ALL .</MPQASENT>

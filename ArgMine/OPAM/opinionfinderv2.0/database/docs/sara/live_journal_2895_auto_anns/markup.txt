@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">do not <MPQAPOL autoclass="negative">forget</MPQAPOL> to send me poems .</MPQASENT>

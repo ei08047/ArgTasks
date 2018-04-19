@@ -1,0 +1,8 @@
+1	0,35	GATE_Sentence
+2	0,8	GATE_Token	string="Everyone" lemma="everyone" category="NN"
+3	9,14	GATE_Token	string="seems" lemma="seem" category="VBZ"
+4	15,21	GATE_Token	string="pretty" lemma="pretty" category="RB"
+5	22,26	GATE_Token	string="cool" lemma="cool" category="JJ"
+6	27,29	GATE_Token	string="so" lemma="so" category="RB"
+7	30,33	GATE_Token	string="far" lemma="far" category="RB"
+8	34,35	GATE_Token	string="." lemma="." category="."

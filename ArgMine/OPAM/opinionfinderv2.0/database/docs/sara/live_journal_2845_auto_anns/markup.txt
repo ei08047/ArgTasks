@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I guess my <MPQAPOL autoclass="negative">complaint</MPQAPOL> , then , is that your <MPQAPOL autoclass="neutral">friend</MPQAPOL> 's ancestors <MPQAPOL autoclass="neutral">could</MPQAPOL> not spell .</MPQASENT>

@@ -1,0 +1,9 @@
+1	0,32	GATE_Sentence
+2	0,2	GATE_Token	string="Oh" lemma="oh" category="UH"
+3	3,6	GATE_Token	string="how" lemma="how" category="WRB"
+4	7,8	GATE_Token	string="I" lemma="I" category="PRP"
+5	9,15	GATE_Token	string="missed" lemma="miss" category="VBD"
+6	16,19	GATE_Token	string="you" lemma="you" category="PRP"
+7	20,24	GATE_Token	string="dear" lemma="dear" category="RB"
+8	25,30	GATE_Token	string="Buffy" lemma="Buffy" category="NNP"
+9	31,32	GATE_Token	string="." lemma="." category="."

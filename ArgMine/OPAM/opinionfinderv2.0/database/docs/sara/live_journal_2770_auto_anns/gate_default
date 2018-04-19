@@ -1,0 +1,12 @@
+1	0,56	GATE_Sentence
+2	0,2	GATE_Token	string="``" lemma="``" category="``"
+3	3,6	GATE_Token	string="How" lemma="how" category="WRB"
+4	7,19	GATE_Token	string="interminable" lemma="interminable" category="JJ"
+5	20,23	GATE_Token	string="are" lemma="be" category="VBP"
+6	24,29	GATE_Token	string="words" lemma="word" category="NNS"
+7	30,32	GATE_Token	string="if" lemma="if" category="IN"
+8	33,37	GATE_Token	string="they" lemma="they" category="PRP"
+9	38,43	GATE_Token	string="reach" lemma="reach" category="VBP"
+10	44,51	GATE_Token	string="nothing" lemma="nothing" category="NN"
+11	52,53	GATE_Token	string="." lemma="." category="."
+12	54,56	GATE_Token	string="''" lemma="''" category="''"

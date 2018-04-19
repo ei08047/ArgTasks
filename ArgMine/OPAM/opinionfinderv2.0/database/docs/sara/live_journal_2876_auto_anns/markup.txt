@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am bringing my <MPQAPOL autoclass="neutral">gigantic</MPQAPOL> tent , and <MPQAPOL autoclass="neutral">so</MPQAPOL> far it is <MPQAPOL autoclass="neutral">just</MPQAPOL> me in there ... if anyone is <MPQAPOL autoclass="negative">desperate</MPQAPOL> , and I <MPQAPOL autoclass="positive">like</MPQAPOL> them ... :)</MPQASENT>

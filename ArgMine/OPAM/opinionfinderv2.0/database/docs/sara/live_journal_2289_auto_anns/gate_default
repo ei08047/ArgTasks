@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,3	GATE_Token	string="Wow" lemma="wow" category="UH"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,7	GATE_Token	string="I" lemma="I" category="PRP"
+5	8,15	GATE_Token	string="watched" lemma="watch" category="VBD"
+6	16,19	GATE_Token	string="the" lemma="the" category="DT"
+7	20,25	GATE_Token	string="whole" lemma="whole" category="JJ"
+8	26,31	GATE_Token	string="thing" lemma="thing" category="NN"
+9	32,33	GATE_Token	string="." lemma="." category="."

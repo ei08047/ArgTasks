@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">`` You both have <MPQAPOL autoclass="negative">extremely</MPQAPOL> <MPQAPOL autoclass="negative">weak</MPQAPOL> evidence to the contrary '' .</MPQASENT>

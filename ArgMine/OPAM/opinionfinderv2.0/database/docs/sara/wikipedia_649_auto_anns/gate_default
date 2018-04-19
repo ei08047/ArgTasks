@@ -1,0 +1,13 @@
+1	0,60	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,16	GATE_Token	string="nonsense" lemma="nonsense" category="NN"
+5	17,20	GATE_Token	string="and" lemma="and" category="CC"
+6	21,27	GATE_Token	string="should" lemma="should" category="MD"
+7	28,30	GATE_Token	string="be" lemma="be" category="VB"
+8	31,38	GATE_Token	string="removed" lemma="remove" category="VBN"
+9	39,41	GATE_Token	string="as" lemma="as" category="IN"
+10	42,44	GATE_Token	string="it" lemma="it" category="PRP"
+11	45,47	GATE_Token	string="is" lemma="be" category="VBZ"
+12	48,58	GATE_Token	string="homophobic" lemma="homophobic" category="JJ"
+13	59,60	GATE_Token	string="." lemma="." category="."

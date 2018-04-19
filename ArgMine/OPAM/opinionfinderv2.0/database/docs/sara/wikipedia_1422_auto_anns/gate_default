@@ -1,0 +1,12 @@
+1	0,55	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,10	GATE_Token	string="disagree" lemma="disagree" category="VBP"
+4	11,15	GATE_Token	string="with" lemma="with" category="IN"
+5	16,20	GATE_Token	string="this" lemma="this" category="DT"
+6	21,30	GATE_Token	string="statement" lemma="statement" category="NN"
+7	31,33	GATE_Token	string="on" lemma="on" category="IN"
+8	34,37	GATE_Token	string="the" lemma="the" category="DT"
+9	38,45	GATE_Token	string="grounds" lemma="grounds" category="NNS"
+10	46,48	GATE_Token	string="of" lemma="of" category="IN"
+11	49,53	GATE_Token	string="NPOV" lemma="npov" category="NN"
+12	54,55	GATE_Token	string="." lemma="." category="."

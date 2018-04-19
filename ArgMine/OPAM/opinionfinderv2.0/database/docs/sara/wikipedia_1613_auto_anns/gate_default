@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,2	GATE_Token	string="My" lemma="my" category="PRP$"
+3	3,11	GATE_Token	string="thoughts" lemma="thought" category="NNS"
+4	12,15	GATE_Token	string="are" lemma="be" category="VBP"
+5	16,20	GATE_Token	string="that" lemma="that" category="IN"
+6	21,24	GATE_Token	string="you" lemma="you" category="PRP"
+7	25,29	GATE_Token	string="make" lemma="make" category="VBP"
+8	30,34	GATE_Token	string="very" lemma="very" category="RB"
+9	35,40	GATE_Token	string="weird" lemma="weird" category="JJ"
+10	41,46	GATE_Token	string="silly" lemma="silly" category="JJ"
+11	47,55	GATE_Token	string="argument" lemma="argument" category="NN"
+12	56,57	GATE_Token	string="." lemma="." category="."

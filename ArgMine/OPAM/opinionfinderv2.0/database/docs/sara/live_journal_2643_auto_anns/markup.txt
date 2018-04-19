@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">some of us are <MPQAPOL autoclass="neutral">just</MPQAPOL> that <MPQAPOL autoclass="neutral">simple<MPQAPOL autoclass="neutral"></MPQASENT>

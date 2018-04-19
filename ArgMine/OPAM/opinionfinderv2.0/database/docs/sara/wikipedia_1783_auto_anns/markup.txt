@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If the AAF publishes in a peer reviewed journal , then we <MPQAPOL autoclass="neutral">would</MPQAPOL> <MPQAPOL autoclass="positive">want</MPQAPOL> to cite that journal .</MPQASENT>

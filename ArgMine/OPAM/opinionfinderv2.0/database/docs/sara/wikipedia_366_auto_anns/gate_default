@@ -1,0 +1,13 @@
+1	0,55	GATE_Sentence
+2	0,3	GATE_Token	string="She" lemma="she" category="PRP"
+3	4,10	GATE_Token	string="wanted" lemma="want" category="VBD"
+4	11,18	GATE_Token	string="payback" lemma="payback" category="NN"
+5	19,21	GATE_Token	string="on" lemma="on" category="IN"
+6	22,26	GATE_Token	string="some" lemma="some" category="DT"
+7	27,29	GATE_Token	string="of" lemma="of" category="IN"
+8	30,33	GATE_Token	string="the" lemma="the" category="DT"
+9	34,40	GATE_Token	string="people" lemma="people" category="NNS"
+10	41,44	GATE_Token	string="who" lemma="who" category="WP"
+11	45,48	GATE_Token	string="did" lemma="do" category="VBD"
+12	49,53	GATE_Token	string="that" lemma="that" category="DT"
+13	54,55	GATE_Token	string="." lemma="." category="."

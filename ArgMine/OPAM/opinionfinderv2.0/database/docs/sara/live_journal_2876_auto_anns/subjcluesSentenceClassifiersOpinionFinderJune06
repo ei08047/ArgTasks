@@ -1,0 +1,5 @@
+1	17,25	matchfeat	type="PolPmanweak" mpqapolarity="neutral"
+2	37,39	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+3	50,54	matchfeat	type="weakjandiss" mpqapolarity="strongpos"
+4	84,93	matchfeat	type="trainJWman" mpqapolarity="strongneg"
+5	102,106	matchfeat	type="fn_emotion_experiencer-subj_v" mpqapolarity="strongpos"

@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="FW"
+3	2,4	GATE_Token	string="am" lemma="be" category="VBP"
+4	5,11	GATE_Token	string="moving" lemma="move" category="VBG"
+5	12,16	GATE_Token	string="into" lemma="into" category="IN"
+6	17,20	GATE_Token	string="the" lemma="the" category="DT"
+7	21,30	GATE_Token	string="anarchist" lemma="anarchist" category="NN"
+8	31,36	GATE_Token	string="house" lemma="house" category="NN"
+9	37,44	GATE_Token	string="anytime" lemma="anytime" category="RB"
+10	45,49	GATE_Token	string="next" lemma="next" category="JJ"
+11	50,55	GATE_Token	string="month" lemma="month" category="NN"
+12	56,57	GATE_Token	string="." lemma="." category="."

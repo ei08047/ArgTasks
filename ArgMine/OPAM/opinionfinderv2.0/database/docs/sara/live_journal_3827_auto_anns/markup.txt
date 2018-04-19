@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Bill Hicks was <MPQAPOL autoclass="neutral">right</MPQAPOL> about Leno then , and he is right now .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Here 's a <MPQAPOL autoclass="neutral">practical</MPQAPOL> example ; The sub-genre of Thrash Metal <MPQAPOL autoclass="neutral">breaks</MPQAPOL> out mid-80s , a <MPQAPOL autoclass="neutral">mostly</MPQAPOL> American phenomenon .</MPQASENT>

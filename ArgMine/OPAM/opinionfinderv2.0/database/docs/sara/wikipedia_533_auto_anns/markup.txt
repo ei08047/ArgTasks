@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Instead , I <MPQAPOL autoclass="neutral">meant</MPQAPOL> that the net energy <MPQAPOL autoclass="neutral">gain</MPQAPOL> of the earth is zero .</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,51	GATE_Sentence
+2	0,3	GATE_Token	string="See" lemma="see" category="VB"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,10	GATE_Token	string="this" lemma="this" category="DT"
+5	11,13	GATE_Token	string="is" lemma="be" category="VBZ"
+6	14,17	GATE_Token	string="why" lemma="why" category="WRB"
+7	18,21	GATE_Token	string="you" lemma="you" category="PRP"
+8	22,26	GATE_Token	string="have" lemma="have" category="VBP"
+9	27,29	GATE_Token	string="to" lemma="to" category="TO"
+10	30,34	GATE_Token	string="move" lemma="move" category="VB"
+11	35,37	GATE_Token	string="to" lemma="to" category="TO"
+12	38,49	GATE_Token	string="Canuckistan" lemma="Canuckistan" category="NNP"
+13	50,51	GATE_Token	string="." lemma="." category="."

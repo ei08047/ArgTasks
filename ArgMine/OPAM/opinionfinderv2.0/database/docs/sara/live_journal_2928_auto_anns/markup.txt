@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Long story short , our cat was having <MPQAPOL autoclass="neutral">trouble</MPQAPOL> breathing the other night .</MPQASENT>

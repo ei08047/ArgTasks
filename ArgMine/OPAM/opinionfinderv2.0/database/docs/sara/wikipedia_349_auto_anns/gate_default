@@ -1,0 +1,8 @@
+1	0,44	GATE_Sentence
+2	0,12	GATE_Token	string="Inquisitions" lemma="inquisition" category="NNS"
+3	13,17	GATE_Token	string="were" lemma="be" category="VBD"
+4	18,25	GATE_Token	string="another" lemma="another" category="DT"
+5	26,30	GATE_Token	string="area" lemma="area" category="NN"
+6	31,33	GATE_Token	string="of" lemma="of" category="IN"
+7	34,42	GATE_Token	string="surprise" lemma="surprise" category="NN"
+8	43,44	GATE_Token	string="." lemma="." category="."

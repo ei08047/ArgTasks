@@ -1,0 +1,8 @@
+1	0,35	GATE_Sentence
+2	0,2	GATE_Token	string="He" lemma="he" category="PRP"
+3	3,6	GATE_Token	string="has" lemma="have" category="VBZ"
+4	7,16	GATE_Token	string="relatives" lemma="relative" category="NNS"
+5	17,23	GATE_Token	string="living" lemma="live" category="VBG"
+6	24,26	GATE_Token	string="in" lemma="in" category="IN"
+7	27,33	GATE_Token	string="Israel" lemma="Israel" category="NNP"
+8	34,35	GATE_Token	string="." lemma="." category="."

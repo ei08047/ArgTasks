@@ -1,0 +1,10 @@
+1	0,57	GATE_Sentence
+2	0,2	GATE_Token	string="He" lemma="he" category="PRP"
+3	3,7	GATE_Token	string="goes" lemma="go" category="VBZ"
+4	8,15	GATE_Token	string="against" lemma="against" category="IN"
+5	16,28	GATE_Token	string="conventional" lemma="conventional" category="JJ"
+6	29,37	GATE_Token	string="mid-east" lemma="mid-east" category="JJ"
+7	38,50	GATE_Token	string="antisemitism" lemma="antisemitism" category="NN"
+8	51,53	GATE_Token	string="by" lemma="by" category="IN"
+9	54,55	GATE_Token	string="1" lemma="1" category="CD"
+10	56,57	GATE_Token	string="." lemma="." category="."

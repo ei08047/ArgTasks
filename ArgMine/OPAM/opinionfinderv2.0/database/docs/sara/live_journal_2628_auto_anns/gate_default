@@ -1,0 +1,12 @@
+1	0,59	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,9	GATE_Token	string="could" lemma="could" category="MD"
+4	10,14	GATE_Token	string="have" lemma="have" category="VB"
+5	15,19	GATE_Token	string="been" lemma="be" category="VBN"
+6	20,28	GATE_Token	string="mistaken" lemma="mistake" category="VBN"
+7	29,31	GATE_Token	string="as" lemma="as" category="IN"
+8	32,34	GATE_Token	string="an" lemma="a" category="DT"
+9	35,43	GATE_Token	string="opponent" lemma="opponent" category="NN"
+10	44,46	GATE_Token	string="of" lemma="of" category="IN"
+11	47,57	GATE_Token	string="capitalism" lemma="capitalism" category="NN"
+12	58,59	GATE_Token	string="!" lemma="!" category="."

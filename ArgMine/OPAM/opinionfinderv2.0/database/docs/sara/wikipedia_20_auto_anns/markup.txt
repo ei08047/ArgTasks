@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Anyone <MPQAPOL autoclass="neutral">familiar</MPQAPOL> with the subject matter <MPQAPOL autoclass="neutral">knows</MPQAPOL> that LAShTAL is the <MPQAPOL autoclass="neutral">primary</MPQAPOL> website on Crowley .</MPQASENT>

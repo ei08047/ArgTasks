@@ -1,0 +1,12 @@
+1	0,54	GATE_Sentence
+2	0,8	GATE_Token	string="Fourthly" lemma="fourthly" category="RB"
+3	9,10	GATE_Token	string="," lemma="," category=","
+4	11,14	GATE_Token	string="you" lemma="you" category="PRP"
+5	15,19	GATE_Token	string="make" lemma="make" category="VBP"
+6	20,30	GATE_Token	string="comparison" lemma="comparison" category="NN"
+7	31,38	GATE_Token	string="between" lemma="between" category="IN"
+8	39,42	GATE_Token	string="the" lemma="the" category="DT"
+9	43,45	GATE_Token	string="UK" lemma="UK" category="NNP"
+10	46,49	GATE_Token	string="and" lemma="and" category="CC"
+11	50,52	GATE_Token	string="EU" lemma="EU" category="NNP"
+12	53,54	GATE_Token	string="." lemma="." category="."

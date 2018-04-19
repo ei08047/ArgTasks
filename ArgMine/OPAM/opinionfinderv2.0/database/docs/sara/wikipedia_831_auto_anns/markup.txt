@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have a <MPQAPOL autoclass="neutral">feeling</MPQAPOL> that , as <MPQAPOL autoclass="neutral">easily</MPQAPOL> as it can be sourced , <MPQAPOL autoclass="neutral">would</MPQAPOL> not fly .</MPQASENT>

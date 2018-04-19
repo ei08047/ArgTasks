@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">People also do not <MPQAPOL autoclass="positive">like</MPQAPOL> to <MPQAPOL autoclass="neutral">look</MPQAPOL> at relisted auctions , and I relsited two .</MPQASENT>

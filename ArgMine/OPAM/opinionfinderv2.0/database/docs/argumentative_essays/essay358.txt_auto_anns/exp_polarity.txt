@@ -1,0 +1,7 @@
+argumentative_essays_essay358.txt_1614_1619	neutral
+argumentative_essays_essay358.txt_1623_1628	neutral
+argumentative_essays_essay358.txt_1677_1684	neutral
+argumentative_essays_essay358.txt_1701_1709	neutral
+argumentative_essays_essay358.txt_1732_1737	positive
+argumentative_essays_essay358.txt_1801_1808	neutral
+argumentative_essays_essay358.txt_1816_1829	neutral

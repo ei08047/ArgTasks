@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The two are not <MPQAPOL autoclass="negative">really</MPQAPOL> comparable , <MPQAPOL autoclass="neutral">though</MPQAPOL> , are they ?</MPQASENT>

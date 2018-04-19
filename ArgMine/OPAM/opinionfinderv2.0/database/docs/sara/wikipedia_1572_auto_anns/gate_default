@@ -1,0 +1,13 @@
+1	0,52	GATE_Sentence
+2	0,4	GATE_Token	string="lets" lemma="let" category="VBZ"
+3	5,9	GATE_Token	string="hold" lemma="hold" category="NN"
+4	10,13	GATE_Token	string="and" lemma="and" category="CC"
+5	14,17	GATE_Token	string="see" lemma="see" category="VB"
+6	18,22	GATE_Token	string="what" lemma="what" category="WP"
+7	23,28	GATE_Token	string="older" lemma="older" category="JJR"
+8	29,32	GATE_Token	string="and" lemma="and" category="CC"
+9	33,38	GATE_Token	string="wiser" lemma="wiser" category="JJR"
+10	39,43	GATE_Token	string="have" lemma="have" category="VBP"
+11	44,46	GATE_Token	string="to" lemma="to" category="TO"
+12	47,50	GATE_Token	string="say" lemma="say" category="VB"
+13	51,52	GATE_Token	string="." lemma="." category="."

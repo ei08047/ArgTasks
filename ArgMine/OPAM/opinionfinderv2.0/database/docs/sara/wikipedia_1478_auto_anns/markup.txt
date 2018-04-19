@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">This <MPQAPOL autoclass="neutral">would</MPQAPOL> be a <MPQAPOL autoclass="neutral">completely</MPQAPOL> <MPQAPOL autoclass="positive">useful</MPQAPOL> list , <MPQAPOL autoclass="neutral">rather</MPQAPOL> than the <MPQAPOL autoclass="neutral">mess</MPQAPOL> we are working on now !</MPQASENT>

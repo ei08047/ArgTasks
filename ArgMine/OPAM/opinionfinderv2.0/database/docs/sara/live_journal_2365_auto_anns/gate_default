@@ -1,0 +1,8 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="Good" lemma="good" category="JJ"
+3	5,12	GATE_Token	string="looking" lemma="look" category="VBG"
+4	13,16	GATE_Token	string="gal" lemma="gal" category="NN"
+5	17,22	GATE_Token	string="never" lemma="never" category="RB"
+6	23,27	GATE_Token	string="hurt" lemma="hurt" category="VBD"
+7	28,34	GATE_Token	string="either" lemma="either" category="CC"
+8	35,36	GATE_Token	string="." lemma="." category="."

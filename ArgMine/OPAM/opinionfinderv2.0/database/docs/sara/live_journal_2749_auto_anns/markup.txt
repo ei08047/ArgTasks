@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">this LJ is a place for me to express my unbridled and <MPQAPOL autoclass="negative">extremely</MPQAPOL> subjective <MPQAPOL autoclass="neutral">thoughts</MPQAPOL> and <MPQAPOL autoclass="neutral">feelings</MPQAPOL> .</MPQASENT>

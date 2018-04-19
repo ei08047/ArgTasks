@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The Irish Free State covered the <MPQAPOL autoclass="neutral">entire</MPQAPOL> island , and Northern Ireland opted out .</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,64	GATE_Sentence
+2	0,2	GATE_Token	string="Is" lemma="be" category="VBZ"
+3	3,6	GATE_Token	string="not" lemma="not" category="RB"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,19	GATE_Token	string="material" lemma="material" category="NN"
+6	20,24	GATE_Token	string="more" lemma="more" category="RBR"
+7	25,36	GATE_Token	string="appropriate" lemma="appropriate" category="JJ"
+8	37,40	GATE_Token	string="for" lemma="for" category="IN"
+9	41,46	GATE_Token	string="First" lemma="first" category="JJ"
+10	47,53	GATE_Token	string="Vision" lemma="Vision" category="NNP"
+11	54,55	GATE_Token	string="," lemma="," category=","
+12	56,62	GATE_Token	string="though" lemma="though" category="IN"
+13	63,64	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And <MPQAPOL autoclass="neutral">yes</MPQAPOL> , other continent = <MPQAPOL autoclass="neutral">problems</MPQAPOL> .</MPQASENT>

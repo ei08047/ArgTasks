@@ -1,0 +1,10 @@
+1	0,34	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,6	GATE_Token	string="like" lemma="like" category="IN"
+4	7,11	GATE_Token	string="that" lemma="that" category="IN"
+5	12,14	GATE_Token	string="he" lemma="he" category="PRP"
+6	15,17	GATE_Token	string="is" lemma="be" category="VBZ"
+7	18,25	GATE_Token	string="chewing" lemma="chew" category="VBG"
+8	26,28	GATE_Token	string="on" lemma="on" category="IN"
+9	29,32	GATE_Token	string="hay" lemma="hay" category="NN"
+10	33,34	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">my two <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="positive">friends</MPQAPOL> , steve and dima , <MPQAPOL autoclass="positive">love</MPQAPOL> them .</MPQASENT>

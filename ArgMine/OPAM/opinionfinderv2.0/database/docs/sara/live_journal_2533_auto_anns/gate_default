@@ -1,0 +1,9 @@
+1	0,35	GATE_Sentence
+2	0,4	GATE_Token	string="Have" lemma="have" category="VBP"
+3	5,8	GATE_Token	string="fun" lemma="fun" category="NN"
+4	9,17	GATE_Token	string="Spaining" lemma="spain" category="VBG"
+5	18,20	GATE_Token	string="it" lemma="it" category="PRP"
+6	21,23	GATE_Token	string="up" lemma="up" category="RP"
+7	24,25	GATE_Token	string="," lemma="," category=","
+8	26,33	GATE_Token	string="Stinker" lemma="Stinker" category="NNP"
+9	34,35	GATE_Token	string="!" lemma="!" category="."

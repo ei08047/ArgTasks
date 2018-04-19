@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> we <MPQAPOL autoclass="neutral">should</MPQAPOL> <MPQAPOL autoclass="neutral">consider</MPQAPOL> <MPQAPOL autoclass="neutral">properly</MPQAPOL> attributing <MPQAPOL autoclass="neutral">claims</MPQAPOL> to their sources in-text .</MPQASENT>

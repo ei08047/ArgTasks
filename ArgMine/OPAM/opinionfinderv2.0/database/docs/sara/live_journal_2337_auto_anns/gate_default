@@ -1,0 +1,13 @@
+1	0,61	GATE_Sentence
+2	0,5	GATE_Token	string="Apart" lemma="apart" category="RB"
+3	6,10	GATE_Token	string="from" lemma="from" category="IN"
+4	11,15	GATE_Token	string="that" lemma="that" category="DT"
+5	16,17	GATE_Token	string="," lemma="," category=","
+6	18,21	GATE_Token	string="how" lemma="how" category="WRB"
+7	22,24	GATE_Token	string="do" lemma="do" category="VBP"
+8	25,28	GATE_Token	string="you" lemma="you" category="PRP"
+9	29,33	GATE_Token	string="like" lemma="like" category="IN"
+10	34,42	GATE_Token	string="Tahitian" lemma="Tahitian" category="NNP"
+11	43,50	GATE_Token	string="vanilla" lemma="vanilla" category="NN"
+12	51,59	GATE_Token	string="martinis" lemma="martini" category="NNS"
+13	60,61	GATE_Token	string="?" lemma="?" category="."

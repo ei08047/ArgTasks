@@ -1,0 +1,5 @@
+argumentative_essays_essay231.txt_1141_1145	positive
+argumentative_essays_essay231.txt_1174_1178	positive
+argumentative_essays_essay231.txt_1197_1200	neutral
+argumentative_essays_essay231.txt_1223_1227	negative
+argumentative_essays_essay231.txt_1228_1233	positive

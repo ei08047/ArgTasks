@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">So</MPQAPOL> for now it is <MPQAPOL autoclass="positive">better</MPQAPOL> to retain consistency <MPQAPOL autoclass="neutral">rather</MPQAPOL> then have <MPQAPOL autoclass="negative">inconstant</MPQAPOL> and random article names .</MPQASENT>

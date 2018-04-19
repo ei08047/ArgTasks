@@ -1,0 +1,6 @@
+1	0,30	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,11	GATE_Token	string="certainly" lemma="certainly" category="RB"
+4	12,16	GATE_Token	string="HOPE" lemma="hope" category="VBP"
+5	17,19	GATE_Token	string="so" lemma="so" category="RB"
+6	20,30	GATE_Token	string="!!!!!!!!!!" lemma="!!!!!!!!!!" category="JJ"

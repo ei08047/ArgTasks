@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">To all who <MPQAPOL autoclass="neutral">think</MPQAPOL> that I have room in the dome at Eclipse .</MPQASENT>

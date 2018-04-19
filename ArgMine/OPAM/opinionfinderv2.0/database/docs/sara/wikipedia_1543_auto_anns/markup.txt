@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">`` Any historian , <MPQAPOL autoclass="neutral">commentator</MPQAPOL> or scientist who <MPQAPOL autoclass="negative">doubts</MPQAPOL> that is taken to <MPQAPOL autoclass="neutral">prison</MPQAPOL> or gets <MPQAPOL autoclass="negative">condemned</MPQAPOL> .</MPQASENT>

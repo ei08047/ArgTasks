@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">As I re-read my edit summary , I can see how that <MPQAPOL autoclass="neutral">assumption</MPQAPOL> <MPQAPOL autoclass="neutral">could</MPQAPOL> be drawn .</MPQASENT>

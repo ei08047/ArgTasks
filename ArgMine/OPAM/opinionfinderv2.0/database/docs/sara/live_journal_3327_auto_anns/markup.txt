@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I <MPQAPOL autoclass="neutral">could</MPQAPOL> <MPQAPOL autoclass="negative">rant</MPQAPOL> about that for a while , but it <MPQAPOL autoclass="neutral">would</MPQAPOL> be <MPQAPOL autoclass="neutral">even</MPQAPOL> <MPQAPOL autoclass="negative">less</MPQAPOL> <MPQAPOL autoclass="negative">interesting</MPQAPOL> than usual .</MPQASENT>

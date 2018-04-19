@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am <MPQAPOL autoclass="positive">pretty</MPQAPOL> numb right now and <MPQAPOL autoclass="neutral">trying</MPQAPOL> to stay that way <MPQAPOL autoclass="neutral">so</MPQAPOL> I do not have a meltdown .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Though</MPQAPOL> I <MPQAPOL autoclass="positive">agree</MPQAPOL> it <MPQAPOL autoclass="neutral">certainly</MPQAPOL> is not <MPQAPOL autoclass="negative">true</MPQAPOL> , It is not homophobic in the slightest .</MPQASENT>

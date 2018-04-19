@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">But generally there has not been <MPQAPOL autoclass="neutral">much</MPQAPOL> to talk about , <MPQAPOL autoclass="neutral">thus</MPQAPOL> my <MPQAPOL autoclass="negative">lack</MPQAPOL> of posts .</MPQASENT>

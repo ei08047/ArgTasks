@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,2	GATE_Token	string="At" lemma="at" category="IN"
+3	3,8	GATE_Token	string="least" lemma="least" category="JJS"
+4	9,11	GATE_Token	string="it" lemma="it" category="PRP"
+5	12,14	GATE_Token	string="is" lemma="be" category="VBZ"
+6	15,18	GATE_Token	string="not" lemma="not" category="RB"
+7	19,26	GATE_Token	string="O'Bryan" lemma="O'Bryan" category="NNP"
+8	27,29	GATE_Token	string="'s" lemma="'s" category="POS"
+9	30,33	GATE_Token	string="..." lemma="..." category=":"

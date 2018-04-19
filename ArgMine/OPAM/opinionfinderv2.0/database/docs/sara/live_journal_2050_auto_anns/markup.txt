@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">you can be <MPQAPOL autoclass="neutral">strong</MPQAPOL> , and sometimes you <MPQAPOL autoclass="neutral">might</MPQAPOL> have to be .</MPQASENT>

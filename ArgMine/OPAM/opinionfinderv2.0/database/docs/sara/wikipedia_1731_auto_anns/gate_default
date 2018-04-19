@@ -1,0 +1,13 @@
+1	0,58	GATE_Sentence
+2	0,7	GATE_Token	string="Perhaps" lemma="perhaps" category="RB"
+3	8,11	GATE_Token	string="you" lemma="you" category="PRP"
+4	12,18	GATE_Token	string="should" lemma="should" category="MD"
+5	19,23	GATE_Token	string="read" lemma="read" category="VB"
+6	24,28	GATE_Token	string="what" lemma="what" category="WP"
+7	29,30	GATE_Token	string="I" lemma="I" category="PRP"
+8	31,36	GATE_Token	string="wrote" lemma="write" category="VBD"
+9	37,41	GATE_Token	string="over" lemma="over" category="IN"
+10	42,45	GATE_Token	string="and" lemma="and" category="CC"
+11	46,50	GATE_Token	string="over" lemma="over" category="IN"
+12	51,56	GATE_Token	string="above" lemma="above" category="RB"
+13	57,58	GATE_Token	string="." lemma="." category="."

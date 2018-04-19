@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is a more <MPQAPOL autoclass="positive">reliable</MPQAPOL> source in this case which focuses on this <MPQAPOL autoclass="neutral">specific</MPQAPOL> statement .</MPQASENT>

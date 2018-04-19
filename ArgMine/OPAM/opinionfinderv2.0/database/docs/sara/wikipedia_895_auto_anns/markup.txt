@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Are you <MPQAPOL autoclass="neutral">supposed</MPQAPOL> to be an <MPQAPOL autoclass="neutral">experienced</MPQAPOL> wikipedia editor ?</MPQASENT>

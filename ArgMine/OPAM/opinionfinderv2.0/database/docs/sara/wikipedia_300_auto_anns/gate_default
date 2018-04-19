@@ -1,0 +1,10 @@
+1	0,43	GATE_Sentence
+2	0,3	GATE_Token	string="All" lemma="all" category="DT"
+3	4,6	GATE_Token	string="it" lemma="it" category="PRP"
+4	7,11	GATE_Token	string="does" lemma="do" category="VBZ"
+5	12,14	GATE_Token	string="is" lemma="be" category="VBZ"
+6	15,22	GATE_Token	string="present" lemma="present" category="JJ"
+7	23,29	GATE_Token	string="events" lemma="event" category="NNS"
+8	30,32	GATE_Token	string="in" lemma="in" category="IN"
+9	33,41	GATE_Token	string="sequence" lemma="sequence" category="NN"
+10	42,43	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It was a celebation for the Cemetary ( <MPQAPOL autoclass="neutral">odd</MPQAPOL> , ain't it ? )</MPQASENT>

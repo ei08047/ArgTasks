@@ -1,0 +1,11 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="FW"
+3	2,7	GATE_Token	string="think" lemma="think" category="VBP"
+4	8,14	GATE_Token	string="okedem" lemma="okedem" category="NN"
+5	15,18	GATE_Token	string="has" lemma="have" category="VBZ"
+6	19,25	GATE_Token	string="agreed" lemma="agree" category="VBN"
+7	26,28	GATE_Token	string="on" lemma="on" category="IN"
+8	29,33	GATE_Token	string="most" lemma="most" category="JJS"
+9	34,36	GATE_Token	string="of" lemma="of" category="IN"
+10	37,39	GATE_Token	string="it" lemma="it" category="PRP"
+11	40,41	GATE_Token	string="." lemma="." category="."

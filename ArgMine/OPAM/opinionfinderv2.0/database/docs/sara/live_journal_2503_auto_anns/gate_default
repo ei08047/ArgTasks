@@ -1,0 +1,8 @@
+1	0,39	GATE_Sentence
+2	0,2	GATE_Token	string="My" lemma="my" category="PRP$"
+3	3,10	GATE_Token	string="deepest" lemma="deepest" category="JJS"
+4	11,22	GATE_Token	string="condolences" lemma="condolence" category="NNS"
+5	23,25	GATE_Token	string="my" lemma="my" category="PRP$"
+6	26,30	GATE_Token	string="dear" lemma="dear" category="RB"
+7	31,37	GATE_Token	string="friend" lemma="friend" category="NN"
+8	38,39	GATE_Token	string="." lemma="." category="."

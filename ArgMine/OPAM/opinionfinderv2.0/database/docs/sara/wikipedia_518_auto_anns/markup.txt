@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">`` but it <MPQAPOL autoclass="neutral">ignores</MPQAPOL> the <MPQAPOL autoclass="neutral">fact</MPQAPOL> that the earth is emitting all of this energy back into space .</MPQASENT>

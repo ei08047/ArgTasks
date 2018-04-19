@@ -1,0 +1,12 @@
+1	0,60	GATE_Sentence
+2	0,3	GATE_Token	string="Did" lemma="do" category="VBD"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,15	GATE_Token	string="already" lemma="already" category="RB"
+5	16,20	GATE_Token	string="post" lemma="post" category="VB"
+6	21,29	GATE_Token	string="original" lemma="original" category="JJ"
+7	30,43	GATE_Token	string="announcements" lemma="announcement" category="NNS"
+8	44,46	GATE_Token	string="to" lemma="to" category="TO"
+9	47,50	GATE_Token	string="afp" lemma="afp" category="NN"
+10	51,54	GATE_Token	string="and" lemma="and" category="CC"
+11	55,58	GATE_Token	string="cam" lemma="cam" category="NN"
+12	59,60	GATE_Token	string="." lemma="." category="."

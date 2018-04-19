@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> we <MPQAPOL autoclass="negative">merely</MPQAPOL> <MPQAPOL autoclass="negative">need</MPQAPOL> to find <MPQAPOL autoclass="neutral">specific</MPQAPOL> <MPQAPOL autoclass="positive">objective</MPQAPOL> criteria that we can <MPQAPOL autoclass="neutral">agree</MPQAPOL> on .</MPQASENT>

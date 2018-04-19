@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Such</MPQAPOL> a <MPQAPOL autoclass="neutral">conflict</MPQAPOL> is strongly <MPQAPOL autoclass="negative">discouraged</MPQAPOL> .</MPQASENT>

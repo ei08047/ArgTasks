@@ -1,0 +1,10 @@
+1	0,44	GATE_Sentence
+2	0,1	GATE_Token	string="-" lemma="-" category=":"
+3	2,10	GATE_Token	string="prnyouth" lemma="prnyouth" category="NN"
+4	11,12	GATE_Token	string="I" lemma="I" category="PRP"
+5	13,17	GATE_Token	string="like" lemma="like" category="VBP"
+6	18,24	GATE_Token	string="Kermit" lemma="Kermit" category="NNP"
+7	25,28	GATE_Token	string="the" lemma="the" category="DT"
+8	29,33	GATE_Token	string="frog" lemma="frog" category="NN"
+9	34,42	GATE_Token	string="pictures" lemma="picture" category="NNS"
+10	43,44	GATE_Token	string="." lemma="." category="."

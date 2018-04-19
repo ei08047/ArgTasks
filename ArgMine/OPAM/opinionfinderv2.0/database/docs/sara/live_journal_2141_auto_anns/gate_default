@@ -1,0 +1,11 @@
+1	0,57	GATE_Sentence
+2	0,8	GATE_Token	string="Somebody" lemma="somebody" category="NN"
+3	9,13	GATE_Token	string="else" lemma="else" category="RB"
+4	14,17	GATE_Token	string="was" lemma="be" category="VBD"
+5	18,24	GATE_Token	string="asking" lemma="ask" category="VBG"
+6	25,27	GATE_Token	string="me" lemma="I" category="PRP"
+7	28,33	GATE_Token	string="about" lemma="about" category="IN"
+8	34,42	GATE_Token	string="pictures" lemma="picture" category="NNS"
+9	43,51	GATE_Token	string="recently" lemma="recently" category="RB"
+10	52,55	GATE_Token	string="too" lemma="too" category="RB"
+11	56,57	GATE_Token	string="." lemma="." category="."

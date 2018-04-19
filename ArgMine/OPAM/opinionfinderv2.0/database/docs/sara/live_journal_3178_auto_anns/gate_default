@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,19	GATE_Token	string="comment" lemma="comment" category="NN"
+6	20,21	GATE_Token	string="I" lemma="I" category="PRP"
+7	22,28	GATE_Token	string="posted" lemma="post" category="VBD"
+8	29,30	GATE_Token	string="." lemma="." category="."

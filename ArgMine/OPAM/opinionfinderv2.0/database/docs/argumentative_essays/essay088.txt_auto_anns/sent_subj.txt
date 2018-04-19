@@ -1,0 +1,9 @@
+argumentative_essays_essay088.txt_0_205	subj
+argumentative_essays_essay088.txt_206_350	subj
+argumentative_essays_essay088.txt_351_443	subj
+argumentative_essays_essay088.txt_445_631	subj
+argumentative_essays_essay088.txt_632_794	subj
+argumentative_essays_essay088.txt_795_981	subj
+argumentative_essays_essay088.txt_982_1143	obj
+argumentative_essays_essay088.txt_1144_1233	subj
+argumentative_essays_essay088.txt_1234_1329	subj

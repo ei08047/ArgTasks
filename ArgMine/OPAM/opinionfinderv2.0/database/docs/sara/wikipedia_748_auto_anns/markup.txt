@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Not collateral <MPQAPOL autoclass="neutral">damage</MPQAPOL> , but the intended targets .</MPQASENT>

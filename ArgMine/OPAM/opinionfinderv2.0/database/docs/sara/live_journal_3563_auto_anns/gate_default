@@ -1,0 +1,9 @@
+1	0,30	GATE_Sentence
+2	0,1	GATE_Token	string="[" lemma="[" category="-LRB-"
+3	1,5	GATE_Token	string="Yeah" lemma="yeah" category="UH"
+4	6,7	GATE_Token	string="," lemma="," category=","
+5	8,16	GATE_Token	string="spoilers" lemma="spoiler" category="NNS"
+6	17,19	GATE_Token	string="in" lemma="in" category="IN"
+7	20,28	GATE_Token	string="comments" lemma="comment" category="NNS"
+8	28,29	GATE_Token	string="." lemma="." category="."
+9	29,30	GATE_Token	string="]" lemma="]" category="-RRB-"

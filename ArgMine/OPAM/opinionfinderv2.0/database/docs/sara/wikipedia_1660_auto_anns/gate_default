@@ -1,0 +1,8 @@
+1	0,54	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,11	GATE_Token	string="Iranian" lemma="iranian" category="JJ"
+4	12,28	GATE_Token	string="state-controlled" lemma="state-controlled" category="JJ"
+5	29,36	GATE_Token	string="website" lemma="website" category="NN"
+6	37,42	GATE_Token	string="-LRB-" lemma="-lrb-" category="-LRB-"
+7	43,52	GATE_Token	string="PRESIDENT" lemma="president" category="NN"
+8	53,54	GATE_Token	string="." lemma="." category="."

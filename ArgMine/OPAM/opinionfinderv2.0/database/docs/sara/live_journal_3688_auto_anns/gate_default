@@ -1,0 +1,12 @@
+1	0,54	GATE_Sentence
+2	0,4	GATE_Token	string="Heat" lemma="heat" category="NN"
+3	5,7	GATE_Token	string="in" lemma="in" category="IN"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,19	GATE_Token	string="stomach" lemma="stomach" category="NN"
+6	20,26	GATE_Token	string="glares" lemma="glare" category="VBZ"
+7	27,34	GATE_Token	string="through" lemma="through" category="IN"
+8	35,38	GATE_Token	string="red" lemma="red" category="NN"
+9	39,40	GATE_Token	string="," lemma="," category=","
+10	41,47	GATE_Token	string="aching" lemma="ache" category="VBG"
+11	48,52	GATE_Token	string="eyes" lemma="eye" category="NNS"
+12	53,54	GATE_Token	string="." lemma="." category="."

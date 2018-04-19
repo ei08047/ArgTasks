@@ -1,0 +1,6 @@
+1	66,69	matchfeat	type="negation" 
+2	238,241	matchfeat	type="negation" 
+3	616,618	matchfeat	type="negation" 
+4	755,759	matchfeat	type="shiftneg" 
+5	887,894	matchfeat	type="negation" 
+6	991,1000	matchfeat	type="shiftneg" 

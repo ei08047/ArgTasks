@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Again I am <MPQAPOL autoclass="negative">appalled</MPQAPOL> at the suggestion of neutrality as an <MPQAPOL autoclass="negative">excuse</MPQAPOL> to present only one side of the issue .</MPQASENT>

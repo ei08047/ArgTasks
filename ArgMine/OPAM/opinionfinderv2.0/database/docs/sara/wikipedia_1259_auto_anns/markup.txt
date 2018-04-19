@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Therefore</MPQAPOL> , I <MPQAPOL autoclass="neutral">fail</MPQAPOL> to see how something like this <MPQAPOL autoclass="neutral">would</MPQAPOL> not be <MPQAPOL autoclass="negative">undue</MPQAPOL> weight for the article .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They came from somewhere <MPQAPOL autoclass="neutral">else</MPQAPOL> and <MPQAPOL autoclass="neutral">moved</MPQAPOL> into the rest of Europe .</MPQASENT>

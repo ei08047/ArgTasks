@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">San Francisco , California San Francisco -- This is the <MPQAPOL autoclass="neutral">primary</MPQAPOL> topic , and disambiguation is not <MPQAPOL autoclass="neutral">needed</MPQAPOL> .</MPQASENT>

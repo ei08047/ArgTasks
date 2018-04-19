@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="would" lemma="would" category="MD"
+4	8,13	GATE_Token	string="agree" lemma="agree" category="VB"
+5	14,16	GATE_Token	string="it" lemma="it" category="PRP"
+6	17,19	GATE_Token	string="is" lemma="be" category="VBZ"
+7	20,31	GATE_Token	string="unnecessary" lemma="unnecessary" category="JJ"
+8	32,35	GATE_Token	string="for" lemma="for" category="IN"
+9	36,39	GATE_Token	string="now" lemma="now" category="RB"
+10	40,41	GATE_Token	string="." lemma="." category="."

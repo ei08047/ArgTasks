@@ -1,0 +1,6 @@
+1	0,30	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+3	9,13	GATE_Token	string="Some" lemma="some" category="RB"
+4	14,18	GATE_Token	string="more" lemma="more" category="RBR"
+5	19,28	GATE_Token	string="mountains" lemma="mountain" category="NNS"
+6	29,30	GATE_Token	string="." lemma="." category="."

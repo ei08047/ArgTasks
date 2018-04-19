@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">You have done a <MPQAPOL autoclass="neutral">splendid</MPQAPOL> job of reminding us <MPQAPOL autoclass="neutral">just</MPQAPOL> how <MPQAPOL autoclass="positive">hot</MPQAPOL> you are .</MPQASENT>

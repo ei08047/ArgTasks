@@ -1,0 +1,11 @@
+1	0,39	GATE_Sentence
+2	0,2	GATE_Token	string="As" lemma="as" category="IN"
+3	3,5	GATE_Token	string="do" lemma="do" category="VBP"
+4	6,7	GATE_Token	string="I" lemma="I" category="PRP"
+5	8,9	GATE_Token	string="," lemma="," category=","
+6	10,13	GATE_Token	string="for" lemma="for" category="IN"
+7	14,17	GATE_Token	string="the" lemma="the" category="DT"
+8	18,25	GATE_Token	string="reasons" lemma="reason" category="NNS"
+9	26,31	GATE_Token	string="given" lemma="give" category="VBN"
+10	32,37	GATE_Token	string="above" lemma="above" category="IN"
+11	38,39	GATE_Token	string="." lemma="." category="."

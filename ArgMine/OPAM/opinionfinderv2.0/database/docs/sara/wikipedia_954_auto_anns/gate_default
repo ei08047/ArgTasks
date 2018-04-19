@@ -1,0 +1,7 @@
+1	0,30	GATE_Sentence
+2	0,4	GATE_Token	string="Less" lemma="less" category="RBR"
+3	5,10	GATE_Token	string="focus" lemma="focus" category="VB"
+4	11,13	GATE_Token	string="on" lemma="on" category="IN"
+5	14,22	GATE_Token	string="magazine" lemma="magazine" category="NN"
+6	23,28	GATE_Token	string="lists" lemma="list" category="NNS"
+7	29,30	GATE_Token	string="!" lemma="!" category="."

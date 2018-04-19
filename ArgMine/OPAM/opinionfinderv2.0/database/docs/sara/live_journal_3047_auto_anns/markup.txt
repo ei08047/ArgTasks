@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They said they are not <MPQAPOL autoclass="neutral">really</MPQAPOL> hiring till next month or something .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The scholars and research into the Book of Mormon <MPQAPOL autoclass="neutral">show</MPQAPOL> this statement to be historically <MPQAPOL autoclass="neutral">accurate</MPQAPOL> .</MPQASENT>

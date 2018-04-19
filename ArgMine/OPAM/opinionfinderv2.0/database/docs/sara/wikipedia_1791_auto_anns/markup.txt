@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">John , you <MPQAPOL autoclass="neutral">seemed</MPQAPOL> to <MPQAPOL autoclass="neutral">confuse</MPQAPOL> a group 's objectives with <MPQAPOL autoclass="neutral">independence</MPQAPOL> .</MPQASENT>

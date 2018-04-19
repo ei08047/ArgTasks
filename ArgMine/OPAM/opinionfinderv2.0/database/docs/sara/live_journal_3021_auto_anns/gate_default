@@ -1,0 +1,7 @@
+1	0,35	GATE_Sentence
+2	0,12	GATE_Token	string="hahahahahaha" lemma="hahahahahaha" category="NN"
+3	13,14	GATE_Token	string="I" lemma="i" category="CD"
+4	15,22	GATE_Token	string="fucking" lemma="fucking" category="JJ"
+5	23,27	GATE_Token	string="love" lemma="love" category="NN"
+6	28,33	GATE_Token	string="Maury" lemma="Maury" category="NNP"
+7	34,35	GATE_Token	string="." lemma="." category="."

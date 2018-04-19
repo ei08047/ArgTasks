@@ -1,0 +1,4 @@
+1	5,11	matchfeat	type="strongjandiss" mpqapolarity="weakpos"
+2	17,22	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+3	31,37	matchfeat	type="bl_psych_verb" mpqapolarity="weakneg"
+4	55,57	matchfeat	type="weakjandiss" mpqapolarity="neutral"

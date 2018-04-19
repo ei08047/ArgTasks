@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,2	GATE_Token	string="As" lemma="as" category="IN"
+3	3,7	GATE_Token	string="such" lemma="such" category="JJ"
+4	8,9	GATE_Token	string="," lemma="," category=","
+5	10,11	GATE_Token	string="I" lemma="I" category="PRP"
+6	12,14	GATE_Token	string="am" lemma="be" category="VBP"
+7	15,20	GATE_Token	string="doing" lemma="do" category="VBG"
+8	21,23	GATE_Token	string="my" lemma="my" category="PRP$"
+9	24,29	GATE_Token	string="first" lemma="first" category="JJ"
+10	30,43	GATE_Token	string="lj-cut-a-thon" lemma="lj-cut-a-thon" category="NN"
+11	44,45	GATE_Token	string="." lemma="." category="."

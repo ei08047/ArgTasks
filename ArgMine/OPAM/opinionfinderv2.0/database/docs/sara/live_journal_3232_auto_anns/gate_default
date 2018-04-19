@@ -1,0 +1,10 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="All" lemma="all" category="PDT"
+3	4,7	GATE_Token	string="the" lemma="the" category="DT"
+4	8,12	GATE_Token	string="raws" lemma="raw" category="NNS"
+5	13,16	GATE_Token	string="for" lemma="for" category="IN"
+6	17,20	GATE_Token	string="the" lemma="the" category="DT"
+7	21,25	GATE_Token	string="site" lemma="site" category="NN"
+8	26,27	GATE_Token	string="," lemma="," category=","
+9	28,38	GATE_Token	string="everything" lemma="everything" category="NN"
+10	39,40	GATE_Token	string="." lemma="." category="."

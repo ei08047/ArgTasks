@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It is six of the <MPQAPOL autoclass="neutral">original</MPQAPOL> nine counties of Ulster and therein <MPQAPOL autoclass="neutral">lies</MPQAPOL> the political <MPQAPOL autoclass="neutral">controversy</MPQAPOL> .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

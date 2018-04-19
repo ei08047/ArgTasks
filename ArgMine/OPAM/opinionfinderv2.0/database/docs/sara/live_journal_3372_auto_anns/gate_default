@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,7	GATE_Token	string="who" lemma="who" category="WP"
+4	8,13	GATE_Token	string="needs" lemma="need" category="VBZ"
+5	14,15	GATE_Token	string="a" lemma="a" category="DT"
+6	16,22	GATE_Token	string="Hummer" lemma="Hummer" category="NNP"
+7	23,25	GATE_Token	string="in" lemma="in" category="IN"
+8	26,29	GATE_Token	string="New" lemma="New" category="NNP"
+9	30,36	GATE_Token	string="Jersey" lemma="Jersey" category="NNP"
+10	37,38	GATE_Token	string="?" lemma="?" category="."

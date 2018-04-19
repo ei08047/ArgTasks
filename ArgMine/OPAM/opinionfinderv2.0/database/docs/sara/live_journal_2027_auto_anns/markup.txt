@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">something i <MPQAPOL autoclass="neutral">would</MPQAPOL> 've <MPQAPOL autoclass="positive">wish</MPQAPOL> i <MPQAPOL autoclass="neutral">could</MPQAPOL> 've got :P</MPQASENT>

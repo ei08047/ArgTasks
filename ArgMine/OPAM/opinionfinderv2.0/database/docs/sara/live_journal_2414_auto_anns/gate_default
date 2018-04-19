@@ -1,0 +1,11 @@
+1	0,43	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,8	GATE_Token	string="was" lemma="be" category="VBD"
+4	9,10	GATE_Token	string="a" lemma="a" category="DT"
+5	11,15	GATE_Token	string="slow" lemma="slow" category="JJ"
+6	16,20	GATE_Token	string="week" lemma="week" category="NN"
+7	21,26	GATE_Token	string="right" lemma="right" category="NN"
+8	27,31	GATE_Token	string="from" lemma="from" category="IN"
+9	32,35	GATE_Token	string="the" lemma="the" category="DT"
+10	36,41	GATE_Token	string="start" lemma="start" category="NN"
+11	42,43	GATE_Token	string="." lemma="." category="."

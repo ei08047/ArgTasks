@@ -1,0 +1,10 @@
+1	0,30	GATE_Sentence
+2	0,5	GATE_Token	string="short" lemma="short" category="JJ"
+3	6,12	GATE_Token	string="update" lemma="update" category="VBP"
+4	13,14	GATE_Token	string=":" lemma=":" category=":"
+5	15,16	GATE_Token	string="-" lemma="-" category=":"
+6	17,18	GATE_Token	string="i" lemma="i" category="FW"
+7	19,21	GATE_Token	string="am" lemma="be" category="VBP"
+8	22,23	GATE_Token	string="a" lemma="a" category="DT"
+9	24,28	GATE_Token	string="nerd" lemma="nerd" category="NN"
+10	29,30	GATE_Token	string="." lemma="." category="."

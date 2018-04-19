@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">kimmel gives the <MPQAPOL autoclass="neutral">best</MPQAPOL> interview .</MPQASENT>

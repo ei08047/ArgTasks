@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">i have been having alot of <MPQAPOL autoclass="neutral">problems</MPQAPOL> with my <MPQAPOL autoclass="positive">personality</MPQAPOL> <MPQAPOL autoclass="negative">disorder</MPQAPOL> latley .</MPQASENT>

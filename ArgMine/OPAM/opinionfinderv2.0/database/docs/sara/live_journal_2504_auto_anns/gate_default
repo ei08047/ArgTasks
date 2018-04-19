@@ -1,0 +1,11 @@
+1	0,38	GATE_Sentence
+2	0,2	GATE_Token	string="My" lemma="my" category="PRP$"
+3	3,8	GATE_Token	string="heart" lemma="heart" category="NN"
+4	9,13	GATE_Token	string="goes" lemma="go" category="VBZ"
+5	14,17	GATE_Token	string="out" lemma="out" category="IN"
+6	18,20	GATE_Token	string="to" lemma="to" category="TO"
+7	21,24	GATE_Token	string="the" lemma="the" category="DT"
+8	25,29	GATE_Token	string="both" lemma="both" category="DT"
+9	30,32	GATE_Token	string="of" lemma="of" category="IN"
+10	33,36	GATE_Token	string="you" lemma="you" category="PRP"
+11	37,38	GATE_Token	string="." lemma="." category="."

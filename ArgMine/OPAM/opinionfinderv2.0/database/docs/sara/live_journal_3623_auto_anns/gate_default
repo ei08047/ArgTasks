@@ -1,0 +1,13 @@
+1	0,44	GATE_Sentence
+2	0,3	GATE_Token	string="New" lemma="New" category="NNP"
+3	4,6	GATE_Token	string="LJ" lemma="LJ" category="NNP"
+4	7,9	GATE_Token	string="as" lemma="as" category="RB"
+5	10,14	GATE_Token	string="well" lemma="well" category="RB"
+6	15,16	GATE_Token	string="," lemma="," category=","
+7	17,20	GATE_Token	string="but" lemma="but" category="CC"
+8	21,23	GATE_Token	string="my" lemma="my" category="PRP$"
+9	24,27	GATE_Token	string="old" lemma="old" category="JJ"
+10	28,31	GATE_Token	string="one" lemma="one" category="CD"
+11	32,35	GATE_Token	string="got" lemma="get" category="VBD"
+12	36,42	GATE_Token	string="hacked" lemma="hack" category="VBN"
+13	43,44	GATE_Token	string="." lemma="." category="."

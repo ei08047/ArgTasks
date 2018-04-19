@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I <MPQAPOL autoclass="neutral">thought</MPQAPOL> you <MPQAPOL autoclass="neutral">fell</MPQAPOL> off the face of the planet !</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Me : [ <MPQAPOL autoclass="negative">Ranting</MPQAPOL> about the <MPQAPOL autoclass="negative">racist</MPQAPOL> critiques of Sonia Sotomayor ] You <MPQAPOL autoclass="neutral">know</MPQAPOL> what ?</MPQASENT>

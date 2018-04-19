@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Me and Patrick are doing <MPQAPOL autoclass="neutral">well</MPQAPOL> , it is <MPQAPOL autoclass="neutral">nice</MPQAPOL> and <MPQAPOL autoclass="neutral">calm</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">YOu can present a <MPQAPOL autoclass="negative">criticism</MPQAPOL> as a <MPQAPOL autoclass="negative">criticism</MPQAPOL> but that is not what you are doing here .</MPQASENT>

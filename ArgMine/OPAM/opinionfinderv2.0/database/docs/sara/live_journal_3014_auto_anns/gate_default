@@ -1,0 +1,11 @@
+1	0,49	GATE_Sentence
+2	0,4	GATE_Token	string="Only" lemma="only" category="RB"
+3	5,11	GATE_Token	string="having" lemma="have" category="VBG"
+4	12,15	GATE_Token	string="one" lemma="one" category="CD"
+5	16,20	GATE_Token	string="real" lemma="real" category="JJ"
+6	21,29	GATE_Token	string="argument" lemma="argument" category="NN"
+7	30,32	GATE_Token	string="is" lemma="be" category="VBZ"
+8	33,34	GATE_Token	string="a" lemma="a" category="DT"
+9	35,39	GATE_Token	string="huge" lemma="huge" category="JJ"
+10	40,47	GATE_Token	string="success" lemma="success" category="NN"
+11	48,49	GATE_Token	string="." lemma="." category="."

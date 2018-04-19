@@ -1,0 +1,8 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="Plus" lemma="plus" category="CC"
+3	5,7	GATE_Token	string="it" lemma="it" category="PRP"
+4	8,13	GATE_Token	string="makes" lemma="make" category="VBZ"
+5	14,22	GATE_Token	string="everyone" lemma="everyone" category="NN"
+6	23,25	GATE_Token	string="so" lemma="so" category="RB"
+7	26,34	GATE_Token	string="shimmery" lemma="shimmery" category="JJ"
+8	35,36	GATE_Token	string="." lemma="." category="."

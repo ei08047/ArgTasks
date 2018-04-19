@@ -1,0 +1,10 @@
+1	0,43	GATE_Sentence
+2	0,3	GATE_Token	string="Any" lemma="any" category="DT"
+3	4,7	GATE_Token	string="who" lemma="who" category="WP"
+4	8,11	GATE_Token	string="..." lemma="..." category=":"
+5	12,16	GATE_Token	string="your" lemma="you" category="PRP$"
+6	17,25	GATE_Token	string="presense" lemma="presense" category="NN"
+7	26,29	GATE_Token	string="has" lemma="have" category="VBZ"
+8	30,34	GATE_Token	string="been" lemma="be" category="VBN"
+9	35,41	GATE_Token	string="missed" lemma="miss" category="VBN"
+10	42,43	GATE_Token	string="." lemma="." category="."

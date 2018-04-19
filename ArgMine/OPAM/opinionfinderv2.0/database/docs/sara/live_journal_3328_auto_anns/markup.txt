@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I do not <MPQAPOL autoclass="neutral">know</MPQAPOL> <MPQAPOL autoclass="neutral">exactly</MPQAPOL> how you go about that <MPQAPOL autoclass="neutral">though</MPQAPOL> .</MPQASENT>

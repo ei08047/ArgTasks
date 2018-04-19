@@ -1,0 +1,5 @@
+1	2,9	matchfeat	type="ballmerLen2" mpqapolarity="strongpos"
+2	2,9	matchfeat	type="ballmerLen2" mpqapolarity="strongpos"
+3	5,9	matchfeat	type="PolPmanstrong" mpqapolarity="strongpos"
+4	37,45	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="neutral"
+5	89,92	matchfeat	type="weakjandiss" mpqapolarity="strongneg"

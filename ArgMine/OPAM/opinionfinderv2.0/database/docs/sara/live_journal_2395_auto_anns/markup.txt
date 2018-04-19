@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It will be an executive memo that will <MPQAPOL autoclass="neutral">expire</MPQAPOL> when he leaves office .</MPQASENT>

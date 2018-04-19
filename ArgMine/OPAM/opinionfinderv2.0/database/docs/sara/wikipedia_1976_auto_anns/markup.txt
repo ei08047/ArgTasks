@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">My <MPQAPOL autoclass="negative">mistake</MPQAPOL> then , I did not <MPQAPOL autoclass="neutral">know</MPQAPOL> that a country was not a country until it was colonized .</MPQASENT>

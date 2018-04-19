@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,2	GATE_Token	string="ok" lemma="ok" category="NN"
+3	3,7	GATE_Token	string="what" lemma="what" category="WDT"
+4	8,12	GATE_Token	string="size" lemma="size" category="NN"
+5	13,21	GATE_Token	string="diameter" lemma="diameter" category="NN"
+6	22,25	GATE_Token	string="and" lemma="and" category="CC"
+7	26,32	GATE_Token	string="length" lemma="length" category="NN"
+8	33,36	GATE_Token	string="ect" lemma="ect" category="NN"
+9	37,38	GATE_Token	string="?" lemma="?" category="."

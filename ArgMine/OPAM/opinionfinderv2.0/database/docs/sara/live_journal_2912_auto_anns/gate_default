@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,3	GATE_Token	string="but" lemma="but" category="CC"
+3	4,7	GATE_Token	string="did" lemma="do" category="VBD"
+4	8,12	GATE_Token	string="your" lemma="you" category="PRP$"
+5	13,20	GATE_Token	string="clothes" lemma="clothes" category="NNS"
+6	21,24	GATE_Token	string="get" lemma="get" category="VBP"
+7	25,30	GATE_Token	string="clean" lemma="clean" category="JJ"
+8	31,32	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,13 @@
+1	0,55	GATE_Sentence
+2	0,3	GATE_Token	string="She" lemma="she" category="PRP"
+3	4,7	GATE_Token	string="was" lemma="be" category="VBD"
+4	8,13	GATE_Token	string="given" lemma="give" category="VBN"
+5	14,16	GATE_Token	string="an" lemma="a" category="DT"
+6	17,28	GATE_Token	string="opportunity" lemma="opportunity" category="NN"
+7	29,31	GATE_Token	string="to" lemma="to" category="TO"
+8	32,39	GATE_Token	string="succeed" lemma="succeed" category="VB"
+9	40,41	GATE_Token	string="," lemma="," category=","
+10	42,45	GATE_Token	string="and" lemma="and" category="CC"
+11	46,49	GATE_Token	string="she" lemma="she" category="PRP"
+12	50,53	GATE_Token	string="did" lemma="do" category="VBD"
+13	54,55	GATE_Token	string="!" lemma="!" category="."

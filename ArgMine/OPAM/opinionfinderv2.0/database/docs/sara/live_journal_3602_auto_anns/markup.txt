@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">A <MPQAPOL autoclass="neutral">friend</MPQAPOL> of mine once said `` If being <MPQAPOL autoclass="positive">honest</MPQAPOL> means risking a <MPQAPOL autoclass="positive">friendship</MPQAPOL> then <MPQAPOL autoclass="neutral">so</MPQAPOL> be it . ''</MPQASENT>

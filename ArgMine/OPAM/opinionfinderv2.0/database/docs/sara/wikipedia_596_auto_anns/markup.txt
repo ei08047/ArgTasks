@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">As a <MPQAPOL autoclass="neutral">courtesy</MPQAPOL> in the future , <MPQAPOL autoclass="positive">please</MPQAPOL> share your sources <MPQAPOL autoclass="neutral">rather</MPQAPOL> than <MPQAPOL autoclass="neutral">simply</MPQAPOL> delete material .</MPQASENT>

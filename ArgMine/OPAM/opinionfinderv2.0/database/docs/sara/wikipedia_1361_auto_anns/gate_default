@@ -1,0 +1,8 @@
+1	0,33	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="will" lemma="will" category="MD"
+4	7,16	GATE_Token	string="elaborate" lemma="elaborate" category="VB"
+5	17,19	GATE_Token	string="on" lemma="on" category="IN"
+6	20,22	GATE_Token	string="my" lemma="my" category="PRP$"
+7	23,31	GATE_Token	string="concerns" lemma="concern" category="NNS"
+8	32,33	GATE_Token	string="." lemma="." category="."

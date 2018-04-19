@@ -1,0 +1,13 @@
+1	0,62	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,9	GATE_Token	string="suggest" lemma="suggest" category="VBP"
+4	10,17	GATE_Token	string="keeping" lemma="keep" category="VBG"
+5	18,21	GATE_Token	string="the" lemma="the" category="DT"
+6	22,29	GATE_Token	string="present" lemma="present" category="JJ"
+7	30,34	GATE_Token	string="form" lemma="form" category="NN"
+8	35,42	GATE_Token	string="because" lemma="because" category="IN"
+9	43,45	GATE_Token	string="it" lemma="it" category="PRP"
+10	46,52	GATE_Token	string="really" lemma="really" category="RB"
+11	53,55	GATE_Token	string="is" lemma="be" category="VBZ"
+12	56,60	GATE_Token	string="NPOV" lemma="npov" category="NN"
+13	61,62	GATE_Token	string="." lemma="." category="."

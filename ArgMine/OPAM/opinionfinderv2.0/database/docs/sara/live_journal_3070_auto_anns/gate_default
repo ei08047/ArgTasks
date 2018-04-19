@@ -1,0 +1,11 @@
+1	0,44	GATE_Sentence
+2	0,4	GATE_Token	string="Even" lemma="even" category="RB"
+3	5,7	GATE_Token	string="my" lemma="my" category="PRP$"
+4	8,13	GATE_Token	string="white" lemma="white" category="JJ"
+5	14,17	GATE_Token	string="boy" lemma="boy" category="NN"
+6	18,24	GATE_Token	string="dreads" lemma="dread" category="NNS"
+7	25,29	GATE_Token	string="were" lemma="be" category="VBD"
+8	30,33	GATE_Token	string="not" lemma="not" category="RB"
+9	34,38	GATE_Token	string="that" lemma="that" category="IN"
+10	39,42	GATE_Token	string="bad" lemma="bad" category="JJ"
+11	43,44	GATE_Token	string="." lemma="." category="."

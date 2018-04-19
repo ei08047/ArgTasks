@@ -1,0 +1,10 @@
+1	0,49	GATE_Sentence
+2	0,4	GATE_Token	string="dave" lemma="dave" category="NN"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,12	GATE_Token	string="just" lemma="just" category="RB"
+5	13,18	GATE_Token	string="weird" lemma="weird" category="JJ"
+6	19,22	GATE_Token	string="and" lemma="and" category="CC"
+7	23,32	GATE_Token	string="lecherous" lemma="lecherous" category="JJ"
+8	33,36	GATE_Token	string="and" lemma="and" category="CC"
+9	37,47	GATE_Token	string="unpleasant" lemma="unpleasant" category="JJ"
+10	48,49	GATE_Token	string="." lemma="." category="."

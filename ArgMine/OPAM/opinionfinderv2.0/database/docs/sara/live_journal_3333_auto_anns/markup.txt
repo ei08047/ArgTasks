@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It <MPQAPOL autoclass="neutral">seems</MPQAPOL> like all the jobs out there are sales , or customer service , and neither is <MPQAPOL autoclass="neutral">pleasant</MPQAPOL> .</MPQASENT>

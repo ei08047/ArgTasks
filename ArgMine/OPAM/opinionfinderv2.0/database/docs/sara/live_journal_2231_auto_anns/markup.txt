@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Nice</MPQAPOL> and humid and <MPQAPOL autoclass="neutral">sticky</MPQAPOL> during the day with a <MPQAPOL autoclass="positive">beautiful</MPQAPOL> storm at night .</MPQASENT>

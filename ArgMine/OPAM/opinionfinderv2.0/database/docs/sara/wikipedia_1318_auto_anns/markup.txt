@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Perhaps</MPQAPOL> we <MPQAPOL autoclass="neutral">should</MPQAPOL> <MPQAPOL autoclass="neutral">distinguish</MPQAPOL> between things which can <MPQAPOL autoclass="neutral">reasonably</MPQAPOL> be called pseudosciences and those that can not .</MPQASENT>

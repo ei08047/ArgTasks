@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">However</MPQAPOL> , I am not <MPQAPOL autoclass="neutral">sure</MPQAPOL> as to how <MPQAPOL autoclass="neutral">much</MPQAPOL> all of this <MPQAPOL autoclass="neutral">relevant</MPQAPOL> to the main topic .</MPQASENT>

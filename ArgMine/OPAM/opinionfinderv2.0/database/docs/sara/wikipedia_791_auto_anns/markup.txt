@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You flatly <MPQAPOL autoclass="negative">refuse</MPQAPOL> to <MPQAPOL autoclass="neutral">understand</MPQAPOL> what I am saying , and I will not repeat myself a third time .</MPQASENT>

@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,12	GATE_Token	string="ancestry" lemma="ancestry" category="NN"
+4	13,18	GATE_Token	string="given" lemma="give" category="VBN"
+5	19,21	GATE_Token	string="in" lemma="in" category="IN"
+6	22,25	GATE_Token	string="his" lemma="he" category="PRP$"
+7	26,35	GATE_Token	string="biography" lemma="biography" category="NN"
+8	36,38	GATE_Token	string="is" lemma="be" category="VBZ"
+9	39,47	GATE_Token	string="probably" lemma="probably" category="RB"
+10	48,52	GATE_Token	string="made" lemma="make" category="VBN"
+11	53,55	GATE_Token	string="up" lemma="up" category="RP"
+12	56,57	GATE_Token	string="." lemma="." category="."

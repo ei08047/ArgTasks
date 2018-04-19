@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="FW"
+3	2,4	GATE_Token	string="am" lemma="be" category="VBP"
+4	5,9	GATE_Token	string="used" lemma="use" category="VBN"
+5	10,12	GATE_Token	string="to" lemma="to" category="TO"
+6	13,21	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+7	22,25	GATE_Token	string="and" lemma="and" category="CC"
+8	26,34	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+9	35,36	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">That is why I <MPQAPOL autoclass="positive">love</MPQAPOL> the <MPQAPOL autoclass="neutral">show</MPQAPOL> ... because he is a <MPQAPOL autoclass="neutral">complete</MPQAPOL> asshole .</MPQASENT>

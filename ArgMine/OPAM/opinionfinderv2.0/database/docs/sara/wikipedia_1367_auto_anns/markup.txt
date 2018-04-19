@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is not a willy nilly thing that can be <MPQAPOL autoclass="negative">twisted</MPQAPOL> in either direction .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The guy that sets our pub quiz said it was Gay And Proud , <MPQAPOL autoclass="neutral">though</MPQAPOL> it is probably <MPQAPOL autoclass="neutral">just</MPQAPOL> hearsay -- Robert , Cambridge</MPQASENT>

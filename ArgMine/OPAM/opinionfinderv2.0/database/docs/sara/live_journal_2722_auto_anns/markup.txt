@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have to go cough my lungs up somewhere <MPQAPOL autoclass="neutral">else</MPQAPOL> .</MPQASENT>

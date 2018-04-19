@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">My <MPQAPOL autoclass="neutral">thought</MPQAPOL> was to put these together at the <MPQAPOL autoclass="neutral">top</MPQAPOL> to give a <MPQAPOL autoclass="positive">strong</MPQAPOL> <MPQAPOL autoclass="positive">impression</MPQAPOL> of how Santa is typically <MPQAPOL autoclass="negative">thought</MPQAPOL> of .</MPQASENT>

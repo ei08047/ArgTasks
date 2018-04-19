@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The verb `` targeting '' <MPQAPOL autoclass="neutral">means</MPQAPOL> there is a `` target '' - <MPQAPOL autoclass="neutral">so</MPQAPOL> the question becomes - what is the target .</MPQASENT>

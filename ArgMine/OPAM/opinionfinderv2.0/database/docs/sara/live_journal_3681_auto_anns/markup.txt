@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The way I <MPQAPOL autoclass="neutral">look</MPQAPOL> on the outside is the way I <MPQAPOL autoclass="neutral">feel</MPQAPOL> on the inside .</MPQASENT>

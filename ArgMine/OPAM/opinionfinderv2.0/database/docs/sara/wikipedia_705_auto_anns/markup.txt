@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">does anyone <MPQAPOL autoclass="neutral">else</MPQAPOL> have a <MPQAPOL autoclass="neutral">comment</MPQAPOL> on the <MPQAPOL autoclass="neutral">compromise</MPQAPOL> i mentioned in the `` stop edit warring '' section ?</MPQASENT>

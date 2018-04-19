@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">There <MPQAPOL autoclass="neutral">seems</MPQAPOL> to be no <MPQAPOL autoclass="negative">disagreement</MPQAPOL> that there was a <MPQAPOL autoclass="neutral">division</MPQAPOL> of some sort under the 1920 act .</MPQASENT>

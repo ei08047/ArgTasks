@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,6	GATE_Token	string="want" lemma="want" category="VBP"
+4	7,9	GATE_Token	string="to" lemma="to" category="TO"
+5	10,14	GATE_Token	string="take" lemma="take" category="VB"
+6	15,20	GATE_Token	string="those" lemma="those" category="DT"
+7	21,28	GATE_Token	string="classes" lemma="class" category="NNS"
+8	29,30	GATE_Token	string="." lemma="." category="."

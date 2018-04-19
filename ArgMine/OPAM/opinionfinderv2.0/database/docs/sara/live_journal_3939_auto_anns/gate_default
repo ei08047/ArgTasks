@@ -1,0 +1,9 @@
+1	0,47	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+3	9,18	GATE_Token	string="IIIMAGEEE" lemma="IIIMAGEEE" category="NNP"
+4	19,27	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+5	28,31	GATE_Token	string="can" lemma="can" category="MD"
+6	32,35	GATE_Token	string="you" lemma="you" category="PRP"
+7	36,40	GATE_Token	string="read" lemma="read" category="VB"
+8	41,45	GATE_Token	string="this" lemma="this" category="DT"
+9	46,47	GATE_Token	string="?" lemma="?" category="."

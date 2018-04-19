@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">We were the first band to <MPQAPOL autoclass="neutral">really</MPQAPOL> go out and <MPQAPOL autoclass="neutral">claim</MPQAPOL> ourselves to be a <MPQAPOL autoclass="neutral">real</MPQAPOL> metal band . ''</MPQASENT>

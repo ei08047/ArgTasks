@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Descibe the creed in terms of its <MPQAPOL autoclass="neutral">importance</MPQAPOL> to the <MPQAPOL autoclass="neutral">faith</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">( Wind is coming from the <MPQAPOL autoclass="neutral">fact</MPQAPOL> that the suns <MPQAPOL autoclass="neutral">shines</MPQAPOL> on different parts of the earth unevenly , etc. .</MPQASENT>

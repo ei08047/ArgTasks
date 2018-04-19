@@ -1,0 +1,13 @@
+1	0,45	GATE_Sentence
+2	0,2	GATE_Token	string="So" lemma="so" category="IN"
+3	3,5	GATE_Token	string="we" lemma="we" category="PRP"
+4	6,10	GATE_Token	string="have" lemma="have" category="VBP"
+5	11,13	GATE_Token	string="an" lemma="a" category="DT"
+6	14,16	GATE_Token	string="IP" lemma="IP" category="NNP"
+7	17,26	GATE_Token	string="vandalism" lemma="vandalism" category="NN"
+8	27,29	GATE_Token	string="of" lemma="of" category="IN"
+9	30,34	GATE_Token	string="less" lemma="less" category="JJR"
+10	35,39	GATE_Token	string="than" lemma="than" category="IN"
+11	40,41	GATE_Token	string="4" lemma="4" category="CD"
+12	42,43	GATE_Token	string="%" lemma="%" category="NN"
+13	44,45	GATE_Token	string="." lemma="." category="."

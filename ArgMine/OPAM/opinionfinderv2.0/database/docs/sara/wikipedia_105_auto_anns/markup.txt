@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">That <MPQAPOL autoclass="neutral">really</MPQAPOL> was <MPQAPOL autoclass="negative">sad</MPQAPOL> from a <MPQAPOL autoclass="neutral">supposed</MPQAPOL> `` encyclopdia '' site .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">We <MPQAPOL autoclass="neutral">need</MPQAPOL> to keep the lead as <MPQAPOL autoclass="neutral">trim</MPQAPOL> as <MPQAPOL autoclass="neutral">possible</MPQAPOL> .</MPQASENT>

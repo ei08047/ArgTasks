@@ -1,0 +1,11 @@
+1	0,62	GATE_Sentence
+2	0,14	GATE_Token	string="illustration-y" lemma="illustration-y" category="JJ"
+3	15,22	GATE_Token	string="tattoos" lemma="tattoo" category="NNS"
+4	23,26	GATE_Token	string="are" lemma="be" category="VBP"
+5	27,29	GATE_Token	string="so" lemma="so" category="RB"
+6	30,34	GATE_Token	string="much" lemma="much" category="RB"
+7	35,41	GATE_Token	string="better" lemma="better" category="JJR"
+8	42,46	GATE_Token	string="than" lemma="than" category="IN"
+9	47,55	GATE_Token	string="stylized" lemma="stylized" category="JJ"
+10	56,60	GATE_Token	string="ones" lemma="one" category="NNS"
+11	61,62	GATE_Token	string="." lemma="." category="."

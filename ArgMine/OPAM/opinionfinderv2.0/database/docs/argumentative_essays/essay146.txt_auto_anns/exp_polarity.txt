@@ -1,0 +1,4 @@
+argumentative_essays_essay146.txt_1954_1961	neutral
+argumentative_essays_essay146.txt_1963_1967	neutral
+argumentative_essays_essay146.txt_1975_1979	neutral
+argumentative_essays_essay146.txt_1983_1994	positive

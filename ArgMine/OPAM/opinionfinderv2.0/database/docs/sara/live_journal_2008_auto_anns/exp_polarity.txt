@@ -1,0 +1,5 @@
+sara_live_journal_2008_2_6	positive
+sara_live_journal_2008_17_23	neutral
+sara_live_journal_2008_42_44	neutral
+sara_live_journal_2008_45_49	positive
+sara_live_journal_2008_77_82	neutral

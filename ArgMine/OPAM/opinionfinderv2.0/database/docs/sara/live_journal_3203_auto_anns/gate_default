@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,6	GATE_Token	string="really" lemma="really" category="RB"
+3	7,12	GATE_Token	string="close" lemma="close" category="JJ"
+4	13,15	GATE_Token	string="to" lemma="to" category="TO"
+5	16,18	GATE_Token	string="my" lemma="my" category="PRP$"
+6	19,24	GATE_Token	string="other" lemma="other" category="JJ"
+7	25,30	GATE_Token	string="place" lemma="place" category="NN"
+8	31,32	GATE_Token	string="." lemma="." category="."

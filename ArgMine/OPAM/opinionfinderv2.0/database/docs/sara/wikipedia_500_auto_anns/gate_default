@@ -1,0 +1,13 @@
+1	0,52	GATE_Sentence
+2	0,2	GATE_Token	string="My" lemma="my" category="PRP$"
+3	3,7	GATE_Token	string="vote" lemma="vote" category="NN"
+4	8,10	GATE_Token	string="is" lemma="be" category="VBZ"
+5	11,16	GATE_Token	string="still" lemma="still" category="RB"
+6	17,20	GATE_Token	string="for" lemma="for" category="IN"
+7	21,22	GATE_Token	string="a" lemma="a" category="DT"
+8	23,31	GATE_Token	string="symbolic" lemma="symbolic" category="JJ"
+9	32,33	GATE_Token	string="," lemma="," category=","
+10	34,39	GATE_Token	string="broad" lemma="broad" category="JJ"
+11	40,44	GATE_Token	string="lead" lemma="lead" category="NN"
+12	45,50	GATE_Token	string="image" lemma="image" category="NN"
+13	51,52	GATE_Token	string="." lemma="." category="."

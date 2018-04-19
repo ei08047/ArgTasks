@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Then a whole bunch of <MPQAPOL autoclass="neutral">wars</MPQAPOL> and <MPQAPOL autoclass="neutral">revolutions</MPQAPOL> later , the current 5th Republic was established in 1958 .</MPQASENT>

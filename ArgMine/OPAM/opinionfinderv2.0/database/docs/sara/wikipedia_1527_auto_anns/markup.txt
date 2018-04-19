@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">simply</MPQAPOL> putting it in '' '' doesnt <MPQAPOL autoclass="neutral">seem</MPQAPOL> <MPQAPOL autoclass="neutral">enough</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I was <MPQAPOL autoclass="neutral">interested</MPQAPOL> , as where there is kayaking , there is usually rafting .</MPQASENT>

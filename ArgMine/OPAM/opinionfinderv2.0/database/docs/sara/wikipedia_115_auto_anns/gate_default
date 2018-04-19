@@ -1,0 +1,13 @@
+1	0,47	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,11	GATE_Token	string="problem" lemma="problem" category="NN"
+4	12,14	GATE_Token	string="is" lemma="be" category="VBZ"
+5	15,19	GATE_Token	string="with" lemma="with" category="IN"
+6	20,23	GATE_Token	string="the" lemma="the" category="DT"
+7	24,26	GATE_Token	string="``" lemma="``" category="``"
+8	27,33	GATE_Token	string="simple" lemma="simple" category="JJ"
+9	34,36	GATE_Token	string="''" lemma="''" category="''"
+10	37,45	GATE_Token	string="phonemes" lemma="phoneme" category="NNS"
+11	46,47	GATE_Token	string="." lemma="." category="."
+12	47,49	GATE_Sentence
+13	47,49	GATE_Token	string="--" lemma="--" category=":"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Well</MPQAPOL> , this <MPQAPOL autoclass="neutral">could</MPQAPOL> be nearly any <MPQAPOL autoclass="neutral">notable</MPQAPOL> source which presents <MPQAPOL autoclass="neutral">such</MPQAPOL> a characterization .</MPQASENT>

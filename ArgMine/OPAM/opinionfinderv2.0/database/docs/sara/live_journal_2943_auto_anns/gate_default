@@ -1,0 +1,13 @@
+1	0,57	GATE_Sentence
+2	0,4	GATE_Token	string="Some" lemma="some" category="DT"
+3	5,7	GATE_Token	string="of" lemma="of" category="IN"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,20	GATE_Token	string="snakiest" lemma="snakiest" category="JJS"
+6	21,27	GATE_Token	string="people" lemma="people" category="NNS"
+7	28,30	GATE_Token	string="on" lemma="on" category="IN"
+8	31,34	GATE_Token	string="the" lemma="the" category="DT"
+9	35,39	GATE_Token	string="face" lemma="face" category="NN"
+10	40,42	GATE_Token	string="of" lemma="of" category="IN"
+11	43,46	GATE_Token	string="the" lemma="the" category="DT"
+12	47,53	GATE_Token	string="planet" lemma="planet" category="NN"
+13	54,57	GATE_Token	string="..." lemma="..." category=":"

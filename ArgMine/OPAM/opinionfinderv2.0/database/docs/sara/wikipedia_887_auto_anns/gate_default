@@ -1,0 +1,12 @@
+1	0,42	GATE_Sentence
+2	0,4	GATE_Token	string="Also" lemma="also" category="RB"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,11	GATE_Token	string="what" lemma="what" category="WP"
+5	12,14	GATE_Token	string="do" lemma="do" category="VBP"
+6	15,18	GATE_Token	string="you" lemma="you" category="PRP"
+7	19,23	GATE_Token	string="mean" lemma="mean" category="VB"
+8	24,26	GATE_Token	string="by" lemma="by" category="IN"
+9	27,29	GATE_Token	string="``" lemma="``" category="``"
+10	30,37	GATE_Token	string="further" lemma="further" category="JJ"
+11	38,40	GATE_Token	string="''" lemma="''" category="''"
+12	41,42	GATE_Token	string="?" lemma="?" category="."

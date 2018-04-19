@@ -1,0 +1,13 @@
+1	0,72	GATE_Sentence
+2	0,3	GATE_Token	string="Why" lemma="why" category="WRB"
+3	4,10	GATE_Token	string="should" lemma="should" category="MD"
+4	11,14	GATE_Token	string="one" lemma="one" category="PRP"
+5	15,23	GATE_Token	string="religion" lemma="religion" category="NN"
+6	24,28	GATE_Token	string="have" lemma="have" category="VBP"
+7	29,33	GATE_Token	string="more" lemma="more" category="RBR"
+8	34,45	GATE_Token	string="legislative" lemma="legislative" category="JJ"
+9	46,55	GATE_Token	string="influence" lemma="influence" category="NN"
+10	56,60	GATE_Token	string="than" lemma="than" category="IN"
+11	61,64	GATE_Token	string="any" lemma="any" category="DT"
+12	65,70	GATE_Token	string="other" lemma="other" category="JJ"
+13	71,72	GATE_Token	string="?" lemma="?" category="."

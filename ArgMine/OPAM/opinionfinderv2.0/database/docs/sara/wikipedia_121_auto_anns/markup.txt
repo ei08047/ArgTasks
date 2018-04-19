@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">But what makes Basque <MPQAPOL autoclass="neutral">intriguing</MPQAPOL> is <MPQAPOL autoclass="neutral">precisely</MPQAPOL> this <MPQAPOL autoclass="neutral">point</MPQAPOL> .</MPQASENT>

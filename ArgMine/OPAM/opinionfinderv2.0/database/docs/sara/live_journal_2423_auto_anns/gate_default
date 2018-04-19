@@ -1,0 +1,11 @@
+1	0,44	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,4	GATE_Token	string="am" lemma="be" category="VBP"
+4	5,11	GATE_Token	string="taking" lemma="take" category="VBG"
+5	12,13	GATE_Token	string="a" lemma="a" category="DT"
+6	14,20	GATE_Token	string="hiatus" lemma="hiatus" category="NN"
+7	21,25	GATE_Token	string="from" lemma="from" category="IN"
+8	26,29	GATE_Token	string="the" lemma="the" category="DT"
+9	30,36	GATE_Token	string="online" lemma="online" category="JJ"
+10	37,42	GATE_Token	string="world" lemma="world" category="NN"
+11	43,44	GATE_Token	string="." lemma="." category="."

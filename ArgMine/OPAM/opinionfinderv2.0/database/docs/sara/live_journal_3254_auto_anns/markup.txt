@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Drave - I will do my <MPQAPOL autoclass="positive">best</MPQAPOL> to get my new address to you as soon as <MPQAPOL autoclass="neutral">possible</MPQAPOL> .</MPQASENT>

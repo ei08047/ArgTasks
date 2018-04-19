@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Further</MPQAPOL> the reference was not to <MPQAPOL autoclass="neutral">full</MPQAPOL> source , but <MPQAPOL autoclass="neutral">rather</MPQAPOL> a <MPQAPOL autoclass="neutral">selective</MPQAPOL> compilation of quotes with no context .</MPQASENT>

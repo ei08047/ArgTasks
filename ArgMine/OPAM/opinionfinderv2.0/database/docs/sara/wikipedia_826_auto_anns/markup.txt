@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">First Israel widthdrew from Gaza , <MPQAPOL autoclass="neutral">so</MPQAPOL> Hamas is <MPQAPOL autoclass="negative">lying</MPQAPOL> about armed <MPQAPOL autoclass="neutral">resistance</MPQAPOL> .</MPQASENT>

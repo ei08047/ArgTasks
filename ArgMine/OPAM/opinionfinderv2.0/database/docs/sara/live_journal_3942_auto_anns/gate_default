@@ -1,0 +1,13 @@
+1	0,53	GATE_Sentence
+2	0,4	GATE_Token	string="this" lemma="this" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,11	GATE_Token	string="one" lemma="one" category="CD"
+5	12,14	GATE_Token	string="of" lemma="of" category="IN"
+6	15,18	GATE_Token	string="the" lemma="the" category="DT"
+7	19,27	GATE_Token	string="sweetest" lemma="sweetest" category="JJS"
+8	28,34	GATE_Token	string="things" lemma="thing" category="NNS"
+9	35,36	GATE_Token	string="I" lemma="I" category="PRP"
+10	37,41	GATE_Token	string="have" lemma="have" category="VBP"
+11	42,46	GATE_Token	string="ever" lemma="ever" category="RB"
+12	47,51	GATE_Token	string="seen" lemma="see" category="VBN"
+13	52,53	GATE_Token	string="." lemma="." category="."

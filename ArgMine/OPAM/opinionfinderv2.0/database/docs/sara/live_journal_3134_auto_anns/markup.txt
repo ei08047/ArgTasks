@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Did anybody <MPQAPOL autoclass="neutral">else</MPQAPOL> notice how <MPQAPOL autoclass="neutral">conspicuously</MPQAPOL> tan all the women were in that commercial ?</MPQASENT>

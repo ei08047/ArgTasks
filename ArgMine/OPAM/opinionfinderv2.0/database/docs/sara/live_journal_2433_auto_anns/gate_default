@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,8	GATE_Token	string="what" lemma="what" category="WP"
+4	9,12	GATE_Token	string="the" lemma="the" category="DT"
+5	13,17	GATE_Token	string="fuck" lemma="fuck" category="NN"
+6	18,20	GATE_Token	string="is" lemma="be" category="VBZ"
+7	21,29	GATE_Token	string="language" lemma="language" category="NN"
+8	30,36	GATE_Token	string="poetry" lemma="poetry" category="NN"
+9	37,38	GATE_Token	string="?" lemma="?" category="."

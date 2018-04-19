@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">If you <MPQAPOL autoclass="neutral">know</MPQAPOL> of no <MPQAPOL autoclass="negative">dispute</MPQAPOL> over `` Pro multis '' , then I am <MPQAPOL autoclass="positive">glad</MPQAPOL> you do not teach Catechism to my children .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

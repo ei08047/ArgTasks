@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> a <MPQAPOL autoclass="positive">good</MPQAPOL> strategy for you if you <MPQAPOL autoclass="positive">want</MPQAPOL> to do <MPQAPOL autoclass="neutral">big</MPQAPOL> rewrites is to do it sections at a time and see how it goes .</MPQASENT>

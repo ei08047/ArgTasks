@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I will not <MPQAPOL autoclass="neutral">believe</MPQAPOL> it until I take my geometry exam and never have to go to that class again .</MPQASENT>

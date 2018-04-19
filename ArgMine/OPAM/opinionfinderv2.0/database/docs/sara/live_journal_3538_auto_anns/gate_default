@@ -1,0 +1,12 @@
+1	0,48	GATE_Sentence
+2	0,8	GATE_Token	string="methinks" lemma="methink" category="NNS"
+3	9,13	GATE_Token	string="that" lemma="that" category="WDT"
+4	14,17	GATE_Token	string="'ll" lemma="'ll" category="MD"
+5	18,22	GATE_Token	string="work" lemma="work" category="VB"
+6	23,27	GATE_Token	string="best" lemma="best" category="RB"
+7	28,31	GATE_Token	string="for" lemma="for" category="IN"
+8	32,36	GATE_Token	string="when" lemma="when" category="WRB"
+9	37,38	GATE_Token	string="I" lemma="I" category="PRP"
+10	39,41	GATE_Token	string="am" lemma="be" category="VBP"
+11	42,46	GATE_Token	string="done" lemma="do" category="VBN"
+12	47,48	GATE_Token	string="." lemma="." category="."

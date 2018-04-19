@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Seven Samurai is playing this weekend at the Film Forum .</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,40	GATE_Sentence
+2	0,9	GATE_Token	string="Genuinely" lemma="genuinely" category="RB"
+3	10,17	GATE_Token	string="misread" lemma="misread" category="NN"
+4	18,19	GATE_Token	string=":" lemma=":" category=":"
+5	20,21	GATE_Token	string="-" lemma="-" category=":"
+6	22,23	GATE_Token	string=")" lemma=")" category="-RRB-"
+7	24,28	GATE_Token	string="Typo" lemma="Typo" category="NNP"
+8	29,32	GATE_Token	string="now" lemma="now" category="RB"
+9	33,38	GATE_Token	string="fixed" lemma="fix" category="VBN"
+10	39,40	GATE_Token	string="." lemma="." category="."

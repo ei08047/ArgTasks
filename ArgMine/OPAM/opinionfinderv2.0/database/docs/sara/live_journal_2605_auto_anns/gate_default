@@ -1,0 +1,9 @@
+1	0,37	GATE_Sentence
+2	0,3	GATE_Token	string="Can" lemma="can" category="MD"
+3	4,6	GATE_Token	string="we" lemma="we" category="PRP"
+4	7,11	GATE_Token	string="hold" lemma="hold" category="VB"
+5	12,17	GATE_Token	string="hands" lemma="hand" category="NNS"
+6	18,21	GATE_Token	string="and" lemma="and" category="CC"
+7	22,26	GATE_Token	string="sing" lemma="sing" category="VB"
+8	27,35	GATE_Token	string="kumbayah" lemma="kumbayah" category="NN"
+9	36,37	GATE_Token	string="?" lemma="?" category="."

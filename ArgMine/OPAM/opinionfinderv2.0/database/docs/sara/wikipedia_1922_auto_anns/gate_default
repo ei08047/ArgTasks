@@ -1,0 +1,12 @@
+1	0,68	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,13	GATE_Token	string="following" lemma="follow" category="VBG"
+4	14,24	GATE_Token	string="discussion" lemma="discussion" category="NN"
+5	25,27	GATE_Token	string="is" lemma="be" category="VBZ"
+6	28,30	GATE_Token	string="an" lemma="a" category="DT"
+7	31,39	GATE_Token	string="archived" lemma="archived" category="JJ"
+8	40,50	GATE_Token	string="discussion" lemma="discussion" category="NN"
+9	51,53	GATE_Token	string="of" lemma="of" category="IN"
+10	54,57	GATE_Token	string="the" lemma="the" category="DT"
+11	58,66	GATE_Token	string="proposal" lemma="proposal" category="NN"
+12	67,68	GATE_Token	string="." lemma="." category="."

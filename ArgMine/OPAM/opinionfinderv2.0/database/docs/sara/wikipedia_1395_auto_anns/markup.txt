@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">A characterization is a viewpoint and the inclusion criteria of <MPQAPOL autoclass="neutral">viewpoints</MPQAPOL> <MPQAPOL autoclass="neutral">must</MPQAPOL> adhere to NPOV .</MPQASENT>

@@ -1,0 +1,7 @@
+argumentative_essays_essay163.txt_2136_2140	positive
+argumentative_essays_essay163.txt_2156_2166	positive
+argumentative_essays_essay163.txt_2192_2198	neutral
+argumentative_essays_essay163.txt_2213_2217	neutral
+argumentative_essays_essay163.txt_2251_2264	neutral
+argumentative_essays_essay163.txt_2297_2303	positive
+argumentative_essays_essay163.txt_2317_2320	neutral

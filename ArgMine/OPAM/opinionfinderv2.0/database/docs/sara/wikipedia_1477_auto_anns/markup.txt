@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">This <MPQAPOL autoclass="neutral">means</MPQAPOL> that we can not pick-and-choose which <MPQAPOL autoclass="neutral">viewpoints</MPQAPOL> we <MPQAPOL autoclass="positive">like</MPQAPOL> and which ones we do not .</MPQASENT>

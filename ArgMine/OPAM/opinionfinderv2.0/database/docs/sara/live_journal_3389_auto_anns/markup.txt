@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj"><MPQAPOL autoclass="neutral">Allow</MPQAPOL> to cool a <MPQAPOL autoclass="neutral">little</MPQAPOL> , and tip out onto a plate if <MPQAPOL autoclass="neutral">desired</MPQAPOL> .</MPQASENT>

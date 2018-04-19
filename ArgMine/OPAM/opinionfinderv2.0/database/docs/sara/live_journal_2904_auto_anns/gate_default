@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="lllinkkk" category="CD"
+3	9,10	GATE_Token	string="I" lemma="I" category="PRP"
+4	11,13	GATE_Token	string="do" lemma="do" category="VBP"
+5	14,18	GATE_Token	string="hope" lemma="hope" category="VB"
+6	19,22	GATE_Token	string="you" lemma="you" category="PRP"
+7	23,25	GATE_Token	string="do" lemma="do" category="VBP"
+8	26,29	GATE_Token	string="not" lemma="not" category="RB"
+9	30,34	GATE_Token	string="mind" lemma="mind" category="VB"
+10	35,36	GATE_Token	string="." lemma="." category="."

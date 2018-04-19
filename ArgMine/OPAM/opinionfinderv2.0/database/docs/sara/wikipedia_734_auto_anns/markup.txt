@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Is this not an example of <MPQAPOL autoclass="neutral">inconsistency</MPQAPOL> ?</MPQASENT>

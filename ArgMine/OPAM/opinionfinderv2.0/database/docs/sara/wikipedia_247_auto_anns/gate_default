@@ -1,0 +1,11 @@
+1	0,48	GATE_Sentence
+2	0,2	GATE_Token	string="Is" lemma="be" category="VBZ"
+3	3,7	GATE_Token	string="your" lemma="you" category="PRP$"
+4	8,13	GATE_Token	string="issue" lemma="issue" category="NN"
+5	14,18	GATE_Token	string="with" lemma="with" category="IN"
+6	19,26	GATE_Token	string="stating" lemma="state" category="VBG"
+7	27,29	GATE_Token	string="``" lemma="``" category="``"
+8	30,34	GATE_Token	string="vast" lemma="vast" category="JJ"
+9	35,43	GATE_Token	string="majority" lemma="majority" category="NN"
+10	44,46	GATE_Token	string="''" lemma="''" category="''"
+11	47,48	GATE_Token	string="?" lemma="?" category="."

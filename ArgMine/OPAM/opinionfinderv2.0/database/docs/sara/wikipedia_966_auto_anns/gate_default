@@ -1,0 +1,9 @@
+1	0,51	GATE_Sentence
+2	0,4	GATE_Token	string="Once" lemma="once" category="RB"
+3	5,10	GATE_Token	string="again" lemma="again" category="RB"
+4	11,12	GATE_Token	string="," lemma="," category=","
+5	13,16	GATE_Token	string="you" lemma="you" category="PRP"
+6	17,24	GATE_Token	string="grossly" lemma="grossly" category="RB"
+7	25,39	GATE_Token	string="misinterpreted" lemma="misinterpret" category="VBD"
+8	40,49	GATE_Token	string="something" lemma="something" category="NN"
+9	50,51	GATE_Token	string="." lemma="." category="."

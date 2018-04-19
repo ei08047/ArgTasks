@@ -1,0 +1,11 @@
+1	0,51	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,9	GATE_Token	string="a" lemma="a" category="DT"
+5	10,19	GATE_Token	string="precident" lemma="precident" category="NN"
+6	20,24	GATE_Token	string="that" lemma="that" category="WDT"
+7	25,29	GATE_Token	string="will" lemma="will" category="MD"
+8	30,37	GATE_Token	string="destroy" lemma="destroy" category="VB"
+9	38,41	GATE_Token	string="the" lemma="the" category="DT"
+10	42,49	GATE_Token	string="company" lemma="company" category="NN"
+11	50,51	GATE_Token	string="." lemma="." category="."

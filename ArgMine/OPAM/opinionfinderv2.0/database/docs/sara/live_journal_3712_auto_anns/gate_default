@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,10	GATE_Token	string="Summer" lemma="summer" category="NN"
+4	11,14	GATE_Token	string="Sun" lemma="Sun" category="NNP"
+5	15,20	GATE_Token	string="burns" lemma="burn" category="NNS"
+6	21,25	GATE_Token	string="only" lemma="only" category="RB"
+7	26,29	GATE_Token	string="for" lemma="for" category="IN"
+8	30,37	GATE_Token	string="herself" lemma="herself" category="PRP"
+9	38,39	GATE_Token	string="." lemma="." category="."

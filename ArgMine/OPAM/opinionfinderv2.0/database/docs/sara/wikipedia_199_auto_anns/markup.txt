@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It <MPQAPOL autoclass="neutral">could</MPQAPOL> be quoted in <MPQAPOL autoclass="neutral">full</MPQAPOL> in the note , if you <MPQAPOL autoclass="positive">like</MPQAPOL> .</MPQASENT>

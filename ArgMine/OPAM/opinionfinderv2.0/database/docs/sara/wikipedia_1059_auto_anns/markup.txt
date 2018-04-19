@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">In <MPQAPOL autoclass="neutral">fact</MPQAPOL> , it is deletable as it <MPQAPOL autoclass="neutral">stands</MPQAPOL> due to <MPQAPOL autoclass="negative">lack</MPQAPOL> of <MPQAPOL autoclass="positive">supported</MPQAPOL> notability .</MPQASENT>

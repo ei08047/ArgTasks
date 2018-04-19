@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Your <MPQAPOL autoclass="neutral">rhetorics</MPQAPOL> are as <MPQAPOL autoclass="neutral">shallow</MPQAPOL> as earlier , <MPQAPOL autoclass="neutral">though</MPQAPOL> more <MPQAPOL autoclass="negative">desperate</MPQAPOL> in the <MPQAPOL autoclass="negative">unnecessary</MPQAPOL> quoting .</MPQASENT>

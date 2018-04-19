@@ -1,0 +1,9 @@
+1	0,34	GATE_Sentence
+2	0,5	GATE_Token	string="Looks" lemma="look" category="VBZ"
+3	6,10	GATE_Token	string="like" lemma="like" category="IN"
+4	11,14	GATE_Token	string="the" lemma="the" category="DT"
+5	15,19	GATE_Token	string="Post" lemma="Post" category="NNP"
+6	20,23	GATE_Token	string="got" lemma="get" category="VBD"
+7	24,26	GATE_Token	string="it" lemma="it" category="PRP"
+8	27,32	GATE_Token	string="wrong" lemma="wrong" category="JJ"
+9	33,34	GATE_Token	string="." lemma="." category="."

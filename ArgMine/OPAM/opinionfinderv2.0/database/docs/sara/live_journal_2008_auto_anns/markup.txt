@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I <MPQAPOL autoclass="positive">hope</MPQAPOL> it is not <MPQAPOL autoclass="neutral">needed</MPQAPOL> , but you will be <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="positive">glad</MPQAPOL> you have got it if it does <MPQAPOL autoclass="neutral">break</MPQAPOL> like many before it has .</MPQASENT>

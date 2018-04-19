@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,6	GATE_Token	string="always" lemma="always" category="RB"
+3	7,15	GATE_Token	string="remember" lemma="remember" category="VBP"
+4	16,17	GATE_Token	string=";" lemma=";" category=":"
+5	18,20	GATE_Token	string="We" lemma="we" category="PRP"
+6	21,25	GATE_Token	string="must" lemma="must" category="MD"
+7	26,28	GATE_Token	string="go" lemma="go" category="VB"
+8	29,36	GATE_Token	string="forward" lemma="forward" category="RB"
+9	37,38	GATE_Token	string="," lemma="," category=","
+10	39,42	GATE_Token	string="not" lemma="not" category="RB"
+11	43,51	GATE_Token	string="backward" lemma="backward" category="RB"
+12	52,53	GATE_Token	string="." lemma="." category="."

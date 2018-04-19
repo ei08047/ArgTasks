@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">it is my <MPQAPOL autoclass="positive">hope</MPQAPOL> not to see any children ... but if i do , i have a few other ways to <MPQAPOL autoclass="neutral">scare</MPQAPOL> them !!</MPQASENT>

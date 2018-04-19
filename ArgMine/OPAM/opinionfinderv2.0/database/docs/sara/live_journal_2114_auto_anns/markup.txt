@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">ok im making them what diameter and ribbing general shape do you <MPQAPOL autoclass="positive">want</MPQAPOL> ?</MPQASENT>

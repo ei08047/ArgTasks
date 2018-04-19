@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Nowhere in this does it <MPQAPOL autoclass="neutral">imply</MPQAPOL> that Linux was <MPQAPOL autoclass="neutral">specifically</MPQAPOL> developed to fill it , it only says that it filled a gap .</MPQASENT>

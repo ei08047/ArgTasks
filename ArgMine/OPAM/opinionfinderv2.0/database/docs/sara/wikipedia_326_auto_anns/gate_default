@@ -1,0 +1,9 @@
+1	0,42	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,4	GATE_Token	string="am" lemma="be" category="VBP"
+4	5,14	GATE_Token	string="certainly" lemma="certainly" category="RB"
+5	15,25	GATE_Token	string="consistent" lemma="consistent" category="JJ"
+6	26,28	GATE_Token	string="in" lemma="in" category="IN"
+7	29,31	GATE_Token	string="my" lemma="my" category="PRP$"
+8	32,40	GATE_Token	string="position" lemma="position" category="NN"
+9	41,42	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">( 1 ) Can anyone shed <MPQAPOL autoclass="neutral">light</MPQAPOL> on the <MPQAPOL autoclass="neutral">truth</MPQAPOL> or falsity of this <MPQAPOL autoclass="neutral">claim</MPQAPOL> ?</MPQASENT>

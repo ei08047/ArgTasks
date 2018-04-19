@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I can see that it <MPQAPOL autoclass="neutral">might</MPQAPOL> format screwy on smaller-resolution settings .</MPQASENT>

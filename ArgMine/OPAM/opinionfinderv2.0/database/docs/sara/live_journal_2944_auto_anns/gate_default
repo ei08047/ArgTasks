@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,11	GATE_Token	string="all" lemma="all" category="DT"
+5	12,16	GATE_Token	string="from" lemma="from" category="IN"
+6	17,19	GATE_Token	string="my" lemma="my" category="PRP$"
+7	20,28	GATE_Token	string="complete" lemma="complete" category="JJ"
+8	29,38	GATE_Token	string="dorkiness" lemma="dorkiness" category="NN"
+9	39,40	GATE_Token	string="." lemma="." category="."

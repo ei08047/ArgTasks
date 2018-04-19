@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They <MPQAPOL autoclass="neutral">would</MPQAPOL> populate themselves into <MPQAPOL autoclass="neutral">famine</MPQAPOL> if left unchecked .</MPQASENT>

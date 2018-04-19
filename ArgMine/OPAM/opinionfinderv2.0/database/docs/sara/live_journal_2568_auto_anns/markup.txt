@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Graduation is tomorrow , <MPQAPOL autoclass="neutral">finally</MPQAPOL> .</MPQASENT>

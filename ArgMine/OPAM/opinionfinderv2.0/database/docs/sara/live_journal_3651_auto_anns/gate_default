@@ -1,0 +1,12 @@
+1	0,64	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="could" lemma="could" category="MD"
+4	8,16	GATE_Token	string="probably" lemma="probably" category="RB"
+5	17,19	GATE_Token	string="go" lemma="go" category="VB"
+6	20,23	GATE_Token	string="for" lemma="for" category="IN"
+7	24,39	GATE_Token	string="Yojimbo/Sanjuro" lemma="yojimbo/sanjuro" category="NN"
+8	40,42	GATE_Token	string="on" lemma="on" category="IN"
+9	43,46	GATE_Token	string="the" lemma="the" category="DT"
+10	47,56	GATE_Token	string="Wednesday" lemma="Wednesday" category="NNP"
+11	57,62	GATE_Token	string="night" lemma="night" category="NN"
+12	63,64	GATE_Token	string="." lemma="." category="."

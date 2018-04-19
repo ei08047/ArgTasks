@@ -1,0 +1,13 @@
+1	0,45	GATE_Sentence
+2	0,4	GATE_Token	string="Shit" lemma="Shit" category="NNP"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,8	GATE_Token	string="I" lemma="I" category="PRP"
+5	9,14	GATE_Token	string="guess" lemma="guess" category="VBP"
+6	15,16	GATE_Token	string="I" lemma="I" category="PRP"
+7	17,22	GATE_Token	string="outta" lemma="outta" category="VB"
+8	23,25	GATE_Token	string="be" lemma="be" category="VB"
+9	26,29	GATE_Token	string="hip" lemma="hip" category="NN"
+10	30,32	GATE_Token	string="to" lemma="to" category="TO"
+11	33,37	GATE_Token	string="this" lemma="this" category="DT"
+12	38,43	GATE_Token	string="trend" lemma="trend" category="NN"
+13	44,45	GATE_Token	string="!" lemma="!" category="."

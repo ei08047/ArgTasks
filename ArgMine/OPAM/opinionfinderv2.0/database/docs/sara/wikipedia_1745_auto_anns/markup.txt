@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This article is not about the First Vision , it is a <MPQAPOL autoclass="neutral">broad</MPQAPOL> article about Mormonism in general .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">However</MPQAPOL> , it is in <MPQAPOL autoclass="neutral">danger</MPQAPOL> of turning into an edit <MPQAPOL autoclass="neutral">war</MPQAPOL> , and both sides <MPQAPOL autoclass="neutral">should</MPQAPOL> discuss the issue here to seek <MPQAPOL autoclass="neutral">consensus</MPQAPOL> .</MPQASENT>

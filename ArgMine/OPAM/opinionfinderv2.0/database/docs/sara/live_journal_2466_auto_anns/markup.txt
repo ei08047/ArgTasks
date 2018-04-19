@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Some posts <MPQAPOL autoclass="neutral">seem</MPQAPOL> to serve no purpose but to make people pissed .</MPQASENT>

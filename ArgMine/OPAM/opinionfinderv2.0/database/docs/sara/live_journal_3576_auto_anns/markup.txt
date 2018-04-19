@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If the answer is `` <MPQAPOL autoclass="negative">Yes</MPQAPOL> '' , then you are a person .</MPQASENT>

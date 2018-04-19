@@ -1,0 +1,13 @@
+1	0,63	GATE_Sentence
+2	0,5	GATE_Token	string="Hamas" lemma="Hamas" category="NNP"
+3	6,9	GATE_Token	string="did" lemma="do" category="VBD"
+4	10,14	GATE_Token	string="bomb" lemma="bomb" category="NN"
+5	15,23	GATE_Token	string="civilian" lemma="civilian" category="JJ"
+6	24,31	GATE_Token	string="targets" lemma="target" category="NNS"
+7	32,33	GATE_Token	string="," lemma="," category=","
+8	34,39	GATE_Token	string="which" lemma="which" category="WDT"
+9	40,42	GATE_Token	string="is" lemma="be" category="VBZ"
+10	43,44	GATE_Token	string="a" lemma="a" category="DT"
+11	45,54	GATE_Token	string="terrorist" lemma="terrorist" category="JJ"
+12	55,61	GATE_Token	string="tactic" lemma="tactic" category="NN"
+13	62,63	GATE_Token	string="." lemma="." category="."

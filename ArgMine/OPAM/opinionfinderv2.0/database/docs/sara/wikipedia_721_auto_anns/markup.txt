@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="positive">hope</MPQAPOL> you <MPQAPOL autoclass="neutral">understand</MPQAPOL> that my edit was NOT <MPQAPOL autoclass="neutral">meant</MPQAPOL> to <MPQAPOL autoclass="neutral">imply</MPQAPOL> that .</MPQASENT>

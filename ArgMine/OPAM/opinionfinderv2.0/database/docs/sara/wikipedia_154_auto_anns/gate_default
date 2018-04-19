@@ -1,0 +1,12 @@
+1	0,67	GATE_Sentence
+2	0,12	GATE_Token	string="Contributing" lemma="contribute" category="VBG"
+3	13,17	GATE_Token	string="here" lemma="here" category="RB"
+4	18,20	GATE_Token	string="is" lemma="be" category="VBZ"
+5	21,27	GATE_Token	string="surely" lemma="surely" category="RB"
+6	28,32	GATE_Token	string="part" lemma="part" category="NN"
+7	33,35	GATE_Token	string="of" lemma="of" category="IN"
+8	36,39	GATE_Token	string="the" lemma="the" category="DT"
+9	40,49	GATE_Token	string="Wikipedia" lemma="Wikipedia" category="NNP"
+10	50,57	GATE_Token	string="editing" lemma="editing" category="NN"
+11	58,65	GATE_Token	string="process" lemma="process" category="NN"
+12	66,67	GATE_Token	string="?" lemma="?" category="."

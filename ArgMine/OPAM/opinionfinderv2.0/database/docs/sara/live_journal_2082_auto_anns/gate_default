@@ -1,0 +1,10 @@
+1	0,43	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,7	GATE_Token	string="hugs" lemma="hug" category="NNS"
+4	8,10	GATE_Token	string="\*" lemma="\*" category="SYM"
+5	11,17	GATE_Token	string="thanks" lemma="thanks" category="NNS"
+6	18,21	GATE_Token	string="for" lemma="for" category="IN"
+7	22,25	GATE_Token	string="the" lemma="the" category="DT"
+8	26,33	GATE_Token	string="morning" lemma="morning" category="NN"
+9	34,41	GATE_Token	string="funnies" lemma="funny" category="NNS"
+10	42,43	GATE_Token	string="!" lemma="!" category="."

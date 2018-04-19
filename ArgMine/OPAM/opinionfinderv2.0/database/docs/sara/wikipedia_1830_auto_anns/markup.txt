@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Although</MPQAPOL> there are many <MPQAPOL autoclass="negative">contradictions</MPQAPOL> in this world and many things are insolit .</MPQASENT>

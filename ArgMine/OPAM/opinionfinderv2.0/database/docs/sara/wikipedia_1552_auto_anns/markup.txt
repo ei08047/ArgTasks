@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">describing the holocaust as a <MPQAPOL autoclass="negative">myth</MPQAPOL> , a <MPQAPOL autoclass="negative">lie</MPQAPOL> , a hoax is <MPQAPOL autoclass="neutral">enough</MPQAPOL> to <MPQAPOL autoclass="neutral">support</MPQAPOL> the change .</MPQASENT>

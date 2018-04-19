@@ -1,0 +1,7 @@
+1	0,31	GATE_Sentence
+2	0,4	GATE_Token	string="Here" lemma="here" category="RB"
+3	5,7	GATE_Token	string="it" lemma="it" category="PRP"
+4	8,10	GATE_Token	string="is" lemma="be" category="VBZ"
+5	11,12	GATE_Token	string=":" lemma=":" category=":"
+6	13,21	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+7	22,31	GATE_Token	string="Zeitgeist" lemma="Zeitgeist" category="NNP"

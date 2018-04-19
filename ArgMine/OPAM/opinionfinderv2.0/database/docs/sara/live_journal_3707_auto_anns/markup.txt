@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Someone brought about a <MPQAPOL autoclass="neutral">star</MPQAPOL> .</MPQASENT>

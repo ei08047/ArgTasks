@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Why is the Bishop of Yakima <MPQAPOL autoclass="neutral">relevant</MPQAPOL> ?</MPQASENT>

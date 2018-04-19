@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="also" lemma="also" category="RB"
+4	7,10	GATE_Token	string="get" lemma="get" category="VBP"
+5	11,18	GATE_Token	string="treated" lemma="treat" category="VBN"
+6	19,24	GATE_Token	string="badly" lemma="badly" category="RB"
+7	25,27	GATE_Token	string="by" lemma="by" category="IN"
+8	28,30	GATE_Token	string="my" lemma="my" category="PRP$"
+9	31,39	GATE_Token	string="managers" lemma="manager" category="NNS"
+10	40,41	GATE_Token	string="." lemma="." category="."

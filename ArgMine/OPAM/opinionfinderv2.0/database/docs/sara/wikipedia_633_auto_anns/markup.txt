@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The more <MPQAPOL autoclass="neutral">accurate</MPQAPOL> the article can be , the <MPQAPOL autoclass="neutral">better</MPQAPOL> .<MPQASENT autoclass1="obj" autoclass2="obj">-</MPQASENT>

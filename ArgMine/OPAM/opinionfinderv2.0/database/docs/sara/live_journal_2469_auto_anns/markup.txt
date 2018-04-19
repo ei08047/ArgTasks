@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">stay <MPQAPOL autoclass="neutral">strong</MPQAPOL> guys , drumline will take care of everything , i <MPQAPOL autoclass="negative">swear</MPQAPOL> it .</MPQASENT>

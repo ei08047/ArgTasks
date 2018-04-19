@@ -1,0 +1,10 @@
+1	0,44	GATE_Sentence
+2	0,2	GATE_Token	string="My" lemma="my" category="PRP$"
+3	3,9	GATE_Token	string="number" lemma="number" category="NN"
+4	10,12	GATE_Token	string="is" lemma="be" category="VBZ"
+5	13,25	GATE_Token	string="208-371-7323" lemma="208-371-7323" category="CD"
+6	26,28	GATE_Token	string="if" lemma="if" category="IN"
+7	29,31	GATE_Token	string="ya" lemma="ya" category="PRP"
+8	32,37	GATE_Token	string="wanna" lemma="wanna" category="VBP"
+9	38,42	GATE_Token	string="talk" lemma="talk" category="NN"
+10	43,44	GATE_Token	string="." lemma="." category="."

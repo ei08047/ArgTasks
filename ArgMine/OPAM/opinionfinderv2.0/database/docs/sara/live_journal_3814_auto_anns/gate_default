@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,2	GATE_Token	string="As" lemma="as" category="RB"
+3	3,7	GATE_Token	string="soon" lemma="soon" category="RB"
+4	8,10	GATE_Token	string="as" lemma="as" category="IN"
+5	11,13	GATE_Token	string="Im" lemma="im" category="NN"
+6	14,17	GATE_Token	string="not" lemma="not" category="RB"
+7	18,25	GATE_Token	string="looking" lemma="look" category="VBG"
+8	26,27	GATE_Token	string="," lemma="," category=","
+9	28,34	GATE_Token	string="shazam" lemma="shazam" category="NN"
+10	35,36	GATE_Token	string="!" lemma="!" category="."

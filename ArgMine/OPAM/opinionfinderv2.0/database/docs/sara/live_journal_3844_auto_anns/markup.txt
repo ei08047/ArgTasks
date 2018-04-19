@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">I <MPQAPOL autoclass="neutral">could</MPQAPOL> probably write a ten-page paper on why this video encapsulates what it <MPQAPOL autoclass="neutral">means</MPQAPOL> to be a human being .</MPQASENT>

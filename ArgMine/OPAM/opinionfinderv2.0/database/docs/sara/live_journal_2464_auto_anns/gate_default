@@ -1,0 +1,12 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="lol" lemma="lol" category="NN"
+3	4,8	GATE_Token	string="hang" lemma="hang" category="VB"
+4	9,11	GATE_Token	string="in" lemma="in" category="IN"
+5	12,17	GATE_Token	string="there" lemma="there" category="RB"
+6	18,19	GATE_Token	string="," lemma="," category=","
+7	20,22	GATE_Token	string="it" lemma="it" category="PRP"
+8	23,25	GATE_Token	string="is" lemma="be" category="VBZ"
+9	26,31	GATE_Token	string="gonna" lemma="gonna" category="NN"
+10	32,34	GATE_Token	string="be" lemma="be" category="VB"
+11	35,37	GATE_Token	string="ok" lemma="ok" category="JJ"
+12	38,39	GATE_Token	string="." lemma="." category="."

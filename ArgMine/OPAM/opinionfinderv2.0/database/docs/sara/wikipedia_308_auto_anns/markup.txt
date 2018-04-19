@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Can you <MPQAPOL autoclass="positive">please</MPQAPOL> explain what you <MPQAPOL autoclass="neutral">think</MPQAPOL> is anti-Catholic about this passage ?</MPQASENT>

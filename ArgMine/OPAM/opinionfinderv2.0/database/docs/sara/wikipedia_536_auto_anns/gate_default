@@ -1,0 +1,8 @@
+1	0,75	GATE_Sentence
+2	0,4	GATE_Token	string="More" lemma="more" category="RBR"
+3	5,8	GATE_Token	string="can" lemma="can" category="MD"
+4	9,11	GATE_Token	string="be" lemma="be" category="VB"
+5	12,17	GATE_Token	string="found" lemma="find" category="VBN"
+6	18,20	GATE_Token	string="at" lemma="at" category="IN"
+7	21,73	GATE_Token	string="http://physics.gmu.edu/~roerter/EvolutionEntropy.htm" lemma="http://physics.gmu.edu/~roerter/evolutionentropy.htm" category="NN"
+8	74,75	GATE_Token	string="." lemma="." category="."

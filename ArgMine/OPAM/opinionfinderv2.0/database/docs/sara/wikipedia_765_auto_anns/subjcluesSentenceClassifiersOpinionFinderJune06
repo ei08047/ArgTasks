@@ -1,0 +1,3 @@
+1	41,48	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="neutral"
+2	49,58	matchfeat	type="trainJWman" mpqapolarity="neutral"
+3	100,110	matchfeat	type="PolMmanstrong" mpqapolarity="strongneg"

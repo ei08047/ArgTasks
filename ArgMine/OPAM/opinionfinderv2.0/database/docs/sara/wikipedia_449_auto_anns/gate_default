@@ -1,0 +1,8 @@
+1	0,36	GATE_Sentence
+2	0,3	GATE_Token	string="Two" lemma="two" category="CD"
+3	4,6	GATE_Token	string="IP" lemma="IP" category="NNP"
+4	7,14	GATE_Token	string="editors" lemma="editor" category="NNS"
+5	15,25	GATE_Token	string="vandalized" lemma="vandalize" category="VBD"
+6	26,29	GATE_Token	string="the" lemma="the" category="DT"
+7	30,34	GATE_Token	string="page" lemma="page" category="NN"
+8	35,36	GATE_Token	string="." lemma="." category="."

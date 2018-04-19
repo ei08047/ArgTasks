@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Because the date is <MPQAPOL autoclass="neutral">fast</MPQAPOL> approaching .</MPQASENT>

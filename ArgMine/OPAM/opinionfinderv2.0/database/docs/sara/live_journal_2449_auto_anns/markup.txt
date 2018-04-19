@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">As long as the band does fine , it does not <MPQAPOL autoclass="neutral">matter</MPQAPOL> who is drum <MPQAPOL autoclass="neutral">major</MPQAPOL> or section leader .</MPQASENT>

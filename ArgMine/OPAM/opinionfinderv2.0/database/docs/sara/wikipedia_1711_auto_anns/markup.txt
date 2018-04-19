@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">In general articles , the information provided is more general and <MPQAPOL autoclass="negative">less</MPQAPOL> <MPQAPOL autoclass="neutral">specific</MPQAPOL> .</MPQASENT>

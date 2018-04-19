@@ -1,0 +1,6 @@
+argumentative_essays_essay048.txt_1912_1919	neutral
+argumentative_essays_essay048.txt_1950_1956	neutral
+argumentative_essays_essay048.txt_1999_2001	neutral
+argumentative_essays_essay048.txt_2011_2014	neutral
+argumentative_essays_essay048.txt_2027_2032	neutral
+argumentative_essays_essay048.txt_2040_2050	neutral

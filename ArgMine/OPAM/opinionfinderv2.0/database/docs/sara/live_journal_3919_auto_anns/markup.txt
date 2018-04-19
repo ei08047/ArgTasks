@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">:) I <MPQAPOL autoclass="positive">hope</MPQAPOL> you are <MPQAPOL autoclass="neutral">able</MPQAPOL> to meet up with us ... I am <MPQAPOL autoclass="positive">sure</MPQAPOL> we can squeeze you into the line with us .</MPQASENT>

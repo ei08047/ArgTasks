@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">The Winter Night <MPQAPOL autoclass="positive">cares</MPQAPOL> for <MPQAPOL autoclass="neutral">little</MPQAPOL> but Mayhem .</MPQASENT>

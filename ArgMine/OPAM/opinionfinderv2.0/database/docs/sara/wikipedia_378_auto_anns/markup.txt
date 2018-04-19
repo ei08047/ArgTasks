@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">enlightenment</MPQAPOL> backlash was <MPQAPOL autoclass="neutral">against</MPQAPOL> Christianity in general , not <MPQAPOL autoclass="neutral">just</MPQAPOL> Catholicism .</MPQASENT>

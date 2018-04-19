@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Please , I am <MPQAPOL autoclass="negative">aware</MPQAPOL> of the <MPQAPOL autoclass="neutral">fundamental</MPQAPOL> basics of Irish history .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">\* <MPQAPOL autoclass="neutral">shrug</MPQAPOL> \* You are <MPQAPOL autoclass="neutral">right</MPQAPOL> about it being her decision , <MPQAPOL autoclass="neutral">though</MPQAPOL> .</MPQASENT>

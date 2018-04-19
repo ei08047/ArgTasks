@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That person <MPQAPOL autoclass="neutral">deserves</MPQAPOL> to be photographed .</MPQASENT>

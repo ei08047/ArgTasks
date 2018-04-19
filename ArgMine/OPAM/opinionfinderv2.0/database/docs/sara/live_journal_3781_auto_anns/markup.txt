@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Made me <MPQAPOL autoclass="neutral">think</MPQAPOL> of it before I had <MPQAPOL autoclass="neutral">even</MPQAPOL> read anything <MPQAPOL autoclass="neutral">else</MPQAPOL> in the post .</MPQASENT>

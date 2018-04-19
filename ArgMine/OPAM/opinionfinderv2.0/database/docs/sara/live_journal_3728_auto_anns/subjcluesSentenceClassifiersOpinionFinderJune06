@@ -1,0 +1,4 @@
+1	6,11	matchfeat	type="strongjandiss" mpqapolarity="strongpos"
+2	12,25	matchfeat	type="bl_psych_verb" mpqapolarity="weakneg"
+3	34,40	matchfeat	type="PolMmanstrong" mpqapolarity="weakneg"
+4	41,50	matchfeat	type="bl_psych_verb" mpqapolarity="strongneg"

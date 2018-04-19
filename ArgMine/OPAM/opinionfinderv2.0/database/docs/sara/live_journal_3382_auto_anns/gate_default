@@ -1,0 +1,13 @@
+1	0,57	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,8	GATE_Token	string="best" lemma="best" category="JJS"
+4	9,13	GATE_Token	string="part" lemma="part" category="NN"
+5	14,16	GATE_Token	string="is" lemma="be" category="VBZ"
+6	17,21	GATE_Token	string="that" lemma="that" category="IN"
+7	22,25	GATE_Token	string="her" lemma="she" category="PRP$"
+8	26,31	GATE_Token	string="shoes" lemma="shoe" category="NNS"
+9	32,36	GATE_Token	string="have" lemma="have" category="VBP"
+10	37,43	GATE_Token	string="little" lemma="little" category="JJ"
+11	44,48	GATE_Token	string="tiny" lemma="tiny" category="JJ"
+12	49,55	GATE_Token	string="cleats" lemma="cleat" category="NNS"
+13	56,57	GATE_Token	string="." lemma="." category="."

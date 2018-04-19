@@ -1,0 +1,10 @@
+1	0,33	GATE_Sentence
+2	0,3	GATE_Token	string="..." lemma="..." category=":"
+3	4,7	GATE_Token	string="the" lemma="the" category="DT"
+4	8,15	GATE_Token	string="cookies" lemma="cookie" category="NNS"
+5	16,20	GATE_Token	string="were" lemma="be" category="VBD"
+6	21,24	GATE_Token	string="for" lemma="for" category="IN"
+7	25,28	GATE_Token	string="her" lemma="she" category="PRP$"
+8	29,30	GATE_Token	string=":" lemma=":" category=":"
+9	30,31	GATE_Token	string="(" lemma="(" category="-LRB-"
+10	32,33	GATE_Token	string="." lemma="." category="."

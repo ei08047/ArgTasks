@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="How" lemma="how" category="WRB"
+3	4,11	GATE_Token	string="curious" lemma="curious" category="JJ"
+4	12,14	GATE_Token	string="to" lemma="to" category="TO"
+5	15,20	GATE_Token	string="think" lemma="think" category="VB"
+6	21,25	GATE_Token	string="that" lemma="that" category="IN"
+7	26,32	GATE_Token	string="nobody" lemma="nobody" category="NN"
+8	33,38	GATE_Token	string="might" lemma="might" category="MD"
+9	39,40	GATE_Token	string="." lemma="." category="."

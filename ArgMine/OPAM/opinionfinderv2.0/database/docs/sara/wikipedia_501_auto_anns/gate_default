@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,5	GATE_Token	string="Piles" lemma="pile" category="NNS"
+3	6,8	GATE_Token	string="of" lemma="of" category="IN"
+4	9,16	GATE_Token	string="corpses" lemma="corpse" category="NNS"
+5	17,19	GATE_Token	string="at" lemma="at" category="IN"
+6	20,29	GATE_Token	string="Auschwitz" lemma="Auschwitz" category="NNP"
+7	30,31	GATE_Token	string=":" lemma=":" category=":"
+8	32,39	GATE_Token	string="problem" lemma="problem" category="NN"
+9	40,41	GATE_Token	string="." lemma="." category="."

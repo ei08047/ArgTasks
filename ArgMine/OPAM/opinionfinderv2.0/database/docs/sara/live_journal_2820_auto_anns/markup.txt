@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">illustration-y tattoos are <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="neutral">much</MPQAPOL> <MPQAPOL autoclass="positive">better</MPQAPOL> than stylized ones .</MPQASENT>

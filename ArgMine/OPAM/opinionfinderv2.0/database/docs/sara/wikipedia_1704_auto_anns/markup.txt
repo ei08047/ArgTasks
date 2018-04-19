@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">still</MPQAPOL> <MPQAPOL autoclass="neutral">think</MPQAPOL> it <MPQAPOL autoclass="neutral">would</MPQAPOL> work <MPQAPOL autoclass="positive">better</MPQAPOL> at First Vision than here .</MPQASENT>

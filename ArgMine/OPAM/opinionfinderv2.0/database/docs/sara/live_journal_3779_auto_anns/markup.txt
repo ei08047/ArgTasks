@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is <MPQAPOL autoclass="neutral">good</MPQAPOL> on its own , and it <MPQAPOL autoclass="neutral">definitely</MPQAPOL> pairs strongly with Among Others .</MPQASENT>

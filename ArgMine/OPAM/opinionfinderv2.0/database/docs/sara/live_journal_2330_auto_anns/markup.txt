@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Reply with <MPQAPOL autoclass="neutral">yes</MPQAPOL> if you <MPQAPOL autoclass="positive">want</MPQAPOL> me to : a ) Tell you why I <MPQAPOL autoclass="positive">befriended</MPQAPOL> you .</MPQASENT>

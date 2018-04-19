@@ -1,0 +1,13 @@
+1	0,68	GATE_Sentence
+2	0,4	GATE_Token	string="Done" lemma="do" category="VBN"
+3	5,8	GATE_Token	string="The" lemma="the" category="DT"
+4	9,17	GATE_Token	string="provided" lemma="provide" category="VBN"
+5	18,25	GATE_Token	string="sources" lemma="source" category="NNS"
+6	26,30	GATE_Token	string="seem" lemma="seem" category="VBP"
+7	31,41	GATE_Token	string="sufficient" lemma="sufficient" category="JJ"
+8	42,45	GATE_Token	string="for" lemma="for" category="IN"
+9	46,54	GATE_Token	string="removing" lemma="remove" category="VBG"
+10	55,56	GATE_Token	string="`" lemma="`" category="``"
+11	57,64	GATE_Token	string="alleged" lemma="allege" category="VBN"
+12	65,66	GATE_Token	string="'" lemma="'" category="''"
+13	67,68	GATE_Token	string="." lemma="." category="."

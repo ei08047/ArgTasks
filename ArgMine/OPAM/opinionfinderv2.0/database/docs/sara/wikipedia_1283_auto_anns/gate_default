@@ -1,0 +1,12 @@
+1	0,60	GATE_Sentence
+2	0,5	GATE_Token	string="Steve" lemma="Steve" category="NNP"
+3	6,14	GATE_Token	string="Whitmire" lemma="Whitmire" category="NNP"
+4	15,18	GATE_Token	string="has" lemma="have" category="VBZ"
+5	19,24	GATE_Token	string="taken" lemma="take" category="VBN"
+6	25,29	GATE_Token	string="over" lemma="over" category="RP"
+7	30,36	GATE_Token	string="Kermit" lemma="Kermit" category="NNP"
+8	37,42	GATE_Token	string="-LRB-" lemma="-lrb-" category="-LRB-"
+9	43,46	GATE_Token	string="and" lemma="and" category="CC"
+10	47,52	GATE_Token	string="Ernie" lemma="Ernie" category="NNP"
+11	53,58	GATE_Token	string="-RRB-" lemma="-rrb-" category="-RRB-"
+12	59,60	GATE_Token	string="." lemma="." category="."

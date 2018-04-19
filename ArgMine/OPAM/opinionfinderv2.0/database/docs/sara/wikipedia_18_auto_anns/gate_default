@@ -1,0 +1,17 @@
+1	0,71	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,15	GATE_Token	string="threatening" lemma="threaten" category="VBG"
+4	16,18	GATE_Token	string="to" lemma="to" category="TO"
+5	19,22	GATE_Token	string="put" lemma="put" category="VB"
+6	23,27	GATE_Token	string="this" lemma="this" category="DT"
+7	28,30	GATE_Token	string="on" lemma="on" category="IN"
+8	31,34	GATE_Token	string="the" lemma="the" category="DT"
+9	35,44	GATE_Token	string="blacklist" lemma="blacklist" category="NN"
+10	45,49	GATE_Token	string="just" lemma="just" category="RB"
+11	50,54	GATE_Token	string="does" lemma="do" category="VBZ"
+12	55,58	GATE_Token	string="not" lemma="not" category="RB"
+13	59,63	GATE_Token	string="make" lemma="make" category="VB"
+14	64,69	GATE_Token	string="sense" lemma="sense" category="NN"
+15	70,71	GATE_Token	string="." lemma="." category="."
+16	71,73	GATE_Sentence
+17	71,73	GATE_Token	string="--" lemma="--" category=":"

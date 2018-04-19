@@ -1,0 +1,13 @@
+argumentative_essays_essay353.txt_0_69	obj
+argumentative_essays_essay353.txt_71_247	subj
+argumentative_essays_essay353.txt_248_298	obj
+argumentative_essays_essay353.txt_299_411	subj
+argumentative_essays_essay353.txt_412_479	obj
+argumentative_essays_essay353.txt_480_532	subj
+argumentative_essays_essay353.txt_533_703	obj
+argumentative_essays_essay353.txt_704_805	obj
+argumentative_essays_essay353.txt_806_946	obj
+argumentative_essays_essay353.txt_947_1060	subj
+argumentative_essays_essay353.txt_1061_1199	subj
+argumentative_essays_essay353.txt_1200_1306	subj
+argumentative_essays_essay353.txt_1307_1486	subj

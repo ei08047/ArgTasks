@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,7	GATE_Token	string="yes" lemma="yes" category="RB"
+4	8,9	GATE_Token	string="," lemma="," category=","
+5	10,15	GATE_Token	string="other" lemma="other" category="JJ"
+6	16,25	GATE_Token	string="continent" lemma="continent" category="NN"
+7	26,27	GATE_Token	string="=" lemma="=" category="JJ"
+8	28,36	GATE_Token	string="problems" lemma="problem" category="NNS"
+9	37,38	GATE_Token	string="." lemma="." category="."

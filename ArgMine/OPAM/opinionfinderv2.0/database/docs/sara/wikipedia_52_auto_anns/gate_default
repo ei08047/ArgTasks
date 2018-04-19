@@ -1,0 +1,17 @@
+1	0,76	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,7	GATE_Token	string="are" lemma="be" category="VBP"
+4	8,12	GATE_Token	string="here" lemma="here" category="RB"
+5	13,15	GATE_Token	string="to" lemma="to" category="TO"
+6	16,23	GATE_Token	string="improve" lemma="improve" category="VB"
+7	24,33	GATE_Token	string="Wikipedia" lemma="Wikipedia" category="NNP"
+8	34,36	GATE_Token	string="--" lemma="--" category=":"
+9	37,40	GATE_Token	string="not" lemma="not" category="RB"
+10	41,45	GATE_Token	string="just" lemma="just" category="RB"
+11	46,48	GATE_Token	string="to" lemma="to" category="TO"
+12	49,56	GATE_Token	string="promote" lemma="promote" category="VB"
+13	57,68	GATE_Token	string="lashtal.com" lemma="lashtal.com" category="NNP"
+14	69,74	GATE_Token	string="right" lemma="right" category="NN"
+15	75,76	GATE_Token	string="?" lemma="?" category="."
+16	76,78	GATE_Sentence
+17	76,78	GATE_Token	string="--" lemma="--" category=":"

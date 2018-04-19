@@ -1,0 +1,12 @@
+1	0,55	GATE_Sentence
+2	0,5	GATE_Token	string="Again" lemma="again" category="RB"
+3	6,7	GATE_Token	string="," lemma="," category=","
+4	8,12	GATE_Token	string="that" lemma="that" category="DT"
+5	13,15	GATE_Token	string="is" lemma="be" category="VBZ"
+6	16,20	GATE_Token	string="just" lemma="just" category="RB"
+7	21,22	GATE_Token	string="a" lemma="a" category="DT"
+8	23,31	GATE_Token	string="possible" lemma="possible" category="JJ"
+9	32,38	GATE_Token	string="option" lemma="option" category="NN"
+10	39,42	GATE_Token	string="for" lemma="for" category="IN"
+11	43,53	GATE_Token	string="discussion" lemma="discussion" category="NN"
+12	54,55	GATE_Token	string="." lemma="." category="."

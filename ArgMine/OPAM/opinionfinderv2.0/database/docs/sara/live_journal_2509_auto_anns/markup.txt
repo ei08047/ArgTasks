@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">What <MPQAPOL autoclass="negative">heartbreaking</MPQAPOL> news ... I am <MPQAPOL autoclass="negative">so</MPQAPOL> <MPQAPOL autoclass="negative">sorry</MPQAPOL> .</MPQASENT>

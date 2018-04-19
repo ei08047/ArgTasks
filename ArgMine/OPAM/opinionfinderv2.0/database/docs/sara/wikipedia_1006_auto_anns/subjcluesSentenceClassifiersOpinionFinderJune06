@@ -1,0 +1,3 @@
+1	7,11	matchfeat	type="trainJWman" mpqapolarity="strongneg"
+2	44,51	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+3	91,99	matchfeat	type="bl_psych_verb" mpqapolarity="strongneg"

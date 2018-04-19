@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,2	GATE_Token	string="in" lemma="in" category="IN"
+3	3,6	GATE_Token	string="the" lemma="the" category="DT"
+4	7,12	GATE_Token	string="sunny" lemma="sunny" category="JJ"
+5	13,21	GATE_Token	string="Virginia" lemma="Virginia" category="NNP"
+6	22,27	GATE_Token	string="beach" lemma="beach" category="NN"
+7	28,29	GATE_Token	string="." lemma="." category="."
+8	29,30	GATE_Token	string="." lemma="." category="."

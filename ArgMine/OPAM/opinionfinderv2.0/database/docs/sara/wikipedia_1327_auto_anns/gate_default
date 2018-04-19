@@ -1,0 +1,8 @@
+1	0,51	GATE_Sentence
+2	0,3	GATE_Token	string="Was" lemma="be" category="VBD"
+3	4,15	GATE_Token	string="continental" lemma="continental" category="JJ"
+4	16,21	GATE_Token	string="drift" lemma="drift" category="NN"
+5	22,28	GATE_Token	string="really" lemma="really" category="RB"
+6	29,35	GATE_Token	string="called" lemma="call" category="VBN"
+7	36,49	GATE_Token	string="pseudoscience" lemma="pseudoscience" category="NN"
+8	50,51	GATE_Token	string="?" lemma="?" category="."

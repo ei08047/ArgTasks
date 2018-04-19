@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Somehow I have always <MPQAPOL autoclass="negative">thought</MPQAPOL> it is <MPQAPOL autoclass="positive">better</MPQAPOL> to be <MPQAPOL autoclass="negative">blunt</MPQAPOL> and <MPQAPOL autoclass="negative">confrontational</MPQAPOL> , but then again ... bleh .</MPQASENT>

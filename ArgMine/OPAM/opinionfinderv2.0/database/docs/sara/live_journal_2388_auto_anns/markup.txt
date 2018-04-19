@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Time to write <MPQAPOL autoclass="positive">love</MPQAPOL> letters to <MPQAPOL autoclass="neutral">concrete</MPQAPOL> !</MPQASENT>

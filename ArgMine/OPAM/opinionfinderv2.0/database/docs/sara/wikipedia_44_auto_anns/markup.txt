@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The sooner this is <MPQAPOL autoclass="neutral">rectified</MPQAPOL> the <MPQAPOL autoclass="positive">better</MPQAPOL> .</MPQASENT>

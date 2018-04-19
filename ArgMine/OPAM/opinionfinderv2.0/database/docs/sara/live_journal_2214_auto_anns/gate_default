@@ -1,0 +1,8 @@
+1	0,33	GATE_Sentence
+2	0,4	GATE_Token	string="what" lemma="what" category="WP"
+3	5,8	GATE_Token	string="the" lemma="the" category="DT"
+4	9,13	GATE_Token	string="fuck" lemma="fuck" category="NN"
+5	14,17	GATE_Token	string="are" lemma="be" category="VBP"
+6	18,22	GATE_Token	string="they" lemma="they" category="PRP"
+7	23,31	GATE_Token	string="thinking" lemma="think" category="VBG"
+8	32,33	GATE_Token	string="?" lemma="?" category="."

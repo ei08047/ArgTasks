@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Any relation to Kermit Jagger from the <MPQAPOL autoclass="neutral">joke</MPQAPOL> , do you <MPQAPOL autoclass="neutral">think</MPQAPOL> ?<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

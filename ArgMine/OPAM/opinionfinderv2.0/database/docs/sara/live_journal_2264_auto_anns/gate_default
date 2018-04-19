@@ -1,0 +1,9 @@
+1	0,30	GATE_Sentence
+2	0,3	GATE_Token	string="yes" lemma="yes" category="RB"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,7	GATE_Token	string="i" lemma="i" category="FW"
+5	8,11	GATE_Token	string="was" lemma="be" category="VBD"
+6	12,18	GATE_Token	string="raised" lemma="raise" category="VBN"
+7	19,21	GATE_Token	string="by" lemma="by" category="IN"
+8	22,28	GATE_Token	string="wolves" lemma="wolf" category="NNS"
+9	29,30	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Who <MPQAPOL autoclass="positive">cares</MPQAPOL> about the <MPQAPOL autoclass="negative">meaningless</MPQAPOL> details in a transitional process when all that is <MPQAPOL autoclass="neutral">important</MPQAPOL> is the end result .</MPQASENT>

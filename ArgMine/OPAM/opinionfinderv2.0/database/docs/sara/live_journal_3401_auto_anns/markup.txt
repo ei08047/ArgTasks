@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It <MPQAPOL autoclass="neutral">seemed</MPQAPOL> a <MPQAPOL autoclass="negative">little</MPQAPOL> ... flat , <MPQAPOL autoclass="neutral">though</MPQAPOL> .</MPQASENT>

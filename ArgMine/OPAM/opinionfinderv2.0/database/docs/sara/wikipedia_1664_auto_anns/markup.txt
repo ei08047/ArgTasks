@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The readers of wikipedia <MPQAPOL autoclass="positive">deserve</MPQAPOL> to see the <MPQAPOL autoclass="neutral">original</MPQAPOL> quote , non-involved editors <MPQAPOL autoclass="neutral">agree</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,60	GATE_Sentence
+2	0,4	GATE_Token	string="thin" lemma="thin" category="JJ"
+3	5,10	GATE_Token	string="lizzy" lemma="lizzy" category="NN"
+4	11,13	GATE_Token	string="is" lemma="be" category="VBZ"
+5	14,18	GATE_Token	string="also" lemma="also" category="RB"
+6	19,20	GATE_Token	string="a" lemma="a" category="DT"
+7	21,25	GATE_Token	string="body" lemma="body" category="NN"
+8	26,32	GATE_Token	string="lotion" lemma="lotion" category="NN"
+9	33,36	GATE_Token	string="and" lemma="and" category="CC"
+10	37,45	GATE_Token	string="slimming" lemma="slim" category="VBG"
+11	46,50	GATE_Token	string="body" lemma="body" category="NN"
+12	51,58	GATE_Token	string="bronzer" lemma="bronzer" category="NN"
+13	59,60	GATE_Token	string="!" lemma="!" category="."

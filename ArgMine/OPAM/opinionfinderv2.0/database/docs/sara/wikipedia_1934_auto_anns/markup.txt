@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am <MPQAPOL autoclass="positive">fine</MPQAPOL> with it how it is now -LRB- the three pics on the <MPQAPOL autoclass="neutral">right</MPQAPOL> -RRB- .</MPQASENT>

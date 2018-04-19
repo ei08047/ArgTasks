@@ -1,0 +1,13 @@
+1	0,45	GATE_Sentence
+2	0,4	GATE_Token	string="Also" lemma="also" category="RB"
+3	5,8	GATE_Token	string="..." lemma="..." category=":"
+4	9,11	GATE_Token	string="if" lemma="if" category="IN"
+5	12,15	GATE_Token	string="you" lemma="you" category="PRP"
+6	16,19	GATE_Token	string="had" lemma="have" category="VBD"
+7	20,24	GATE_Token	string="like" lemma="like" category="IN"
+8	25,27	GATE_Token	string="my" lemma="my" category="PRP$"
+9	28,32	GATE_Token	string="cell" lemma="cell" category="NN"
+10	33,34	GATE_Token	string="," lemma="," category=","
+11	35,39	GATE_Token	string="just" lemma="just" category="RB"
+12	40,43	GATE_Token	string="ask" lemma="ask" category="VB"
+13	44,45	GATE_Token	string="." lemma="." category="."

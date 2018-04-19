@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">She flares with <MPQAPOL autoclass="negative">anger</MPQAPOL> at the human <MPQAPOL autoclass="neutral">sacrifices</MPQAPOL> put down in her name but does <MPQAPOL autoclass="negative">little</MPQAPOL> but watch and <MPQAPOL autoclass="positive">grin</MPQAPOL> to herself .</MPQASENT>

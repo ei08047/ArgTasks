@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,3	GATE_Token	string="Two" lemma="two" category="CD"
+3	4,9	GATE_Token	string="words" lemma="word" category="NNS"
+4	10,11	GATE_Token	string=":" lemma=":" category=":"
+5	12,17	GATE_Token	string="gross" lemma="gross" category="JJ"
+6	18,19	GATE_Token	string="," lemma="," category=","
+7	20,23	GATE_Token	string="and" lemma="and" category="CC"
+8	24,31	GATE_Token	string="rip-off" lemma="rip-off" category="NN"
+9	32,33	GATE_Token	string="." lemma="." category="."

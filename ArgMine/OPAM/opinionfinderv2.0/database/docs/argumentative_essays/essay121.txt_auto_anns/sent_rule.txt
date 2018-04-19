@@ -1,0 +1,10 @@
+argumentative_essays_essay121.txt_0_57	obj
+argumentative_essays_essay121.txt_59_209	unknown
+argumentative_essays_essay121.txt_210_331	unknown
+argumentative_essays_essay121.txt_332_424	unknown
+argumentative_essays_essay121.txt_425_601	unknown
+argumentative_essays_essay121.txt_602_728	unknown
+argumentative_essays_essay121.txt_729_902	unknown
+argumentative_essays_essay121.txt_903_1068	subj
+argumentative_essays_essay121.txt_1069_1250	unknown
+argumentative_essays_essay121.txt_1251_1309	obj

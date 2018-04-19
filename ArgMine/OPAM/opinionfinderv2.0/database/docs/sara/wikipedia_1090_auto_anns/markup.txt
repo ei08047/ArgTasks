@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">C -RRB- Simple tidying of refs and tightening up of box ; <MPQAPOL autoclass="neutral">pointless</MPQAPOL> to <MPQAPOL autoclass="neutral">revert</MPQAPOL> .</MPQASENT>

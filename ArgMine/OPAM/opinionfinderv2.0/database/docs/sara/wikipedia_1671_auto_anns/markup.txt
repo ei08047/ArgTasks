@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This discussion produced a secondary <MPQAPOL autoclass="neutral">controversy</MPQAPOL> over what is the `` <MPQAPOL autoclass="neutral">correct</MPQAPOL> '' translation of the quote .</MPQASENT>

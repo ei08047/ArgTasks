@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Copyright <MPQAPOL autoclass="neutral">should</MPQAPOL> not be a <MPQAPOL autoclass="neutral">problem</MPQAPOL> here -- it is <MPQAPOL autoclass="neutral">quite</MPQAPOL> <MPQAPOL autoclass="positive">clearly</MPQAPOL> <MPQAPOL autoclass="positive">fair</MPQAPOL> use .</MPQASENT>

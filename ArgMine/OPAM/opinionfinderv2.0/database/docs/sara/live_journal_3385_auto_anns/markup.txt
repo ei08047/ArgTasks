@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">( this can serve 2 if you <MPQAPOL autoclass="positive">want</MPQAPOL> to <MPQAPOL autoclass="negative">feel</MPQAPOL> <MPQAPOL autoclass="negative">slightly</MPQAPOL> more <MPQAPOL autoclass="positive">virtuous</MPQAPOL> ) .</MPQASENT>

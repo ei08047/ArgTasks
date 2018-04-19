@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,11	GATE_Token	string="republicans" lemma="republican" category="NNS"
+3	12,16	GATE_Token	string="have" lemma="have" category="VBP"
+4	17,18	GATE_Token	string="a" lemma="a" category="DT"
+5	19,24	GATE_Token	string="right" lemma="right" category="NN"
+6	25,27	GATE_Token	string="to" lemma="to" category="TO"
+7	28,32	GATE_Token	string="vote" lemma="vote" category="VB"
+8	33,36	GATE_Token	string="too" lemma="too" category="RB"
+9	37,38	GATE_Token	string="." lemma="." category="."

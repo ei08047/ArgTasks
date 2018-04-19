@@ -1,0 +1,11 @@
+1	0,58	GATE_Sentence
+2	0,5	GATE_Token	string="There" lemma="there" category="EX"
+3	6,9	GATE_Token	string="are" lemma="be" category="VBP"
+4	10,17	GATE_Token	string="endless" lemma="endless" category="JJ"
+5	18,27	GATE_Token	string="parallels" lemma="parallel" category="NNS"
+6	28,30	GATE_Token	string="in" lemma="in" category="IN"
+7	31,36	GATE_Token	string="other" lemma="other" category="JJ"
+8	37,45	GATE_Token	string="branches" lemma="branch" category="NNS"
+9	46,48	GATE_Token	string="of" lemma="of" category="IN"
+10	49,56	GATE_Token	string="science" lemma="science" category="NN"
+11	57,58	GATE_Token	string="." lemma="." category="."

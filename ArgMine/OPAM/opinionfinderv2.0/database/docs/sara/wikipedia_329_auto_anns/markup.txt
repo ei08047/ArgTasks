@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am <MPQAPOL autoclass="negative">sorry</MPQAPOL> Karanacs , I <MPQAPOL autoclass="negative">disagree</MPQAPOL> with your proposal .</MPQASENT>

@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,5	GATE_Token	string="These" lemma="these" category="DT"
+3	6,9	GATE_Token	string="two" lemma="two" category="CD"
+4	10,13	GATE_Token	string="are" lemma="be" category="VBP"
+5	14,24	GATE_Token	string="absolutely" lemma="absolutely" category="RB"
+6	25,28	GATE_Token	string="NOT" lemma="not" category="RB"
+7	29,32	GATE_Token	string="the" lemma="the" category="DT"
+8	33,37	GATE_Token	string="same" lemma="same" category="JJ"
+9	38,39	GATE_Token	string="." lemma="." category="."

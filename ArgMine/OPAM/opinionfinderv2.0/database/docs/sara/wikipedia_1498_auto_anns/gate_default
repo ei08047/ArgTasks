@@ -1,0 +1,7 @@
+1	0,34	GATE_Sentence
+2	0,3	GATE_Token	string="all" lemma="all" category="DT"
+3	4,10	GATE_Token	string="within" lemma="within" category="IN"
+4	11,20	GATE_Token	string="wikipedia" lemma="wikipedium" category="NN"
+5	21,31	GATE_Token	string="guildlines" lemma="guildline" category="NNS"
+6	32,33	GATE_Token	string="?" lemma="?" category="."
+7	33,34	GATE_Token	string="." lemma="." category="."

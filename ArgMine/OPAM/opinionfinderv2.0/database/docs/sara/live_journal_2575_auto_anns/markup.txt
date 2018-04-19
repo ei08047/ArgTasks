@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">With some small ( albeit <MPQAPOL autoclass="neutral">notable</MPQAPOL> ) exceptions , senior year at Poly has been the pits .</MPQASENT>

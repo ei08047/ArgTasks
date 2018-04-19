@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,7	GATE_Token	string="Jim" lemma="Jim" category="NNP"
+4	8,14	GATE_Token	string="Henson" lemma="Henson" category="NNP"
+5	15,19	GATE_Token	string="page" lemma="page" category="NN"
+6	20,25	GATE_Token	string="lists" lemma="list" category="NNS"
+7	26,33	GATE_Token	string="someone" lemma="someone" category="NN"
+8	34,38	GATE_Token	string="else" lemma="else" category="RB"
+9	39,40	GATE_Token	string="." lemma="." category="."

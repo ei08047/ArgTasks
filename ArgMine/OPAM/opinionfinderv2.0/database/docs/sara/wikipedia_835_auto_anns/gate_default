@@ -1,0 +1,13 @@
+1	0,67	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="would" lemma="would" category="MD"
+4	8,15	GATE_Token	string="propose" lemma="propose" category="VB"
+5	16,20	GATE_Token	string="just" lemma="just" category="RB"
+6	21,27	GATE_Token	string="taking" lemma="take" category="VBG"
+7	28,29	GATE_Token	string="a" lemma="a" category="DT"
+8	30,38	GATE_Token	string="sentence" lemma="sentence" category="NN"
+9	39,43	GATE_Token	string="from" lemma="from" category="IN"
+10	44,51	GATE_Token	string="Encarta" lemma="Encarta" category="NNP"
+11	52,54	GATE_Token	string="or" lemma="or" category="CC"
+12	55,65	GATE_Token	string="Britannica" lemma="Britannica" category="NNP"
+13	66,67	GATE_Token	string="." lemma="." category="."

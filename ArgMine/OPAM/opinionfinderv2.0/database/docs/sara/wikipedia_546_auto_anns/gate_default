@@ -1,0 +1,8 @@
+1	0,37	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,11	GATE_Token	string="energy" lemma="energy" category="NN"
+4	12,18	GATE_Token	string="allows" lemma="allow" category="VBZ"
+5	19,23	GATE_Token	string="life" lemma="life" category="NN"
+6	24,26	GATE_Token	string="to" lemma="to" category="TO"
+7	27,35	GATE_Token	string="continue" lemma="continue" category="VB"
+8	36,37	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,13 @@
+1	0,50	GATE_Sentence
+2	0,5	GATE_Token	string="conan" lemma="conan" category="NN"
+3	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+4	9,12	GATE_Token	string="hit" lemma="hit" category="VBN"
+5	13,15	GATE_Token	string="or" lemma="or" category="CC"
+6	16,20	GATE_Token	string="miss" lemma="miss" category="VB"
+7	21,24	GATE_Token	string="but" lemma="but" category="CC"
+8	25,29	GATE_Token	string="damn" lemma="damn" category="JJ"
+9	30,35	GATE_Token	string="funny" lemma="funny" category="JJ"
+10	36,40	GATE_Token	string="when" lemma="when" category="WRB"
+11	41,43	GATE_Token	string="he" lemma="he" category="PRP"
+12	44,48	GATE_Token	string="hits" lemma="hit" category="VBZ"
+13	49,50	GATE_Token	string="." lemma="." category="."

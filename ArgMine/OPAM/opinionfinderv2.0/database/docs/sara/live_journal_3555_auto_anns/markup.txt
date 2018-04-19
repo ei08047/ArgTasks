@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Yeah</MPQAPOL> , there is something about sea cliffs that are way <MPQAPOL autoclass="positive">better</MPQAPOL> than , you <MPQAPOL autoclass="neutral">know</MPQAPOL> , any other sort of scenery .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">There are <MPQAPOL autoclass="neutral">plenty</MPQAPOL> of other images we <MPQAPOL autoclass="neutral">could</MPQAPOL> use as <MPQAPOL autoclass="neutral">well</MPQAPOL> , the <MPQAPOL autoclass="neutral">important</MPQAPOL> thing is to discuss the changes .</MPQASENT>

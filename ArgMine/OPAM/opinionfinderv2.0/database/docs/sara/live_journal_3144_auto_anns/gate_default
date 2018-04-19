@@ -1,0 +1,11 @@
+1	0,40	GATE_Sentence
+2	0,2	GATE_Token	string="it" lemma="it" category="PRP"
+3	3,6	GATE_Token	string="'ll" lemma="'ll" category="MD"
+4	7,11	GATE_Token	string="just" lemma="just" category="RB"
+5	12,14	GATE_Token	string="be" lemma="be" category="VB"
+6	15,17	GATE_Token	string="an" lemma="a" category="DT"
+7	18,22	GATE_Token	string="even" lemma="even" category="RB"
+8	23,28	GATE_Token	string="color" lemma="color" category="NN"
+9	29,31	GATE_Token	string="of" lemma="of" category="IN"
+10	32,38	GATE_Token	string="orange" lemma="orange" category="NN"
+11	39,40	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,9 @@
+1	0,47	GATE_Sentence
+2	0,15	GATE_Token	string="Congratulations" lemma="congratulation" category="NNS"
+3	16,18	GATE_Token	string="on" lemma="on" category="IN"
+4	19,26	GATE_Token	string="missing" lemma="miss" category="VBG"
+5	27,31	GATE_Token	string="your" lemma="you" category="PRP$"
+6	32,38	GATE_Token	string="flight" lemma="flight" category="NN"
+7	39,40	GATE_Token	string="," lemma="," category=","
+8	41,45	GATE_Token	string="Matt" lemma="Matt" category="NNP"
+9	46,47	GATE_Token	string="!" lemma="!" category="."

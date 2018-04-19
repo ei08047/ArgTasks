@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">sometimes im <MPQAPOL autoclass="neutral">too</MPQAPOL> <MPQAPOL autoclass="negative">weak</MPQAPOL> to eat .</MPQASENT>

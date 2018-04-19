@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Who <MPQAPOL autoclass="positive">wants</MPQAPOL> to go camping in Two Harbors at Catalina Island ?</MPQASENT>

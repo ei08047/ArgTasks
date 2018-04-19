@@ -1,0 +1,17 @@
+1	0,68	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,13	GATE_Token	string="Institute" lemma="Institute" category="NNP"
+4	14,15	GATE_Token	string="," lemma="," category=","
+5	16,19	GATE_Token	string="for" lemma="for" category="IN"
+6	20,27	GATE_Token	string="example" lemma="example" category="NN"
+7	28,29	GATE_Token	string="," lemma="," category=","
+8	30,33	GATE_Token	string="was" lemma="be" category="VBD"
+9	34,37	GATE_Token	string="n't" lemma="not" category="RB"
+10	38,40	GATE_Token	string="at" lemma="at" category="IN"
+11	41,44	GATE_Token	string="the" lemma="the" category="DT"
+12	45,49	GATE_Token	string="last" lemma="last" category="JJ"
+13	50,60	GATE_Token	string="pro-choice" lemma="pro-choice" category="JJ"
+14	61,66	GATE_Token	string="march" lemma="march" category="NN"
+15	67,68	GATE_Token	string="." lemma="." category="."
+16	68,70	GATE_Sentence
+17	68,70	GATE_Token	string="--" lemma="--" category=":"

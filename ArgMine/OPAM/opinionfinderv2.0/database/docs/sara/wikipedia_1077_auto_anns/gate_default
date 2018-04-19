@@ -1,0 +1,13 @@
+1	0,74	GATE_Sentence
+2	0,11	GATE_Token	string="Discussions" lemma="discussion" category="NNS"
+3	12,18	GATE_Token	string="should" lemma="should" category="MD"
+4	19,25	GATE_Token	string="always" lemma="always" category="RB"
+5	26,28	GATE_Token	string="be" lemma="be" category="VB"
+6	29,37	GATE_Token	string="attempts" lemma="attempt" category="NNS"
+7	38,40	GATE_Token	string="to" lemma="to" category="TO"
+8	41,49	GATE_Token	string="convince" lemma="convince" category="VB"
+9	50,56	GATE_Token	string="others" lemma="other" category="NNS"
+10	57,58	GATE_Token	string="," lemma="," category=","
+11	59,64	GATE_Token	string="using" lemma="use" category="VBG"
+12	65,72	GATE_Token	string="reasons" lemma="reason" category="NNS"
+13	73,74	GATE_Token	string="." lemma="." category="."

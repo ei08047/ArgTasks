@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Anyhow</MPQAPOL> , <MPQAPOL autoclass="neutral">just</MPQAPOL> because the words sound the same does not <MPQAPOL autoclass="neutral">mean</MPQAPOL> they are the same thing .</MPQASENT>

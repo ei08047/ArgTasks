@@ -1,0 +1,11 @@
+1	0,42	GATE_Sentence
+2	0,5	GATE_Token	string="Gotta" lemma="Gotta" category="NNP"
+3	6,10	GATE_Token	string="grab" lemma="grab" category="VB"
+4	11,15	GATE_Token	string="that" lemma="that" category="IN"
+5	16,19	GATE_Token	string="one" lemma="one" category="CD"
+6	20,24	GATE_Token	string="when" lemma="when" category="WRB"
+7	25,27	GATE_Token	string="it" lemma="it" category="PRP"
+8	28,33	GATE_Token	string="comes" lemma="come" category="VBZ"
+9	34,36	GATE_Token	string="to" lemma="to" category="TO"
+10	37,40	GATE_Token	string="dvd" lemma="dvd" category="NN"
+11	41,42	GATE_Token	string="." lemma="." category="."

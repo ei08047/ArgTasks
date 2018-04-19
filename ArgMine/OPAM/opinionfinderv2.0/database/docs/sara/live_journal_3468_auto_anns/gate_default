@@ -1,0 +1,11 @@
+1	0,56	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,14	GATE_Token	string="nearly" lemma="nearly" category="RB"
+5	15,16	GATE_Token	string="a" lemma="a" category="DT"
+6	17,27	GATE_Token	string="definition" lemma="definition" category="NN"
+7	28,34	GATE_Token	string="clause" lemma="clause" category="NN"
+8	35,37	GATE_Token	string="in" lemma="in" category="IN"
+9	38,41	GATE_Token	string="the" lemma="the" category="DT"
+10	42,54	GATE_Token	string="constitution" lemma="constitution" category="NN"
+11	55,56	GATE_Token	string="." lemma="." category="."

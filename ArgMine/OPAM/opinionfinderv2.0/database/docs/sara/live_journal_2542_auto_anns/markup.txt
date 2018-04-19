@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I do not <MPQAPOL autoclass="neutral">know</MPQAPOL> ... I do not <MPQAPOL autoclass="negative">feel</MPQAPOL> like it is <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">astute</MPQAPOL> to point out that the Oscars are kind of <MPQAPOL autoclass="negative">pompous</MPQAPOL> and out of touch .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It <MPQAPOL autoclass="neutral">seems</MPQAPOL> like comparing apples to oranges to put any <MPQAPOL autoclass="neutral">comment</MPQAPOL> about Muslims outnumbering Roman Catholics .</MPQASENT>

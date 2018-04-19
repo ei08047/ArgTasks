@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="negative">disagree</MPQAPOL> with your <MPQAPOL autoclass="neutral">opinion</MPQAPOL> on my credibility .</MPQASENT>

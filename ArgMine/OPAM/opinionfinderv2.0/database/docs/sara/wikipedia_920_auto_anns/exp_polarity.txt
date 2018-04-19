@@ -1,0 +1,4 @@
+sara_wikipedia_920_9_15	negative
+sara_wikipedia_920_22_26	negative
+sara_wikipedia_920_32_40	negative
+sara_wikipedia_920_56_60	positive

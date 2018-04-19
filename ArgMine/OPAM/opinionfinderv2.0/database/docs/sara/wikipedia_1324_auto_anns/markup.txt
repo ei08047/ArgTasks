@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is analogous to the <MPQAPOL autoclass="neutral">principle</MPQAPOL> that <MPQAPOL autoclass="neutral">exceptional</MPQAPOL> <MPQAPOL autoclass="neutral">claims</MPQAPOL> require <MPQAPOL autoclass="neutral">exceptional</MPQAPOL> sources .</MPQASENT>

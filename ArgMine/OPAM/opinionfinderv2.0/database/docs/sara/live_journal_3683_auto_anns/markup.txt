@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">We are playing both Harrisburg and Atlanta , and they are going to <MPQAPOL autoclass="neutral">cry</MPQAPOL> , cry , cry .</MPQASENT>

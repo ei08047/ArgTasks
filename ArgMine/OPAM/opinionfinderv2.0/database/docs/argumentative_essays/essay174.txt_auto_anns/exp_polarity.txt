@@ -1,0 +1,7 @@
+argumentative_essays_essay174.txt_1458_1463	neutral
+argumentative_essays_essay174.txt_1464_1471	neutral
+argumentative_essays_essay174.txt_1475_1481	positive
+argumentative_essays_essay174.txt_1495_1502	negative
+argumentative_essays_essay174.txt_1533_1537	neutral
+argumentative_essays_essay174.txt_1538_1546	neutral
+argumentative_essays_essay174.txt_1560_1564	positive

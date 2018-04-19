@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The 48-hour hiatus was a technical step which -LRB- <MPQAPOL autoclass="neutral">so</MPQAPOL> far as I am <MPQAPOL autoclass="neutral">aware</MPQAPOL> -RRB- had no <MPQAPOL autoclass="neutral">practical</MPQAPOL> consequence .</MPQASENT>

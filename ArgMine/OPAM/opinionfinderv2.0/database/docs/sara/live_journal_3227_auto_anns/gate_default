@@ -1,0 +1,7 @@
+1	0,50	GATE_Sentence
+2	0,10	GATE_Token	string="Originally" lemma="originally" category="RB"
+3	11,20	GATE_Token	string="published" lemma="publish" category="VBN"
+4	21,23	GATE_Token	string="at" lemma="at" category="IN"
+5	24,32	GATE_Token	string="LLLINKKK" lemma="lllinkkk" category="NN"
+6	33,48	GATE_Token	string="rosemarytravale" lemma="rosemarytravale" category="NN"
+7	49,50	GATE_Token	string="." lemma="." category="."

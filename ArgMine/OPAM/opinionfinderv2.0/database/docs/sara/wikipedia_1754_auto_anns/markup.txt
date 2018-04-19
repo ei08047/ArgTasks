@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Where did I say the detail of who Smith saw are <MPQAPOL autoclass="neutral">too</MPQAPOL> <MPQAPOL autoclass="negative">specific</MPQAPOL> ?</MPQASENT>

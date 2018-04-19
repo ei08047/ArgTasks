@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Yes</MPQAPOL> , <MPQAPOL autoclass="neutral">yes</MPQAPOL> you <MPQAPOL autoclass="neutral">should</MPQAPOL> ~ Nothing <MPQAPOL autoclass="negative">wrong</MPQAPOL> with art <MPQAPOL autoclass="neutral">rants</MPQAPOL> <MPQAPOL autoclass="negative">though</MPQAPOL> !</MPQASENT>

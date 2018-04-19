@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It has never been <MPQAPOL autoclass="neutral">shown</MPQAPOL> that Israel <MPQAPOL autoclass="neutral">tried</MPQAPOL> to <MPQAPOL autoclass="neutral">kill</MPQAPOL> civilians .</MPQASENT>

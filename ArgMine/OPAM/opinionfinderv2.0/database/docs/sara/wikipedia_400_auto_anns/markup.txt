@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">We can not <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">eliminate</MPQAPOL> <MPQAPOL autoclass="neutral">important</MPQAPOL> <MPQAPOL autoclass="neutral">facts</MPQAPOL> <MPQAPOL autoclass="positive">just</MPQAPOL> to <MPQAPOL autoclass="neutral">appear</MPQAPOL> to be not - pro Catholic .</MPQASENT>

@@ -1,0 +1,11 @@
+1	0,60	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,13	GATE_Token	string="material" lemma="material" category="NN"
+4	14,17	GATE_Token	string="has" lemma="have" category="VBZ"
+5	18,22	GATE_Token	string="been" lemma="be" category="VBN"
+6	23,33	GATE_Token	string="repeatedly" lemma="repeatedly" category="RB"
+7	34,42	GATE_Token	string="re-added" lemma="re-add" category="VBN"
+8	43,45	GATE_Token	string="to" lemma="to" category="TO"
+9	46,50	GATE_Token	string="this" lemma="this" category="DT"
+10	51,58	GATE_Token	string="article" lemma="article" category="NN"
+11	59,60	GATE_Token	string="." lemma="." category="."

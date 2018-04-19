@@ -1,0 +1,8 @@
+1	0,37	GATE_Sentence
+2	0,7	GATE_Token	string="Another" lemma="another" category="DT"
+3	8,14	GATE_Token	string="series" lemma="series" category="NN"
+4	15,20	GATE_Token	string="would" lemma="would" category="MD"
+5	21,25	GATE_Token	string="show" lemma="show" category="VB"
+6	26,28	GATE_Token	string="up" lemma="up" category="RP"
+7	29,35	GATE_Token	string="anyway" lemma="anyway" category="RB"
+8	36,37	GATE_Token	string="." lemma="." category="."

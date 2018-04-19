@@ -1,0 +1,2 @@
+1	0,4	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+2	48,65	matchfeat	type="fixed4gram" mpqapolarity="neutral"

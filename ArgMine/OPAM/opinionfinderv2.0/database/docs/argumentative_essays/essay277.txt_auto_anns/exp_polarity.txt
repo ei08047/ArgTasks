@@ -1,0 +1,7 @@
+argumentative_essays_essay277.txt_1767_1772	neutral
+argumentative_essays_essay277.txt_1773_1780	neutral
+argumentative_essays_essay277.txt_1794_1803	neutral
+argumentative_essays_essay277.txt_1824_1832	neutral
+argumentative_essays_essay277.txt_1836_1844	neutral
+argumentative_essays_essay277.txt_1859_1865	neutral
+argumentative_essays_essay277.txt_1878_1888	positive

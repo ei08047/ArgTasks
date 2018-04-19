@@ -1,0 +1,7 @@
+argumentative_essays_essay062.txt_1898_1906	neutral
+argumentative_essays_essay062.txt_1910_1918	negative
+argumentative_essays_essay062.txt_1937_1943	neutral
+argumentative_essays_essay062.txt_1951_1961	neutral
+argumentative_essays_essay062.txt_1987_1992	neutral
+argumentative_essays_essay062.txt_2034_2040	neutral
+argumentative_essays_essay062.txt_2041_2045	neutral

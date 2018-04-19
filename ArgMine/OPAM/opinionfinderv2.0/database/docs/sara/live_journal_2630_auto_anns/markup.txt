@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Any who ... your presense has been <MPQAPOL autoclass="neutral">missed</MPQAPOL> .</MPQASENT>

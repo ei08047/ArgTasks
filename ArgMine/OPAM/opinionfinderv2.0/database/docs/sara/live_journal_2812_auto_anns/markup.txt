@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I was holding my breath , <MPQAPOL autoclass="positive">hoping</MPQAPOL> it <MPQAPOL autoclass="neutral">would</MPQAPOL> not be left <MPQAPOL autoclass="negative">forgotten</MPQAPOL> , or on a list of things for him to get to later .</MPQASENT>

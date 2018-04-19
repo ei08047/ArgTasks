@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">But <MPQAPOL autoclass="neutral">yeah</MPQAPOL> , you can not <MPQAPOL autoclass="negative">feel</MPQAPOL> <MPQAPOL autoclass="negative">too</MPQAPOL> <MPQAPOL autoclass="negative">dirty</MPQAPOL> when there are <MPQAPOL autoclass="negative">horrors</MPQAPOL> like that out there .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i can <MPQAPOL autoclass="neutral">agree</MPQAPOL> that <MPQAPOL autoclass="neutral">whatever</MPQAPOL> is <MPQAPOL autoclass="neutral">agreed</MPQAPOL> upon here in this semi <MPQAPOL autoclass="neutral">protected</MPQAPOL> article will be the rule for all other articles .</MPQASENT>

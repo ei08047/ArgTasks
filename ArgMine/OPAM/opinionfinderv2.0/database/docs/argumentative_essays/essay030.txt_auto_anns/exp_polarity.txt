@@ -1,0 +1,5 @@
+argumentative_essays_essay030.txt_1320_1330	neutral
+argumentative_essays_essay030.txt_1331_1336	positive
+argumentative_essays_essay030.txt_1353_1359	neutral
+argumentative_essays_essay030.txt_1487_1491	neutral
+argumentative_essays_essay030.txt_1533_1549	neutral

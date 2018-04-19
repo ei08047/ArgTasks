@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,9	GATE_Token	string="thank" lemma="thank" category="VB"
+4	10,13	GATE_Token	string="you" lemma="you" category="PRP"
+5	14,17	GATE_Token	string="for" lemma="for" category="IN"
+6	18,21	GATE_Token	string="the" lemma="the" category="DT"
+7	22,27	GATE_Token	string="neato" lemma="neato" category="NN"
+8	28,32	GATE_Token	string="idea" lemma="idea" category="NN"
+9	33,34	GATE_Token	string="=" lemma="=" category="JJ"
+10	35,36	GATE_Token	string="D" lemma="d" category="NN"

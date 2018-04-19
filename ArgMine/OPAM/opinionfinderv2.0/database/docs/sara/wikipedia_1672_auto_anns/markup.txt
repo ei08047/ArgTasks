@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is an English translation of Mahmoud Ahmadinejad <MPQAPOL autoclass="neutral">remarks</MPQAPOL> .</MPQASENT>

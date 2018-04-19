@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The Wikipedia is <MPQAPOL autoclass="neutral">suggesting</MPQAPOL> that : `` In 1976 , Ahmadinejad took Iran 's national university entrance contests .</MPQASENT>

@@ -1,0 +1,6 @@
+sara_live_journal_2864_16_21	neutral
+sara_live_journal_2864_22_26	positive
+sara_live_journal_2864_38_47	positive
+sara_live_journal_2864_55_61	neutral
+sara_live_journal_2864_74_79	neutral
+sara_live_journal_2864_83_90	neutral

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I do not <MPQAPOL autoclass="neutral">know</MPQAPOL> , your sentence <MPQAPOL autoclass="neutral">maybe</MPQAPOL> <MPQAPOL autoclass="neutral">could</MPQAPOL> have been <MPQAPOL autoclass="positive">better</MPQAPOL> composed , but I get the meaning now .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Now that I have scanned it , I <MPQAPOL autoclass="positive">think</MPQAPOL> I <MPQAPOL autoclass="positive">want</MPQAPOL> to go in and add more blacks <MPQAPOL autoclass="neutral">so</MPQAPOL> its more <MPQAPOL autoclass="negative">obviously</MPQAPOL> night .</MPQASENT>

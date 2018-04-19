@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Since I have no <MPQAPOL autoclass="neutral">idea</MPQAPOL> if his statement is <MPQAPOL autoclass="neutral">correct</MPQAPOL> I post here to gather a discussion .</MPQASENT>

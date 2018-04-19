@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,3	GATE_Token	string="but" lemma="but" category="CC"
+3	4,5	GATE_Token	string="i" lemma="i" category="FW"
+4	6,8	GATE_Token	string="am" lemma="be" category="VBP"
+5	9,17	GATE_Token	string="ignoring" lemma="ignore" category="VBG"
+6	18,22	GATE_Token	string="this" lemma="this" category="DT"
+7	23,29	GATE_Token	string="advice" lemma="advice" category="NN"
+8	30,33	GATE_Token	string="and" lemma="and" category="CC"
+9	34,41	GATE_Token	string="getting" lemma="get" category="VBG"
+10	42,44	GATE_Token	string="it" lemma="it" category="PRP"
+11	45,51	GATE_Token	string="anyway" lemma="anyway" category="RB"
+12	52,53	GATE_Token	string="." lemma="." category="."

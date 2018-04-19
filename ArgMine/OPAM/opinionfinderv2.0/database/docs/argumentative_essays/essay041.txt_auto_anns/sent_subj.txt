@@ -1,0 +1,11 @@
+argumentative_essays_essay041.txt_0_220	obj
+argumentative_essays_essay041.txt_221_372	subj
+argumentative_essays_essay041.txt_373_507	subj
+argumentative_essays_essay041.txt_508_635	obj
+argumentative_essays_essay041.txt_636_773	subj
+argumentative_essays_essay041.txt_774_881	obj
+argumentative_essays_essay041.txt_882_952	subj
+argumentative_essays_essay041.txt_953_1203	subj
+argumentative_essays_essay041.txt_1204_1283	obj
+argumentative_essays_essay041.txt_1284_1384	obj
+argumentative_essays_essay041.txt_1385_1678	subj

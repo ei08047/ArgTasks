@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If we use an image of an animal I had <MPQAPOL autoclass="positive">prefer</MPQAPOL> something in a more <MPQAPOL autoclass="neutral">natural</MPQAPOL> setting like the hawk image .</MPQASENT>

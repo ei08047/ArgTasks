@@ -1,0 +1,11 @@
+1	0,37	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="hate" lemma="hate" category="VBP"
+4	7,11	GATE_Token	string="them" lemma="they" category="PRP"
+5	12,13	GATE_Token	string="," lemma="," category=","
+6	14,18	GATE_Token	string="hate" lemma="hate" category="VB"
+7	19,23	GATE_Token	string="them" lemma="they" category="PRP"
+8	24,25	GATE_Token	string="," lemma="," category=","
+9	26,30	GATE_Token	string="hate" lemma="hate" category="VB"
+10	31,35	GATE_Token	string="them" lemma="they" category="PRP"
+11	36,37	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">- <MPQAPOL autoclass="positive">hopefully</MPQAPOL> going to be watching <MPQAPOL autoclass="negative">little</MPQAPOL> shop of <MPQAPOL autoclass="negative">horrors</MPQAPOL> with eric tonight .</MPQASENT>

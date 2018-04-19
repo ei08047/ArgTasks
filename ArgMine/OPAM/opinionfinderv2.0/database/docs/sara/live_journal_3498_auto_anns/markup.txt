@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Is that the one we were talking about yesterday ?</MPQASENT>

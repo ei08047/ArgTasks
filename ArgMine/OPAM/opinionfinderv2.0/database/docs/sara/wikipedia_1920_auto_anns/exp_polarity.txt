@@ -1,0 +1,4 @@
+sara_wikipedia_1920_0_7	neutral
+sara_wikipedia_1920_8_15	neutral
+sara_wikipedia_1920_23_29	neutral
+sara_wikipedia_1920_39_50	negative

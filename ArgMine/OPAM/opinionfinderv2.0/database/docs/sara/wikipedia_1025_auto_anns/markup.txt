@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am assuming both terms have been used earlier than that , but I <MPQAPOL autoclass="neutral">think</MPQAPOL> this <MPQAPOL autoclass="neutral">still</MPQAPOL> illustrates something .</MPQASENT>

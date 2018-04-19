@@ -1,0 +1,11 @@
+1	0,69	GATE_Sentence
+2	0,6	GATE_Token	string="Please" lemma="please" category="VB"
+3	7,17	GATE_Token	string="understand" lemma="understand" category="VB"
+4	18,21	GATE_Token	string="the" lemma="the" category="DT"
+5	22,37	GATE_Token	string="epistemological" lemma="epistemological" category="JJ"
+6	38,44	GATE_Token	string="nature" lemma="nature" category="NN"
+7	45,51	GATE_Token	string="behind" lemma="behind" category="IN"
+8	52,56	GATE_Token	string="fact" lemma="fact" category="NN"
+9	57,60	GATE_Token	string="and" lemma="and" category="CC"
+10	61,67	GATE_Token	string="theory" lemma="theory" category="NN"
+11	68,69	GATE_Token	string="." lemma="." category="."

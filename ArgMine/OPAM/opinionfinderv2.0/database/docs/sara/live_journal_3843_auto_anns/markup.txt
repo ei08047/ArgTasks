@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Yeah</MPQAPOL> ... I am going to have to <MPQAPOL autoclass="neutral">back</MPQAPOL> Doris up on Stephen Fry .</MPQASENT>

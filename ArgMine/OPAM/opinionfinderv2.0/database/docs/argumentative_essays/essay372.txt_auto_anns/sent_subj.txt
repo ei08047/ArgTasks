@@ -1,0 +1,12 @@
+argumentative_essays_essay372.txt_0_55	obj
+argumentative_essays_essay372.txt_57_197	subj
+argumentative_essays_essay372.txt_198_344	subj
+argumentative_essays_essay372.txt_345_483	subj
+argumentative_essays_essay372.txt_484_594	obj
+argumentative_essays_essay372.txt_595_771	subj
+argumentative_essays_essay372.txt_772_934	subj
+argumentative_essays_essay372.txt_935_1058	subj
+argumentative_essays_essay372.txt_1059_1184	subj
+argumentative_essays_essay372.txt_1185_1266	subj
+argumentative_essays_essay372.txt_1267_1357	obj
+argumentative_essays_essay372.txt_1358_1513	obj

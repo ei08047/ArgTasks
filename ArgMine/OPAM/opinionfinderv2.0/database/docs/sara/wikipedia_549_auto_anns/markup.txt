@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">We <MPQAPOL autoclass="neutral">should</MPQAPOL> explain <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">enough</MPQAPOL> <MPQAPOL autoclass="neutral">so</MPQAPOL> that lay people can <MPQAPOL autoclass="neutral">understand</MPQAPOL> how it does or does not apply to evolution .</MPQASENT>

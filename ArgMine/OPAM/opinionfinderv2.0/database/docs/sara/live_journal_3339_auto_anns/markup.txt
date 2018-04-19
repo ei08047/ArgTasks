@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The thing to do is find one that has <MPQAPOL autoclass="neutral">limited</MPQAPOL> interaction with people .</MPQASENT>

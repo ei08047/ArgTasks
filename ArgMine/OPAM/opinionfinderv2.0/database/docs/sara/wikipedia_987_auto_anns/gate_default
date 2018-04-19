@@ -1,0 +1,12 @@
+1	0,70	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,14	GATE_Token	string="paragraph" lemma="paragraph" category="NN"
+4	15,17	GATE_Token	string="is" lemma="be" category="VBZ"
+5	18,28	GATE_Token	string="rightfully" lemma="rightfully" category="RB"
+6	29,36	GATE_Token	string="phrased" lemma="phrase" category="VBN"
+7	37,39	GATE_Token	string="as" lemma="as" category="IN"
+8	40,54	GATE_Token	string="representation" lemma="representation" category="NN"
+9	55,57	GATE_Token	string="of" lemma="of" category="IN"
+10	58,60	GATE_Token	string="an" lemma="a" category="DT"
+11	61,68	GATE_Token	string="opinion" lemma="opinion" category="NN"
+12	69,70	GATE_Token	string="." lemma="." category="."

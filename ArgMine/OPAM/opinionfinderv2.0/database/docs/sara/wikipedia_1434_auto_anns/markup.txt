@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">It also has to pass the parity test , i.e. be <MPQAPOL autoclass="negative">considered</MPQAPOL> <MPQAPOL autoclass="positive">respectable</MPQAPOL> among its peers .</MPQASENT>

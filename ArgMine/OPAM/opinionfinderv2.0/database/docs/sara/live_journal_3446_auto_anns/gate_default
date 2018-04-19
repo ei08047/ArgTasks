@@ -1,0 +1,10 @@
+1	0,60	GATE_Sentence
+2	0,12	GATE_Token	string="Christianist" lemma="christianist" category="JJ"
+3	13,22	GATE_Token	string="lawmaking" lemma="lawmaking" category="JJ"
+4	23,28	GATE_Token	string="harms" lemma="harm" category="NNS"
+5	29,33	GATE_Token	string="both" lemma="both" category="CC"
+6	34,37	GATE_Token	string="the" lemma="the" category="DT"
+7	38,41	GATE_Token	string="law" lemma="law" category="NN"
+8	42,45	GATE_Token	string="and" lemma="and" category="CC"
+9	46,58	GATE_Token	string="Christianity" lemma="Christianity" category="NNP"
+10	59,60	GATE_Token	string="." lemma="." category="."

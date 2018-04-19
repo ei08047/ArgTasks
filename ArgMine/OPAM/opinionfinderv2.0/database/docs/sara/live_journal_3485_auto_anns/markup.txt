@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Flash</MPQAPOL> , Java and Shockwave powered <MPQAPOL autoclass="neutral">high-quality</MPQAPOL> games , 24 hours a day , 7 days a week !</MPQASENT>

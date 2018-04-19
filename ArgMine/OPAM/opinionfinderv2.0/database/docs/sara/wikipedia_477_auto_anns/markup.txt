@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The image <MPQAPOL autoclass="neutral">should</MPQAPOL> focus on <MPQAPOL autoclass="neutral">death</MPQAPOL> in general , not a custom .</MPQASENT>

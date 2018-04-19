@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do not <MPQAPOL autoclass="negative">worry</MPQAPOL> , <MPQAPOL autoclass="neutral">though</MPQAPOL> ... I am not <MPQAPOL autoclass="neutral">cutting</MPQAPOL> a lot of people .</MPQASENT>

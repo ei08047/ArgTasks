@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">So</MPQAPOL> <MPQAPOL autoclass="neutral">really</MPQAPOL> , there is no <MPQAPOL autoclass="neutral">right</MPQAPOL> answer .</MPQASENT>

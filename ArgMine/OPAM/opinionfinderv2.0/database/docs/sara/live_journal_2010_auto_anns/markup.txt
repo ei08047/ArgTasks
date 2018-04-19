@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">i <MPQAPOL autoclass="neutral">mean</MPQAPOL> who <MPQAPOL autoclass="positive">wants</MPQAPOL> to read about my life , it is <MPQAPOL autoclass="negative">boring</MPQAPOL> ... it is only <MPQAPOL autoclass="neutral">just</MPQAPOL> about the pictures .</MPQASENT>

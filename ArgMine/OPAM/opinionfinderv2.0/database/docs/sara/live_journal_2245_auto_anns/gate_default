@@ -1,0 +1,11 @@
+1	0,46	GATE_Sentence
+2	0,3	GATE_Token	string="Who" lemma="who" category="WP"
+3	4,6	GATE_Token	string="do" lemma="do" category="VBP"
+4	7,10	GATE_Token	string="you" lemma="you" category="PRP"
+5	11,16	GATE_Token	string="think" lemma="think" category="VB"
+6	17,19	GATE_Token	string="we" lemma="we" category="PRP"
+7	20,25	GATE_Token	string="would" lemma="would" category="MD"
+8	26,33	GATE_Token	string="contact" lemma="contact" category="VB"
+9	34,39	GATE_Token	string="about" lemma="about" category="IN"
+10	40,44	GATE_Token	string="this" lemma="this" category="DT"
+11	45,46	GATE_Token	string="?" lemma="?" category="."

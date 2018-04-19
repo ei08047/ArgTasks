@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Also , the San Francisco in California is <MPQAPOL autoclass="negative">hardly</MPQAPOL> a uniquely self-identifying name , <MPQAPOL autoclass="neutral">although</MPQAPOL> it is <MPQAPOL autoclass="neutral">very</MPQAPOL> common .</MPQASENT>

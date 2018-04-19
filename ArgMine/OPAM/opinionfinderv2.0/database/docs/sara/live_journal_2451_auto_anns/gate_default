@@ -1,0 +1,10 @@
+1	0,40	GATE_Sentence
+2	0,6	GATE_Token	string="Carder" lemma="Carder" category="NNP"
+3	7,9	GATE_Token	string="'s" lemma="'s" category="POS"
+4	10,15	GATE_Token	string="plans" lemma="plan" category="NNS"
+5	16,23	GATE_Token	string="usually" lemma="usually" category="RB"
+6	24,28	GATE_Token	string="turn" lemma="turn" category="VBP"
+7	29,32	GATE_Token	string="out" lemma="out" category="RP"
+8	33,37	GATE_Token	string="okay" lemma="okay" category="JJ"
+9	38,39	GATE_Token	string="." lemma="." category="."
+10	39,40	GATE_Token	string="." lemma="." category="."

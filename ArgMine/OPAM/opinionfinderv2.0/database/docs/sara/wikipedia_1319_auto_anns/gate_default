@@ -1,0 +1,10 @@
+1	0,44	GATE_Sentence
+2	0,6	GATE_Token	string="Please" lemma="please" category="VB"
+3	7,10	GATE_Token	string="see" lemma="see" category="VB"
+4	11,13	GATE_Token	string="my" lemma="my" category="PRP$"
+5	14,21	GATE_Token	string="comment" lemma="comment" category="NN"
+6	22,24	GATE_Token	string="in" lemma="in" category="IN"
+7	25,28	GATE_Token	string="the" lemma="the" category="DT"
+8	29,36	GATE_Token	string="section" lemma="section" category="NN"
+9	37,42	GATE_Token	string="below" lemma="below" category="IN"
+10	43,44	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,4	GATE_Token	string="Damn" lemma="Damn" category="NNP"
+3	5,8	GATE_Token	string="you" lemma="you" category="PRP"
+4	9,10	GATE_Token	string="," lemma="," category=","
+5	11,16	GATE_Token	string="Final" lemma="final" category="JJ"
+6	17,24	GATE_Token	string="Fantasy" lemma="Fantasy" category="NNP"
+7	25,29	GATE_Token	string="XIII" lemma="XIII" category="NNP"
+8	30,31	GATE_Token	string="." lemma="." category="."

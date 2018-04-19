@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,3	GATE_Token	string="but" lemma="but" category="CC"
+3	4,5	GATE_Token	string="i" lemma="i" category="FW"
+4	6,8	GATE_Token	string="am" lemma="be" category="VBP"
+5	9,13	GATE_Token	string="just" lemma="just" category="RB"
+6	14,22	GATE_Token	string="thankful" lemma="thankful" category="JJ"
+7	23,25	GATE_Token	string="to" lemma="to" category="TO"
+8	26,28	GATE_Token	string="be" lemma="be" category="VB"
+9	29,38	GATE_Token	string="somewhere" lemma="somewhere" category="RB"
+10	39,42	GATE_Token	string="new" lemma="new" category="JJ"

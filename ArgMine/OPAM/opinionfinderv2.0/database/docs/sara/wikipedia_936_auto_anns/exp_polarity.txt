@@ -1,0 +1,6 @@
+sara_wikipedia_936_10_15	negative
+sara_wikipedia_936_19_23	negative
+sara_wikipedia_936_31_36	neutral
+sara_wikipedia_936_37_47	negative
+sara_wikipedia_936_50_57	negative
+sara_wikipedia_936_58_63	negative

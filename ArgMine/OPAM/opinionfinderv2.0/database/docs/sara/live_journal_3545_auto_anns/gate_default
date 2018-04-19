@@ -1,0 +1,13 @@
+1	0,60	GATE_Sentence
+2	0,4	GATE_Token	string="Here" lemma="here" category="RB"
+3	5,9	GATE_Token	string="they" lemma="they" category="PRP"
+4	10,13	GATE_Token	string="are" lemma="be" category="VBP"
+5	14,15	GATE_Token	string="," lemma="," category=","
+6	16,23	GATE_Token	string="beneath" lemma="beneath" category="IN"
+7	24,27	GATE_Token	string="the" lemma="the" category="DT"
+8	28,31	GATE_Token	string="cut" lemma="cut" category="NN"
+9	32,33	GATE_Token	string=":" lemma=":" category=":"
+10	34,42	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+11	43,51	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+12	52,58	GATE_Token	string="CLIFFS" lemma="CLIFFS" category="NNPS"
+13	59,60	GATE_Token	string="." lemma="." category="."

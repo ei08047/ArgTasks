@@ -1,0 +1,12 @@
+1	0,44	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,7	GATE_Token	string="yet" lemma="yet" category="RB"
+4	8,9	GATE_Token	string="," lemma="," category=","
+5	10,13	GATE_Token	string="the" lemma="the" category="DT"
+6	14,17	GATE_Token	string="one" lemma="one" category="CD"
+7	18,22	GATE_Token	string="that" lemma="that" category="WDT"
+8	23,29	GATE_Token	string="seemed" lemma="seem" category="VBD"
+9	30,33	GATE_Token	string="the" lemma="the" category="DT"
+10	34,38	GATE_Token	string="most" lemma="most" category="RBS"
+11	39,42	GATE_Token	string="fun" lemma="fun" category="NN"
+12	43,44	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I have , and I <MPQAPOL autoclass="neutral">enjoy</MPQAPOL> <MPQAPOL autoclass="neutral">thinking</MPQAPOL> about it with <MPQAPOL autoclass="positive">great</MPQAPOL> frequency .</MPQASENT>

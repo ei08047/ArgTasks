@@ -1,0 +1,12 @@
+1	0,44	GATE_Sentence
+2	0,7	GATE_Token	string="because" lemma="because" category="IN"
+3	8,10	GATE_Token	string="he" lemma="he" category="PRP"
+4	11,15	GATE_Token	string="said" lemma="say" category="VBD"
+5	16,18	GATE_Token	string="``" lemma="``" category="``"
+6	19,20	GATE_Token	string="i" lemma="i" category="FW"
+7	21,23	GATE_Token	string="do" lemma="do" category="VBP"
+8	24,27	GATE_Token	string="not" lemma="not" category="RB"
+9	28,34	GATE_Token	string="accept" lemma="accept" category="VB"
+10	35,39	GATE_Token	string="that" lemma="that" category="DT"
+11	40,42	GATE_Token	string="''" lemma="''" category="''"
+12	43,44	GATE_Token	string="." lemma="." category="."

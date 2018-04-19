@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Wow</MPQAPOL> , it is like a <MPQAPOL autoclass="neutral">light</MPQAPOL> has <MPQAPOL autoclass="neutral">just</MPQAPOL> been turned on !</MPQASENT>

@@ -1,0 +1,7 @@
+1	0,42	GATE_Sentence
+2	0,10	GATE_Token	string="Originally" lemma="originally" category="RB"
+3	11,19	GATE_Token	string="uploaded" lemma="upload" category="VBN"
+4	20,22	GATE_Token	string="by" lemma="by" category="IN"
+5	23,31	GATE_Token	string="LLLINKKK" lemma="lllinkkk" category="NN"
+6	32,40	GATE_Token	string="neuroxin" lemma="neuroxin" category="NN"
+7	41,42	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">300 priests alone were <MPQAPOL autoclass="neutral">killed</MPQAPOL> in England ( <MPQAPOL autoclass="neutral">excluding</MPQAPOL> Ireland ) in Elizabeth 's reign <MPQAPOL autoclass="neutral">just</MPQAPOL> for saying mass. .</MPQASENT>

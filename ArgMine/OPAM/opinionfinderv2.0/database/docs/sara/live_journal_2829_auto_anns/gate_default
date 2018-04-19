@@ -1,0 +1,8 @@
+1	0,38	GATE_Sentence
+2	0,7	GATE_Token	string="Drawing" lemma="draw" category="VBG"
+3	8,11	GATE_Token	string="for" lemma="for" category="IN"
+4	12,22	GATE_Token	string="Sequential" lemma="sequential" category="JJ"
+5	23,27	GATE_Token	string="with" lemma="with" category="IN"
+6	28,31	GATE_Token	string="Tom" lemma="Tom" category="NNP"
+7	32,36	GATE_Token	string="Lyle" lemma="Lyle" category="NNP"
+8	37,38	GATE_Token	string="." lemma="." category="."

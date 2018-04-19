@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">The books are were deemed <MPQAPOL autoclass="negative">inappropriate</MPQAPOL> for FA because they were for juveniles - <MPQAPOL autoclass="negative">sorry</MPQAPOL> : (</MPQASENT>

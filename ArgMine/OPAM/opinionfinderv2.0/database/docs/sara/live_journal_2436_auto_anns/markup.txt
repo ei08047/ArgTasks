@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I make a <MPQAPOL autoclass="negative">bad</MPQAPOL> conversationalist when I <MPQAPOL autoclass="neutral">just</MPQAPOL> nod and sort of <MPQAPOL autoclass="negative">grimace</MPQAPOL> .</MPQASENT>

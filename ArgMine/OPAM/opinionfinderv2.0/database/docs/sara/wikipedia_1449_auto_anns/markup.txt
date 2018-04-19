@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Please</MPQAPOL> endeavor to <MPQAPOL autoclass="neutral">reasonably</MPQAPOL> conform to these <MPQAPOL autoclass="neutral">well</MPQAPOL> established <MPQAPOL autoclass="neutral">basic</MPQAPOL> WP editorial policies .</MPQASENT>

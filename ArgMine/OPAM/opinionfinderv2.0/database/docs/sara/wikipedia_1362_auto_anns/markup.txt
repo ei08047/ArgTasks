@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If someone <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="positive">wants</MPQAPOL> to <MPQAPOL autoclass="negative">argue</MPQAPOL> for that , let us take it to the <MPQAPOL autoclass="neutral">reliable</MPQAPOL> sources noticeboard .</MPQASENT>

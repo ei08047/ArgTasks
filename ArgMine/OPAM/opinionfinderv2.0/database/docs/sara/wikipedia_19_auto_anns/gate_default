@@ -1,0 +1,8 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="Any" lemma="any" category="DT"
+3	4,12	GATE_Token	string="comments" lemma="comment" category="NNS"
+4	13,18	GATE_Token	string="would" lemma="would" category="MD"
+5	19,21	GATE_Token	string="be" lemma="be" category="VB"
+6	22,26	GATE_Token	string="much" lemma="much" category="JJ"
+7	27,38	GATE_Token	string="appreciated" lemma="appreciate" category="VBN"
+8	39,40	GATE_Token	string="." lemma="." category="."

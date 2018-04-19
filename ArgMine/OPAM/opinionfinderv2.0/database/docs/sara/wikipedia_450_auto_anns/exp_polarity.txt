@@ -1,0 +1,2 @@
+sara_wikipedia_450_94_100	neutral
+sara_wikipedia_450_104_112	negative

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">A <MPQAPOL autoclass="positive">better</MPQAPOL> and more <MPQAPOL autoclass="positive">accurate</MPQAPOL> comparison <MPQAPOL autoclass="neutral">could</MPQAPOL> be made between the whole of Christianity and the whole of Islam .</MPQASENT>

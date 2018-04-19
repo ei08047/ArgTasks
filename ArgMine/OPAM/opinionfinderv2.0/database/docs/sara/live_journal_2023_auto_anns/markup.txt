@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">oh</MPQAPOL> and a <MPQAPOL autoclass="negative">nice</MPQAPOL> 28-300mm tamron lens .</MPQASENT>

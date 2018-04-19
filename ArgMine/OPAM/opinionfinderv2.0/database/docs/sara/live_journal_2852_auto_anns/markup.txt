@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">if it is night then <MPQAPOL autoclass="neutral">should</MPQAPOL> not there be <MPQAPOL autoclass="neutral">light</MPQAPOL> coming from the inside of the buildings ?</MPQASENT>

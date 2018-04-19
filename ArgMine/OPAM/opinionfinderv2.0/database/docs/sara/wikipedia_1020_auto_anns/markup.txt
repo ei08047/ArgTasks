@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">First things last , a <MPQAPOL autoclass="neutral">hard</MPQAPOL> rock artist is an artist one of whom 's <MPQAPOL autoclass="neutral">primary</MPQAPOL> genres is <MPQAPOL autoclass="neutral">hard</MPQAPOL> rock .</MPQASENT>

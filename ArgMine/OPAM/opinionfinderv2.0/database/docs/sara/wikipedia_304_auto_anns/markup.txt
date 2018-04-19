@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">And to be <MPQAPOL autoclass="neutral">fair</MPQAPOL> that balance <MPQAPOL autoclass="neutral">must</MPQAPOL> be based on the weight of <MPQAPOL autoclass="neutral">good</MPQAPOL> incidents compared to the weight of <MPQAPOL autoclass="negative">bad</MPQAPOL> .</MPQASENT>

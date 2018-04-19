@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Am I being <MPQAPOL autoclass="neutral">really</MPQAPOL> dense ... or do we have <MPQAPOL autoclass="neutral">lectures</MPQAPOL> on Saturdays ?</MPQASENT>

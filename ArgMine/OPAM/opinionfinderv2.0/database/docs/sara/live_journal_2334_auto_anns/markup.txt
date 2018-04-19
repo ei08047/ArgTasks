@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">We are not in the <MPQAPOL autoclass="neutral">black</MPQAPOL> yet , but things <MPQAPOL autoclass="neutral">could</MPQAPOL> not be going more <MPQAPOL autoclass="neutral">according</MPQAPOL> to plan .</MPQASENT>

@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,2	GATE_Token	string="an" lemma="a" category="DT"
+3	3,16	GATE_Token	string="authoritarian" lemma="authoritarian" category="JJ"
+4	17,20	GATE_Token	string="one" lemma="one" category="CD"
+5	21,23	GATE_Token	string="''" lemma="''" category="''"
+6	24,26	GATE_Token	string="in" lemma="in" category="IN"
+7	27,30	GATE_Token	string="the" lemma="the" category="DT"
+8	31,41	GATE_Token	string="dictionary" lemma="dictionary" category="NN"
+9	42,43	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am going off on <MPQAPOL autoclass="neutral">modern</MPQAPOL> art <MPQAPOL autoclass="neutral">rants</MPQAPOL> in somebody <MPQAPOL autoclass="neutral">else</MPQAPOL> 's journal .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">tried</MPQAPOL> it again last evening with a <MPQAPOL autoclass="negative">little</MPQAPOL> cinnamon and a bit of ground cloves .</MPQASENT>

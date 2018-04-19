@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,2	GATE_Token	string="My" lemma="my" category="PRP$"
+3	3,8	GATE_Token	string="level" lemma="level" category="NN"
+4	9,11	GATE_Token	string="of" lemma="of" category="IN"
+5	12,18	GATE_Token	string="detail" lemma="detail" category="NN"
+6	19,21	GATE_Token	string="is" lemma="be" category="VBZ"
+7	22,29	GATE_Token	string="minimal" lemma="minimal" category="JJ"
+8	30,31	GATE_Token	string="." lemma="." category="."

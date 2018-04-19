@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">- slept way <MPQAPOL autoclass="neutral">too</MPQAPOL> <MPQAPOL autoclass="negative">much</MPQAPOL> and had a <MPQAPOL autoclass="negative">really</MPQAPOL> <MPQAPOL autoclass="negative">unpleasant</MPQAPOL> <MPQAPOL autoclass="negative">dream</MPQAPOL> <MPQAPOL autoclass="positive">right</MPQAPOL> at the end .</MPQASENT>

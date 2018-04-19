@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> the question of whether the <MPQAPOL autoclass="neutral">misunderstandings</MPQAPOL> are common among creationists is in and of itself <MPQAPOL autoclass="negative">irrelevant</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have been at this NPOV <MPQAPOL autoclass="neutral">problem</MPQAPOL> on this page since 17 Feb 2007 : see diff .</MPQASENT>

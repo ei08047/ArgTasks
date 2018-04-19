@@ -1,0 +1,7 @@
+1	6,10	matchfeat	type="PolMmanweak" mpqapolarity="strongneg"
+2	21,28	matchfeat	type="ballmerLen1" mpqapolarity="weakneg"
+3	58,60	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+4	69,75	matchfeat	type="jwman" mpqapolarity="strongneg"
+5	89,97	matchfeat	type="trainJWman" mpqapolarity="strongneg"
+6	89,97	matchfeat	type="trainJWman" mpqapolarity="strongneg"
+7	93,97	matchfeat	type="weakjandiss" mpqapolarity="weakpos"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">when i stare at my score with either <MPQAPOL autoclass="positive">admiration</MPQAPOL> or <MPQAPOL autoclass="negative">despair</MPQAPOL> .</MPQASENT>

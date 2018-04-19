@@ -1,0 +1,11 @@
+1	0,56	GATE_Sentence
+2	0,9	GATE_Token	string="Traveling" lemma="travel" category="VBG"
+3	10,18	GATE_Token	string="together" lemma="together" category="RB"
+4	19,21	GATE_Token	string="is" lemma="be" category="VBZ"
+5	22,23	GATE_Token	string="a" lemma="a" category="DT"
+6	24,31	GATE_Token	string="serious" lemma="serious" category="JJ"
+7	32,36	GATE_Token	string="test" lemma="test" category="NN"
+8	37,39	GATE_Token	string="of" lemma="of" category="IN"
+9	40,41	GATE_Token	string="a" lemma="a" category="DT"
+10	42,54	GATE_Token	string="relationship" lemma="relationship" category="NN"
+11	55,56	GATE_Token	string="." lemma="." category="."

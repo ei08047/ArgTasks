@@ -1,0 +1,10 @@
+1	0,45	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,8	GATE_Token	string="was" lemma="be" category="VBD"
+4	9,19	GATE_Token	string="recognized" lemma="recognize" category="VBN"
+5	20,22	GATE_Token	string="by" lemma="by" category="IN"
+6	23,26	GATE_Token	string="the" lemma="the" category="DT"
+7	27,34	GATE_Token	string="British" lemma="british" category="JJ"
+8	35,39	GATE_Token	string="1927" lemma="1927" category="CD"
+9	40,43	GATE_Token	string="Act" lemma="Act" category="NNP"
+10	44,45	GATE_Token	string="." lemma="." category="."

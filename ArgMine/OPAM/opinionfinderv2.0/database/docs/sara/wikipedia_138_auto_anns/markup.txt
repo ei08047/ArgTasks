@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That the Indo-European languages did not originate in Western or Central Europe is a <MPQAPOL autoclass="neutral">fact</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,7 @@
+1	0,33	GATE_Sentence
+2	0,6	GATE_Token	string="Please" lemma="please" category="VB"
+3	7,14	GATE_Token	string="discuss" lemma="discuss" category="VB"
+4	15,21	GATE_Token	string="rather" lemma="rather" category="RB"
+5	22,26	GATE_Token	string="than" lemma="than" category="IN"
+6	27,31	GATE_Token	string="tell" lemma="tell" category="VB"
+7	32,33	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">So</MPQAPOL> , are there <MPQAPOL autoclass="neutral">objections</MPQAPOL> to adding BioPsychiatry the item in the form it is conceived under Attribution ?</MPQASENT>

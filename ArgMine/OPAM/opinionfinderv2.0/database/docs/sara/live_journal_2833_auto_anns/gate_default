@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,8	GATE_Token	string="picked" lemma="pick" category="VBD"
+4	9,12	GATE_Token	string="the" lemma="the" category="DT"
+5	13,21	GATE_Token	string="clothing" lemma="clothing" category="NN"
+6	22,30	GATE_Token	string="district" lemma="district" category="NN"
+7	31,32	GATE_Token	string="(" lemma="(" category="-LRB-"
+8	33,34	GATE_Token	string="?" lemma="?" category="."
+9	35,36	GATE_Token	string=")" lemma=")" category="-RRB-"

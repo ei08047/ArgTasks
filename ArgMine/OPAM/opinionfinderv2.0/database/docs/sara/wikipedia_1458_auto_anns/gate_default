@@ -1,0 +1,13 @@
+1	0,80	GATE_Sentence
+2	0,4	GATE_Token	string="Such" lemma="such" category="JJ"
+3	5,18	GATE_Token	string="authoritative" lemma="authoritative" category="JJ"
+4	19,26	GATE_Token	string="sources" lemma="source" category="NNS"
+5	27,32	GATE_Token	string="speak" lemma="speak" category="VBP"
+6	33,36	GATE_Token	string="for" lemma="for" category="IN"
+7	37,40	GATE_Token	string="the" lemma="the" category="DT"
+8	41,50	GATE_Token	string="consensus" lemma="consensus" category="NN"
+9	51,53	GATE_Token	string="in" lemma="in" category="IN"
+10	54,57	GATE_Token	string="the" lemma="the" category="DT"
+11	58,68	GATE_Token	string="scientific" lemma="scientific" category="JJ"
+12	69,78	GATE_Token	string="community" lemma="community" category="NN"
+13	79,80	GATE_Token	string="." lemma="." category="."

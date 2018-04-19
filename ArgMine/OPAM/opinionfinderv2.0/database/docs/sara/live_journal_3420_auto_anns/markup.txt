@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I will have to ask Fay how she cooked their rooster - he turned out <MPQAPOL autoclass="neutral">very</MPQAPOL> tasty .</MPQASENT>

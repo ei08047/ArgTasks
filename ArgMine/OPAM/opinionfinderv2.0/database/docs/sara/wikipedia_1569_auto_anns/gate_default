@@ -1,0 +1,10 @@
+1	0,45	GATE_Sentence
+2	0,2	GATE_Token	string="Is" lemma="be" category="VBZ"
+3	3,7	GATE_Token	string="that" lemma="that" category="IN"
+4	8,18	GATE_Token	string="suggesting" lemma="suggest" category="VBG"
+5	19,23	GATE_Token	string="that" lemma="that" category="IN"
+6	24,28	GATE_Token	string="your" lemma="you" category="PRP$"
+7	29,34	GATE_Token	string="claim" lemma="claim" category="NN"
+8	35,37	GATE_Token	string="is" lemma="be" category="VBZ"
+9	38,43	GATE_Token	string="false" lemma="false" category="JJ"
+10	44,45	GATE_Token	string="?" lemma="?" category="."

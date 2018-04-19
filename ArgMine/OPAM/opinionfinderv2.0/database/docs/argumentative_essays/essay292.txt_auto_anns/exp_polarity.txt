@@ -1,0 +1,4 @@
+argumentative_essays_essay292.txt_1860_1867	neutral
+argumentative_essays_essay292.txt_1874_1880	neutral
+argumentative_essays_essay292.txt_1906_1913	neutral
+argumentative_essays_essay292.txt_1996_2000	neutral

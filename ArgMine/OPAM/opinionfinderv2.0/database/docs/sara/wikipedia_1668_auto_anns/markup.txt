@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">There is no censorship , <MPQAPOL autoclass="neutral">just</MPQAPOL> a <MPQAPOL autoclass="positive">wish</MPQAPOL> to <MPQAPOL autoclass="positive">respect</MPQAPOL> Wikipedia guidelines , coupled with a request for a secondary source .</MPQASENT>

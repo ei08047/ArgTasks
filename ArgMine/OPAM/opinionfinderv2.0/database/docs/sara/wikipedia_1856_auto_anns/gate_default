@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,5	GATE_Token	string="There" lemma="there" category="EX"
+3	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+4	9,16	GATE_Token	string="nothing" lemma="nothing" category="NN"
+5	17,23	GATE_Token	string="Arafat" lemma="Arafat" category="NNP"
+6	24,27	GATE_Token	string="can" lemma="can" category="MD"
+7	28,30	GATE_Token	string="do" lemma="do" category="VB"
+8	31,36	GATE_Token	string="about" lemma="about" category="IN"
+9	37,39	GATE_Token	string="it" lemma="it" category="PRP"
+10	40,41	GATE_Token	string="." lemma="." category="."

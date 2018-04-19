@@ -1,0 +1,6 @@
+1	0,31	GATE_Sentence
+2	0,8	GATE_Token	string="Improved" lemma="improve" category="VBN"
+3	9,13	GATE_Token	string="with" lemma="with" category="IN"
+4	14,19	GATE_Token	string="legit" lemma="legit" category="JJ"
+5	20,29	GATE_Token	string="citations" lemma="citation" category="NNS"
+6	30,31	GATE_Token	string="." lemma="." category="."

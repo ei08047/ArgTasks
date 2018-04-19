@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">And Disney is <MPQAPOL autoclass="negative">notorious</MPQAPOL> for <MPQAPOL autoclass="neutral">protecting</MPQAPOL> its images , as anyone who follows the history of that company will tell you .</MPQASENT>

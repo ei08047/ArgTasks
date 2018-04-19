@@ -1,0 +1,9 @@
+1	0,51	GATE_Sentence
+2	0,12	GATE_Token	string="massdebating" lemma="massdebate" category="VBG"
+3	13,18	GATE_Token	string="about" lemma="about" category="IN"
+4	19,22	GATE_Token	string="the" lemma="the" category="DT"
+5	23,26	GATE_Token	string="ati" lemma="atus" category="NN"
+6	27,34	GATE_Token	string="x1900xt" lemma="x1900xt" category="NN"
+7	35,38	GATE_Token	string="for" lemma="for" category="IN"
+8	39,47	GATE_Token	string="aperture" lemma="aperture" category="NN"
+9	48,51	GATE_Token	string="..." lemma="..." category=":"

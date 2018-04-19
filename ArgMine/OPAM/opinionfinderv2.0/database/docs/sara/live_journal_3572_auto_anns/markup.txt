@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I found my characterization of him confirmed -- <MPQAPOL autoclass="neutral">so</MPQAPOL> he is not <MPQAPOL autoclass="negative">keen</MPQAPOL> on fighting , but he has other <MPQAPOL autoclass="neutral">skills</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,44	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,10	GATE_Token	string="actually" lemma="actually" category="RB"
+4	11,16	GATE_Token	string="think" lemma="think" category="VBP"
+5	17,23	GATE_Token	string="things" lemma="thing" category="NNS"
+6	24,28	GATE_Token	string="will" lemma="will" category="MD"
+7	29,31	GATE_Token	string="be" lemma="be" category="VB"
+8	32,36	GATE_Token	string="fine" lemma="fine" category="JJ"
+9	37,40	GATE_Token	string="now" lemma="now" category="RB"
+10	41,44	GATE_Token	string="!!!" lemma="!!!" category="CD"

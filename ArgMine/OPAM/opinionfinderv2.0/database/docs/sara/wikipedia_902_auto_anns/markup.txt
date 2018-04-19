@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">By the way , guys , this is an <MPQAPOL autoclass="neutral">idea</MPQAPOL> of what I <MPQAPOL autoclass="neutral">mean</MPQAPOL> : <MPQAPOL autoclass="neutral">Traditional</MPQAPOL> heavy metal .</MPQASENT>

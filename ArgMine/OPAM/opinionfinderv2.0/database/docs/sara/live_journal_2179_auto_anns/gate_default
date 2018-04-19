@@ -1,0 +1,9 @@
+1	0,45	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,13	GATE_Token	string="political" lemma="political" category="JJ"
+4	14,24	GATE_Token	string="philosophy" lemma="philosophy" category="NN"
+5	25,30	GATE_Token	string="class" lemma="class" category="NN"
+6	31,36	GATE_Token	string="sucks" lemma="suck" category="VBZ"
+7	37,38	GATE_Token	string="I" lemma="I" category="PRP"
+8	39,43	GATE_Token	string="hear" lemma="hear" category="VBP"
+9	44,45	GATE_Token	string="." lemma="." category="."

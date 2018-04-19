@@ -1,0 +1,11 @@
+argumentative_essays_essay386.txt_0_127	obj
+argumentative_essays_essay386.txt_128_198	obj
+argumentative_essays_essay386.txt_199_299	obj
+argumentative_essays_essay386.txt_300_417	subj
+argumentative_essays_essay386.txt_418_517	subj
+argumentative_essays_essay386.txt_518_747	subj
+argumentative_essays_essay386.txt_748_978	subj
+argumentative_essays_essay386.txt_979_1076	obj
+argumentative_essays_essay386.txt_1077_1356	subj
+argumentative_essays_essay386.txt_1357_1546	obj
+argumentative_essays_essay386.txt_1547_1757	subj

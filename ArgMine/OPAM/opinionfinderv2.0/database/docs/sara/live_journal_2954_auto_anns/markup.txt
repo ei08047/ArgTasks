@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">exceedingly</MPQAPOL> <MPQAPOL autoclass="positive">brilliant</MPQAPOL> and <MPQAPOL autoclass="positive">beautiful</MPQAPOL> , and <MPQAPOL autoclass="neutral">such</MPQAPOL> a <MPQAPOL autoclass="neutral">sweetheart</MPQAPOL> .</MPQASENT>

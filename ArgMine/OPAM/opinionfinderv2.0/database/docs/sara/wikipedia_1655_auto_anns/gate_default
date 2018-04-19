@@ -1,0 +1,7 @@
+1	0,39	GATE_Sentence
+2	0,9	GATE_Token	string="Secondary" lemma="secondary" category="JJ"
+3	10,17	GATE_Token	string="sources" lemma="source" category="NNS"
+4	18,25	GATE_Token	string="resolve" lemma="resolve" category="VBP"
+5	26,29	GATE_Token	string="the" lemma="the" category="DT"
+6	30,37	GATE_Token	string="problem" lemma="problem" category="NN"
+7	38,39	GATE_Token	string="." lemma="." category="."

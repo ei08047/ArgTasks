@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">But <MPQAPOL autoclass="neutral">attacking</MPQAPOL> a military target that was placed in the civilian population is <MPQAPOL autoclass="neutral">allowed</MPQAPOL> , <MPQAPOL autoclass="neutral">even</MPQAPOL> if civilian are <MPQAPOL autoclass="negative">hurt</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,11 @@
+1	0,46	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+3	9,13	GATE_Token	string="City" lemma="City" category="NNP"
+4	14,16	GATE_Token	string="of" lemma="of" category="IN"
+5	17,22	GATE_Token	string="Ember" lemma="Ember" category="NNP"
+6	23,25	GATE_Token	string="is" lemma="be" category="VBZ"
+7	26,27	GATE_Token	string="a" lemma="a" category="DT"
+8	28,32	GATE_Token	string="nice" lemma="nice" category="JJ"
+9	33,39	GATE_Token	string="little" lemma="little" category="JJ"
+10	40,44	GATE_Token	string="film" lemma="film" category="NN"
+11	45,46	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">PBS is a public broadcasting service in the USA they use the same image on an article about the korean <MPQAPOL autoclass="neutral">war</MPQAPOL> ( 2 )</MPQASENT>

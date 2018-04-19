@@ -1,0 +1,13 @@
+1	0,61	GATE_Sentence
+2	0,7	GATE_Token	string="Further" lemma="further" category="RB"
+3	8,10	GATE_Token	string="up" lemma="up" category="IN"
+4	11,14	GATE_Token	string="the" lemma="the" category="DT"
+5	15,20	GATE_Token	string="river" lemma="river" category="NN"
+6	21,26	GATE_Token	string="there" lemma="there" category="EX"
+7	27,29	GATE_Token	string="is" lemma="be" category="VBZ"
+8	30,36	GATE_Token	string="tubing" lemma="tubing" category="NN"
+9	37,38	GATE_Token	string="," lemma="," category=","
+10	39,42	GATE_Token	string="and" lemma="and" category="CC"
+11	43,51	GATE_Token	string="probably" lemma="probably" category="RB"
+12	52,59	GATE_Token	string="rafting" lemma="rafting" category="NN"
+13	60,61	GATE_Token	string="." lemma="." category="."

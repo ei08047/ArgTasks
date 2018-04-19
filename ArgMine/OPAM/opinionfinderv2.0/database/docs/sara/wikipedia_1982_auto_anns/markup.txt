@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">So</MPQAPOL> there is an unofficial convention of resetting the indentation to zero when it gets <MPQAPOL autoclass="neutral">too</MPQAPOL> far over .</MPQASENT>

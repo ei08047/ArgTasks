@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Hop splash your way to <MPQAPOL autoclass="neutral">victory</MPQAPOL> !</MPQASENT>

@@ -1,0 +1,4 @@
+sara_wikipedia_1965_2_7	neutral
+sara_wikipedia_1965_18_24	neutral
+sara_wikipedia_1965_25_34	positive
+sara_wikipedia_1965_35_40	neutral

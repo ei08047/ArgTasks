@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">i have <MPQAPOL autoclass="positive">absolute</MPQAPOL> <MPQAPOL autoclass="positive">confidence</MPQAPOL> in her .</MPQASENT>

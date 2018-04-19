@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Some <MPQAPOL autoclass="neutral">points</MPQAPOL> I had like to make .</MPQASENT>

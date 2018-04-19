@@ -1,0 +1,12 @@
+1	0,51	GATE_Sentence
+2	0,2	GATE_Token	string="``" lemma="``" category="``"
+3	3,6	GATE_Token	string="The" lemma="the" category="DT"
+4	7,15	GATE_Token	string="Italians" lemma="Italians" category="NNPS"
+5	16,17	GATE_Token	string="," lemma="," category=","
+6	18,21	GATE_Token	string="and" lemma="and" category="CC"
+7	22,28	GATE_Token	string="French" lemma="french" category="JJ"
+8	29,32	GATE_Token	string="got" lemma="get" category="VBD"
+9	33,38	GATE_Token	string="their" lemma="they" category="PRP$"
+10	39,45	GATE_Token	string="people" lemma="people" category="NNS"
+11	46,49	GATE_Token	string="out" lemma="out" category="RP"
+12	50,51	GATE_Token	string="." lemma="." category="."

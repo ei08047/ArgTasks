@@ -1,0 +1,9 @@
+1	0,44	GATE_Sentence
+2	0,4	GATE_Token	string="Were" lemma="be" category="VBD"
+3	5,8	GATE_Token	string="not" lemma="not" category="RB"
+4	9,13	GATE_Token	string="they" lemma="they" category="PRP"
+5	14,21	GATE_Token	string="created" lemma="create" category="VBN"
+6	22,24	GATE_Token	string="by" lemma="by" category="IN"
+7	25,32	GATE_Token	string="African" lemma="african" category="JJ"
+8	33,42	GATE_Token	string="Americans" lemma="Americans" category="NNPS"
+9	43,44	GATE_Token	string="?" lemma="?" category="."

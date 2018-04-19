@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Otherwise I will <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">throw</MPQAPOL> up or grind my teeth into <MPQAPOL autoclass="neutral">little</MPQAPOL> shards .</MPQASENT>

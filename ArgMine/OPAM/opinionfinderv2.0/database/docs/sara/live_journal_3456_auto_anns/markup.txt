@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">My <MPQAPOL autoclass="neutral">point</MPQAPOL> is that we <MPQAPOL autoclass="neutral">should</MPQAPOL> not turn to <MPQAPOL autoclass="neutral">just</MPQAPOL> one race as a <MPQAPOL autoclass="neutral">scapegoat</MPQAPOL> .</MPQASENT>

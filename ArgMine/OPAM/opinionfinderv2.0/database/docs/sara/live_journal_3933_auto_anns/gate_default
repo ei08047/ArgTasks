@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,18	GATE_Token	string="419-203-1023" lemma="419-203-1023" category="CD"
+5	19,20	GATE_Token	string="," lemma="," category=","
+6	21,24	GATE_Token	string="and" lemma="and" category="CC"
+7	25,29	GATE_Token	string="feel" lemma="feel" category="VB"
+8	30,34	GATE_Token	string="free" lemma="free" category="JJ"
+9	35,37	GATE_Token	string="to" lemma="to" category="TO"
+10	38,42	GATE_Token	string="call" lemma="call" category="VB"
+11	43,45	GATE_Token	string="me" lemma="I" category="PRP"
+12	46,54	GATE_Token	string="whenever" lemma="whenever" category="WRB"
+13	55,56	GATE_Token	string="." lemma="." category="."

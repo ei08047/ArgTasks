@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">when buying laundry detergent at the store , be <MPQAPOL autoclass="neutral">sure</MPQAPOL> that its <MPQAPOL autoclass="neutral">actually</MPQAPOL> detergent , and not fabric softener .</MPQASENT>

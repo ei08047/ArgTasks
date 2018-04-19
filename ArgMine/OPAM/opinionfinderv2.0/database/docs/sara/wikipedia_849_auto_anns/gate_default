@@ -1,0 +1,10 @@
+1	0,46	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,9	GATE_Token	string="group" lemma="group" category="NN"
+4	10,13	GATE_Token	string="has" lemma="have" category="VBZ"
+5	14,18	GATE_Token	string="also" lemma="also" category="RB"
+6	19,27	GATE_Token	string="operated" lemma="operate" category="VBN"
+7	28,29	GATE_Token	string="a" lemma="a" category="DT"
+8	30,39	GATE_Token	string="terrorist" lemma="terrorist" category="JJ"
+9	40,44	GATE_Token	string="wing" lemma="wing" category="NN"
+10	45,46	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,6 @@
+argumentative_essays_essay115.txt_1753_1757	neutral
+argumentative_essays_essay115.txt_1758_1764	neutral
+argumentative_essays_essay115.txt_1812_1823	neutral
+argumentative_essays_essay115.txt_1834_1841	neutral
+argumentative_essays_essay115.txt_1865_1875	neutral
+argumentative_essays_essay115.txt_1967_1977	negative

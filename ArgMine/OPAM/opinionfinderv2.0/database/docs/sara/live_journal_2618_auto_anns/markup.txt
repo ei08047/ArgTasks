@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">LLLINKKK Other metro riders <MPQAPOL autoclass="neutral">seem</MPQAPOL> to <MPQAPOL autoclass="neutral">think</MPQAPOL> <MPQAPOL autoclass="neutral">so</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Said I <MPQAPOL autoclass="neutral">should</MPQAPOL> not <MPQAPOL autoclass="neutral">compromise</MPQAPOL> , but sort of did because I was being <MPQAPOL autoclass="negative">too</MPQAPOL> <MPQAPOL autoclass="negative">nice</MPQAPOL> and <MPQAPOL autoclass="neutral">polite</MPQAPOL> .</MPQASENT>

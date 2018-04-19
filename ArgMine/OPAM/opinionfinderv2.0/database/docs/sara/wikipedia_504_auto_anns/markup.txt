@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">So</MPQAPOL> a picture visualizing a concept <MPQAPOL autoclass="neutral">just</MPQAPOL> will not do .</MPQASENT>

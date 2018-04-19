@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,3	GATE_Token	string="Are" lemma="be" category="VBP"
+3	4,7	GATE_Token	string="the" lemma="the" category="DT"
+4	8,14	GATE_Token	string="people" lemma="people" category="NNS"
+5	15,17	GATE_Token	string="'s" lemma="'s" category="POS"
+6	18,22	GATE_Token	string="cast" lemma="cast" category="VBN"
+7	23,30	GATE_Token	string="shadows" lemma="shadow" category="NNS"
+8	31,34	GATE_Token	string="new" lemma="new" category="JJ"
+9	35,36	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Jazz in the Pines today was <MPQAPOL autoclass="neutral">fantastic</MPQAPOL> .</MPQASENT>

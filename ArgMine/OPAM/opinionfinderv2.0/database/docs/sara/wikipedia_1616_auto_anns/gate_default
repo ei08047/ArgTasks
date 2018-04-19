@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,2	GATE_Token	string="No" lemma="no" category="DT"
+3	3,7	GATE_Token	string="such" lemma="such" category="JJ"
+4	8,13	GATE_Token	string="thing" lemma="thing" category="NN"
+5	14,19	GATE_Token	string="exist" lemma="exist" category="VBP"
+6	20,22	GATE_Token	string="``" lemma="``" category="``"
+7	23,34	GATE_Token	string="perjorative" lemma="perjorative" category="JJ"
+8	35,37	GATE_Token	string="''" lemma="''" category="''"
+9	38,39	GATE_Token	string="." lemma="." category="."

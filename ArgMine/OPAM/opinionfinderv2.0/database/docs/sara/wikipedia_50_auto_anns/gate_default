@@ -1,0 +1,7 @@
+1	0,32	GATE_Sentence
+2	0,9	GATE_Token	string="Wikipedia" lemma="Wikipedia" category="NNP"
+3	10,15	GATE_Token	string="loses" lemma="lose" category="VBZ"
+4	16,23	GATE_Token	string="because" lemma="because" category="IN"
+5	24,26	GATE_Token	string="of" lemma="of" category="IN"
+6	27,30	GATE_Token	string="you" lemma="you" category="PRP"
+7	31,32	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The kayaking around there is <MPQAPOL autoclass="neutral">best</MPQAPOL> left to experts , <MPQAPOL autoclass="neutral">though</MPQAPOL> - the Falls <MPQAPOL autoclass="neutral">kill</MPQAPOL> a few people a year .</MPQASENT>

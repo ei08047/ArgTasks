@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,6	GATE_Token	string="Square" lemma="square" category="NN"
+3	7,9	GATE_Token	string="is" lemma="be" category="VBZ"
+4	10,13	GATE_Token	string="bad" lemma="bad" category="JJ"
+5	14,17	GATE_Token	string="for" lemma="for" category="IN"
+6	18,21	GATE_Token	string="our" lemma="we" category="PRP$"
+7	22,28	GATE_Token	string="wallet" lemma="wallet" category="NN"
+8	29,30	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">OK then , let me roll over on my back , <MPQAPOL autoclass="neutral">defeated</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,4 @@
+1	12,16	matchfeat	type="bl_desire_verb" mpqapolarity="neutral"
+2	20,24	matchfeat	type="fn_emotion_experiencer-obj_v" mpqapolarity="strongpos"
+3	39,45	matchfeat	type="bl_psych_verb" mpqapolarity="weakneg"
+4	49,53	matchfeat	type="weakjandiss" mpqapolarity="neutral"

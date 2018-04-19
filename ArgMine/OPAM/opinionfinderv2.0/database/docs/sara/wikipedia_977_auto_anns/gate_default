@@ -1,0 +1,8 @@
+1	0,33	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,8	GATE_Token	string="user" lemma="user" category="NN"
+4	9,11	GATE_Token	string="'s" lemma="'s" category="POS"
+5	12,16	GATE_Token	string="name" lemma="name" category="NN"
+6	17,19	GATE_Token	string="is" lemma="be" category="VBZ"
+7	20,31	GATE_Token	string="WesleyDodds" lemma="WesleyDodds" category="NNP"
+8	32,33	GATE_Token	string="." lemma="." category="."

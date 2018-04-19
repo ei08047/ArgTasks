@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i do not <MPQAPOL autoclass="neutral">think</MPQAPOL> they are <MPQAPOL autoclass="negative">idiots</MPQAPOL> because they do not <MPQAPOL autoclass="negative">agree</MPQAPOL> with me .</MPQASENT>

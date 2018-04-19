@@ -1,0 +1,11 @@
+1	0,47	GATE_Sentence
+2	0,5	GATE_Token	string="There" lemma="there" category="EX"
+3	6,9	GATE_Token	string="are" lemma="be" category="VBP"
+4	10,18	GATE_Token	string="probably" lemma="probably" category="RB"
+5	19,23	GATE_Token	string="some" lemma="some" category="DT"
+6	24,28	GATE_Token	string="refs" lemma="ref" category="NNS"
+7	29,33	GATE_Token	string="that" lemma="that" category="WDT"
+8	34,37	GATE_Token	string="can" lemma="can" category="MD"
+9	38,40	GATE_Token	string="be" lemma="be" category="VB"
+10	41,45	GATE_Token	string="used" lemma="use" category="VBN"
+11	46,47	GATE_Token	string="." lemma="." category="."

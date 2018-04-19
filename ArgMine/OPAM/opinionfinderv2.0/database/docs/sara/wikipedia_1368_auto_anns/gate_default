@@ -1,0 +1,11 @@
+1	0,50	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,10	GATE_Token	string="only" lemma="only" category="RB"
+5	11,18	GATE_Token	string="notable" lemma="notable" category="JJ"
+6	19,21	GATE_Token	string="in" lemma="in" category="IN"
+7	22,25	GATE_Token	string="the" lemma="the" category="DT"
+8	26,33	GATE_Token	string="context" lemma="context" category="NN"
+9	34,36	GATE_Token	string="of" lemma="of" category="IN"
+10	37,48	GATE_Token	string="scientology" lemma="scientology" category="NN"
+11	49,50	GATE_Token	string="." lemma="." category="."

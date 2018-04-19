@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Heat in the stomach <MPQAPOL autoclass="negative">glares</MPQAPOL> through red , <MPQAPOL autoclass="neutral">aching</MPQAPOL> eyes .</MPQASENT>

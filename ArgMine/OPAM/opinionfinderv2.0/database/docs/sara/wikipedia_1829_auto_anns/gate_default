@@ -1,0 +1,12 @@
+1	0,75	GATE_Sentence
+2	0,13	GATE_Token	string="acknowledging" lemma="acknowledge" category="VBG"
+3	14,17	GATE_Token	string="the" lemma="the" category="DT"
+4	18,32	GATE_Token	string="discrimination" lemma="discrimination" category="NN"
+5	33,40	GATE_Token	string="against" lemma="against" category="IN"
+6	41,45	GATE_Token	string="Jews" lemma="Jews" category="NNPS"
+7	46,56	GATE_Token	string="throughout" lemma="throughout" category="IN"
+8	57,64	GATE_Token	string="history" lemma="history" category="NN"
+9	65,68	GATE_Token	string="and" lemma="and" category="CC"
+10	69,71	GATE_Token	string="by" lemma="by" category="IN"
+11	72,73	GATE_Token	string="2" lemma="2" category="CD"
+12	74,75	GATE_Token	string="." lemma="." category="."

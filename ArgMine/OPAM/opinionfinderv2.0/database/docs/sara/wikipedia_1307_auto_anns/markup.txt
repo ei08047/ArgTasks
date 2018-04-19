@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">A <MPQAPOL autoclass="positive">plausible</MPQAPOL> testable scientific hypothesis can not be <MPQAPOL autoclass="neutral">really</MPQAPOL> be a pseudoscience .</MPQASENT>

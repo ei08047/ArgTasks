@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I do not <MPQAPOL autoclass="neutral">know</MPQAPOL> what you are talking about - it <MPQAPOL autoclass="negative">looked</MPQAPOL> <MPQAPOL autoclass="positive">great</MPQAPOL> on my computer at 1024x768 .</MPQASENT>

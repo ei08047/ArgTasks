@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">but since you do not <MPQAPOL autoclass="positive">like</MPQAPOL> the `` <MPQAPOL autoclass="positive">best</MPQAPOL> <MPQAPOL autoclass="positive">friend</MPQAPOL> '' <MPQAPOL autoclass="neutral">idea</MPQAPOL> .</MPQASENT>

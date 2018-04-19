@@ -1,0 +1,7 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="Your" lemma="you" category="PRP$"
+3	5,15	GATE_Token	string="enthusiasm" lemma="enthusiasm" category="NN"
+4	16,18	GATE_Token	string="is" lemma="be" category="VBZ"
+5	19,23	GATE_Token	string="very" lemma="very" category="RB"
+6	24,34	GATE_Token	string="persuasive" lemma="persuasive" category="JJ"
+7	35,36	GATE_Token	string="!" lemma="!" category="."

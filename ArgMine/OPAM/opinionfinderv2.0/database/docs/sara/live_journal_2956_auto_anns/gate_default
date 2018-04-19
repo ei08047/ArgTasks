@@ -1,0 +1,11 @@
+1	0,42	GATE_Sentence
+2	0,3	GATE_Token	string="hey" lemma="hey" category="NN"
+3	4,12	GATE_Token	string="hotstuff" lemma="hotstuff" category="NN"
+4	13,14	GATE_Token	string="," lemma="," category=","
+5	15,19	GATE_Token	string="take" lemma="take" category="VB"
+6	20,23	GATE_Token	string="her" lemma="she" category="PRP"
+7	24,26	GATE_Token	string="to" lemma="to" category="TO"
+8	27,28	GATE_Token	string="a" lemma="a" category="DT"
+9	29,33	GATE_Token	string="free" lemma="free" category="JJ"
+10	34,40	GATE_Token	string="clinic" lemma="clinic" category="NN"
+11	41,42	GATE_Token	string="." lemma="." category="."

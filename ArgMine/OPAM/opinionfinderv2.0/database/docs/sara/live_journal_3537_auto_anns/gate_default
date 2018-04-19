@@ -1,0 +1,10 @@
+1	0,32	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="take" lemma="take" category="VBP"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,15	GATE_Token	string="MCAT" lemma="MCAT" category="NNP"
+6	16,18	GATE_Token	string="in" lemma="in" category="IN"
+7	19,20	GATE_Token	string="a" lemma="a" category="DT"
+8	21,24	GATE_Token	string="few" lemma="few" category="JJ"
+9	25,30	GATE_Token	string="weeks" lemma="week" category="NNS"
+10	31,32	GATE_Token	string="." lemma="." category="."

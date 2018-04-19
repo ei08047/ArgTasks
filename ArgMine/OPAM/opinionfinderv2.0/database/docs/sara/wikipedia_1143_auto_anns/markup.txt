@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is <MPQAPOL autoclass="neutral">easy</MPQAPOL> to explain this issue in an essay , but the <MPQAPOL autoclass="neutral">point</MPQAPOL> here is write a summary .</MPQASENT>

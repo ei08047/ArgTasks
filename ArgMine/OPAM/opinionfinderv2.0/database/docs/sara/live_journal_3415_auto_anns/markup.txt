@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Besides</MPQAPOL> he is <MPQAPOL autoclass="neutral">fat</MPQAPOL> and heavy and will <MPQAPOL autoclass="neutral">taste</MPQAPOL> <MPQAPOL autoclass="neutral">good</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,61	GATE_Sentence
+2	0,2	GATE_Token	string="``" lemma="``" category="``"
+3	3,8	GATE_Token	string="First" lemma="First" category="NNP"
+4	9,18	GATE_Token	string="Gentleman" lemma="Gentleman" category="NNP"
+5	19,21	GATE_Token	string="''" lemma="''" category="''"
+6	22,27	GATE_Token	string="seems" lemma="seem" category="VBZ"
+7	28,30	GATE_Token	string="to" lemma="to" category="TO"
+8	31,33	GATE_Token	string="be" lemma="be" category="VB"
+9	34,37	GATE_Token	string="the" lemma="the" category="DT"
+10	38,42	GATE_Token	string="most" lemma="most" category="RBS"
+11	43,49	GATE_Token	string="likely" lemma="likely" category="JJ"
+12	50,59	GATE_Token	string="candidate" lemma="candidate" category="NN"
+13	60,61	GATE_Token	string="." lemma="." category="."

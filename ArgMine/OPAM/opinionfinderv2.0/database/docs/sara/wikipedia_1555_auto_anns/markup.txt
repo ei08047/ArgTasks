@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Each applicant is ranked in his\/her group .</MPQASENT>

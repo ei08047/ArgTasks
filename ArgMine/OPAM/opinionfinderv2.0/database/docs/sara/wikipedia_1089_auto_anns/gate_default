@@ -1,0 +1,8 @@
+1	0,33	GATE_Sentence
+2	0,4	GATE_Token	string="Both" lemma="both" category="DT"
+3	5,8	GATE_Token	string="can" lemma="can" category="MD"
+4	9,12	GATE_Token	string="and" lemma="and" category="CC"
+5	13,19	GATE_Token	string="should" lemma="should" category="MD"
+6	20,22	GATE_Token	string="be" lemma="be" category="VB"
+7	23,31	GATE_Token	string="included" lemma="include" category="VBN"
+8	32,33	GATE_Token	string="." lemma="." category="."

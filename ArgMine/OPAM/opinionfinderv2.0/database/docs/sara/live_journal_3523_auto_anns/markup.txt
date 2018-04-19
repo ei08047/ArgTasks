@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">The whole thing is <MPQAPOL autoclass="neutral">gorgeous</MPQAPOL> , but I <MPQAPOL autoclass="neutral">especially</MPQAPOL> <MPQAPOL autoclass="positive">love</MPQAPOL> the details on her dress and the crashing waves .</MPQASENT>

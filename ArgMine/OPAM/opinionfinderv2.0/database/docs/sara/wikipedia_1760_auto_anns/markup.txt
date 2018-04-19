@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">A gateway source , <MPQAPOL autoclass="neutral">such</MPQAPOL> as AAF or EB , is nothing more than a collection of <MPQAPOL autoclass="neutral">reputable</MPQAPOL> sources .</MPQASENT>

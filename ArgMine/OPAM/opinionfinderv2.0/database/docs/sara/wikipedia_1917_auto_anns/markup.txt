@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Since changes to that convention are being discussed , this <MPQAPOL autoclass="neutral">seems</MPQAPOL> <MPQAPOL autoclass="neutral">even</MPQAPOL> more <MPQAPOL autoclass="negative">precipitous</MPQAPOL> .</MPQASENT>

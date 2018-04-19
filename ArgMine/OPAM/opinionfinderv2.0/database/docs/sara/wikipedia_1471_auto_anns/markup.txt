@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">This article <MPQAPOL autoclass="neutral">should</MPQAPOL> be about what is <MPQAPOL autoclass="neutral">actually</MPQAPOL> pseudoscience , not what some <MPQAPOL autoclass="negative">lone</MPQAPOL> crank <MPQAPOL autoclass="positive">considers</MPQAPOL> pseudoscience .</MPQASENT>

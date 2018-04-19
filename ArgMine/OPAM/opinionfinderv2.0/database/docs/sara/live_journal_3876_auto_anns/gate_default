@@ -1,0 +1,12 @@
+1	0,49	GATE_Sentence
+2	0,4	GATE_Token	string="Lots" lemma="lot" category="NNS"
+3	5,7	GATE_Token	string="of" lemma="of" category="IN"
+4	8,13	GATE_Token	string="rocks" lemma="rock" category="NNS"
+5	14,17	GATE_Token	string="and" lemma="and" category="CC"
+6	18,23	GATE_Token	string="trees" lemma="tree" category="NNS"
+7	24,27	GATE_Token	string="and" lemma="and" category="CC"
+8	28,34	GATE_Token	string="nature" lemma="nature" category="NN"
+9	35,37	GATE_Token	string="to" lemma="to" category="TO"
+10	38,40	GATE_Token	string="go" lemma="go" category="VB"
+11	41,47	GATE_Token	string="around" lemma="around" category="RB"
+12	48,49	GATE_Token	string="." lemma="." category="."

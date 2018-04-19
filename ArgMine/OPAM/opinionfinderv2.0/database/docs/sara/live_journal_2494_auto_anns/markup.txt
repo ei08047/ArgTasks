@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">And yet I <MPQAPOL autoclass="positive">wish</MPQAPOL> I had <MPQAPOL autoclass="neutral">enough</MPQAPOL> of them right now .</MPQASENT>

@@ -1,0 +1,12 @@
+1	0,47	GATE_Sentence
+2	0,2	GATE_Token	string="im" lemma="im" category="NN"
+3	3,7	GATE_Token	string="sure" lemma="sure" category="RB"
+4	8,10	GATE_Token	string="he" lemma="he" category="PRP"
+5	11,14	GATE_Token	string="had" lemma="have" category="VBD"
+6	15,17	GATE_Token	string="be" lemma="be" category="VB"
+7	18,28	GATE_Token	string="FASCINATED" lemma="fascinate" category="VBN"
+8	29,31	GATE_Token	string="to" lemma="to" category="TO"
+9	32,36	GATE_Token	string="hear" lemma="hear" category="VB"
+10	37,42	GATE_Token	string="about" lemma="about" category="IN"
+11	43,45	GATE_Token	string="it" lemma="it" category="PRP"
+12	46,47	GATE_Token	string="." lemma="." category="."

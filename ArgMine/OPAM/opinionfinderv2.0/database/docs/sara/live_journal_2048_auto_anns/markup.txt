@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">the <MPQAPOL autoclass="neutral">sadness</MPQAPOL> was rising to <MPQAPOL autoclass="negative">humiliation</MPQAPOL> , <MPQAPOL autoclass="neutral">so</MPQAPOL> i ceased this thing .</MPQASENT>

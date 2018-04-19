@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am with you <MPQAPOL autoclass="neutral">though</MPQAPOL> , I find the whole thing <MPQAPOL autoclass="negative">reprehensible</MPQAPOL> .</MPQASENT>

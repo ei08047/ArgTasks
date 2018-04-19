@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">At <MPQAPOL autoclass="neutral">least</MPQAPOL> the Pope pic serves to emphasize by <MPQAPOL autoclass="neutral">implication</MPQAPOL> that <MPQAPOL autoclass="neutral">death</MPQAPOL> comes to us all .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="FW"
+3	2,7	GATE_Token	string="think" lemma="think" category="VBP"
+4	8,10	GATE_Token	string="ur" lemma="ur" category="NN"
+5	11,18	GATE_Token	string="entries" lemma="entry" category="NNS"
+6	19,20	GATE_Token	string="r" lemma="r" category="NN"
+7	21,32	GATE_Token	string="interesting" lemma="interesting" category="JJ"
+8	33,34	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,7 @@
+1	0,30	GATE_Sentence
+2	0,5	GATE_Token	string="happy" lemma="happy" category="JJ"
+3	6,11	GATE_Token	string="spain" lemma="spain" category="NN"
+4	12,15	GATE_Token	string="day" lemma="day" category="NN"
+5	16,17	GATE_Token	string="," lemma="," category=","
+6	18,28	GATE_Token	string="spainizoid" lemma="spainizoid" category="NN"
+7	29,30	GATE_Token	string="." lemma="." category="."

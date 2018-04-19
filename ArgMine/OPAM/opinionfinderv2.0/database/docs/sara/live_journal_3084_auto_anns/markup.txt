@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Remember those investment fund commercials : Sooner or later , everyone <MPQAPOL autoclass="neutral">retires</MPQAPOL> .</MPQASENT>

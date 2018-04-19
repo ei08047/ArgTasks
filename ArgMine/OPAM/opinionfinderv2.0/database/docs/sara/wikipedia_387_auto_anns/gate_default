@@ -1,0 +1,9 @@
+1	0,60	GATE_Sentence
+2	0,5	GATE_Token	string="These" lemma="these" category="DT"
+3	6,16	GATE_Token	string="challenges" lemma="challenge" category="NNS"
+4	17,26	GATE_Token	string="developed" lemma="develop" category="VBD"
+5	27,31	GATE_Token	string="into" lemma="into" category="IN"
+6	32,35	GATE_Token	string="the" lemma="the" category="DT"
+7	36,46	GATE_Token	string="Protestant" lemma="Protestant" category="NNP"
+8	47,58	GATE_Token	string="Reformation" lemma="Reformation" category="NNP"
+9	59,60	GATE_Token	string="." lemma="." category="."

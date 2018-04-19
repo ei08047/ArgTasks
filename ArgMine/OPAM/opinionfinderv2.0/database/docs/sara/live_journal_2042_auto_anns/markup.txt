@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">sometimes im <MPQAPOL autoclass="neutral">too</MPQAPOL> <MPQAPOL autoclass="negative">weak</MPQAPOL> to <MPQAPOL autoclass="positive">love</MPQAPOL> him .</MPQASENT>

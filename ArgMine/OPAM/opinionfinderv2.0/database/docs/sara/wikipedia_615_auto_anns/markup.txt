@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It <MPQAPOL autoclass="neutral">would</MPQAPOL> also be <MPQAPOL autoclass="neutral">helpful</MPQAPOL> if you <MPQAPOL autoclass="neutral">could</MPQAPOL> supply your resources .</MPQASENT>

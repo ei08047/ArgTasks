@@ -1,0 +1,9 @@
+1	0,37	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,11	GATE_Token	string="one" lemma="one" category="CD"
+5	12,17	GATE_Token	string="tough" lemma="tough" category="JJ"
+6	18,19	GATE_Token	string="," lemma="," category=","
+7	20,31	GATE_Token	string="no-nonsense" lemma="no-nonsense" category="JJ"
+8	32,35	GATE_Token	string="man" lemma="man" category="NN"
+9	36,37	GATE_Token	string="!" lemma="!" category="."

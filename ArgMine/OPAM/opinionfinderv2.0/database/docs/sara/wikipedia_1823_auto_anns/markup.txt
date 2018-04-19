@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You are <MPQAPOL autoclass="neutral">choking</MPQAPOL> on gnats and swallowing camels .</MPQASENT>

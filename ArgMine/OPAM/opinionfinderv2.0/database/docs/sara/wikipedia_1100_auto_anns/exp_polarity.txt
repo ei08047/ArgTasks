@@ -1,0 +1,3 @@
+sara_wikipedia_1100_7_11	neutral
+sara_wikipedia_1100_72_78	neutral
+sara_wikipedia_1100_79_93	positive

@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,3	GATE_Token	string="Why" lemma="why" category="WRB"
+3	4,8	GATE_Token	string="have" lemma="have" category="VBP"
+4	9,12	GATE_Token	string="not" lemma="not" category="RB"
+5	13,15	GATE_Token	string="we" lemma="we" category="PRP"
+6	16,20	GATE_Token	string="been" lemma="be" category="VBN"
+7	21,30	GATE_Token	string="evacuated" lemma="evacuate" category="VBN"
+8	31,34	GATE_Token	string="yet" lemma="yet" category="RB"
+9	35,36	GATE_Token	string="?" lemma="?" category="."

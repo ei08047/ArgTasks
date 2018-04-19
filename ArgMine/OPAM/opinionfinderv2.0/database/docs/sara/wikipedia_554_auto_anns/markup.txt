@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">A hypothesis is a proposal that <MPQAPOL autoclass="neutral">should</MPQAPOL> induce debate , whereas theory refers to a <MPQAPOL autoclass="neutral">broad</MPQAPOL> interpretive framework .</MPQASENT>

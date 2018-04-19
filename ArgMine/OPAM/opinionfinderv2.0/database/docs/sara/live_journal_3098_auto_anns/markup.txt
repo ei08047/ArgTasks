@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Well</MPQAPOL> Friday is my birthday ... im not <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="positive">sure</MPQAPOL> whats going on ... probably not <MPQAPOL autoclass="neutral">too</MPQAPOL> <MPQAPOL autoclass="negative">much</MPQAPOL> .</MPQASENT>

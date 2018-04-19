@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">The <MPQAPOL autoclass="neutral">Crusades</MPQAPOL> were another <MPQAPOL autoclass="neutral">surprise</MPQAPOL> for me .</MPQASENT>

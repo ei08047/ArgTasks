@@ -1,0 +1,8 @@
+1	0,35	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,9	GATE_Token	string="fedex" lemma="fedex" category="NN"
+4	10,14	GATE_Token	string="does" lemma="do" category="VBZ"
+5	15,18	GATE_Token	string="not" lemma="not" category="RB"
+6	19,23	GATE_Token	string="ship" lemma="ship" category="VB"
+7	24,33	GATE_Token	string="scorpions" lemma="scorpion" category="NNS"
+8	34,35	GATE_Token	string="." lemma="." category="."

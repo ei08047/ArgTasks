@@ -1,0 +1,11 @@
+1	0,53	GATE_Sentence
+2	0,5	GATE_Token	string="First" lemma="first" category="RB"
+3	6,7	GATE_Token	string="," lemma="," category=","
+4	8,17	GATE_Token	string="citations" lemma="citation" category="NNS"
+5	18,21	GATE_Token	string="for" lemma="for" category="IN"
+6	22,25	GATE_Token	string="the" lemma="the" category="DT"
+7	26,33	GATE_Token	string="infobox" lemma="infobox" category="NN"
+8	34,37	GATE_Token	string="are" lemma="be" category="VBP"
+9	38,41	GATE_Token	string="not" lemma="not" category="RB"
+10	42,51	GATE_Token	string="nessecary" lemma="nessecary" category="JJ"
+11	52,53	GATE_Token	string="." lemma="." category="."

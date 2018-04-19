@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Many people ( who own them ) <MPQAPOL autoclass="neutral">could</MPQAPOL> not take a <MPQAPOL autoclass="neutral">good</MPQAPOL> picture with # 2500 <MPQAPOL autoclass="neutral">worth</MPQAPOL> of camera equipment .</MPQASENT>

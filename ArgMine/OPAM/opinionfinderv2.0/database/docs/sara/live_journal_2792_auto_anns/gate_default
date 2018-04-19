@@ -1,0 +1,10 @@
+1	0,37	GATE_Sentence
+2	0,4	GATE_Token	string="Kind" lemma="Kind" category="NNP"
+3	5,7	GATE_Token	string="of" lemma="of" category="IN"
+4	8,9	GATE_Token	string="a" lemma="a" category="DT"
+5	10,16	GATE_Token	string="boring" lemma="boring" category="JJ"
+6	17,23	GATE_Token	string="answer" lemma="answer" category="NN"
+7	24,25	GATE_Token	string="," lemma="," category=","
+8	26,27	GATE_Token	string="I" lemma="I" category="PRP"
+9	28,35	GATE_Token	string="suppose" lemma="suppose" category="VBP"
+10	36,37	GATE_Token	string="." lemma="." category="."

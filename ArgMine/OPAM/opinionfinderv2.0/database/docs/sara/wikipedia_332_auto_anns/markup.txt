@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I <MPQAPOL autoclass="negative">disagree</MPQAPOL> with both of your <MPQAPOL autoclass="neutral">perceptions</MPQAPOL> .</MPQASENT>

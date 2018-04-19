@@ -1,0 +1,11 @@
+1	0,51	GATE_Sentence
+2	0,4	GATE_Token	string="More" lemma="more" category="JJR"
+3	5,9	GATE_Token	string="like" lemma="like" category="IN"
+4	10,15	GATE_Token	string="Henry" lemma="Henry" category="NNP"
+5	16,25	GATE_Token	string="Hatsworth" lemma="Hatsworth" category="NNP"
+6	26,29	GATE_Token	string="and" lemma="and" category="CC"
+7	30,33	GATE_Token	string="the" lemma="the" category="DT"
+8	34,38	GATE_Token	string="Best" lemma="best" category="JJS"
+9	39,43	GATE_Token	string="Game" lemma="game" category="NN"
+10	44,48	GATE_Token	string="Ever" lemma="ever" category="RB"
+11	49,51	GATE_Token	string="!!" lemma="!!" category="IN"

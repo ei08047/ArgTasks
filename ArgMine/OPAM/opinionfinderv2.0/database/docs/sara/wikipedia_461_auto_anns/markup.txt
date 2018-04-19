@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I had a <MPQAPOL autoclass="neutral">very</MPQAPOL> brief <MPQAPOL autoclass="neutral">look</MPQAPOL> for something <MPQAPOL autoclass="neutral">suitable</MPQAPOL> but there was nothing that <MPQAPOL autoclass="neutral">especially</MPQAPOL> caught my eye .</MPQASENT>

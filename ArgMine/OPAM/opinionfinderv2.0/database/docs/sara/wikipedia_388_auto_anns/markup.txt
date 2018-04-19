@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">These <MPQAPOL autoclass="neutral">considerations</MPQAPOL> were <MPQAPOL autoclass="neutral">powerful</MPQAPOL> ones in the minds of rulers .</MPQASENT>

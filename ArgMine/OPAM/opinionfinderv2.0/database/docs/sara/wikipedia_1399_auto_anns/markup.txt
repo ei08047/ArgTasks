@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Authorities in science which make <MPQAPOL autoclass="neutral">comments</MPQAPOL> on pseudoscience are not pseudoscientific themselves .</MPQASENT>

@@ -1,0 +1,4 @@
+argumentative_essays_essay082.txt_1888_1892	neutral
+argumentative_essays_essay082.txt_1898_1902	neutral
+argumentative_essays_essay082.txt_1925_1933	neutral
+argumentative_essays_essay082.txt_1959_1968	positive

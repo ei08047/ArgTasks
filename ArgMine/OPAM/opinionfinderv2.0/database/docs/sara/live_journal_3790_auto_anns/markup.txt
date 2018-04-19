@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Yes</MPQAPOL> , it does totally <MPQAPOL autoclass="positive">sound</MPQAPOL> <MPQAPOL autoclass="neutral">exactly</MPQAPOL> like a sequel to a book called Among Others .</MPQASENT>

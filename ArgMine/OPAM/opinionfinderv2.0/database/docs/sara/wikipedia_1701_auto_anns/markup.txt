@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I do not <MPQAPOL autoclass="positive">want</MPQAPOL> to take all the First Vision material and <MPQAPOL autoclass="neutral">move</MPQAPOL> it .</MPQASENT>

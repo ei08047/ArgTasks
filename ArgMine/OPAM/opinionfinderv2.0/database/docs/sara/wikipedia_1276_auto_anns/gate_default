@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,9	GATE_Token	string="should" lemma="should" category="MD"
+4	10,14	GATE_Token	string="most" lemma="most" category="RBS"
+5	15,21	GATE_Token	string="likely" lemma="likely" category="JJ"
+6	22,24	GATE_Token	string="be" lemma="be" category="VB"
+7	25,32	GATE_Token	string="removed" lemma="remove" category="VBN"
+8	33,34	GATE_Token	string="." lemma="." category="."

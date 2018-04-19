@@ -1,0 +1,18 @@
+1	0,33	GATE_Sentence
+2	0,2	GATE_Token	string="He" lemma="he" category="PRP"
+3	3,8	GATE_Token	string="makes" lemma="make" category="VBZ"
+4	9,11	GATE_Token	string="me" lemma="I" category="PRP"
+5	12,17	GATE_Token	string="smile" lemma="smile" category="VB"
+6	18,20	GATE_Token	string="in" lemma="in" category="IN"
+7	21,24	GATE_Token	string="the" lemma="the" category="DT"
+8	25,32	GATE_Token	string="morning" lemma="morning" category="NN"
+9	32,33	GATE_Token	string="." lemma="." category="."
+10	34,58	GATE_Sentence
+11	34,35	GATE_Token	string="," lemma="," category=","
+12	36,40	GATE_Token	string="over" lemma="over" category="IN"
+13	41,42	GATE_Token	string="a" lemma="a" category="DT"
+14	43,46	GATE_Token	string="cup" lemma="cup" category="NN"
+15	47,49	GATE_Token	string="of" lemma="of" category="IN"
+16	50,55	GATE_Token	string="coffe" lemma="coffe" category="NN"
+17	56,57	GATE_Token	string="." lemma="." category="."
+18	57,58	GATE_Token	string="." lemma="." category="."

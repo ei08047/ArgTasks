@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">O.o I <MPQAPOL autoclass="neutral">think</MPQAPOL> you are <MPQAPOL autoclass="neutral">just</MPQAPOL> a <MPQAPOL autoclass="negative">quitter</MPQAPOL> !</MPQASENT>

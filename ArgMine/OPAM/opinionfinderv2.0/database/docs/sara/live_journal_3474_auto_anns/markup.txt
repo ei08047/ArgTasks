@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">Wow</MPQAPOL> , <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="positive">powerful</MPQAPOL> image for a <MPQAPOL autoclass="neutral">powerful</MPQAPOL> <MPQAPOL autoclass="neutral">though</MPQAPOL> !</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I lived with her and we <MPQAPOL autoclass="neutral">enjoyed</MPQAPOL> each other 's company <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">much</MPQAPOL> she <MPQAPOL autoclass="neutral">felt</MPQAPOL> like mine .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,37	GATE_Sentence
+2	0,4	GATE_Token	string="just" lemma="just" category="RB"
+3	5,13	GATE_Token	string="remember" lemma="remember" category="VB"
+4	14,15	GATE_Token	string="," lemma="," category=","
+5	16,20	GATE_Token	string="even" lemma="even" category="RB"
+6	21,29	GATE_Token	string="superman" lemma="superman" category="JJ"
+7	30,35	GATE_Token	string="falls" lemma="fall" category="VBZ"
+8	36,37	GATE_Token	string="." lemma="." category="."

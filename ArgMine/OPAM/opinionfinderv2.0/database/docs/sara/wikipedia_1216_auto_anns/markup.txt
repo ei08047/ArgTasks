@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Can you be <MPQAPOL autoclass="positive">bold</MPQAPOL> and make the <MPQAPOL autoclass="neutral">suggested</MPQAPOL> edits ?</MPQASENT>

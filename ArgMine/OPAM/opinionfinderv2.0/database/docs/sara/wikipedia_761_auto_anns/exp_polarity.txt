@@ -1,0 +1,2 @@
+sara_wikipedia_761_14_22	negative
+sara_wikipedia_761_53_57	positive

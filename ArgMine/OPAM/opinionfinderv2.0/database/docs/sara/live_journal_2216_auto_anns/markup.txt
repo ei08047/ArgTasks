@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">while we are <MPQAPOL autoclass="neutral">really</MPQAPOL> only there for the p.r. the p.r. is <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="positive">important</MPQAPOL> for you guys in that area <MPQAPOL autoclass="neutral">so</MPQAPOL> ...</MPQASENT>

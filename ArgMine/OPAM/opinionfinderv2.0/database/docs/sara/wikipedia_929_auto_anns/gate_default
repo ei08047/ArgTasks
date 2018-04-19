@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,11	GATE_Token	string="predicted" lemma="predict" category="VBD"
+4	12,16	GATE_Token	string="your" lemma="you" category="PRP$"
+5	17,27	GATE_Token	string="prediction" lemma="prediction" category="NN"
+6	28,30	GATE_Token	string="of" lemma="of" category="IN"
+7	31,33	GATE_Token	string="my" lemma="my" category="PRP$"
+8	34,41	GATE_Token	string="comment" lemma="comment" category="NN"
+9	42,43	GATE_Token	string="." lemma="." category="."

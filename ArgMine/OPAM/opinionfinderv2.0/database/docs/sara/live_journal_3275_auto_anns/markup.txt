@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">... I <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="neutral">should</MPQAPOL> go see about getting into NKU and going into art history , <MPQAPOL autoclass="neutral">should</MPQAPOL> not I.</MPQASENT>

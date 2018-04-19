@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Even</MPQAPOL> if you do not <MPQAPOL autoclass="neutral">accept</MPQAPOL> the <MPQAPOL autoclass="neutral">distinction</MPQAPOL> , the rest of the world does .</MPQASENT>

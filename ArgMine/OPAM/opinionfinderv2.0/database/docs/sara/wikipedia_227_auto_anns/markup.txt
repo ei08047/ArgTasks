@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">While I suspect the summa <MPQAPOL autoclass="neutral">might</MPQAPOL> be a bit cerebral for you , <MPQAPOL autoclass="neutral">surely</MPQAPOL> you can not say the same of McBrien 's book ?</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">These two are absolutely NOT the same .</MPQASENT>

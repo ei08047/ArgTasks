@@ -1,0 +1,13 @@
+1	0,58	GATE_Sentence
+2	0,6	GATE_Token	string="Unless" lemma="unless" category="IN"
+3	7,10	GATE_Token	string="you" lemma="you" category="PRP"
+4	11,14	GATE_Token	string="are" lemma="be" category="VBP"
+5	15,21	GATE_Token	string="making" lemma="make" category="VBG"
+6	22,23	GATE_Token	string="a" lemma="a" category="DT"
+7	24,33	GATE_Token	string="reference" lemma="reference" category="NN"
+8	34,38	GATE_Token	string="that" lemma="that" category="WDT"
+9	39,43	GATE_Token	string="went" lemma="go" category="VBD"
+10	44,48	GATE_Token	string="over" lemma="over" category="IN"
+11	49,51	GATE_Token	string="my" lemma="my" category="PRP$"
+12	52,56	GATE_Token	string="head" lemma="head" category="NN"
+13	57,58	GATE_Token	string="." lemma="." category="."

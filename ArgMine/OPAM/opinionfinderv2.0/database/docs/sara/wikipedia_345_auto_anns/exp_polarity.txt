@@ -1,0 +1,5 @@
+sara_wikipedia_345_12_19	negative
+sara_wikipedia_345_23_30	neutral
+sara_wikipedia_345_54_58	neutral
+sara_wikipedia_345_73_84	negative
+sara_wikipedia_345_98_108	negative

@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,4	GATE_Token	string="what" lemma="what" category="WP"
+3	5,11	GATE_Token	string="should" lemma="should" category="MD"
+4	12,13	GATE_Token	string="I" lemma="I" category="PRP"
+5	14,19	GATE_Token	string="doooo" lemma="doooo" category="VB"
+6	20,24	GATE_Token	string="with" lemma="with" category="IN"
+7	25,30	GATE_Token	string="these" lemma="these" category="DT"
+8	31,38	GATE_Token	string="tickets" lemma="ticket" category="NNS"
+9	39,41	GATE_Token	string="??" lemma="??" category="VBP"

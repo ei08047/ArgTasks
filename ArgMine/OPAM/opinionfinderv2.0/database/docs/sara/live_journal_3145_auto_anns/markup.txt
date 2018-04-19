@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">it <MPQAPOL autoclass="positive">amazes</MPQAPOL> me how <MPQAPOL autoclass="negative">stupid</MPQAPOL> some women can be .</MPQASENT>

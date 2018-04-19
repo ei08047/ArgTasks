@@ -1,0 +1,4 @@
+sara_wikipedia_1932_32_37	positive
+sara_wikipedia_1932_66_75	neutral
+sara_wikipedia_1932_81_91	neutral
+sara_wikipedia_1932_92_101	neutral

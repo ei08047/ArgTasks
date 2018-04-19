@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I have <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">tried</MPQAPOL> putting some <MPQAPOL autoclass="neutral">compromise</MPQAPOL> language in that addresses both <MPQAPOL autoclass="neutral">points</MPQAPOL> .</MPQASENT>

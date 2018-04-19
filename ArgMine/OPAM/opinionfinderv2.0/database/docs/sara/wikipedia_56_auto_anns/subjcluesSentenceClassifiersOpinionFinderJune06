@@ -1,0 +1,2 @@
+1	5,10	matchfeat	type="trainJWman" mpqapolarity="weakpos"
+2	32,38	matchfeat	type="bl_desire_verb" mpqapolarity="neutral"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> this <MPQAPOL autoclass="neutral">might</MPQAPOL> be the first sequence of comic panels I have ever finished that I was <MPQAPOL autoclass="positive">proud</MPQAPOL> of .</MPQASENT>

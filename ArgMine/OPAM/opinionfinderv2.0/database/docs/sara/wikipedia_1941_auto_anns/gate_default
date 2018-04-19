@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="meant" lemma="mean" category="VBD"
+4	8,10	GATE_Token	string="an" lemma="a" category="DT"
+5	11,16	GATE_Token	string="image" lemma="image" category="NN"
+6	17,24	GATE_Token	string="gallery" lemma="gallery" category="NN"
+7	25,26	GATE_Token	string="a" lemma="a" category="DT"
+8	27,30	GATE_Token	string="bit" lemma="bit" category="NN"
+9	31,38	GATE_Token	string="further" lemma="further" category="RB"
+10	39,43	GATE_Token	string="down" lemma="down" category="RB"
+11	44,45	GATE_Token	string="." lemma="." category="."

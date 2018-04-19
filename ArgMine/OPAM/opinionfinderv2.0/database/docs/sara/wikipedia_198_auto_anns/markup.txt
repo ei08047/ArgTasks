@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">In the Creed section I <MPQAPOL autoclass="neutral">reverted</MPQAPOL> the order to put the creed first .</MPQASENT>

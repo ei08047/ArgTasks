@@ -1,0 +1,13 @@
+1	0,46	GATE_Sentence
+2	0,4	GATE_Token	string="Fine" lemma="Fine" category="NNP"
+3	5,7	GATE_Token	string="in" lemma="in" category="IN"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,17	GATE_Token	string="right" lemma="right" category="JJ"
+6	18,23	GATE_Token	string="place" lemma="place" category="NN"
+7	24,25	GATE_Token	string="," lemma="," category=","
+8	26,29	GATE_Token	string="but" lemma="but" category="CC"
+9	30,33	GATE_Token	string="not" lemma="not" category="RB"
+10	34,36	GATE_Token	string="at" lemma="at" category="IN"
+11	37,40	GATE_Token	string="the" lemma="the" category="DT"
+12	41,44	GATE_Token	string="top" lemma="top" category="NN"
+13	45,46	GATE_Token	string="." lemma="." category="."

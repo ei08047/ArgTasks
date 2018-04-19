@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i do not <MPQAPOL autoclass="neutral">think</MPQAPOL> australia <MPQAPOL autoclass="neutral">should</MPQAPOL> tell israel what to do .</MPQASENT>

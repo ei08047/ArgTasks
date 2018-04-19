@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">While Israel 's <MPQAPOL autoclass="neutral">security</MPQAPOL> forces have managed to stop <MPQAPOL autoclass="neutral">most</MPQAPOL> of their <MPQAPOL autoclass="neutral">attacks</MPQAPOL> , they have had <MPQAPOL autoclass="neutral">plenty</MPQAPOL> of <MPQAPOL autoclass="neutral">successes</MPQAPOL> .</MPQASENT>

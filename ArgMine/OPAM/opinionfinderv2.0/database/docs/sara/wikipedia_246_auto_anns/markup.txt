@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Ireland has also had a <MPQAPOL autoclass="negative">serious</MPQAPOL> <MPQAPOL autoclass="negative">problem</MPQAPOL> with many <MPQAPOL autoclass="neutral">claims</MPQAPOL> coming from those who were at catholic schools .</MPQASENT>

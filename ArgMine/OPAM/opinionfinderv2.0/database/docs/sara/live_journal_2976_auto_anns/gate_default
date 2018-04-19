@@ -1,0 +1,9 @@
+1	0,31	GATE_Sentence
+2	0,3	GATE_Token	string="you" lemma="you" category="PRP"
+3	4,7	GATE_Token	string="are" lemma="be" category="VBP"
+4	8,12	GATE_Token	string="near" lemma="near" category="IN"
+5	13,14	GATE_Token	string="a" lemma="a" category="DT"
+6	15,18	GATE_Token	string="big" lemma="big" category="JJ"
+7	19,23	GATE_Token	string="city" lemma="city" category="NN"
+8	24,29	GATE_Token	string="right" lemma="right" category="NN"
+9	30,31	GATE_Token	string="?" lemma="?" category="."

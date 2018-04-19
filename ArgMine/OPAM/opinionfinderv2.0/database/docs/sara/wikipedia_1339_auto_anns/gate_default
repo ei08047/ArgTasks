@@ -1,0 +1,12 @@
+1	0,43	GATE_Sentence
+2	0,3	GATE_Token	string="Are" lemma="be" category="VBP"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,14	GATE_Token	string="asking" lemma="ask" category="VBG"
+5	15,19	GATE_Token	string="that" lemma="that" category="IN"
+6	20,22	GATE_Token	string="we" lemma="we" category="PRP"
+7	23,29	GATE_Token	string="ignore" lemma="ignore" category="VBP"
+8	30,34	GATE_Token	string="this" lemma="this" category="DT"
+9	35,41	GATE_Token	string="policy" lemma="policy" category="NN"
+10	42,43	GATE_Token	string="?" lemma="?" category="."
+11	43,45	GATE_Sentence
+12	43,45	GATE_Token	string="--" lemma="--" category=":"

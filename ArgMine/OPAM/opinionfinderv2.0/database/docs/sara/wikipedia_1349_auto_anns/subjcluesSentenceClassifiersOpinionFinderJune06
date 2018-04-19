@@ -1,0 +1,3 @@
+1	19,25	matchfeat	type="jwman" mpqapolarity="strongneg"
+2	26,38	matchfeat	type="PolMmanstrong" mpqapolarity="strongneg"
+3	47,53	matchfeat	type="fn_emotion_experiencer-obj_v" mpqapolarity="strongpos"

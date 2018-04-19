@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj"><MPQAPOL autoclass="neutral">Even</MPQAPOL> my <MPQAPOL autoclass="neutral">white</MPQAPOL> boy <MPQAPOL autoclass="neutral">dreads</MPQAPOL> were not that <MPQAPOL autoclass="negative">bad</MPQAPOL> .</MPQASENT>

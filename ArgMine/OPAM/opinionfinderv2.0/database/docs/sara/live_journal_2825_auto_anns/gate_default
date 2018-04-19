@@ -1,0 +1,12 @@
+1	0,46	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="lllinkkk" category="CD"
+3	9,11	GATE_Token	string="or" lemma="or" category="CC"
+4	12,18	GATE_Token	string="should" lemma="should" category="MD"
+5	19,20	GATE_Token	string="i" lemma="i" category="FW"
+6	21,24	GATE_Token	string="say" lemma="say" category="VBP"
+7	25,32	GATE_Token	string="UDDERLY" lemma="UDDERLY" category="NNP"
+8	33,35	GATE_Token	string="oh" lemma="oh" category="UH"
+9	36,38	GATE_Token	string="ha" lemma="ha" category="FW"
+10	39,41	GATE_Token	string="ha" lemma="ha" category="FW"
+11	42,44	GATE_Token	string="ha" lemma="ha" category="FW"
+12	45,46	GATE_Token	string="." lemma="." category="."

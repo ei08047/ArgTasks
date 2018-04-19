@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am at a loose end tonight as the boy is going to a stag party , <MPQAPOL autoclass="neutral">so</MPQAPOL> I <MPQAPOL autoclass="neutral">might</MPQAPOL> <MPQAPOL autoclass="neutral">well</MPQAPOL> do !</MPQASENT>

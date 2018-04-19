@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,12	GATE_Token	string="widely" lemma="widely" category="RB"
+5	13,21	GATE_Token	string="reported" lemma="report" category="VBN"
+6	22,24	GATE_Token	string="in" lemma="in" category="IN"
+7	25,31	GATE_Token	string="Israel" lemma="Israel" category="NNP"
+8	32,34	GATE_Token	string="it" lemma="it" category="PRP"
+9	35,40	GATE_Token	string="seems" lemma="seem" category="VBZ"
+10	41,42	GATE_Token	string="." lemma="." category="."

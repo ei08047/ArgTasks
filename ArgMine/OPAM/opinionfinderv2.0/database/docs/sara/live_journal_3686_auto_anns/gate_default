@@ -1,0 +1,7 @@
+1	0,36	GATE_Sentence
+2	0,8	GATE_Token	string="Conjures" lemma="conjure" category="VBZ"
+3	9,11	GATE_Token	string="up" lemma="up" category="RP"
+4	12,16	GATE_Token	string="some" lemma="some" category="DT"
+5	17,26	GATE_Token	string="beautiful" lemma="beautiful" category="JJ"
+6	27,34	GATE_Token	string="imagery" lemma="imagery" category="NN"
+7	35,36	GATE_Token	string="." lemma="." category="."

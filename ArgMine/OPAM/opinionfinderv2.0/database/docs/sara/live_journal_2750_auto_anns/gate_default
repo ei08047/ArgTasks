@@ -1,0 +1,11 @@
+1	0,53	GATE_Sentence
+2	0,2	GATE_Token	string="we" lemma="we" category="PRP"
+3	3,7	GATE_Token	string="have" lemma="have" category="VBP"
+4	8,10	GATE_Token	string="an" lemma="a" category="DT"
+5	11,19	GATE_Token	string="impotent" lemma="impotent" category="JJ"
+6	20,29	GATE_Token	string="democrats" lemma="democrat" category="NNS"
+7	30,32	GATE_Token	string="in" lemma="in" category="IN"
+8	33,42	GATE_Token	string="positions" lemma="position" category="NNS"
+9	43,45	GATE_Token	string="of" lemma="of" category="IN"
+10	46,51	GATE_Token	string="power" lemma="power" category="NN"
+11	52,53	GATE_Token	string="." lemma="." category="."

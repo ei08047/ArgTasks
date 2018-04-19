@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,9	GATE_Token	string="Daily" lemma="Daily" category="NNP"
+4	10,14	GATE_Token	string="Mash" lemma="Mash" category="NNP"
+5	15,18	GATE_Token	string="did" lemma="do" category="VBD"
+6	19,21	GATE_Token	string="it" lemma="it" category="PRP"
+7	22,28	GATE_Token	string="anyway" lemma="anyway" category="RB"
+8	29,30	GATE_Token	string="." lemma="." category="."

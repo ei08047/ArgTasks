@@ -1,0 +1,7 @@
+argumentative_essays_essay310.txt_2011_2017	positive
+argumentative_essays_essay310.txt_2086_2094	neutral
+argumentative_essays_essay310.txt_2122_2135	neutral
+argumentative_essays_essay310.txt_2139_2143	positive
+argumentative_essays_essay310.txt_2151_2155	neutral
+argumentative_essays_essay310.txt_2161_2166	neutral
+argumentative_essays_essay310.txt_2196_2203	positive

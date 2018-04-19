@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is a <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="neutral">idea</MPQAPOL> you have there .</MPQASENT>

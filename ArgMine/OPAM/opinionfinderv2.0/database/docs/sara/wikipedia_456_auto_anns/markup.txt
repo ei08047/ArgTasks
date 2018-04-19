@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Can we <MPQAPOL autoclass="positive">please</MPQAPOL> have discussion before changing the image .</MPQASENT>

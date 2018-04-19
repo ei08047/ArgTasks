@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Also are you always as <MPQAPOL autoclass="neutral">excited</MPQAPOL> as you <MPQAPOL autoclass="neutral">look</MPQAPOL> in your icon ?</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">amazing</MPQAPOL> <MPQAPOL autoclass="negative">gritty</MPQAPOL> style and <MPQAPOL autoclass="neutral">complete</MPQAPOL> <MPQAPOL autoclass="negative">disregard</MPQAPOL> to what other people <MPQAPOL autoclass="neutral">think</MPQAPOL> of it . ''</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Then again , I <MPQAPOL autoclass="neutral">honestly</MPQAPOL> do not read\/watch\/listen to that <MPQAPOL autoclass="neutral">much</MPQAPOL> news .</MPQASENT>

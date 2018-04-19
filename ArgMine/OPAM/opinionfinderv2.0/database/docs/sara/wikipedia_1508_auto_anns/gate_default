@@ -1,0 +1,10 @@
+1	0,33	GATE_Sentence
+2	0,2	GATE_Token	string="He" lemma="he" category="PRP"
+3	3,7	GATE_Token	string="just" lemma="just" category="RB"
+4	8,14	GATE_Token	string="wanted" lemma="want" category="VBD"
+5	15,18	GATE_Token	string="the" lemma="the" category="DT"
+6	19,23	GATE_Token	string="Shah" lemma="Shah" category="NNP"
+7	24,27	GATE_Token	string="out" lemma="out" category="RP"
+8	28,29	GATE_Token	string="." lemma="." category="."
+9	30,32	GATE_Token	string="''" lemma="''" category="''"
+10	32,33	GATE_Token	string="." lemma="." category="."

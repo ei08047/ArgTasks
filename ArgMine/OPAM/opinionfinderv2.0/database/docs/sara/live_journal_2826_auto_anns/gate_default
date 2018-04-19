@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,2	GATE_Token	string="Oh" lemma="oh" category="UH"
+3	3,7	GATE_Token	string="geez" lemma="geez" category="RB"
+4	8,9	GATE_Token	string="," lemma="," category=","
+5	10,11	GATE_Token	string="I" lemma="I" category="PRP"
+6	12,16	GATE_Token	string="love" lemma="love" category="VBP"
+7	17,30	GATE_Token	string="Jessi-doodles" lemma="jessi-doodle" category="NNS"
+8	31,32	GATE_Token	string="." lemma="." category="."

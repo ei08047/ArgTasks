@@ -1,0 +1,11 @@
+1	0,54	GATE_Sentence
+2	0,11	GATE_Token	string="Interesting" lemma="interesting" category="JJ"
+3	12,23	GATE_Token	string="perspective" lemma="perspective" category="NN"
+4	24,25	GATE_Token	string=";" lemma=";" category=":"
+5	26,31	GATE_Token	string="maybe" lemma="maybe" category="RB"
+6	32,33	GATE_Token	string="I" lemma="I" category="PRP"
+7	34,36	GATE_Token	string="am" lemma="be" category="VBP"
+8	37,41	GATE_Token	string="just" lemma="just" category="RB"
+9	42,46	GATE_Token	string="more" lemma="more" category="RBR"
+10	47,52	GATE_Token	string="jaded" lemma="jade" category="VBN"
+11	53,54	GATE_Token	string="." lemma="." category="."

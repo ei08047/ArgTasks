@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">clementine is almost 14 months old and she is <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">amazing</MPQAPOL> .</MPQASENT>

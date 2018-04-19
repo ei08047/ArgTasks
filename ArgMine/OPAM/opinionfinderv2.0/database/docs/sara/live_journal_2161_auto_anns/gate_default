@@ -1,0 +1,12 @@
+1	0,50	GATE_Sentence
+2	0,2	GATE_Token	string="We" lemma="we" category="PRP"
+3	3,6	GATE_Token	string="are" lemma="be" category="VBP"
+4	7,11	GATE_Token	string="back" lemma="back" category="RB"
+5	12,16	GATE_Token	string="home" lemma="home" category="NN"
+6	17,20	GATE_Token	string="and" lemma="and" category="CC"
+7	21,24	GATE_Token	string="the" lemma="the" category="DT"
+8	25,30	GATE_Token	string="house" lemma="house" category="NN"
+9	31,33	GATE_Token	string="is" lemma="be" category="VBZ"
+10	34,39	GATE_Token	string="still" lemma="still" category="RB"
+11	40,48	GATE_Token	string="standing" lemma="stand" category="VBG"
+12	49,50	GATE_Token	string="!" lemma="!" category="."

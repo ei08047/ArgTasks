@@ -1,0 +1,4 @@
+1	7,12	matchfeat	type="ballmerLen1" mpqapolarity="weakpos"
+2	21,26	matchfeat	type="strongjandiss" mpqapolarity="strongpos"
+3	38,43	matchfeat	type="strongjandiss" mpqapolarity="neutral"
+4	44,51	matchfeat	type="weakjandiss" mpqapolarity="strongpos"

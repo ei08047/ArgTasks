@@ -1,0 +1,12 @@
+1	0,48	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,9	GATE_Token	string="not" lemma="not" category="RB"
+5	10,15	GATE_Token	string="quiet" lemma="quiet" category="JJ"
+6	16,17	GATE_Token	string="," lemma="," category=","
+7	18,21	GATE_Token	string="but" lemma="but" category="CC"
+8	22,24	GATE_Token	string="it" lemma="it" category="PRP"
+9	25,28	GATE_Token	string="has" lemma="have" category="VBZ"
+10	29,32	GATE_Token	string="its" lemma="its" category="PRP$"
+11	33,46	GATE_Token	string="compensations" lemma="compensation" category="NNS"
+12	47,48	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,12 @@
+1	0,63	GATE_Sentence
+2	0,9	GATE_Token	string="Tenacious" lemma="tenacious" category="JJ"
+3	10,27	GATE_Token	string="misunderstandings" lemma="misunderstanding" category="NNS"
+4	28,31	GATE_Token	string="are" lemma="be" category="VBP"
+5	32,37	GATE_Token	string="quite" lemma="quite" category="RB"
+6	38,39	GATE_Token	string="a" lemma="a" category="DT"
+7	40,43	GATE_Token	string="bit" lemma="bit" category="NN"
+8	44,48	GATE_Token	string="more" lemma="more" category="JJR"
+9	49,51	GATE_Token	string="of" lemma="of" category="IN"
+10	52,53	GATE_Token	string="a" lemma="a" category="DT"
+11	54,61	GATE_Token	string="problem" lemma="problem" category="NN"
+12	62,63	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,7 @@
+argumentative_essays_essay154.txt_2277_2287	neutral
+argumentative_essays_essay154.txt_2289_2293	neutral
+argumentative_essays_essay154.txt_2339_2343	neutral
+argumentative_essays_essay154.txt_2347_2352	neutral
+argumentative_essays_essay154.txt_2367_2373	neutral
+argumentative_essays_essay154.txt_2404_2408	positive
+argumentative_essays_essay154.txt_2412_2417	neutral

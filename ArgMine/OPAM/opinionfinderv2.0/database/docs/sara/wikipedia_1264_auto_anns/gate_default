@@ -1,0 +1,13 @@
+1	0,64	GATE_Sentence
+2	0,5	GATE_Token	string="Again" lemma="again" category="RB"
+3	6,7	GATE_Token	string="," lemma="," category=","
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,19	GATE_Token	string="specter" lemma="specter" category="NN"
+6	20,22	GATE_Token	string="of" lemma="of" category="IN"
+7	23,32	GATE_Token	string="copyright" lemma="copyright" category="NN"
+8	33,42	GATE_Token	string="violation" lemma="violation" category="NN"
+9	43,48	GATE_Token	string="rears" lemma="rear" category="VBZ"
+10	49,52	GATE_Token	string="its" lemma="its" category="PRP$"
+11	53,57	GATE_Token	string="ugly" lemma="ugly" category="JJ"
+12	58,62	GATE_Token	string="head" lemma="head" category="NN"
+13	63,64	GATE_Token	string="." lemma="." category="."

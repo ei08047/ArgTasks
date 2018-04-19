@@ -1,0 +1,11 @@
+argumentative_essays_essay338.txt_0_224	obj
+argumentative_essays_essay338.txt_225_336	subj
+argumentative_essays_essay338.txt_337_392	obj
+argumentative_essays_essay338.txt_393_551	subj
+argumentative_essays_essay338.txt_552_753	subj
+argumentative_essays_essay338.txt_754_864	obj
+argumentative_essays_essay338.txt_865_979	subj
+argumentative_essays_essay338.txt_980_1105	subj
+argumentative_essays_essay338.txt_1106_1248	subj
+argumentative_essays_essay338.txt_1249_1386	obj
+argumentative_essays_essay338.txt_1387_1459	obj

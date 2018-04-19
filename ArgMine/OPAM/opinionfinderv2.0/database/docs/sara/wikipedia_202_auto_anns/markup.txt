@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Just</MPQAPOL> because something has been printed somewhere does not <MPQAPOL autoclass="neutral">mean</MPQAPOL> that it is <MPQAPOL autoclass="neutral">true</MPQAPOL> .</MPQASENT>

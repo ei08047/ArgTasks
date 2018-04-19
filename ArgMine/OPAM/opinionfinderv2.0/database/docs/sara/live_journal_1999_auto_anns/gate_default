@@ -1,0 +1,10 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="and" lemma="and" category="CC"
+3	4,6	GATE_Token	string="by" lemma="by" category="IN"
+4	7,16	GATE_Token	string="bluetooth" lemma="bluetooth" category="NN"
+5	17,23	GATE_Token	string="module" lemma="module" category="NN"
+6	24,26	GATE_Token	string="is" lemma="be" category="VBZ"
+7	27,29	GATE_Token	string="on" lemma="on" category="IN"
+8	30,33	GATE_Token	string="its" lemma="its" category="PRP$"
+9	34,37	GATE_Token	string="way" lemma="way" category="NN"
+10	38,39	GATE_Token	string="." lemma="." category="."

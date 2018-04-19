@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">looked</MPQAPOL> up <MPQAPOL autoclass="neutral">just</MPQAPOL> in time to see her <MPQAPOL autoclass="negative">faint</MPQAPOL> and I kinda <MPQAPOL autoclass="neutral">freaked</MPQAPOL> out .</MPQASENT>

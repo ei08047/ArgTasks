@@ -1,0 +1,11 @@
+argumentative_essays_essay119.txt_0_219	obj
+argumentative_essays_essay119.txt_220_310	obj
+argumentative_essays_essay119.txt_311_535	subj
+argumentative_essays_essay119.txt_536_723	subj
+argumentative_essays_essay119.txt_724_896	subj
+argumentative_essays_essay119.txt_897_990	obj
+argumentative_essays_essay119.txt_991_1058	obj
+argumentative_essays_essay119.txt_1059_1223	subj
+argumentative_essays_essay119.txt_1224_1441	subj
+argumentative_essays_essay119.txt_1442_1494	subj
+argumentative_essays_essay119.txt_1495_1705	subj

@@ -1,0 +1,8 @@
+1	0,52	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="think" lemma="think" category="VBP"
+4	8,16	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+5	17,34	GATE_Token	string="IIIMAGEEELLLINKKK" lemma="IIIMAGEEELLLINKKK" category="NNP"
+6	35,46	GATE_Token	string="kingthunder" lemma="kingthunder" category="NN"
+7	47,50	GATE_Token	string="did" lemma="do" category="VBD"
+8	51,52	GATE_Token	string="." lemma="." category="."

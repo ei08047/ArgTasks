@@ -1,0 +1,11 @@
+1	0,51	GATE_Sentence
+2	0,6	GATE_Token	string="Should" lemma="should" category="MD"
+3	7,9	GATE_Token	string="it" lemma="it" category="PRP"
+4	10,12	GATE_Token	string="be" lemma="be" category="VB"
+5	13,20	GATE_Token	string="related" lemma="relate" category="VBN"
+6	21,23	GATE_Token	string="to" lemma="to" category="TO"
+7	24,31	GATE_Token	string="warfare" lemma="warfare" category="NN"
+8	32,34	GATE_Token	string="or" lemma="or" category="CC"
+9	35,43	GATE_Token	string="peaceful" lemma="peaceful" category="JJ"
+10	44,49	GATE_Token	string="death" lemma="death" category="NN"
+11	50,51	GATE_Token	string="?" lemma="?" category="."

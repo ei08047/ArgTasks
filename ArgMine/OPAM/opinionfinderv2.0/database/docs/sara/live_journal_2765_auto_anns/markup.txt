@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="positive">wish</MPQAPOL> you are <MPQAPOL autoclass="negative">feeling</MPQAPOL> <MPQAPOL autoclass="negative">much</MPQAPOL> <MPQAPOL autoclass="positive">better</MPQAPOL> now , RQ .</MPQASENT>

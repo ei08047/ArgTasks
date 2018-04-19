@@ -1,0 +1,12 @@
+1	0,46	GATE_Sentence
+2	0,1	GATE_Token	string="A" lemma="a" category="DT"
+3	2,9	GATE_Token	string="cursory" lemma="cursory" category="JJ"
+4	10,16	GATE_Token	string="glance" lemma="glance" category="NN"
+5	17,19	GATE_Token	string="is" lemma="be" category="VBZ"
+6	20,25	GATE_Token	string="often" lemma="often" category="RB"
+7	26,29	GATE_Token	string="all" lemma="all" category="DT"
+8	30,32	GATE_Token	string="we" lemma="we" category="PRP"
+9	33,36	GATE_Token	string="can" lemma="can" category="MD"
+10	37,41	GATE_Token	string="come" lemma="come" category="VB"
+11	42,44	GATE_Token	string="to" lemma="to" category="TO"
+12	45,46	GATE_Token	string="." lemma="." category="."

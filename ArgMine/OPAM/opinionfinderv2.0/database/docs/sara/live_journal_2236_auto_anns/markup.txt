@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Because I will have to be home by 10am the next morning <MPQAPOL autoclass="neutral">so</MPQAPOL> I can take the bus & train to Chicago to see MCR .</MPQASENT>

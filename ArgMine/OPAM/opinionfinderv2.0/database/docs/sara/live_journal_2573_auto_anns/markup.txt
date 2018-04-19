@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">that was truely one of the <MPQAPOL autoclass="positive">highlights</MPQAPOL> of this year .</MPQASENT>

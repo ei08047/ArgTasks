@@ -1,0 +1,6 @@
+argumentative_essays_essay381.txt_1662_1668	neutral
+argumentative_essays_essay381.txt_1672_1678	negative
+argumentative_essays_essay381.txt_1679_1685	negative
+argumentative_essays_essay381.txt_1714_1718	neutral
+argumentative_essays_essay381.txt_1769_1774	neutral
+argumentative_essays_essay381.txt_1779_1788	neutral

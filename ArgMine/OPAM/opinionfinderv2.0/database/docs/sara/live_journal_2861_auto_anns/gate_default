@@ -1,0 +1,12 @@
+1	0,52	GATE_Sentence
+2	0,3	GATE_Token	string="hey" lemma="hey" category="NN"
+3	4,8	GATE_Token	string="have" lemma="have" category="VBP"
+4	9,12	GATE_Token	string="you" lemma="you" category="PRP"
+5	13,17	GATE_Token	string="seen" lemma="see" category="VBN"
+6	18,22	GATE_Token	string="that" lemma="that" category="IN"
+7	23,31	GATE_Token	string="facebook" lemma="facebook" category="NN"
+8	32,39	GATE_Token	string="message" lemma="message" category="NN"
+9	40,41	GATE_Token	string="i" lemma="i" category="FW"
+10	42,46	GATE_Token	string="sent" lemma="send" category="VBN"
+11	47,50	GATE_Token	string="you" lemma="you" category="PRP"
+12	51,52	GATE_Token	string="?" lemma="?" category="."

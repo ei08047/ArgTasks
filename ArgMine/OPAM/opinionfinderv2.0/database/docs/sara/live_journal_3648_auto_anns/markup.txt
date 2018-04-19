@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Well</MPQAPOL> , I am also game for rescheduling for a later <MPQAPOL autoclass="neutral">show</MPQAPOL> , if it will <MPQAPOL autoclass="neutral">facilitate</MPQAPOL> BN 's presence .</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,53	GATE_Sentence
+2	0,3	GATE_Token	string="its" lemma="its" category="PRP$"
+3	4,8	GATE_Token	string="just" lemma="just" category="RB"
+4	9,13	GATE_Token	string="that" lemma="that" category="DT"
+5	14,18	GATE_Token	string="math" lemma="math" category="NN"
+6	19,21	GATE_Token	string="is" lemma="be" category="VBZ"
+7	22,29	GATE_Token	string="robbing" lemma="rob" category="VBG"
+8	30,32	GATE_Token	string="my" lemma="my" category="PRP$"
+9	33,37	GATE_Token	string="mind" lemma="mind" category="NN"
+10	38,40	GATE_Token	string="at" lemma="at" category="IN"
+11	41,44	GATE_Token	string="the" lemma="the" category="DT"
+12	45,51	GATE_Token	string="moment" lemma="moment" category="NN"
+13	52,53	GATE_Token	string="." lemma="." category="."

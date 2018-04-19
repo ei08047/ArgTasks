@@ -1,0 +1,10 @@
+1	0,33	GATE_Sentence
+2	0,2	GATE_Token	string="ir" lemma="ir" category="NN"
+3	3,5	GATE_Token	string="''" lemma="''" category="''"
+4	6,8	GATE_Token	string="at" lemma="at" category="IN"
+5	9,12	GATE_Token	string="the" lemma="the" category="DT"
+6	13,16	GATE_Token	string="end" lemma="end" category="NN"
+7	17,19	GATE_Token	string="of" lemma="of" category="IN"
+8	20,23	GATE_Token	string="the" lemma="the" category="DT"
+9	24,31	GATE_Token	string="address" lemma="address" category="NN"
+10	32,33	GATE_Token	string="." lemma="." category="."

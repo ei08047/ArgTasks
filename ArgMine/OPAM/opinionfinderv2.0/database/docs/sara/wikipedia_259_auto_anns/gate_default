@@ -1,0 +1,11 @@
+1	0,55	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,10	GATE_Token	string="number" lemma="number" category="NN"
+4	11,13	GATE_Token	string="of" lemma="of" category="IN"
+5	14,18	GATE_Token	string="high" lemma="high" category="JJ"
+6	19,26	GATE_Token	string="ranking" lemma="ranking" category="JJ"
+7	27,35	GATE_Token	string="prelates" lemma="prelate" category="NNS"
+8	36,39	GATE_Token	string="who" lemma="who" category="WP"
+9	40,44	GATE_Token	string="were" lemma="be" category="VBD"
+10	45,53	GATE_Token	string="involved" lemma="involve" category="VBN"
+11	54,55	GATE_Token	string="." lemma="." category="."

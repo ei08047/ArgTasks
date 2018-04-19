@@ -1,0 +1,9 @@
+argumentative_essays_essay123.txt_0_226	subj
+argumentative_essays_essay123.txt_227_325	subj
+argumentative_essays_essay123.txt_326_367	obj
+argumentative_essays_essay123.txt_368_539	subj
+argumentative_essays_essay123.txt_540_686	subj
+argumentative_essays_essay123.txt_687_796	subj
+argumentative_essays_essay123.txt_797_1029	subj
+argumentative_essays_essay123.txt_1030_1121	subj
+argumentative_essays_essay123.txt_1122_1381	subj

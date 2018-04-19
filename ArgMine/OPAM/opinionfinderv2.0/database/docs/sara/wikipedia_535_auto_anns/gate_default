@@ -1,0 +1,9 @@
+1	0,48	GATE_Sentence
+2	0,3	GATE_Token	string="Let" lemma="let" category="VB"
+3	4,6	GATE_Token	string="us" lemma="we" category="PRP"
+4	7,18	GATE_Token	string="distinguish" lemma="distinguish" category="VB"
+5	19,26	GATE_Token	string="between" lemma="between" category="IN"
+6	27,35	GATE_Token	string="accuracy" lemma="accuracy" category="NN"
+7	36,39	GATE_Token	string="and" lemma="and" category="CC"
+8	40,46	GATE_Token	string="detail" lemma="detail" category="NN"
+9	47,48	GATE_Token	string="." lemma="." category="."

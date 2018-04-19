@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Look</MPQAPOL> , I am <MPQAPOL autoclass="positive">well</MPQAPOL> <MPQAPOL autoclass="neutral">aware</MPQAPOL> of what the LDS Church teaches as <MPQAPOL autoclass="neutral">well</MPQAPOL> as other Latter Day Saint groups .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The first quotation is from June and the second in September -LRB- see <MPQAPOL autoclass="neutral">above</MPQAPOL> -RRB- .</MPQASENT>

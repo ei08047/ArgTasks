@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> I am probably <MPQAPOL autoclass="negative">anemic</MPQAPOL> or have leukemia , I fit a lot of the <MPQAPOL autoclass="neutral">symptoms</MPQAPOL> for both .</MPQASENT>

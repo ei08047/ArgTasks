@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And sometimes <MPQAPOL autoclass="negative">embarrassing</MPQAPOL> changes creep in <MPQAPOL autoclass="neutral">unnoticed</MPQAPOL> .</MPQASENT>

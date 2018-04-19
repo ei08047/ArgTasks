@@ -1,0 +1,7 @@
+1	0,34	GATE_Sentence
+2	0,2	GATE_Token	string="Oh" lemma="oh" category="UH"
+3	3,7	GATE_Token	string="yeah" lemma="yeah" category="VBP"
+4	8,11	GATE_Token	string="..." lemma="..." category=":"
+5	12,15	GATE_Token	string="and" lemma="and" category="CC"
+6	16,32	GATE_Token	string="BRAAAAIIIINNNSSS" lemma="BRAAAAIIIINNNSSS" category="NNP"
+7	33,34	GATE_Token	string="!" lemma="!" category="."

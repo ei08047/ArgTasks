@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Do not you <MPQAPOL autoclass="neutral">think</MPQAPOL> it <MPQAPOL autoclass="neutral">would</MPQAPOL> be <MPQAPOL autoclass="positive">easier</MPQAPOL> to get results by working with editors instead of editing solely to your own POV ?</MPQASENT>

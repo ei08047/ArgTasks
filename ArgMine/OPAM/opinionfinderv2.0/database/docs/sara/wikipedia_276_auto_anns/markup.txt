@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am not <MPQAPOL autoclass="neutral">sure</MPQAPOL> how `` <MPQAPOL autoclass="negative">prominent</MPQAPOL> '' it <MPQAPOL autoclass="neutral">should</MPQAPOL> be , but the lead <MPQAPOL autoclass="neutral">should</MPQAPOL> <MPQAPOL autoclass="neutral">certainly</MPQAPOL> reflect the new data .</MPQASENT>

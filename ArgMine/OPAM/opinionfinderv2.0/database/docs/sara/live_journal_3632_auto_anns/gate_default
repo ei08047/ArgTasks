@@ -1,0 +1,10 @@
+1	0,44	GATE_Sentence
+2	0,4	GATE_Token	string="well" lemma="well" category="RB"
+3	5,10	GATE_Token	string="being" lemma="be" category="VBG"
+4	11,17	GATE_Token	string="honest" lemma="honest" category="JJ"
+5	18,22	GATE_Token	string="with" lemma="with" category="IN"
+6	23,27	GATE_Token	string="some" lemma="some" category="DT"
+7	28,34	GATE_Token	string="people" lemma="people" category="NNS"
+8	35,37	GATE_Token	string="is" lemma="be" category="VBZ"
+9	38,42	GATE_Token	string="good" lemma="good" category="JJ"
+10	43,44	GATE_Token	string="." lemma="." category="."

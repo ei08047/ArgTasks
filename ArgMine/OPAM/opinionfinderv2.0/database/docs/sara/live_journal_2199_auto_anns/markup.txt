@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">in the face of <MPQAPOL autoclass="negative">overwhelming</MPQAPOL> military <MPQAPOL autoclass="neutral">superiority</MPQAPOL> , guerilla <MPQAPOL autoclass="negative">warfare</MPQAPOL> tactics are the <MPQAPOL autoclass="positive">best</MPQAPOL> way to go .</MPQASENT>

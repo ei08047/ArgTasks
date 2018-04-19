@@ -1,0 +1,12 @@
+1	0,55	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,9	GATE_Token	string="there" lemma="there" category="EX"
+4	10,13	GATE_Token	string="are" lemma="be" category="VBP"
+5	14,20	GATE_Token	string="always" lemma="always" category="RB"
+6	21,27	GATE_Token	string="people" lemma="people" category="NNS"
+7	28,34	GATE_Token	string="around" lemma="around" category="IN"
+8	35,36	GATE_Token	string="(" lemma="(" category="-LRB-"
+9	37,44	GATE_Token	string="fucking" lemma="fucking" category="JJ"
+10	45,51	GATE_Token	string="people" lemma="people" category="NNS"
+11	52,53	GATE_Token	string=")" lemma=")" category="-RRB-"
+12	54,55	GATE_Token	string="." lemma="." category="."

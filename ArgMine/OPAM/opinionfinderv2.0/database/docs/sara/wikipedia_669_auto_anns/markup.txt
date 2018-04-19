@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Now we <MPQAPOL autoclass="neutral">know</MPQAPOL> that Gap edits its article because the ip address is registered to the organization .</MPQASENT>

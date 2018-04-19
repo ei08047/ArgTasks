@@ -1,0 +1,7 @@
+1	0,34	GATE_Sentence
+2	0,3	GATE_Token	string="How" lemma="how" category="WRB"
+3	4,14	GATE_Token	string="subliminal" lemma="subliminal" category="JJ"
+4	15,16	GATE_Token	string="," lemma="," category=","
+5	17,20	GATE_Token	string="and" lemma="and" category="CC"
+6	21,32	GATE_Token	string="ineffective" lemma="ineffective" category="JJ"
+7	33,34	GATE_Token	string="." lemma="." category="."

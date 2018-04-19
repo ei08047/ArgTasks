@@ -1,0 +1,11 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="Now" lemma="now" category="RB"
+3	4,9	GATE_Token	string="where" lemma="where" category="WRB"
+4	10,14	GATE_Token	string="does" lemma="do" category="VBZ"
+5	15,18	GATE_Token	string="the" lemma="the" category="DT"
+6	19,21	GATE_Token	string="``" lemma="``" category="``"
+7	22,26	GATE_Token	string="gray" lemma="gray" category="JJ"
+8	27,29	GATE_Token	string="''" lemma="''" category="''"
+9	30,34	GATE_Token	string="come" lemma="come" category="VBN"
+10	35,37	GATE_Token	string="in" lemma="in" category="IN"
+11	38,39	GATE_Token	string="?" lemma="?" category="."

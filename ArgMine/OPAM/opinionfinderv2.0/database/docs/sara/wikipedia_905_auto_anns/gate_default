@@ -1,0 +1,11 @@
+1	0,53	GATE_Sentence
+2	0,4	GATE_Token	string="Have" lemma="have" category="VBP"
+3	5,8	GATE_Token	string="you" lemma="you" category="PRP"
+4	9,13	GATE_Token	string="read" lemma="read" category="VB"
+5	14,23	GATE_Token	string="wikipedia" lemma="wikipedium" category="NN"
+6	24,26	GATE_Token	string="'s" lemma="'s" category="POS"
+7	27,34	GATE_Token	string="article" lemma="article" category="NN"
+8	35,37	GATE_Token	string="on" lemma="on" category="IN"
+9	38,43	GATE_Token	string="Black" lemma="black" category="JJ"
+10	44,51	GATE_Token	string="Sabbath" lemma="sabbath" category="NN"
+11	52,53	GATE_Token	string="?" lemma="?" category="."

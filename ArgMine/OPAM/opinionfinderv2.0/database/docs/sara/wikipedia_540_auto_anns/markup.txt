@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Surely</MPQAPOL> we all <MPQAPOL autoclass="neutral">agree</MPQAPOL> that it <MPQAPOL autoclass="neutral">should</MPQAPOL> be both <MPQAPOL autoclass="neutral">accurate</MPQAPOL> and <MPQAPOL autoclass="neutral">accessible</MPQAPOL> .</MPQASENT>

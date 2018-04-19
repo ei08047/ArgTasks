@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If it is a <MPQAPOL autoclass="neutral">significant</MPQAPOL> viewpoint , we <MPQAPOL autoclass="neutral">must</MPQAPOL> include it .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

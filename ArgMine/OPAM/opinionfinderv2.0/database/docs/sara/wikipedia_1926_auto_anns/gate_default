@@ -1,0 +1,12 @@
+1	0,52	GATE_Sentence
+2	0,5	GATE_Token	string="There" lemma="there" category="EX"
+3	6,9	GATE_Token	string="has" lemma="have" category="VBZ"
+4	10,14	GATE_Token	string="been" lemma="be" category="VBN"
+5	15,17	GATE_Token	string="no" lemma="no" category="DT"
+6	18,27	GATE_Token	string="consensus" lemma="consensus" category="NN"
+7	28,31	GATE_Token	string="for" lemma="for" category="IN"
+8	32,33	GATE_Token	string="a" lemma="a" category="DT"
+9	34,40	GATE_Token	string="change" lemma="change" category="NN"
+10	41,45	GATE_Token	string="like" lemma="like" category="IN"
+11	46,50	GATE_Token	string="that" lemma="that" category="DT"
+12	51,52	GATE_Token	string="." lemma="." category="."

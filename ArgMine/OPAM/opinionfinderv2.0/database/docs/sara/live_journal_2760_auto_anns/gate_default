@@ -1,0 +1,11 @@
+1	0,40	GATE_Sentence
+2	0,1	GATE_Token	string="(" lemma="(" category="-LRB-"
+3	2,6	GATE_Token	string="Some" lemma="some" category="DT"
+4	7,11	GATE_Token	string="bare" lemma="bare" category="JJ"
+5	12,18	GATE_Token	string="tushes" lemma="tush" category="NNS"
+6	19,21	GATE_Token	string="in" lemma="in" category="IN"
+7	22,30	GATE_Token	string="evidence" lemma="evidence" category="NN"
+8	31,32	GATE_Token	string="," lemma="," category=","
+9	33,36	GATE_Token	string="too" lemma="too" category="RB"
+10	37,38	GATE_Token	string="." lemma="." category="."
+11	39,40	GATE_Token	string=")" lemma=")" category="-RRB-"

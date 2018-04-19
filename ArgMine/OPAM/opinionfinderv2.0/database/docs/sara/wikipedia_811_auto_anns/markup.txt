@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Thank</MPQAPOL> you , I <MPQAPOL autoclass="positive">appreciate</MPQAPOL> that .</MPQASENT>

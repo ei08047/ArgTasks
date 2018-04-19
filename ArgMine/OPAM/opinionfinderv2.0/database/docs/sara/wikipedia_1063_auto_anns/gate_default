@@ -1,0 +1,8 @@
+1	0,43	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,8	GATE_Token	string="was" lemma="be" category="VBD"
+4	9,13	GATE_Token	string="from" lemma="from" category="IN"
+5	14,18	GATE_Token	string="your" lemma="you" category="PRP$"
+6	19,29	GATE_Token	string="historical" lemma="historical" category="JJ"
+7	30,41	GATE_Token	string="perspective" lemma="perspective" category="NN"
+8	42,43	GATE_Token	string="." lemma="." category="."

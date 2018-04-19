@@ -1,0 +1,13 @@
+argumentative_essays_essay382.txt_0_71	obj
+argumentative_essays_essay382.txt_73_152	obj
+argumentative_essays_essay382.txt_153_254	obj
+argumentative_essays_essay382.txt_255_387	obj
+argumentative_essays_essay382.txt_388_533	obj
+argumentative_essays_essay382.txt_534_656	obj
+argumentative_essays_essay382.txt_657_801	obj
+argumentative_essays_essay382.txt_802_893	obj
+argumentative_essays_essay382.txt_894_1077	obj
+argumentative_essays_essay382.txt_1078_1142	obj
+argumentative_essays_essay382.txt_1143_1356	obj
+argumentative_essays_essay382.txt_1357_1503	obj
+argumentative_essays_essay382.txt_1504_1642	subj

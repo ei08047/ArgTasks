@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Only <MPQAPOL autoclass="neutral">reliable</MPQAPOL> secondary sources matter .</MPQASENT>

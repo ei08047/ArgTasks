@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Doing <MPQAPOL autoclass="neutral">so</MPQAPOL> does not , nor ever has , <MPQAPOL autoclass="negative">violate</MPQAPOL> NPOV .</MPQASENT>

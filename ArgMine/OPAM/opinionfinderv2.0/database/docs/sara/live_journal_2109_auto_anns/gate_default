@@ -1,0 +1,12 @@
+1	0,47	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,9	GATE_Token	string="thought" lemma="think" category="VBD"
+4	10,13	GATE_Token	string="you" lemma="you" category="PRP"
+5	14,18	GATE_Token	string="fell" lemma="fall" category="VBD"
+6	19,22	GATE_Token	string="off" lemma="off" category="RP"
+7	23,26	GATE_Token	string="the" lemma="the" category="DT"
+8	27,31	GATE_Token	string="face" lemma="face" category="NN"
+9	32,34	GATE_Token	string="of" lemma="of" category="IN"
+10	35,38	GATE_Token	string="the" lemma="the" category="DT"
+11	39,45	GATE_Token	string="planet" lemma="planet" category="NN"
+12	46,47	GATE_Token	string="!" lemma="!" category="."

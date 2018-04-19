@@ -1,0 +1,10 @@
+1	0,39	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,9	GATE_Token	string="lawn" lemma="lawn" category="NN"
+4	10,16	GATE_Token	string="really" lemma="really" category="RB"
+5	17,22	GATE_Token	string="stuck" lemma="stick" category="VBD"
+6	23,26	GATE_Token	string="out" lemma="out" category="RP"
+7	27,29	GATE_Token	string="in" lemma="in" category="IN"
+8	30,32	GATE_Token	string="my" lemma="my" category="PRP$"
+9	33,37	GATE_Token	string="mind" lemma="mind" category="NN"
+10	38,39	GATE_Token	string="." lemma="." category="."

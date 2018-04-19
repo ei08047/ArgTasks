@@ -1,0 +1,6 @@
+1	0,32	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,19	GATE_Token	string="technically" lemma="technically" category="RB"
+5	20,30	GATE_Token	string="inaccurate" lemma="inaccurate" category="JJ"
+6	31,32	GATE_Token	string="." lemma="." category="."

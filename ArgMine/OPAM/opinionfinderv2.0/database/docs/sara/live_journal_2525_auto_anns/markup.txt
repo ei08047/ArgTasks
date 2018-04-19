@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">is not all that <MPQAPOL autoclass="neutral">great</MPQAPOL> and will soon disappear from <MPQAPOL autoclass="neutral">view</MPQAPOL> , you <MPQAPOL autoclass="neutral">could</MPQAPOL> use the money for something way <MPQAPOL autoclass="positive">better</MPQAPOL> .</MPQASENT>

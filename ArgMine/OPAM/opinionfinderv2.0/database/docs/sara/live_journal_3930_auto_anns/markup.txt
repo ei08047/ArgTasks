@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I will probably <MPQAPOL autoclass="positive">want</MPQAPOL> to take a <MPQAPOL autoclass="neutral">quick</MPQAPOL> shower , but that <MPQAPOL autoclass="neutral">should</MPQAPOL> not take <MPQAPOL autoclass="neutral">too</MPQAPOL> long .</MPQASENT>

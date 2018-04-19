@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I did not <MPQAPOL autoclass="neutral">know</MPQAPOL> you had a <MPQAPOL autoclass="neutral">baby</MPQAPOL> , I guess it has been a while since we spoke .</MPQASENT>

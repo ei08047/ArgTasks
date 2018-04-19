@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">If one speaks of the theory of evolution one <MPQAPOL autoclass="neutral">rather</MPQAPOL> <MPQAPOL autoclass="neutral">means</MPQAPOL> the theory of <MPQAPOL autoclass="neutral">natural</MPQAPOL> selection .</MPQASENT>

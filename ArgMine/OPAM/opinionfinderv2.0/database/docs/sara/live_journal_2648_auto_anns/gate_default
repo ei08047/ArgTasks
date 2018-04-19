@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,3	GATE_Token	string="Wow" lemma="wow" category="UH"
+3	4,7	GATE_Token	string="She" lemma="she" category="PRP"
+4	8,12	GATE_Token	string="came" lemma="come" category="VBD"
+5	13,17	GATE_Token	string="back" lemma="back" category="RB"
+6	18,22	GATE_Token	string="from" lemma="from" category="IN"
+7	23,26	GATE_Token	string="the" lemma="the" category="DT"
+8	27,31	GATE_Token	string="dead" lemma="dead" category="JJ"
+9	32,33	GATE_Token	string="!" lemma="!" category="."

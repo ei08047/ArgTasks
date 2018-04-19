@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">NPR had a <MPQAPOL autoclass="neutral">special</MPQAPOL> bit on metal <MPQAPOL autoclass="neutral">maybe</MPQAPOL> two-to-three years ago .</MPQASENT>

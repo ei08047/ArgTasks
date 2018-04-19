@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,2	GATE_Token	string="MA" lemma="MA" category="NNP"
+3	3,6	GATE_Token	string="was" lemma="be" category="VBD"
+4	7,16	GATE_Token	string="referring" lemma="refer" category="VBG"
+5	17,19	GATE_Token	string="to" lemma="to" category="TO"
+6	20,23	GATE_Token	string="the" lemma="the" category="DT"
+7	24,30	GATE_Token	string="regime" lemma="regime" category="NN"
+8	31,32	GATE_Token	string="." lemma="." category="."

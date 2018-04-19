@@ -1,0 +1,12 @@
+1	0,56	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="never" lemma="never" category="RB"
+4	8,15	GATE_Token	string="thought" lemma="think" category="VBD"
+5	16,17	GATE_Token	string="I" lemma="I" category="PRP"
+6	18,23	GATE_Token	string="would" lemma="would" category="MD"
+7	24,28	GATE_Token	string="miss" lemma="miss" category="VB"
+8	29,40	GATE_Token	string="Connecticut" lemma="Connecticut" category="NNP"
+9	41,46	GATE_Token	string="quite" lemma="quite" category="RB"
+10	47,49	GATE_Token	string="so" lemma="so" category="RB"
+11	50,54	GATE_Token	string="much" lemma="much" category="JJ"
+12	55,56	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am not <MPQAPOL autoclass="neutral">trying</MPQAPOL> to change this article , ( did I ever say we <MPQAPOL autoclass="neutral">need</MPQAPOL> to change it ? )</MPQASENT>

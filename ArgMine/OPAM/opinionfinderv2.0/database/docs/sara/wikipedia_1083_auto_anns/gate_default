@@ -1,0 +1,9 @@
+1	0,44	GATE_Sentence
+2	0,5	GATE_Token	string="These" lemma="these" category="DT"
+3	6,9	GATE_Token	string="are" lemma="be" category="VBP"
+4	10,19	GATE_Token	string="questions" lemma="question" category="NNS"
+5	20,25	GATE_Token	string="which" lemma="which" category="WDT"
+6	26,30	GATE_Token	string="must" lemma="must" category="MD"
+7	31,33	GATE_Token	string="be" lemma="be" category="VB"
+8	34,42	GATE_Token	string="answered" lemma="answer" category="VBN"
+9	43,44	GATE_Token	string="." lemma="." category="."

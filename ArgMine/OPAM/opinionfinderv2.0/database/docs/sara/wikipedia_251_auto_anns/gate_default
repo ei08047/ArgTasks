@@ -1,0 +1,13 @@
+1	0,64	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,8	GATE_Token	string="would" lemma="would" category="MD"
+4	9,13	GATE_Token	string="seem" lemma="seem" category="VB"
+5	14,17	GATE_Token	string="the" lemma="the" category="DT"
+6	18,27	GATE_Token	string="reference" lemma="reference" category="NN"
+7	28,30	GATE_Token	string="is" lemma="be" category="VBZ"
+8	31,33	GATE_Token	string="an" lemma="a" category="DT"
+9	34,43	GATE_Token	string="excellent" lemma="excellent" category="JJ"
+10	44,49	GATE_Token	string="third" lemma="third" category="JJ"
+11	50,55	GATE_Token	string="party" lemma="party" category="NN"
+12	56,62	GATE_Token	string="source" lemma="source" category="NN"
+13	63,64	GATE_Token	string="." lemma="." category="."

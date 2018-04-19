@@ -1,0 +1,12 @@
+1	0,49	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,9	GATE_Token	string="does" lemma="do" category="VBZ"
+4	10,13	GATE_Token	string="not" lemma="not" category="RB"
+5	14,18	GATE_Token	string="mean" lemma="mean" category="VB"
+6	19,24	GATE_Token	string="being" lemma="be" category="VBG"
+7	25,32	GATE_Token	string="forward" lemma="forward" category="RB"
+8	33,35	GATE_Token	string="is" lemma="be" category="VBZ"
+9	36,37	GATE_Token	string="a" lemma="a" category="DT"
+10	38,41	GATE_Token	string="bad" lemma="bad" category="JJ"
+11	42,47	GATE_Token	string="thing" lemma="thing" category="NN"
+12	48,49	GATE_Token	string="." lemma="." category="."

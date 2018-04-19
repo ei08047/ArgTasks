@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I thinbk it is <MPQAPOL autoclass="neutral">amusing</MPQAPOL> that we can <MPQAPOL autoclass="negative">disagree</MPQAPOL> yet the outcome - the <MPQAPOL autoclass="negative">protest</MPQAPOL> - is the same .</MPQASENT>

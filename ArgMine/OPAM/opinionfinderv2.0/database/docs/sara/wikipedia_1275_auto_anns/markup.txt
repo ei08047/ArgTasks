@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It is not about making me <MPQAPOL autoclass="positive">happy</MPQAPOL> ... it is the <MPQAPOL autoclass="neutral">fact</MPQAPOL> that Kermit is licensed by Disney these days .</MPQASENT>

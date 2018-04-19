@@ -1,0 +1,7 @@
+sara_wikipedia_1106_0_9	neutral
+sara_wikipedia_1106_24_31	neutral
+sara_wikipedia_1106_43_49	neutral
+sara_wikipedia_1106_62_71	negative
+sara_wikipedia_1106_76_86	neutral
+sara_wikipedia_1106_91_96	neutral
+sara_wikipedia_1106_97_108	neutral

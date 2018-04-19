@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I <MPQAPOL autoclass="positive">hope</MPQAPOL> everything ends up being <MPQAPOL autoclass="negative">okay</MPQAPOL> \* <MPQAPOL autoclass="neutral">hug</MPQAPOL> \*</MPQASENT>

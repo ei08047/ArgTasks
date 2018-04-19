@@ -1,0 +1,13 @@
+1	0,45	GATE_Sentence
+2	0,3	GATE_Token	string="Let" lemma="let" category="VB"
+3	4,6	GATE_Token	string="us" lemma="we" category="PRP"
+4	7,11	GATE_Token	string="hope" lemma="hope" category="VB"
+5	12,13	GATE_Token	string="I" lemma="I" category="PRP"
+6	14,16	GATE_Token	string="am" lemma="be" category="VBP"
+7	17,21	GATE_Token	string="okay" lemma="okay" category="JJ"
+8	22,25	GATE_Token	string="and" lemma="and" category="CC"
+9	26,28	GATE_Token	string="it" lemma="it" category="PRP"
+10	29,31	GATE_Token	string="is" lemma="be" category="VBZ"
+11	32,36	GATE_Token	string="just" lemma="just" category="RB"
+12	37,43	GATE_Token	string="stress" lemma="stress" category="NN"
+13	44,45	GATE_Token	string="." lemma="." category="."

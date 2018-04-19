@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">The over-riding aspect of the human <MPQAPOL autoclass="neutral">attitude</MPQAPOL> to <MPQAPOL autoclass="neutral">death</MPQAPOL> is <MPQAPOL autoclass="negative">fear</MPQAPOL> .</MPQASENT>

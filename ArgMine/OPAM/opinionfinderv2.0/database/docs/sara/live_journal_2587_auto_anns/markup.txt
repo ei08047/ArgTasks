@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">darien is doing <MPQAPOL autoclass="neutral">better</MPQAPOL> at school ..</MPQASENT>

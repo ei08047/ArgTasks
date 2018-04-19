@@ -1,0 +1,7 @@
+1	0,37	GATE_Sentence
+2	0,9	GATE_Token	string="christmas" lemma="christmas" category="NNS"
+3	10,13	GATE_Token	string="was" lemma="be" category="VBD"
+4	14,21	GATE_Token	string="totally" lemma="totally" category="RB"
+5	22,30	GATE_Token	string="invented" lemma="invent" category="VBN"
+6	31,35	GATE_Token	string="here" lemma="here" category="RB"
+7	36,37	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,4	GATE_Token	string="From" lemma="from" category="IN"
+3	5,7	GATE_Token	string="my" lemma="my" category="PRP$"
+4	8,12	GATE_Token	string="side" lemma="side" category="NN"
+5	13,18	GATE_Token	string="there" lemma="there" category="EX"
+6	19,21	GATE_Token	string="is" lemma="be" category="VBZ"
+7	22,24	GATE_Token	string="no" lemma="no" category="DT"
+8	25,31	GATE_Token	string="gaming" lemma="gaming" category="NN"
+9	32,40	GATE_Token	string="involved" lemma="involve" category="VBN"
+10	41,42	GATE_Token	string="." lemma="." category="."

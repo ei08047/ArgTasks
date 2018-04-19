@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">im <MPQAPOL autoclass="neutral">sure</MPQAPOL> he had be <MPQAPOL autoclass="neutral">FASCINATED</MPQAPOL> to hear about it .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This year 's prom dress assortment is a fabric <MPQAPOL autoclass="neutral">realization</MPQAPOL> of what can only be described as Betty Crocker 's <MPQAPOL autoclass="neutral">nightmare</MPQAPOL> .</MPQASENT>

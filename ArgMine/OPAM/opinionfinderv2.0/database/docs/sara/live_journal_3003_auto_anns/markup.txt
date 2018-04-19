@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">i had <MPQAPOL autoclass="positive">love</MPQAPOL> to hear about what other ones you <MPQAPOL autoclass="neutral">try</MPQAPOL> and what you <MPQAPOL autoclass="neutral">think</MPQAPOL> of them !</MPQASENT>

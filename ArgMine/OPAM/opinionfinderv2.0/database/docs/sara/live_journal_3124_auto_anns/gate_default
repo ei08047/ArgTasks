@@ -1,0 +1,11 @@
+1	0,44	GATE_Sentence
+2	0,2	GATE_Token	string="Oh" lemma="oh" category="UH"
+3	3,6	GATE_Token	string="man" lemma="man" category="UH"
+4	7,11	GATE_Token	string="that" lemma="that" category="WDT"
+5	12,20	GATE_Token	string="realllly" lemma="realllly" category="RB"
+6	21,25	GATE_Token	string="does" lemma="do" category="VBZ"
+7	26,29	GATE_Token	string="not" lemma="not" category="RB"
+8	30,36	GATE_Token	string="appeal" lemma="appeal" category="VB"
+9	37,39	GATE_Token	string="to" lemma="to" category="TO"
+10	40,42	GATE_Token	string="me" lemma="I" category="PRP"
+11	43,44	GATE_Token	string="." lemma="." category="."

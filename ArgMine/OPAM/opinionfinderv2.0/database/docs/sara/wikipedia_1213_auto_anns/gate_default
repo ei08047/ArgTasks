@@ -1,0 +1,10 @@
+1	0,51	GATE_Sentence
+2	0,1	GATE_Token	string="`" lemma="`" category="``"
+3	2,11	GATE_Token	string="Political" lemma="political" category="JJ"
+4	12,21	GATE_Token	string="geography" lemma="geography" category="NN"
+5	22,23	GATE_Token	string="'" lemma="'" category="''"
+6	24,31	GATE_Token	string="belongs" lemma="belong" category="VBZ"
+7	32,34	GATE_Token	string="in" lemma="in" category="IN"
+8	35,40	GATE_Token	string="other" lemma="other" category="JJ"
+9	41,49	GATE_Token	string="articles" lemma="article" category="NNS"
+10	50,51	GATE_Token	string="." lemma="." category="."

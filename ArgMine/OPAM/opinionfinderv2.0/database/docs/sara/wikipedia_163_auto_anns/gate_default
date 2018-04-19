@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="have" lemma="have" category="VBP"
+4	7,11	GATE_Token	string="made" lemma="make" category="VBN"
+5	12,14	GATE_Token	string="my" lemma="my" category="PRP$"
+6	15,24	GATE_Token	string="arguments" lemma="argument" category="NNS"
+7	25,29	GATE_Token	string="here" lemma="here" category="RB"
+8	30,36	GATE_Token	string="before" lemma="before" category="IN"
+9	37,40	GATE_Token	string="too" lemma="too" category="RB"
+10	41,42	GATE_Token	string="." lemma="." category="."

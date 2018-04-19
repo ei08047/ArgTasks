@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">For decades people <MPQAPOL autoclass="neutral">looked</MPQAPOL> at them and tutted in <MPQAPOL autoclass="negative">horror</MPQAPOL> at the <MPQAPOL autoclass="neutral">evils</MPQAPOL> of the Catholic Church .</MPQASENT>

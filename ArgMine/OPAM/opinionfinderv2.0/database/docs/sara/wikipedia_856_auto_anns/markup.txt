@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Would</MPQAPOL> you <MPQAPOL autoclass="positive">like</MPQAPOL> to propose a sentence that we can take a <MPQAPOL autoclass="neutral">look</MPQAPOL> at ?</MPQASENT>

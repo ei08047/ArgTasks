@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">it <MPQAPOL autoclass="positive">amazes</MPQAPOL> me how <MPQAPOL autoclass="neutral">much</MPQAPOL> effort these people put into <MPQAPOL autoclass="neutral">breaking</MPQAPOL> up <MPQAPOL autoclass="neutral">innocent</MPQAPOL> people 's lifestyles over - what ?</MPQASENT>

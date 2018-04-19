@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Some people have <MPQAPOL autoclass="neutral">shown</MPQAPOL> <MPQAPOL autoclass="negative">impatience</MPQAPOL> with the listing of Catholic positives in the article .</MPQASENT>

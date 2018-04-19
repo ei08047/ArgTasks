@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is not up to us to <MPQAPOL autoclass="neutral">decide</MPQAPOL> what it <MPQAPOL autoclass="neutral">should</MPQAPOL> be .</MPQASENT>

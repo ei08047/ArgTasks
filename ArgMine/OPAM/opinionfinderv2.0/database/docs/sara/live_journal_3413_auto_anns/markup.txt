@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">With that proportion of oil to flour , it is going to be almost fudgy , I <MPQAPOL autoclass="neutral">think</MPQAPOL> .</MPQASENT>

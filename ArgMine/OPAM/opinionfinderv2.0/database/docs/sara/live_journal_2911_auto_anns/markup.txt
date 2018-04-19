@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">at <MPQAPOL autoclass="neutral">least</MPQAPOL> there were no <MPQAPOL autoclass="neutral">ill</MPQAPOL> effects , other than my clothes being <MPQAPOL autoclass="negative">nice</MPQAPOL> and soft :)</MPQASENT>

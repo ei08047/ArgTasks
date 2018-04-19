@@ -1,0 +1,8 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,8	GATE_Token	string="has" lemma="have" category="VBZ"
+4	9,13	GATE_Token	string="none" lemma="none" category="NN"
+5	14,16	GATE_Token	string="of" lemma="of" category="IN"
+6	17,22	GATE_Token	string="those" lemma="those" category="DT"
+7	23,34	GATE_Token	string="detractions" lemma="detraction" category="NNS"
+8	35,36	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Its <MPQAPOL autoclass="neutral">quiet</MPQAPOL> , green , <MPQAPOL autoclass="neutral">rich</MPQAPOL> in history , and has a <MPQAPOL autoclass="neutral">strong</MPQAPOL> connection to the past .</MPQASENT>

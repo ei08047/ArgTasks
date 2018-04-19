@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is also <MPQAPOL autoclass="neutral">just</MPQAPOL> as <MPQAPOL autoclass="neutral">functional</MPQAPOL> to use quotes with a reference .</MPQASENT>

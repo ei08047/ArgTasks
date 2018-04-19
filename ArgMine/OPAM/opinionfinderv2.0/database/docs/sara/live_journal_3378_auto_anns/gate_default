@@ -1,0 +1,12 @@
+1	0,52	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,11	GATE_Token	string="Molly" lemma="Molly" category="NNP"
+5	12,13	GATE_Token	string="," lemma="," category=","
+6	14,18	GATE_Token	string="sans" lemma="san" category="NNS"
+7	19,26	GATE_Token	string="glasses" lemma="glass" category="NNS"
+8	27,31	GATE_Token	string="plus" lemma="plus" category="CC"
+9	32,33	GATE_Token	string="a" lemma="a" category="DT"
+10	34,42	GATE_Token	string="baseball" lemma="baseball" category="NN"
+11	43,50	GATE_Token	string="uniform" lemma="uniform" category="NN"
+12	51,52	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,8	GATE_Token	string="stroke" lemma="stroke" category="NN"
+4	9,12	GATE_Token	string="and" lemma="and" category="CC"
+5	13,19	GATE_Token	string="remove" lemma="remove" category="VB"
+6	20,24	GATE_Token	string="some" lemma="some" category="DT"
+7	25,33	GATE_Token	string="unneeded" lemma="unneeded" category="JJ"
+8	34,39	GATE_Token	string="parts" lemma="part" category="NNS"
+9	40,41	GATE_Token	string="." lemma="." category="."

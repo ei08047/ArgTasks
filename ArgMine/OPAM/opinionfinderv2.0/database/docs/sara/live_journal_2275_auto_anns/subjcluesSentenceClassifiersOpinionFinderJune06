@@ -1,0 +1,2 @@
+1	23,31	matchfeat	type="PolMmanstrong" mpqapolarity="strongneg"
+2	49,66	matchfeat	type="fixed4gram" mpqapolarity="neutral"

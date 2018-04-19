@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">The <MPQAPOL autoclass="neutral">best</MPQAPOL> part is that her shoes have <MPQAPOL autoclass="negative">little</MPQAPOL> <MPQAPOL autoclass="negative">tiny</MPQAPOL> cleats .</MPQASENT>

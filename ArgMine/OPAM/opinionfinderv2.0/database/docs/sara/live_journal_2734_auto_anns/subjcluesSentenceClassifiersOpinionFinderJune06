@@ -1,0 +1,4 @@
+1	4,8	matchfeat	type="weakjandiss" mpqapolarity="strongpos"
+2	22,27	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+3	53,57	matchfeat	type="weakjandiss" mpqapolarity="weakneg"
+4	69,72	matchfeat	type="PolMmanstrong" mpqapolarity="strongneg"

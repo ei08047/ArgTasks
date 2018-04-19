@@ -1,0 +1,7 @@
+1	0,43	GATE_Sentence
+2	0,5	GATE_Token	string="sorry" lemma="sorry" category="JJ"
+3	6,9	GATE_Token	string="for" lemma="for" category="IN"
+4	10,13	GATE_Token	string="the" lemma="the" category="DT"
+5	14,28	GATE_Token	string="unconventional" lemma="unconventional" category="JJ"
+6	29,41	GATE_Token	string="inconvinence" lemma="inconvinence" category="NN"
+7	42,43	GATE_Token	string="." lemma="." category="."

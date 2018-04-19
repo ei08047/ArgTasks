@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The Dog is <MPQAPOL autoclass="neutral">clearly</MPQAPOL> the <MPQAPOL autoclass="positive">best</MPQAPOL> illustration of <MPQAPOL autoclass="neutral">death</MPQAPOL> put forth <MPQAPOL autoclass="neutral">so</MPQAPOL> far imho , the pope one is <MPQAPOL autoclass="neutral">indeed</MPQAPOL> POV .</MPQASENT>

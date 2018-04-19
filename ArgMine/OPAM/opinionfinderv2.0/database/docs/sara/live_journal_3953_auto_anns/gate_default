@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,2	GATE_Token	string="no" lemma="no" category="DT"
+3	3,6	GATE_Token	string="way" lemma="way" category="NN"
+4	7,8	GATE_Token	string="," lemma="," category=","
+5	9,13	GATE_Token	string="prof" lemma="prof" category="NN"
+6	14,20	GATE_Token	string="layton" lemma="layton" category="NN"
+7	21,24	GATE_Token	string="has" lemma="have" category="VBZ"
+8	25,32	GATE_Token	string="puzzles" lemma="puzzle" category="NNS"
+9	33,36	GATE_Token	string="and" lemma="and" category="CC"
+10	37,42	GATE_Token	string="stuff" lemma="stuff" category="NN"

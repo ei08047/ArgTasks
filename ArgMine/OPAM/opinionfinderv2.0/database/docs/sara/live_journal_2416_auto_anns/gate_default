@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,10	GATE_Token	string="really" lemma="really" category="RB"
+4	11,15	GATE_Token	string="only" lemma="only" category="RB"
+5	16,20	GATE_Token	string="need" lemma="need" category="VB"
+6	21,25	GATE_Token	string="like" lemma="like" category="IN"
+7	26,29	GATE_Token	string="two" lemma="two" category="CD"
+8	30,37	GATE_Token	string="bidders" lemma="bidder" category="NNS"
+9	38,39	GATE_Token	string="." lemma="." category="."

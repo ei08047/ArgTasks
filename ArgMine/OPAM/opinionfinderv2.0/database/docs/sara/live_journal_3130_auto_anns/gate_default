@@ -1,0 +1,10 @@
+1	0,50	GATE_Sentence
+2	0,3	GATE_Token	string="all" lemma="all" category="DT"
+3	4,6	GATE_Token	string="in" lemma="in" category="IN"
+4	7,10	GATE_Token	string="one" lemma="one" category="CD"
+5	11,17	GATE_Token	string="albino" lemma="albino" category="NN"
+6	18,24	GATE_Token	string="makeup" lemma="makeup" category="NN"
+7	25,26	GATE_Token	string=":" lemma=":" category=":"
+8	27,33	GATE_Token	string="talcam" lemma="talcam" category="NN"
+9	34,40	GATE_Token	string="powder" lemma="powder" category="NN"
+10	41,50	GATE_Token	string="lolololol" lemma="lolololol" category="NN"

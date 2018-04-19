@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">It also <MPQAPOL autoclass="neutral">needs</MPQAPOL> to be <MPQAPOL autoclass="positive">reasonably</MPQAPOL> <MPQAPOL autoclass="positive">stable</MPQAPOL> - not one that people are going to replace with something <MPQAPOL autoclass="neutral">else</MPQAPOL> all the time .</MPQASENT>

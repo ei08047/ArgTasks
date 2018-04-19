@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">it is resuming , after a week 's hiatus , and it will be <MPQAPOL autoclass="neutral">full</MPQAPOL> of <MPQAPOL autoclass="neutral">wonderful</MPQAPOL> things .</MPQASENT>

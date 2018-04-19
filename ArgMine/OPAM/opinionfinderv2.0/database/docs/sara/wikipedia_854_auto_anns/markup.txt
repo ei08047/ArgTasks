@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Well</MPQAPOL> thanks for <MPQAPOL autoclass="neutral">accepting</MPQAPOL> that part of my <MPQAPOL autoclass="neutral">position</MPQAPOL> , but ID only answered half of the question asked .</MPQASENT>

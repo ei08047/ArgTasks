@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I guess if you are <MPQAPOL autoclass="neutral">willing</MPQAPOL> to get along with fewer people , then it is <MPQAPOL autoclass="neutral">really</MPQAPOL> no <MPQAPOL autoclass="neutral">big</MPQAPOL> <MPQAPOL autoclass="neutral">deal</MPQAPOL> .</MPQASENT>

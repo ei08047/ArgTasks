@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am <MPQAPOL autoclass="negative">afraid</MPQAPOL> the <MPQAPOL autoclass="neutral">claim</MPQAPOL> that he never `` studied '' or `` practiced '' is <MPQAPOL autoclass="neutral">simply</MPQAPOL> <MPQAPOL autoclass="negative">false</MPQAPOL> .</MPQASENT>

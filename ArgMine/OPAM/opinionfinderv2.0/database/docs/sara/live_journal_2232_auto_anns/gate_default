@@ -1,0 +1,9 @@
+1	0,42	GATE_Sentence
+2	0,5	GATE_Token	string="Peace" lemma="Peace" category="NNP"
+3	6,9	GATE_Token	string="and" lemma="and" category="CC"
+4	10,14	GATE_Token	string="Love" lemma="Love" category="NNP"
+5	15,18	GATE_Token	string="and" lemma="and" category="CC"
+6	19,26	GATE_Token	string="Bubbles" lemma="Bubbles" category="NNP"
+7	27,29	GATE_Token	string="to" lemma="to" category="TO"
+8	30,38	GATE_Token	string="Everyone" lemma="everyone" category="NN"
+9	39,42	GATE_Token	string="!!!" lemma="!!!" category="CD"

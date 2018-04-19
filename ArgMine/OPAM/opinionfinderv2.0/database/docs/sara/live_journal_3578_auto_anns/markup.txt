@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">It is <MPQAPOL autoclass="negative">annoying</MPQAPOL> and <MPQAPOL autoclass="negative">dumb</MPQAPOL> , but also <MPQAPOL autoclass="negative">very</MPQAPOL> human .</MPQASENT>

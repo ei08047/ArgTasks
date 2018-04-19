@@ -1,0 +1,4 @@
+sara_wikipedia_1772_0_4	neutral
+sara_wikipedia_1772_25_31	neutral
+sara_wikipedia_1772_64_69	neutral
+sara_wikipedia_1772_111_116	neutral

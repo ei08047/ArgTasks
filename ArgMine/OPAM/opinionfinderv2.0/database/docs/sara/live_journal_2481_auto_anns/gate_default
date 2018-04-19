@@ -1,0 +1,11 @@
+1	0,54	GATE_Sentence
+2	0,4	GATE_Token	string="Good" lemma="good" category="JJ"
+3	5,10	GATE_Token	string="thing" lemma="thing" category="NN"
+4	11,16	GATE_Token	string="there" lemma="there" category="EX"
+5	17,19	GATE_Token	string="is" lemma="be" category="VBZ"
+6	20,21	GATE_Token	string="a" lemma="a" category="DT"
+7	22,30	GATE_Token	string="computer" lemma="computer" category="NN"
+8	31,33	GATE_Token	string="to" lemma="to" category="TO"
+9	34,47	GATE_Token	string="procrastinate" lemma="procrastinate" category="VB"
+10	48,52	GATE_Token	string="with" lemma="with" category="IN"
+11	53,54	GATE_Token	string="." lemma="." category="."

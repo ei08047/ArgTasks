@@ -1,0 +1,9 @@
+1	0,34	GATE_Sentence
+2	0,3	GATE_Token	string="Two" lemma="two" category="CD"
+3	4,9	GATE_Token	string="steps" lemma="step" category="NNS"
+4	10,16	GATE_Token	string="foward" lemma="foward" category="JJ"
+5	17,18	GATE_Token	string="," lemma="," category=","
+6	19,22	GATE_Token	string="one" lemma="one" category="CD"
+7	23,27	GATE_Token	string="step" lemma="step" category="NN"
+8	28,32	GATE_Token	string="back" lemma="back" category="RB"
+9	33,34	GATE_Token	string="." lemma="." category="."

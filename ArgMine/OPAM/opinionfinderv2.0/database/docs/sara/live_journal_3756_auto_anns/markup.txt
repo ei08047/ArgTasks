@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Sadie was a <MPQAPOL autoclass="neutral">fantastic</MPQAPOL> cat and slept in my shoes while I was visiting : <MPQAPOL autoclass="neutral">Much</MPQAPOL> <MPQAPOL autoclass="positive">love</MPQAPOL> across the Pacific .</MPQASENT>

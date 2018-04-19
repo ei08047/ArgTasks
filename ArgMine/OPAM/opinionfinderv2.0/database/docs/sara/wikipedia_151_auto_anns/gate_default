@@ -1,0 +1,9 @@
+1	0,46	GATE_Sentence
+2	0,6	GATE_Token	string="Almost" lemma="almost" category="RB"
+3	7,10	GATE_Token	string="all" lemma="all" category="DT"
+4	11,22	GATE_Token	string="Christendom" lemma="Christendom" category="NNP"
+5	23,31	GATE_Token	string="ascribes" lemma="ascribe" category="NNS"
+6	32,34	GATE_Token	string="to" lemma="to" category="TO"
+7	35,38	GATE_Token	string="the" lemma="the" category="DT"
+8	39,44	GATE_Token	string="creed" lemma="creed" category="NN"
+9	45,46	GATE_Token	string="." lemma="." category="."

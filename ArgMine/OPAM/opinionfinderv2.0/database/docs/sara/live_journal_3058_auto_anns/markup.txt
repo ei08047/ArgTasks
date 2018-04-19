@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">this girl <MPQAPOL autoclass="neutral">better</MPQAPOL> not flake on me because I <MPQAPOL autoclass="positive">WANT</MPQAPOL> THAT PUPPY !</MPQASENT>

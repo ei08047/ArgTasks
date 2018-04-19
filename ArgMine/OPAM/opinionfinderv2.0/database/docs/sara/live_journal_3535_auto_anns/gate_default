@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,2	GATE_Token	string="Oh" lemma="oh" category="UH"
+3	3,6	GATE_Token	string="man" lemma="man" category="UH"
+4	7,13	GATE_Token	string="Little" lemma="little" category="JJ"
+5	14,18	GATE_Token	string="Shop" lemma="Shop" category="NNP"
+6	19,21	GATE_Token	string="Of" lemma="of" category="IN"
+7	22,28	GATE_Token	string="Horros" lemma="Horros" category="NNP"
+8	29,31	GATE_Token	string="is" lemma="be" category="VBZ"
+9	32,37	GATE_Token	string="weird" lemma="weird" category="JJ"
+10	38,41	GATE_Token	string="and" lemma="and" category="CC"
+11	42,49	GATE_Token	string="awesome" lemma="awesome" category="JJ"
+12	50,53	GATE_Token	string="..." lemma="..." category=":"

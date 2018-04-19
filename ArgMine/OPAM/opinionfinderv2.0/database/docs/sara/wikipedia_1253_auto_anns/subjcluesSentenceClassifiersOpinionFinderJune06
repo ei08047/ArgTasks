@@ -1,0 +1,4 @@
+1	2,7	matchfeat	type="trainJWman" mpqapolarity="neutral"
+2	10,14	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+3	39,43	matchfeat	type="trainJWman" mpqapolarity="strongpos"
+4	50,53	matchfeat	type="PolPmanweak" mpqapolarity="neutral"

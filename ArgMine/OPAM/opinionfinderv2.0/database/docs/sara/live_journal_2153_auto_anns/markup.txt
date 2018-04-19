@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Hey hon , I <MPQAPOL autoclass="positive">hope</MPQAPOL> things are <MPQAPOL autoclass="neutral">much</MPQAPOL> <MPQAPOL autoclass="positive">improved</MPQAPOL> for you , and I <MPQAPOL autoclass="positive">hope</MPQAPOL> you are having a <MPQAPOL autoclass="positive">great</MPQAPOL> birthday .</MPQASENT>

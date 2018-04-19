@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Your indentation , FFMG , is unnecessarily <MPQAPOL autoclass="neutral">restricting</MPQAPOL> the space for replies and making it more <MPQAPOL autoclass="negative">difficult</MPQAPOL> to edit .</MPQASENT>

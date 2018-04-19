@@ -1,0 +1,13 @@
+1	0,69	GATE_Sentence
+2	0,2	GATE_Token	string="it" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,12	GATE_Token	string="called" lemma="call" category="VBN"
+5	13,16	GATE_Token	string="the" lemma="the" category="DT"
+6	17,19	GATE_Token	string="``" lemma="``" category="``"
+7	20,34	GATE_Token	string="Striped-Pajama" lemma="Striped-Pajama" category="NNP"
+8	35,40	GATE_Token	string="Squid" lemma="Squid" category="NNP"
+9	41,43	GATE_Token	string="''" lemma="''" category="''"
+10	44,45	GATE_Token	string="(" lemma="(" category="-LRB-"
+11	46,57	GATE_Token	string="Sepioloidea" lemma="Sepioloidea" category="NNP"
+12	58,67	GATE_Token	string="Lineolata" lemma="Lineolata" category="NNP"
+13	68,69	GATE_Token	string=")" lemma=")" category="-RRB-"

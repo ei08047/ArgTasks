@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">I was reading your party invitation and <MPQAPOL autoclass="neutral">just</MPQAPOL> realized how <MPQAPOL autoclass="neutral">close</MPQAPOL> you live to me - we are <MPQAPOL autoclass="neutral">practically</MPQAPOL> neighbors !</MPQASENT>

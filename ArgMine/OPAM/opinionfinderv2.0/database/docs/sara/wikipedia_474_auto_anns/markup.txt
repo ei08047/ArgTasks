@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Should</MPQAPOL> it be related to <MPQAPOL autoclass="neutral">warfare</MPQAPOL> or <MPQAPOL autoclass="neutral">peaceful</MPQAPOL> <MPQAPOL autoclass="neutral">death</MPQAPOL> ?</MPQASENT>

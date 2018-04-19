@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is an article about the Catholic Church , not the <MPQAPOL autoclass="neutral">beliefs</MPQAPOL> of other groups .</MPQASENT>

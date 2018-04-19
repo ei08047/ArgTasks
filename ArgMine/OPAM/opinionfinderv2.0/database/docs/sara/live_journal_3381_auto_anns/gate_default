@@ -1,0 +1,11 @@
+1	0,47	GATE_Sentence
+2	0,5	GATE_Token	string="Shame" lemma="shame" category="NN"
+3	6,10	GATE_Token	string="that" lemma="that" category="IN"
+4	11,19	GATE_Token	string="yamulkah" lemma="yamulkah" category="NN"
+5	20,22	GATE_Token	string="is" lemma="be" category="VBZ"
+6	23,25	GATE_Token	string="on" lemma="on" category="IN"
+7	26,30	GATE_Token	string="such" lemma="such" category="PDT"
+8	31,32	GATE_Token	string="a" lemma="a" category="DT"
+9	33,41	GATE_Token	string="baseball" lemma="baseball" category="NN"
+10	42,45	GATE_Token	string="cap" lemma="cap" category="NN"
+11	46,47	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I can not go to a doctor , I do not have insurance .</MPQASENT>

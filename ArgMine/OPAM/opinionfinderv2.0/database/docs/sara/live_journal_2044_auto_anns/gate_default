@@ -1,0 +1,8 @@
+1	0,35	GATE_Sentence
+2	0,9	GATE_Token	string="sometimes" lemma="sometimes" category="RB"
+3	10,12	GATE_Token	string="im" lemma="im" category="NN"
+4	13,16	GATE_Token	string="too" lemma="too" category="RB"
+5	17,21	GATE_Token	string="weak" lemma="weak" category="JJ"
+6	22,24	GATE_Token	string="to" lemma="to" category="TO"
+7	25,33	GATE_Token	string="remember" lemma="remember" category="VB"
+8	34,35	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,5	GATE_Token	string="Dates" lemma="date" category="NNS"
+3	6,8	GATE_Token	string="of" lemma="of" category="IN"
+4	9,15	GATE_Token	string="future" lemma="future" category="JJ"
+5	16,22	GATE_Token	string="events" lemma="event" category="NNS"
+6	23,24	GATE_Token	string="," lemma="," category=","
+7	25,29	GATE_Token	string="etc." lemma="etc." category="FW"
+8	30,31	GATE_Token	string="." lemma="." category="."

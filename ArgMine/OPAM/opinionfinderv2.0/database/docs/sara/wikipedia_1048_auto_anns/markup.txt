@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">`` My '' historical <MPQAPOL autoclass="neutral">perspective</MPQAPOL> is that , winning awards and <MPQAPOL autoclass="negative">breaking</MPQAPOL> racial boundaries are <MPQAPOL autoclass="neutral">important</MPQAPOL> things .</MPQASENT>

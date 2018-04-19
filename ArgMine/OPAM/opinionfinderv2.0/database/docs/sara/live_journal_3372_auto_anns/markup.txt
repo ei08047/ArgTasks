@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">And who <MPQAPOL autoclass="neutral">needs</MPQAPOL> a Hummer in New Jersey ?</MPQASENT>

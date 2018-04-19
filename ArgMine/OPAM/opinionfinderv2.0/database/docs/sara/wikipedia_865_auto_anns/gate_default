@@ -1,0 +1,12 @@
+1	0,54	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,10	GATE_Token	string="bodies" lemma="body" category="NNS"
+4	11,13	GATE_Token	string="of" lemma="of" category="IN"
+5	14,23	GATE_Token	string="militants" lemma="militant" category="NNS"
+6	24,28	GATE_Token	string="were" lemma="be" category="VBD"
+7	29,34	GATE_Token	string="found" lemma="find" category="VBN"
+8	35,41	GATE_Token	string="inside" lemma="inside" category="IN"
+9	42,43	GATE_Token	string="," lemma="," category=","
+10	44,46	GATE_Token	string="it" lemma="it" category="PRP"
+11	47,52	GATE_Token	string="added" lemma="add" category="VBD"
+12	53,54	GATE_Token	string="." lemma="." category="."

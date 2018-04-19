@@ -1,0 +1,12 @@
+1	0,49	GATE_Sentence
+2	0,7	GATE_Token	string="Besides" lemma="besides" category="IN"
+3	8,10	GATE_Token	string="he" lemma="he" category="PRP"
+4	11,13	GATE_Token	string="is" lemma="be" category="VBZ"
+5	14,17	GATE_Token	string="fat" lemma="fat" category="JJ"
+6	18,21	GATE_Token	string="and" lemma="and" category="CC"
+7	22,27	GATE_Token	string="heavy" lemma="heavy" category="JJ"
+8	28,31	GATE_Token	string="and" lemma="and" category="CC"
+9	32,36	GATE_Token	string="will" lemma="will" category="MD"
+10	37,42	GATE_Token	string="taste" lemma="taste" category="VB"
+11	43,47	GATE_Token	string="good" lemma="good" category="JJ"
+12	48,49	GATE_Token	string="." lemma="." category="."

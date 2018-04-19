@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You may be <MPQAPOL autoclass="negative">shocked</MPQAPOL> to learn that I have seen Boondock Saints .</MPQASENT>

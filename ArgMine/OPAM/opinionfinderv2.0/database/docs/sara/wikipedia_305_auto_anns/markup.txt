@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">At <MPQAPOL autoclass="neutral">least</MPQAPOL> two of the citations are to <MPQAPOL autoclass="neutral">scholarly</MPQAPOL> works , Im not <MPQAPOL autoclass="neutral">sure</MPQAPOL> about the others but I will check .</MPQASENT>

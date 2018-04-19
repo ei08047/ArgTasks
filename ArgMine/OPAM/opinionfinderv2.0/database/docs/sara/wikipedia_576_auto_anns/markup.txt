@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">PS : ... <MPQAPOL autoclass="neutral">meaning</MPQAPOL> our <MPQAPOL autoclass="neutral">attitude</MPQAPOL> towards the world is <MPQAPOL autoclass="neutral">too</MPQAPOL> different as to be inclined in <MPQAPOL autoclass="neutral">furthering</MPQAPOL> the discussion .</MPQASENT>

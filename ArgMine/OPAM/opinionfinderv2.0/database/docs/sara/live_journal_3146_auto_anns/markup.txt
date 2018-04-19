@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It <MPQAPOL autoclass="neutral">helps</MPQAPOL> put a bit of color on their faces !</MPQASENT>

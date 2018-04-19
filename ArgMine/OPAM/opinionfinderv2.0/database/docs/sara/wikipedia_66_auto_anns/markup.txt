@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If it said `` Barack Obama is a <MPQAPOL autoclass="neutral">tall</MPQAPOL> and thin man '' , I <MPQAPOL autoclass="neutral">would</MPQAPOL> not have added a comma .</MPQASENT>

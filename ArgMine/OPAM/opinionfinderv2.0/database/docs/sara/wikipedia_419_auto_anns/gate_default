@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,6	GATE_Token	string="Should" lemma="should" category="MD"
+3	7,14	GATE_Token	string="mention" lemma="mention" category="VB"
+4	15,17	GATE_Token	string="of" lemma="of" category="IN"
+5	18,25	GATE_Token	string="Vatican" lemma="Vatican" category="NNP"
+6	26,28	GATE_Token	string="II" lemma="II" category="NNP"
+7	29,31	GATE_Token	string="be" lemma="be" category="VB"
+8	32,34	GATE_Token	string="in" lemma="in" category="IN"
+9	35,38	GATE_Token	string="the" lemma="the" category="DT"
+10	39,43	GATE_Token	string="lead" lemma="lead" category="NN"
+11	44,45	GATE_Token	string="?" lemma="?" category="."

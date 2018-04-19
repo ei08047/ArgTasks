@@ -1,0 +1,6 @@
+argumentative_essays_essay057.txt_1889_1900	neutral
+argumentative_essays_essay057.txt_1911_1915	neutral
+argumentative_essays_essay057.txt_1933_1940	neutral
+argumentative_essays_essay057.txt_1945_1949	neutral
+argumentative_essays_essay057.txt_1959_1963	negative
+argumentative_essays_essay057.txt_1985_1996	neutral

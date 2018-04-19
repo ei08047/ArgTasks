@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That is not <MPQAPOL autoclass="neutral">entirely</MPQAPOL> <MPQAPOL autoclass="positive">accurate</MPQAPOL> .</MPQASENT>

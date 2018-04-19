@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">conan is hit or <MPQAPOL autoclass="negative">miss</MPQAPOL> but <MPQAPOL autoclass="negative">damn</MPQAPOL> <MPQAPOL autoclass="negative">funny</MPQAPOL> when he hits .</MPQASENT>

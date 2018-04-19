@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Indeed</MPQAPOL> , it \* defines \* a <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="positive">good</MPQAPOL> hat .</MPQASENT>

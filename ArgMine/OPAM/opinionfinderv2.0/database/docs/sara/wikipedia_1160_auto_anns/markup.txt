@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That <MPQAPOL autoclass="neutral">implies</MPQAPOL> that Northern Ireland was created in 1922 , when in <MPQAPOL autoclass="neutral">fact</MPQAPOL> partition occurred the previous year , in 1921 .</MPQASENT>

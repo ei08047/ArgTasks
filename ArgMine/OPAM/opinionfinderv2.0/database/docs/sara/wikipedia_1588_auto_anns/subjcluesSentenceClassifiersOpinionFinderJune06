@@ -1,0 +1,2 @@
+1	38,46	matchfeat	type="bl_psych_verb" mpqapolarity="weakpos"
+2	90,97	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="strongpos"

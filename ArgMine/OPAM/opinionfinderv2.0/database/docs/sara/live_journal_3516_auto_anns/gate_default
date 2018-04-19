@@ -1,0 +1,11 @@
+1	0,63	GATE_Sentence
+2	0,1	GATE_Token	string="A" lemma="a" category="DT"
+3	2,9	GATE_Token	string="private" lemma="private" category="JJ"
+4	10,20	GATE_Token	string="commission" lemma="commission" category="NN"
+5	21,23	GATE_Token	string="of" lemma="of" category="IN"
+6	24,33	GATE_Token	string="Bellatrix" lemma="Bellatrix" category="NNP"
+7	34,43	GATE_Token	string="Lestrange" lemma="Lestrange" category="NNP"
+8	44,48	GATE_Token	string="from" lemma="from" category="IN"
+9	49,54	GATE_Token	string="Harry" lemma="Harry" category="NNP"
+10	55,61	GATE_Token	string="Potter" lemma="Potter" category="NNP"
+11	62,63	GATE_Token	string="." lemma="." category="."

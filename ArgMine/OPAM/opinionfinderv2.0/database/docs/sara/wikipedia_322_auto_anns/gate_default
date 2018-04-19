@@ -1,0 +1,12 @@
+1	0,52	GATE_Sentence
+2	0,5	GATE_Token	string="Henry" lemma="Henry" category="NNP"
+3	6,10	GATE_Token	string="just" lemma="just" category="RB"
+4	11,13	GATE_Token	string="``" lemma="``" category="``"
+5	14,20	GATE_Token	string="became" lemma="become" category="VBD"
+6	21,23	GATE_Token	string="''" lemma="''" category="''"
+7	24,28	GATE_Token	string="head" lemma="head" category="NN"
+8	29,31	GATE_Token	string="of" lemma="of" category="IN"
+9	32,35	GATE_Token	string="the" lemma="the" category="DT"
+10	36,43	GATE_Token	string="English" lemma="English" category="NNP"
+11	44,50	GATE_Token	string="Church" lemma="Church" category="NNP"
+12	51,52	GATE_Token	string="." lemma="." category="."

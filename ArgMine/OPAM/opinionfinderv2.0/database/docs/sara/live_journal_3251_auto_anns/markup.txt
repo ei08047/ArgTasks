@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">And I am doing my <MPQAPOL autoclass="positive">best</MPQAPOL> to do <MPQAPOL autoclass="neutral">just</MPQAPOL> that .</MPQASENT>

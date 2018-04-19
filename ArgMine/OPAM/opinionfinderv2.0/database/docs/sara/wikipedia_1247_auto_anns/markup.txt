@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">as along the lines of <MPQAPOL autoclass="negative">atrocities</MPQAPOL> or <MPQAPOL autoclass="neutral">war</MPQAPOL> <MPQAPOL autoclass="neutral">crimes</MPQAPOL> .</MPQASENT>

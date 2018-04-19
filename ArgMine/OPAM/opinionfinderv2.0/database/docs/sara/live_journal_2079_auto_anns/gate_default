@@ -1,0 +1,11 @@
+1	0,43	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,8	GATE_Token	string="may" lemma="may" category="MD"
+4	9,14	GATE_Token	string="sound" lemma="sound" category="VB"
+5	15,18	GATE_Token	string="odd" lemma="odd" category="JJ"
+6	19,20	GATE_Token	string="," lemma="," category=","
+7	21,24	GATE_Token	string="but" lemma="but" category="CC"
+8	25,26	GATE_Token	string="I" lemma="I" category="PRP"
+9	27,31	GATE_Token	string="like" lemma="like" category="VBP"
+10	32,41	GATE_Token	string="cemetarys" lemma="cemetary" category="NNS"
+11	42,43	GATE_Token	string="." lemma="." category="."

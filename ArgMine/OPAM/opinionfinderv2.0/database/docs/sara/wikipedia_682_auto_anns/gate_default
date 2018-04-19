@@ -1,0 +1,9 @@
+1	0,32	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,5	GATE_Token	string="I" lemma="I" category="PRP"
+4	6,8	GATE_Token	string="am" lemma="be" category="VBP"
+5	9,12	GATE_Token	string="not" lemma="not" category="RB"
+6	13,14	GATE_Token	string="a" lemma="a" category="DT"
+7	15,20	GATE_Token	string="Hamas" lemma="Hamas" category="NNP"
+8	21,30	GATE_Token	string="apologist" lemma="apologist" category="NN"
+9	31,32	GATE_Token	string="." lemma="." category="."

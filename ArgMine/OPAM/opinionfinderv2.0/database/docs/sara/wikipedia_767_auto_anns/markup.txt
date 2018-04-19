@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">The UN report is a <MPQAPOL autoclass="neutral">joke</MPQAPOL> , <MPQAPOL autoclass="negative">sorry</MPQAPOL> to say .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">need</MPQAPOL> to get to <MPQAPOL autoclass="neutral">know</MPQAPOL> the neighboring areas <MPQAPOL autoclass="positive">better</MPQAPOL> <MPQAPOL autoclass="neutral">anyway</MPQAPOL> .</MPQASENT>

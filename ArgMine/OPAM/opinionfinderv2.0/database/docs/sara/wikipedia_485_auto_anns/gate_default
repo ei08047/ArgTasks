@@ -1,0 +1,11 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="Why" lemma="why" category="WRB"
+3	4,6	GATE_Token	string="do" lemma="do" category="VBP"
+4	7,10	GATE_Token	string="you" lemma="you" category="PRP"
+5	11,16	GATE_Token	string="think" lemma="think" category="VB"
+6	17,20	GATE_Token	string="the" lemma="the" category="DT"
+7	21,24	GATE_Token	string="dog" lemma="dog" category="NN"
+8	25,27	GATE_Token	string="is" lemma="be" category="VBZ"
+9	28,31	GATE_Token	string="bad" lemma="bad" category="JJ"
+10	32,37	GATE_Token	string="taste" lemma="taste" category="NN"
+11	38,39	GATE_Token	string="?" lemma="?" category="."

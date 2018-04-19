@@ -1,0 +1,12 @@
+1	0,66	GATE_Sentence
+2	0,6	GATE_Token	string="Wassap" lemma="Wassap" category="NNP"
+3	7,14	GATE_Token	string="himself" lemma="himself" category="PRP"
+4	15,20	GATE_Token	string="seems" lemma="seem" category="VBZ"
+5	21,30	GATE_Token	string="extremely" lemma="extremely" category="RB"
+6	31,34	GATE_Token	string="POV" lemma="pov" category="NN"
+7	35,37	GATE_Token	string="in" lemma="in" category="IN"
+8	38,41	GATE_Token	string="not" lemma="not" category="RB"
+9	42,53	GATE_Token	string="recognizing" lemma="recognize" category="VBG"
+10	54,58	GATE_Token	string="this" lemma="this" category="DT"
+11	59,64	GATE_Token	string="issue" lemma="issue" category="NN"
+12	65,66	GATE_Token	string="." lemma="." category="."

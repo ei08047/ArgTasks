@@ -1,0 +1,10 @@
+1	0,51	GATE_Sentence
+2	0,4	GATE_Token	string="when" lemma="when" category="WRB"
+3	5,10	GATE_Token	string="Rocky" lemma="Rocky" category="NNP"
+4	11,14	GATE_Token	string="the" lemma="the" category="DT"
+5	15,22	GATE_Token	string="rooster" lemma="rooster" category="NN"
+6	23,31	GATE_Token	string="becaomes" lemma="becaome" category="VBZ"
+7	32,37	GATE_Token	string="Rocky" lemma="Rocky" category="NNP"
+8	38,41	GATE_Token	string="the" lemma="the" category="DT"
+9	42,49	GATE_Token	string="roaster" lemma="roaster" category="NN"
+10	50,51	GATE_Token	string="." lemma="." category="."

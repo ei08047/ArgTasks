@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">the <MPQAPOL autoclass="neutral">loyal</MPQAPOL> are <MPQAPOL autoclass="neutral">still</MPQAPOL> waiting ...</MPQASENT>

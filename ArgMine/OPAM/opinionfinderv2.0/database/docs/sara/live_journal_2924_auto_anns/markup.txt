@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I do not <MPQAPOL autoclass="negative">really</MPQAPOL> <MPQAPOL autoclass="negative">pray</MPQAPOL> , but I will give her <MPQAPOL autoclass="negative">little</MPQAPOL> kitty soul a few words later before bed .</MPQASENT>

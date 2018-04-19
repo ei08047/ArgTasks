@@ -1,0 +1,9 @@
+1	0,40	GATE_Sentence
+2	0,1	GATE_Token	string="-" lemma="-" category=":"
+3	2,4	GATE_Token	string="my" lemma="my" category="PRP$"
+4	5,15	GATE_Token	string="downstairs" lemma="downstairs" category="NNS"
+5	16,25	GATE_Token	string="neighbors" lemma="neighbor" category="NNS"
+6	26,30	GATE_Token	string="went" lemma="go" category="VBD"
+7	31,34	GATE_Token	string="too" lemma="too" category="RB"
+8	35,38	GATE_Token	string="far" lemma="far" category="RB"
+9	39,40	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Would</MPQAPOL> an image of a US marine shot <MPQAPOL autoclass="neutral">dead</MPQAPOL> in Iraq be <MPQAPOL autoclass="neutral">considered</MPQAPOL> equally <MPQAPOL autoclass="positive">appropriate</MPQAPOL> for the article ?</MPQASENT>

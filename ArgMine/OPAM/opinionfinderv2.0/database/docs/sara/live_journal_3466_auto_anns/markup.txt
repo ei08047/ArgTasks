@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They , <MPQAPOL autoclass="neutral">above</MPQAPOL> all , <MPQAPOL autoclass="neutral">knew</MPQAPOL> that religion <MPQAPOL autoclass="negative">pollutes</MPQAPOL> politics and <MPQAPOL autoclass="neutral">vice</MPQAPOL> versa .</MPQASENT>

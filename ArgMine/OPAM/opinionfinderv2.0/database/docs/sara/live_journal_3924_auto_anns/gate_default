@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,3	GATE_Token	string="Her" lemma="she" category="PRP$"
+3	4,9	GATE_Token	string="voice" lemma="voice" category="NN"
+4	10,17	GATE_Token	string="reminds" lemma="remind" category="VBZ"
+5	18,20	GATE_Token	string="me" lemma="I" category="PRP"
+6	21,23	GATE_Token	string="of" lemma="of" category="IN"
+7	24,28	GATE_Token	string="Gwen" lemma="Gwen" category="NNP"
+8	29,36	GATE_Token	string="Stefani" lemma="Stefani" category="NNP"
+9	37,39	GATE_Token	string="'s" lemma="'s" category="POS"
+10	40,41	GATE_Token	string="." lemma="." category="."

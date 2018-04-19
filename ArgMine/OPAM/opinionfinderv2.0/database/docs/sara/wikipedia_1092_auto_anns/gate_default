@@ -1,0 +1,8 @@
+1	0,36	GATE_Sentence
+2	0,3	GATE_Token	string="Can" lemma="can" category="MD"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,15	GATE_Token	string="explain" lemma="explain" category="VB"
+5	16,20	GATE_Token	string="your" lemma="you" category="PRP$"
+6	21,27	GATE_Token	string="random" lemma="random" category="JJ"
+7	28,34	GATE_Token	string="revert" lemma="revert" category="VB"
+8	35,36	GATE_Token	string="?" lemma="?" category="."

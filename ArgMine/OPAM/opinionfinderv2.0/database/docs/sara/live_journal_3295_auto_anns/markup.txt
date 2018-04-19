@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Sometimes we have to leave our home to find it ... <MPQAPOL autoclass="positive">hopefully</MPQAPOL> you have the <MPQAPOL autoclass="neutral">luxury</MPQAPOL> of returning to CT every now and then .</MPQASENT>

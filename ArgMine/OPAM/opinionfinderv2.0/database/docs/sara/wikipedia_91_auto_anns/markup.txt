@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">A 4th grade student <MPQAPOL autoclass="neutral">certainly</MPQAPOL> <MPQAPOL autoclass="negative">knows</MPQAPOL> what kind of school he is attending .</MPQASENT>

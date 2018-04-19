@@ -1,0 +1,2 @@
+sara_wikipedia_1227_0_94	subj
+sara_wikipedia_1227_94_96	obj

@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,5	GATE_Token	string="Seven" lemma="seven" category="CD"
+3	6,13	GATE_Token	string="Samurai" lemma="Samurai" category="NNP"
+4	14,16	GATE_Token	string="is" lemma="be" category="VBZ"
+5	17,24	GATE_Token	string="playing" lemma="play" category="VBG"
+6	25,29	GATE_Token	string="this" lemma="this" category="DT"
+7	30,37	GATE_Token	string="weekend" lemma="weekend" category="NN"
+8	38,40	GATE_Token	string="at" lemma="at" category="IN"
+9	41,44	GATE_Token	string="the" lemma="the" category="DT"
+10	45,49	GATE_Token	string="Film" lemma="Film" category="NNP"
+11	50,55	GATE_Token	string="Forum" lemma="Forum" category="NNP"
+12	56,57	GATE_Token	string="." lemma="." category="."

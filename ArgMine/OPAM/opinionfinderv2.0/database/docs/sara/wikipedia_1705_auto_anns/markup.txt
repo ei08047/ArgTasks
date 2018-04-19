@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> I <MPQAPOL autoclass="neutral">understand</MPQAPOL> what you are saying about the newspaper articles <MPQAPOL autoclass="neutral">however</MPQAPOL> .</MPQASENT>

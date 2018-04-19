@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Then <MPQAPOL autoclass="positive">please</MPQAPOL> go ahead and practice what you <MPQAPOL autoclass="positive">preach</MPQAPOL> .</MPQASENT>

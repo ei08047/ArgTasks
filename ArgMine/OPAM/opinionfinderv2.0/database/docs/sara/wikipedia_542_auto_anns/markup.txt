@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The result will be an article that will educate a <MPQAPOL autoclass="neutral">much</MPQAPOL> wider circle of readers , and more <MPQAPOL autoclass="neutral">effectively</MPQAPOL> .</MPQASENT>

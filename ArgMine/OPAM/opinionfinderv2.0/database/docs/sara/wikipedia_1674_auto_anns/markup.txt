@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is the <MPQAPOL autoclass="neutral">perfect</MPQAPOL> example of a time when <MPQAPOL autoclass="neutral">primary</MPQAPOL> sources <MPQAPOL autoclass="neutral">should</MPQAPOL> be used .</MPQASENT>

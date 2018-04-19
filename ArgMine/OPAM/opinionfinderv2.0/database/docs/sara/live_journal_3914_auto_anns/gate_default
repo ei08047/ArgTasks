@@ -1,0 +1,11 @@
+1	0,40	GATE_Sentence
+2	0,3	GATE_Token	string="Not" lemma="not" category="RB"
+3	4,7	GATE_Token	string="the" lemma="the" category="DT"
+4	8,12	GATE_Token	string="best" lemma="best" category="JJS"
+5	13,14	GATE_Token	string="," lemma="," category=","
+6	15,18	GATE_Token	string="but" lemma="but" category="CC"
+7	19,20	GATE_Token	string="I" lemma="I" category="PRP"
+8	21,25	GATE_Token	string="love" lemma="love" category="VBP"
+9	26,31	GATE_Token	string="chill" lemma="chill" category="NN"
+10	32,38	GATE_Token	string="photos" lemma="photo" category="NNS"
+11	39,40	GATE_Token	string="." lemma="." category="."

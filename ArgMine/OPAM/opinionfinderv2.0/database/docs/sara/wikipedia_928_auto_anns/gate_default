@@ -1,0 +1,13 @@
+1	0,57	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="never" lemma="never" category="RB"
+4	8,12	GATE_Token	string="once" lemma="once" category="RB"
+5	13,17	GATE_Token	string="said" lemma="say" category="VBD"
+6	18,25	GATE_Token	string="Sabbath" lemma="Sabbath" category="NNP"
+7	26,28	GATE_Token	string="'s" lemma="'s" category="POS"
+8	29,39	GATE_Token	string="importance" lemma="importance" category="NN"
+9	40,43	GATE_Token	string="was" lemma="be" category="VBD"
+10	44,46	GATE_Token	string="``" lemma="``" category="``"
+11	47,52	GATE_Token	string="false" lemma="false" category="JJ"
+12	53,54	GATE_Token	string="." lemma="." category="."
+13	55,57	GATE_Token	string="''" lemma="''" category="''"

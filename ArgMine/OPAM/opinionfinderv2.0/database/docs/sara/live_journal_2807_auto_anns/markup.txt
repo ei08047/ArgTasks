@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">He can see the <MPQAPOL autoclass="neutral">danger</MPQAPOL> and <MPQAPOL autoclass="neutral">risk</MPQAPOL> in this policy , and the <MPQAPOL autoclass="neutral">damage</MPQAPOL> it has caused to women and families .</MPQASENT>

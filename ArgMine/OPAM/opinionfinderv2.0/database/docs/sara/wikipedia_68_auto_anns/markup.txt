@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Initial <MPQAPOL autoclass="neutral">misunderstandings</MPQAPOL> are a common <MPQAPOL autoclass="neutral">fact</MPQAPOL> of life , but they yield to <MPQAPOL autoclass="neutral">understanding</MPQAPOL> .</MPQASENT>

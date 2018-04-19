@@ -1,0 +1,8 @@
+1	0,22	GATE_Sentence
+2	0,1	GATE_Token	string="(" lemma="(" category="-LRB-"
+3	2,6	GATE_Token	string="well" lemma="well" category="RB"
+4	7,8	GATE_Token	string="," lemma="," category=","
+5	9,11	GATE_Token	string="in" lemma="in" category="IN"
+6	12,13	GATE_Token	string="a" lemma="a" category="DT"
+7	14,20	GATE_Token	string="minute" lemma="minute" category="NN"
+8	21,22	GATE_Token	string=")" lemma=")" category="-RRB-"

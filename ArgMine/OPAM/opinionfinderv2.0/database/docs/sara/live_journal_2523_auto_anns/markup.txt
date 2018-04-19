@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">BUT , I <MPQAPOL autoclass="neutral">really</MPQAPOL> did <MPQAPOL autoclass="positive">want</MPQAPOL> to see The Hush Sound and I <MPQAPOL autoclass="positive">wanted</MPQAPOL> to take Tianna but she <MPQAPOL autoclass="neutral">hates</MPQAPOL> them ..</MPQASENT>

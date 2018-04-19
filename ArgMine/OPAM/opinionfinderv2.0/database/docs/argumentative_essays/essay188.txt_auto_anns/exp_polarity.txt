@@ -1,0 +1,5 @@
+argumentative_essays_essay188.txt_1928_1939	neutral
+argumentative_essays_essay188.txt_1955_1960	neutral
+argumentative_essays_essay188.txt_1974_1978	neutral
+argumentative_essays_essay188.txt_1982_1991	neutral
+argumentative_essays_essay188.txt_2016_2020	neutral

@@ -1,0 +1,5 @@
+argumentative_essays_essay150.txt_1737_1745	neutral
+argumentative_essays_essay150.txt_1754_1762	positive
+argumentative_essays_essay150.txt_1804_1808	neutral
+argumentative_essays_essay150.txt_1809_1815	positive
+argumentative_essays_essay150.txt_1833_1839	positive

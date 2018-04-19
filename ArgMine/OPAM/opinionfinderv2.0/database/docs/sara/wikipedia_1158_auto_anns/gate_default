@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,6	GATE_Token	string="Swings" lemma="swing" category="NNS"
+3	7,8	GATE_Token	string="," lemma="," category=","
+4	9,20	GATE_Token	string="roundabouts" lemma="roundabout" category="NNS"
+5	21,22	GATE_Token	string="," lemma="," category=","
+6	23,29	GATE_Token	string="apples" lemma="apple" category="NNS"
+7	30,31	GATE_Token	string="," lemma="," category=","
+8	32,39	GATE_Token	string="oranges" lemma="orange" category="NNS"
+9	40,41	GATE_Token	string="." lemma="." category="."

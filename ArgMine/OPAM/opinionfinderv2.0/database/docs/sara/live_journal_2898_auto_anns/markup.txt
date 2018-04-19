@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">i am <MPQAPOL autoclass="positive">glad</MPQAPOL> the fragment stuck in your <MPQAPOL autoclass="neutral">thoughts</MPQAPOL> , it has been stuck in my head for a while <MPQAPOL autoclass="neutral">too</MPQAPOL> .</MPQASENT>

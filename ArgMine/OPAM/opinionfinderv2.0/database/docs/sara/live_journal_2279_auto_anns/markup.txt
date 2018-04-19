@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I personally <MPQAPOL autoclass="negative">think</MPQAPOL> that America is <MPQAPOL autoclass="negative">hopeless</MPQAPOL> , I do not see a <MPQAPOL autoclass="neutral">revolution</MPQAPOL> happening there .</MPQASENT>

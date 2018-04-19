@@ -1,0 +1,11 @@
+1	0,49	GATE_Sentence
+2	0,4	GATE_Token	string="Stay" lemma="Stay" category="NNP"
+3	5,9	GATE_Token	string="safe" lemma="safe" category="JJ"
+4	10,13	GATE_Token	string="and" lemma="and" category="CC"
+5	14,18	GATE_Token	string="keep" lemma="keep" category="VB"
+6	19,21	GATE_Token	string="me" lemma="I" category="PRP"
+7	22,30	GATE_Token	string="apprised" lemma="apprise" category="VBN"
+8	31,33	GATE_Token	string="of" lemma="of" category="IN"
+9	34,37	GATE_Token	string="the" lemma="the" category="DT"
+10	38,47	GATE_Token	string="situation" lemma="situation" category="NN"
+11	48,49	GATE_Token	string="." lemma="." category="."

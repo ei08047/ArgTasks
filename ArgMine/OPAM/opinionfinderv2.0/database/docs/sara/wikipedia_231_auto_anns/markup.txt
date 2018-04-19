@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">All of this is <MPQAPOL autoclass="negative">super</MPQAPOL> <MPQAPOL autoclass="neutral">easy</MPQAPOL> to reference ; and yet , some editors <MPQAPOL autoclass="negative">refuse</MPQAPOL> to <MPQAPOL autoclass="neutral">allow</MPQAPOL> any mention of it in the article .</MPQASENT>

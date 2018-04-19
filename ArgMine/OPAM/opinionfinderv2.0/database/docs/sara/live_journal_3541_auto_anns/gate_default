@@ -1,0 +1,13 @@
+1	0,60	GATE_Sentence
+2	0,4	GATE_Token	string="when" lemma="when" category="WRB"
+3	5,6	GATE_Token	string="i" lemma="i" category="FW"
+4	7,12	GATE_Token	string="stare" lemma="stare" category="VBP"
+5	13,15	GATE_Token	string="at" lemma="at" category="IN"
+6	16,18	GATE_Token	string="my" lemma="my" category="PRP$"
+7	19,24	GATE_Token	string="score" lemma="score" category="NN"
+8	25,29	GATE_Token	string="with" lemma="with" category="IN"
+9	30,36	GATE_Token	string="either" lemma="either" category="CC"
+10	37,47	GATE_Token	string="admiration" lemma="admiration" category="NN"
+11	48,50	GATE_Token	string="or" lemma="or" category="CC"
+12	51,58	GATE_Token	string="despair" lemma="despair" category="NN"
+13	59,60	GATE_Token	string="." lemma="." category="."

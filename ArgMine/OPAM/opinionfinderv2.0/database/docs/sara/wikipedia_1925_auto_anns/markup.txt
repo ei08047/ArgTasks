@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">There has been an attempt to build <MPQAPOL autoclass="positive">consensus</MPQAPOL> for what are <MPQAPOL autoclass="neutral">reasonable</MPQAPOL> <MPQAPOL autoclass="neutral">deviations</MPQAPOL> from the US place name guideline .</MPQASENT>

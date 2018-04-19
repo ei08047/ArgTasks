@@ -1,0 +1,12 @@
+1	0,56	GATE_Sentence
+2	0,2	GATE_Token	string="so" lemma="so" category="RB"
+3	3,6	GATE_Token	string="let" lemma="let" category="VB"
+4	7,9	GATE_Token	string="us" lemma="we" category="PRP"
+5	10,14	GATE_Token	string="just" lemma="just" category="RB"
+6	15,22	GATE_Token	string="discuss" lemma="discuss" category="VBP"
+7	23,28	GATE_Token	string="which" lemma="which" category="WDT"
+8	29,36	GATE_Token	string="content" lemma="content" category="NN"
+9	37,44	GATE_Token	string="belongs" lemma="belong" category="VBZ"
+10	45,48	GATE_Token	string="and" lemma="and" category="CC"
+11	49,54	GATE_Token	string="where" lemma="where" category="WRB"
+12	55,56	GATE_Token	string="." lemma="." category="."

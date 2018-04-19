@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">They have been on molasses for a couple of months <MPQAPOL autoclass="neutral">so</MPQAPOL> we 'll see if that makes a <MPQAPOL autoclass="neutral">difference</MPQAPOL> to the <MPQAPOL autoclass="neutral">taste</MPQAPOL> .</MPQASENT>

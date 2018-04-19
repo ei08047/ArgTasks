@@ -1,0 +1,12 @@
+1	0,44	GATE_Sentence
+2	0,2	GATE_Token	string="--" lemma="--" category=":"
+3	3,9	GATE_Token	string="Oppose" lemma="oppose" category="VB"
+4	10,13	GATE_Token	string="for" lemma="for" category="IN"
+5	14,17	GATE_Token	string="the" lemma="the" category="DT"
+6	18,24	GATE_Token	string="fourth" lemma="fourth" category="JJ"
+7	25,26	GATE_Token	string="(" lemma="(" category="-LRB-"
+8	27,29	GATE_Token	string="or" lemma="or" category="CC"
+9	30,35	GATE_Token	string="fifth" lemma="fifth" category="JJ"
+10	36,37	GATE_Token	string=")" lemma=")" category="-RRB-"
+11	38,42	GATE_Token	string="time" lemma="time" category="NN"
+12	43,44	GATE_Token	string="." lemma="." category="."

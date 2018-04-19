@@ -1,0 +1,7 @@
+argumentative_essays_essay394.txt_1599_1603	neutral
+argumentative_essays_essay394.txt_1608_1618	positive
+argumentative_essays_essay394.txt_1619_1625	neutral
+argumentative_essays_essay394.txt_1673_1678	neutral
+argumentative_essays_essay394.txt_1681_1687	neutral
+argumentative_essays_essay394.txt_1688_1693	positive
+argumentative_essays_essay394.txt_1713_1723	neutral

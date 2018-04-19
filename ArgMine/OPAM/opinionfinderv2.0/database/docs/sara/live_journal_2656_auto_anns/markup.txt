@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Cakes , why do they all <MPQAPOL autoclass="neutral">look</MPQAPOL> like cakes ?</MPQASENT>

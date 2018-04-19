@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj"><MPQAPOL autoclass="neutral">Anyway</MPQAPOL> , they are <MPQAPOL autoclass="neutral">looking</MPQAPOL> a <MPQAPOL autoclass="negative">little</MPQAPOL> <MPQAPOL autoclass="negative">weird</MPQAPOL> to me , <MPQAPOL autoclass="neutral">especially</MPQAPOL> the guy who is <MPQAPOL autoclass="negative">lying</MPQAPOL> down .</MPQASENT>

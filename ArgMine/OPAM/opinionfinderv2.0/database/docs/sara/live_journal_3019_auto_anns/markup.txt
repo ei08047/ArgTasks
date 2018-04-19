@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Traveling together is a <MPQAPOL autoclass="neutral">serious</MPQAPOL> test of a relationship .</MPQASENT>

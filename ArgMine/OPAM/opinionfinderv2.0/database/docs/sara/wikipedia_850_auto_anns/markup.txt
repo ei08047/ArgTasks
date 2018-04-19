@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">There is also <MPQAPOL autoclass="neutral">much</MPQAPOL> more on this page dealing with <MPQAPOL autoclass="neutral">violent</MPQAPOL> activities compared to their social programs .</MPQASENT>

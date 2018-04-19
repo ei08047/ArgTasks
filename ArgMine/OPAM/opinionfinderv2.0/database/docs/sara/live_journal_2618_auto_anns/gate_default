@@ -1,0 +1,10 @@
+1	0,46	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="LLLINKKK" category="NNP"
+3	9,14	GATE_Token	string="Other" lemma="other" category="JJ"
+4	15,20	GATE_Token	string="metro" lemma="metro" category="NN"
+5	21,27	GATE_Token	string="riders" lemma="rider" category="NNS"
+6	28,32	GATE_Token	string="seem" lemma="seem" category="VBP"
+7	33,35	GATE_Token	string="to" lemma="to" category="TO"
+8	36,41	GATE_Token	string="think" lemma="think" category="VB"
+9	42,44	GATE_Token	string="so" lemma="so" category="RB"
+10	45,46	GATE_Token	string="." lemma="." category="."

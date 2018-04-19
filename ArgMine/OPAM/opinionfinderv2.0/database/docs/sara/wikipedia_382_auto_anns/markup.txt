@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The phrase `` <MPQAPOL autoclass="negative">inordinately</MPQAPOL> <MPQAPOL autoclass="negative">interested</MPQAPOL> '' is borderline <MPQAPOL autoclass="neutral">offensive</MPQAPOL> .</MPQASENT>

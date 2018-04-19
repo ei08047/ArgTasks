@@ -1,0 +1,10 @@
+1	0,50	GATE_Sentence
+2	0,2	GATE_Token	string="We" lemma="we" category="PRP"
+3	3,6	GATE_Token	string="are" lemma="be" category="VBP"
+4	7,10	GATE_Token	string="now" lemma="now" category="RB"
+5	11,17	GATE_Token	string="safely" lemma="safely" category="RB"
+6	18,22	GATE_Token	string="home" lemma="home" category="NN"
+7	23,26	GATE_Token	string="and" lemma="and" category="CC"
+8	27,39	GATE_Token	string="unbelievably" lemma="unbelievably" category="RB"
+9	40,48	GATE_Token	string="grateful" lemma="grateful" category="JJ"
+10	49,50	GATE_Token	string="." lemma="." category="."

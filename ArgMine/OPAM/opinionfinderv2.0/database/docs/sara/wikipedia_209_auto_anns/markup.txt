@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Mike , you are making personal <MPQAPOL autoclass="neutral">judgements</MPQAPOL> that are not <MPQAPOL autoclass="neutral">supported</MPQAPOL> by a <MPQAPOL autoclass="neutral">reliable</MPQAPOL> source .</MPQASENT>

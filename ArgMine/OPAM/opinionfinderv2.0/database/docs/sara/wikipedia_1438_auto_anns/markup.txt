@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Just</MPQAPOL> because a source is <MPQAPOL autoclass="neutral">notable</MPQAPOL> does not <MPQAPOL autoclass="neutral">mean</MPQAPOL> it is up to snuff .</MPQASENT>

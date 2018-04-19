@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You <MPQAPOL autoclass="neutral">could</MPQAPOL> have been <MPQAPOL autoclass="neutral">mistaken</MPQAPOL> as an <MPQAPOL autoclass="negative">opponent</MPQAPOL> of capitalism !</MPQASENT>

@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,4	GATE_Token	string="Well" lemma="well" category="UH"
+3	5,6	GATE_Token	string="I" lemma="I" category="PRP"
+4	7,12	GATE_Token	string="think" lemma="think" category="VBP"
+5	13,17	GATE_Token	string="that" lemma="that" category="DT"
+6	18,21	GATE_Token	string="was" lemma="be" category="VBD"
+7	22,24	GATE_Token	string="by" lemma="by" category="IN"
+8	25,31	GATE_Token	string="intent" lemma="intent" category="NN"
+9	32,33	GATE_Token	string="." lemma="." category="."

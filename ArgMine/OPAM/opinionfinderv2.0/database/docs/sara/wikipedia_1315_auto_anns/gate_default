@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,8	GATE_Token	string="Multiple" lemma="multiple" category="JJ"
+3	9,16	GATE_Token	string="reverts" lemma="revert" category="VBZ"
+4	17,20	GATE_Token	string="are" lemma="be" category="VBP"
+5	21,26	GATE_Token	string="never" lemma="never" category="RB"
+6	27,28	GATE_Token	string="a" lemma="a" category="DT"
+7	29,33	GATE_Token	string="good" lemma="good" category="JJ"
+8	34,38	GATE_Token	string="idea" lemma="idea" category="NN"
+9	39,41	GATE_Token	string="on" lemma="on" category="IN"
+10	42,46	GATE_Token	string="this" lemma="this" category="DT"
+11	47,51	GATE_Token	string="page" lemma="page" category="NN"
+12	52,53	GATE_Token	string="." lemma="." category="."

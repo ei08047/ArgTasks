@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The number of <MPQAPOL autoclass="neutral">high</MPQAPOL> ranking prelates who were involved .</MPQASENT>

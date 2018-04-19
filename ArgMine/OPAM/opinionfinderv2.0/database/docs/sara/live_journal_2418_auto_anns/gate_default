@@ -1,0 +1,11 @@
+1	0,49	GATE_Sentence
+2	0,6	GATE_Token	string="Better" lemma="better" category="RBR"
+3	7,11	GATE_Token	string="Luck" lemma="Luck" category="NNP"
+4	12,16	GATE_Token	string="just" lemma="just" category="RB"
+5	17,23	GATE_Token	string="paying" lemma="pay" category="VBG"
+6	24,26	GATE_Token	string="me" lemma="I" category="PRP"
+7	27,29	GATE_Token	string="to" lemma="to" category="TO"
+8	30,34	GATE_Token	string="fold" lemma="fold" category="VB"
+9	35,39	GATE_Token	string="your" lemma="you" category="PRP$"
+10	40,47	GATE_Token	string="laundry" lemma="laundry" category="NN"
+11	48,49	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,5	GATE_Token	string="Sorry" lemma="sorry" category="JJ"
+3	6,7	GATE_Token	string="," lemma="," category=","
+4	8,10	GATE_Token	string="WP" lemma="wp" category="NN"
+5	11,13	GATE_Token	string="is" lemma="be" category="VBZ"
+6	14,17	GATE_Token	string="not" lemma="not" category="RB"
+7	18,19	GATE_Token	string="a" lemma="a" category="DT"
+8	20,28	GATE_Token	string="personal" lemma="personal" category="JJ"
+9	29,36	GATE_Token	string="webhost" lemma="webhost" category="NN"
+10	37,38	GATE_Token	string="." lemma="." category="."

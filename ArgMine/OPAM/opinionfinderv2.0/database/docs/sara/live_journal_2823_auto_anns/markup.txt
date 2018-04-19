@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">hehe :) i like this picture <MPQAPOL autoclass="neutral">well</MPQAPOL> done !</MPQASENT>

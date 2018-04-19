@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">I will say that your inner circle of <MPQAPOL autoclass="neutral">friends</MPQAPOL> are prolly the only ones you <MPQAPOL autoclass="neutral">should</MPQAPOL> be as <MPQAPOL autoclass="neutral">honest</MPQAPOL> as you <MPQAPOL autoclass="positive">want</MPQAPOL> with .</MPQASENT>

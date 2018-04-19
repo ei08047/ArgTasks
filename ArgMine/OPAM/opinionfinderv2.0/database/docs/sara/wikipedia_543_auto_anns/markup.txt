@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The sentance that was deleted was entirly vaid <MPQAPOL autoclass="neutral">so</MPQAPOL> I put it back it .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

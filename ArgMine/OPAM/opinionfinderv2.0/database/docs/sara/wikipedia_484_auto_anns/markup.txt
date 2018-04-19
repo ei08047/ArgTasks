@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Which images do you <MPQAPOL autoclass="neutral">think</MPQAPOL> <MPQAPOL autoclass="neutral">should</MPQAPOL> be removed ?</MPQASENT>

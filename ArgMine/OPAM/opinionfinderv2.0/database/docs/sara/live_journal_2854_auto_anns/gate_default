@@ -1,0 +1,10 @@
+1	0,34	GATE_Sentence
+2	0,3	GATE_Token	string="Not" lemma="not" category="RB"
+3	4,6	GATE_Token	string="if" lemma="if" category="IN"
+4	7,8	GATE_Token	string="I" lemma="I" category="PRP"
+5	9,14	GATE_Token	string="named" lemma="name" category="VBD"
+6	15,17	GATE_Token	string="it" lemma="it" category="PRP"
+7	18,23	GATE_Token	string="after" lemma="after" category="IN"
+8	24,25	GATE_Token	string="a" lemma="a" category="DT"
+9	26,32	GATE_Token	string="friend" lemma="friend" category="NN"
+10	33,34	GATE_Token	string="!" lemma="!" category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">i always found it to be <MPQAPOL autoclass="positive">entertaining</MPQAPOL> , and i <MPQAPOL autoclass="negative">think</MPQAPOL> it is <MPQAPOL autoclass="negative">really</MPQAPOL> cool that they are <MPQAPOL autoclass="neutral">considering</MPQAPOL> a rerelease</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I <MPQAPOL autoclass="positive">hope</MPQAPOL> , for the <MPQAPOL autoclass="positive">love</MPQAPOL> of all that is <MPQAPOL autoclass="neutral">lovely</MPQAPOL> that things are what you <MPQAPOL autoclass="positive">want</MPQAPOL> them to be .</MPQASENT>

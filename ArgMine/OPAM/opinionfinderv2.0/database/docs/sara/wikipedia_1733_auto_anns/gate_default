@@ -1,0 +1,10 @@
+1	0,43	GATE_Sentence
+2	0,12	GATE_Token	string="Recirculated" lemma="recirculate" category="VBN"
+3	13,16	GATE_Token	string="yes" lemma="yes" category="RB"
+4	17,18	GATE_Token	string="," lemma="," category=","
+5	19,22	GATE_Token	string="but" lemma="but" category="CC"
+6	23,27	GATE_Token	string="they" lemma="they" category="PRP"
+7	28,32	GATE_Token	string="have" lemma="have" category="VBP"
+8	33,35	GATE_Token	string="no" lemma="no" category="DT"
+9	36,41	GATE_Token	string="depth" lemma="depth" category="NN"
+10	42,43	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="positive">feel</MPQAPOL> the <MPQAPOL autoclass="neutral">need</MPQAPOL> to give Xion AUs <MPQAPOL autoclass="neutral">full</MPQAPOL> of <MPQAPOL autoclass="neutral">hugs</MPQAPOL> and kittens .</MPQASENT>

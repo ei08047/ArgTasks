@@ -1,0 +1,12 @@
+1	0,47	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="give" lemma="give" category="VBP"
+4	7,9	GATE_Token	string="up" lemma="up" category="RP"
+5	10,12	GATE_Token	string="on" lemma="on" category="IN"
+6	13,25	GATE_Token	string="anti-semitic" lemma="anti-semitic" category="JJ"
+7	26,30	GATE_Token	string="link" lemma="link" category="NN"
+8	31,32	GATE_Token	string="," lemma="," category=","
+9	33,36	GATE_Token	string="not" lemma="not" category="RB"
+10	37,40	GATE_Token	string="big" lemma="big" category="JJ"
+11	41,45	GATE_Token	string="deal" lemma="deal" category="NN"
+12	46,47	GATE_Token	string="." lemma="." category="."

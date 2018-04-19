@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">... no <MPQAPOL autoclass="neutral">points</MPQAPOL> and no references = no <MPQAPOL autoclass="neutral">argument</MPQAPOL> .</MPQASENT>

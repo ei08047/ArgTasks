@@ -1,0 +1,12 @@
+1	0,46	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,4	GATE_Token	string="g" lemma="g" category="NN"
+4	5,7	GATE_Token	string="\*" lemma="\*" category="SYM"
+5	8,11	GATE_Token	string="All" lemma="all" category="DT"
+6	12,14	GATE_Token	string="in" lemma="in" category="IN"
+7	15,18	GATE_Token	string="all" lemma="all" category="DT"
+8	19,20	GATE_Token	string="I" lemma="I" category="PRP"
+9	21,25	GATE_Token	string="feel" lemma="feel" category="VBP"
+10	26,31	GATE_Token	string="quite" lemma="quite" category="RB"
+11	32,44	GATE_Token	string="accomplished" lemma="accomplish" category="VBN"
+12	45,46	GATE_Token	string="." lemma="." category="."

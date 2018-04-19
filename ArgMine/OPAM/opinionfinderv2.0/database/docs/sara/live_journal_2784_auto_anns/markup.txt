@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="positive">feel</MPQAPOL> like my skin is thin paper origamied around my bones , <MPQAPOL autoclass="neutral">crisp</MPQAPOL> pulp bent into ancient patterns .</MPQASENT>

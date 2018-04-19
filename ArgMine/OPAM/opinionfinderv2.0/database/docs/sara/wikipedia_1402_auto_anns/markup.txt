@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">But until we are all <MPQAPOL autoclass="neutral">open</MPQAPOL> to that , I am <MPQAPOL autoclass="negative">afraid</MPQAPOL> that this article will have NPOV issues .</MPQASENT>

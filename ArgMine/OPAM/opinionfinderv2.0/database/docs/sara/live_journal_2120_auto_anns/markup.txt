@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">( <MPQAPOL autoclass="neutral">finally</MPQAPOL> catching up ) I <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="positive">enjoyed</MPQAPOL> meeting you , and of course I do not <MPQAPOL autoclass="negative">mind</MPQAPOL> !</MPQASENT>

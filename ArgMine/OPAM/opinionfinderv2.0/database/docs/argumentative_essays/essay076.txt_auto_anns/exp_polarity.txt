@@ -1,0 +1,4 @@
+argumentative_essays_essay076.txt_1879_1885	neutral
+argumentative_essays_essay076.txt_1886_1895	positive
+argumentative_essays_essay076.txt_1937_1943	neutral
+argumentative_essays_essay076.txt_1966_1976	positive

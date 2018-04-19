@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It <MPQAPOL autoclass="neutral">looks</MPQAPOL> like Hulu 's policy <MPQAPOL autoclass="neutral">seems</MPQAPOL> to be to only offer what is currently being offered by who has that copyright .</MPQASENT>

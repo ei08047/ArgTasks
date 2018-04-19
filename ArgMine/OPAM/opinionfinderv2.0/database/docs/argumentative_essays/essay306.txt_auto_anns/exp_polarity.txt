@@ -1,0 +1,7 @@
+argumentative_essays_essay306.txt_1839_1851	neutral
+argumentative_essays_essay306.txt_1876_1887	negative
+argumentative_essays_essay306.txt_1892_1897	negative
+argumentative_essays_essay306.txt_1938_1943	neutral
+argumentative_essays_essay306.txt_1976_1984	neutral
+argumentative_essays_essay306.txt_2019_2030	neutral
+argumentative_essays_essay306.txt_2088_2099	neutral

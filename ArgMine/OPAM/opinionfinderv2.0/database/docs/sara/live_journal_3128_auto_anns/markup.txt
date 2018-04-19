@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">What you <MPQAPOL autoclass="neutral">might</MPQAPOL> <MPQAPOL autoclass="neutral">think</MPQAPOL> is <MPQAPOL autoclass="positive">straightforward</MPQAPOL> , is <MPQAPOL autoclass="neutral">pretty</MPQAPOL> advanced for us .</MPQASENT>

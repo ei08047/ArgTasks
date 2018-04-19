@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">-- <MPQAPOL autoclass="neutral">Looks</MPQAPOL> like a <MPQAPOL autoclass="neutral">strong</MPQAPOL> <MPQAPOL autoclass="neutral">possibility</MPQAPOL> --</MPQASENT>

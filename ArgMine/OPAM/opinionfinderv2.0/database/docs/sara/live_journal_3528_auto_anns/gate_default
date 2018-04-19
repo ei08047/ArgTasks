@@ -1,0 +1,13 @@
+1	0,54	GATE_Sentence
+2	0,1	GATE_Token	string="-" lemma="-" category=":"
+3	2,7	GATE_Token	string="still" lemma="still" category="RB"
+4	8,15	GATE_Token	string="waiting" lemma="wait" category="VBG"
+5	16,19	GATE_Token	string="for" lemma="for" category="IN"
+6	20,24	GATE_Token	string="that" lemma="that" category="DT"
+7	25,30	GATE_Token	string="jumbo" lemma="jumbo" category="JJ"
+8	31,36	GATE_Token	string="braid" lemma="braid" category="NN"
+9	37,41	GATE_Token	string="hair" lemma="hair" category="NN"
+10	42,44	GATE_Token	string="to" lemma="to" category="TO"
+11	45,49	GATE_Token	string="come" lemma="come" category="VB"
+12	50,52	GATE_Token	string="in" lemma="in" category="IN"
+13	53,54	GATE_Token	string="." lemma="." category="."

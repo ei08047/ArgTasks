@@ -1,0 +1,11 @@
+1	0,50	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,8	GATE_Token	string="REALLY" lemma="really" category="RB"
+4	9,13	GATE_Token	string="need" lemma="need" category="VB"
+5	14,16	GATE_Token	string="to" lemma="to" category="TO"
+6	17,22	GATE_Token	string="start" lemma="start" category="VB"
+7	23,30	GATE_Token	string="wearing" lemma="wear" category="VBG"
+8	31,39	GATE_Token	string="earplugs" lemma="earplug" category="NNS"
+9	40,42	GATE_Token	string="to" lemma="to" category="TO"
+10	43,48	GATE_Token	string="shows" lemma="show" category="NNS"
+11	49,50	GATE_Token	string="." lemma="." category="."

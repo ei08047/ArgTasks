@@ -1,0 +1,10 @@
+1	0,46	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,8	GATE_Token	string="guys" lemma="guy" category="NNS"
+4	9,16	GATE_Token	string="breathe" lemma="breathe" category="VBP"
+5	17,27	GATE_Token	string="pesticides" lemma="pesticide" category="NNS"
+6	28,30	GATE_Token	string="on" lemma="on" category="IN"
+7	31,32	GATE_Token	string="a" lemma="a" category="DT"
+8	33,38	GATE_Token	string="daily" lemma="daily" category="JJ"
+9	39,44	GATE_Token	string="basis" lemma="basis" category="NN"
+10	45,46	GATE_Token	string="." lemma="." category="."

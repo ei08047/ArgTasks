@@ -1,0 +1,5 @@
+1	0,30	GATE_Sentence
+2	0,3	GATE_Token	string="add" lemma="add" category="VB"
+3	4,6	GATE_Token	string="me" lemma="I" category="PRP"
+4	7,10	GATE_Token	string="you" lemma="you" category="PRP"
+5	11,30	GATE_Token	string="sonovabitchhhhhhhhh" lemma="sonovabitchhhhhhhhh" category="VBP"

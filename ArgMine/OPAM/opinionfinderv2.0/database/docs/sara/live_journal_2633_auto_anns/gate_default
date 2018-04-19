@@ -1,0 +1,9 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,5	GATE_Token	string="did" lemma="do" category="VBD"
+4	6,9	GATE_Token	string="get" lemma="get" category="VB"
+5	10,14	GATE_Token	string="your" lemma="you" category="PRP$"
+6	15,24	GATE_Token	string="temporary" lemma="temporary" category="JJ"
+7	25,31	GATE_Token	string="e-mail" lemma="e-mail" category="JJ"
+8	32,39	GATE_Token	string="address" lemma="address" category="NN"
+9	40,41	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Saying they were <MPQAPOL autoclass="neutral">fully</MPQAPOL> synonymous is a <MPQAPOL autoclass="neutral">much</MPQAPOL> , <MPQAPOL autoclass="neutral">much</MPQAPOL> more <MPQAPOL autoclass="negative">drastic</MPQAPOL> <MPQAPOL autoclass="neutral">claim</MPQAPOL> than what I was saying .</MPQASENT>

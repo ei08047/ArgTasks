@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">A <MPQAPOL autoclass="neutral">good</MPQAPOL> photographer can do <MPQAPOL autoclass="neutral">awesome</MPQAPOL> work with a polaroid or ` phonecam .</MPQASENT>

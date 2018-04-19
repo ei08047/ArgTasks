@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,3	GATE_Token	string="but" lemma="but" category="CC"
+3	4,8	GATE_Token	string="what" lemma="what" category="WP"
+4	9,14	GATE_Token	string="about" lemma="about" category="IN"
+5	15,18	GATE_Token	string="the" lemma="the" category="DT"
+6	19,23	GATE_Token	string="Hush" lemma="hush" category="JJ"
+7	24,29	GATE_Token	string="Sound" lemma="sound" category="NN"
+8	30,33	GATE_Token	string="and" lemma="and" category="CC"
+9	34,37	GATE_Token	string="the" lemma="the" category="DT"
+10	38,45	GATE_Token	string="Dresden" lemma="Dresden" category="NNP"
+11	46,51	GATE_Token	string="Dolls" lemma="Dolls" category="NNPS"
+12	52,53	GATE_Token	string="?" lemma="?" category="."

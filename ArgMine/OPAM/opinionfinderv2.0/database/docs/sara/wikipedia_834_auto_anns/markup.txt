@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> , in terms of RS 's , that there <MPQAPOL autoclass="neutral">'d</MPQAPOL> be <MPQAPOL autoclass="neutral">wide</MPQAPOL> <MPQAPOL autoclass="neutral">agreement</MPQAPOL> on this <MPQAPOL autoclass="neutral">point</MPQAPOL> .</MPQASENT>

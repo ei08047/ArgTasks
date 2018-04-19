@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,3	GATE_Token	string="Yes" lemma="yes" category="UH"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,7	GATE_Token	string="i" lemma="i" category="FW"
+5	8,12	GATE_Token	string="find" lemma="find" category="VB"
+6	13,17	GATE_Token	string="them" lemma="they" category="PRP"
+7	18,22	GATE_Token	string="very" lemma="very" category="RB"
+8	23,31	GATE_Token	string="focusing" lemma="focus" category="VBG"
+9	32,33	GATE_Token	string="." lemma="." category="."

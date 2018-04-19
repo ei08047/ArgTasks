@@ -1,0 +1,11 @@
+argumentative_essays_essay401.txt_0_220	subj
+argumentative_essays_essay401.txt_221_385	subj
+argumentative_essays_essay401.txt_386_489	obj
+argumentative_essays_essay401.txt_490_608	obj
+argumentative_essays_essay401.txt_609_816	subj
+argumentative_essays_essay401.txt_818_938	obj
+argumentative_essays_essay401.txt_939_1088	subj
+argumentative_essays_essay401.txt_1089_1279	obj
+argumentative_essays_essay401.txt_1280_1371	obj
+argumentative_essays_essay401.txt_1372_1480	obj
+argumentative_essays_essay401.txt_1481_1668	obj

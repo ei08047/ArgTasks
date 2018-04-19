@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">suppose</MPQAPOL> you <MPQAPOL autoclass="neutral">could</MPQAPOL> put canadian bacon in kraft dinner and then you had \* <MPQAPOL autoclass="neutral">really</MPQAPOL> \* be rocking .</MPQASENT>

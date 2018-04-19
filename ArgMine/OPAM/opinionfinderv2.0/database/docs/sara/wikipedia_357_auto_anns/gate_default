@@ -1,0 +1,12 @@
+1	0,61	GATE_Sentence
+2	0,4	GATE_Token	string="many" lemma="many" category="JJ"
+3	5,11	GATE_Token	string="people" lemma="people" category="NNS"
+4	12,14	GATE_Token	string="do" lemma="do" category="VBP"
+5	15,18	GATE_Token	string="not" lemma="not" category="RB"
+6	19,23	GATE_Token	string="know" lemma="know" category="VB"
+7	24,28	GATE_Token	string="that" lemma="that" category="IN"
+8	29,38	GATE_Token	string="Catholics" lemma="Catholics" category="NNPS"
+9	39,43	GATE_Token	string="were" lemma="be" category="VBD"
+10	44,48	GATE_Token	string="ever" lemma="ever" category="RB"
+11	49,59	GATE_Token	string="persecuted" lemma="persecute" category="VBN"
+12	60,61	GATE_Token	string="." lemma="." category="."

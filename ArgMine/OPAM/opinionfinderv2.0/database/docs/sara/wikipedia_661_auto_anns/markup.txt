@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj"><MPQAPOL autoclass="neutral">However</MPQAPOL> I do update the GAP article as I <MPQAPOL autoclass="positive">want</MPQAPOL> it to be <MPQAPOL autoclass="neutral">accurate</MPQAPOL> , is that not what we are all after ?</MPQASENT>

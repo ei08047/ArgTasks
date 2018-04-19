@@ -1,0 +1,9 @@
+1	0,42	GATE_Sentence
+2	0,4	GATE_Token	string="FWIW" lemma="fwiw" category="RB"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,9	GATE_Token	string="my" lemma="my" category="PRP$"
+5	10,23	GATE_Token	string="understanding" lemma="understanding" category="NN"
+6	24,26	GATE_Token	string="of" lemma="of" category="IN"
+7	27,30	GATE_Token	string="the" lemma="the" category="DT"
+8	31,40	GATE_Token	string="situation" lemma="situation" category="NN"
+9	41,42	GATE_Token	string="." lemma="." category="."

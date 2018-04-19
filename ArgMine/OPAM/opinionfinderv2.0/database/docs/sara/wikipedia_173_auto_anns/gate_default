@@ -1,0 +1,6 @@
+1	0,31	GATE_Sentence
+2	0,6	GATE_Token	string="Thanks" lemma="thanks" category="NNS"
+3	7,10	GATE_Token	string="for" lemma="for" category="IN"
+4	11,14	GATE_Token	string="the" lemma="the" category="DT"
+5	15,29	GATE_Token	string="clarifications" lemma="clarification" category="NNS"
+6	30,31	GATE_Token	string="." lemma="." category="."

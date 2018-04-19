@@ -1,0 +1,11 @@
+1	0,48	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,10	GATE_Token	string="that" lemma="that" category="IN"
+5	11,16	GATE_Token	string="whole" lemma="whole" category="JJ"
+6	17,25	GATE_Token	string="opposite" lemma="opposite" category="JJ"
+7	26,31	GATE_Token	string="coast" lemma="coast" category="NN"
+8	32,37	GATE_Token	string="thing" lemma="thing" category="NN"
+9	38,41	GATE_Token	string="..." lemma="..." category=":"
+10	42,46	GATE_Token	string="yeah" lemma="yeah" category="NN"
+11	47,48	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">And <MPQAPOL autoclass="neutral">just</MPQAPOL> because they <MPQAPOL autoclass="neutral">might</MPQAPOL> be republican , does not <MPQAPOL autoclass="neutral">mean</MPQAPOL> they are a <MPQAPOL autoclass="negative">bad</MPQAPOL> person .</MPQASENT>

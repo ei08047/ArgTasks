@@ -1,0 +1,10 @@
+1	0,47	GATE_Sentence
+2	0,4	GATE_Token	string="lets" lemma="let" category="VBZ"
+3	5,13	GATE_Token	string="continue" lemma="continue" category="VB"
+4	14,18	GATE_Token	string="this" lemma="this" category="DT"
+5	19,21	GATE_Token	string="on" lemma="on" category="IN"
+6	22,25	GATE_Token	string="the" lemma="the" category="DT"
+7	26,33	GATE_Token	string="zionist" lemma="zionist" category="JJ"
+8	34,40	GATE_Token	string="entity" lemma="entity" category="NN"
+9	41,45	GATE_Token	string="page" lemma="page" category="NN"
+10	46,47	GATE_Token	string="." lemma="." category="."

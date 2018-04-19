@@ -1,0 +1,15 @@
+1	0,59	GATE_Sentence
+2	0,11	GATE_Token	string="Additionaly" lemma="Additionaly" category="NNP"
+3	12,18	GATE_Token	string="Please" lemma="please" category="VB"
+4	19,25	GATE_Token	string="adhere" lemma="adhere" category="VB"
+5	26,28	GATE_Token	string="to" lemma="to" category="TO"
+6	29,31	GATE_Token	string="WP" lemma="WP" category="NNP"
+7	32,33	GATE_Token	string=":" lemma=":" category=":"
+8	34,44	GATE_Token	string="NOTSOAPBOX" lemma="NOTSOAPBOX" category="NNP"
+9	45,48	GATE_Token	string="and" lemma="and" category="CC"
+10	49,51	GATE_Token	string="WP" lemma="WP" category="NNP"
+11	52,53	GATE_Token	string=":" lemma=":" category=":"
+12	54,57	GATE_Token	string="NPA" lemma="NPA" category="NNP"
+13	58,59	GATE_Token	string="." lemma="." category="."
+14	59,61	GATE_Sentence
+15	59,61	GATE_Token	string="--" lemma="--" category=":"

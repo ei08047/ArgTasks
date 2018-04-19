@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,5	GATE_Token	string="can" lemma="can" category="MD"
+4	6,9	GATE_Token	string="not" lemma="not" category="RB"
+5	10,16	GATE_Token	string="accept" lemma="accept" category="VB"
+6	17,21	GATE_Token	string="that" lemma="that" category="IN"
+7	22,26	GATE_Token	string="this" lemma="this" category="DT"
+8	27,35	GATE_Token	string="counters" lemma="counter" category="NNS"
+9	36,39	GATE_Token	string="his" lemma="he" category="PRP$"
+10	40,48	GATE_Token	string="original" lemma="original" category="JJ"
+11	49,55	GATE_Token	string="denial" lemma="denial" category="NN"
+12	56,57	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,10 @@
+1	0,39	GATE_Sentence
+2	0,4	GATE_Token	string="such" lemma="such" category="JJ"
+3	5,7	GATE_Token	string="as" lemma="as" category="IN"
+4	8,14	GATE_Token	string="carder" lemma="carder" category="NN"
+5	15,20	GATE_Token	string="NEEDS" lemma="need" category="VBZ"
+6	21,24	GATE_Token	string="you" lemma="you" category="PRP"
+7	25,27	GATE_Token	string="on" lemma="on" category="IN"
+8	28,31	GATE_Token	string="the" lemma="the" category="DT"
+9	32,37	GATE_Token	string="field" lemma="field" category="NN"
+10	38,39	GATE_Token	string="." lemma="." category="."

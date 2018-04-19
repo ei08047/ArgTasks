@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">I guess you are in a <MPQAPOL autoclass="positive">better</MPQAPOL> <MPQAPOL autoclass="neutral">position</MPQAPOL> than me to find the <MPQAPOL autoclass="neutral">necessary</MPQAPOL> sources .<MPQASENT autoclass1="unknown" autoclass2="obj">--</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">facts</MPQAPOL> of history bear out the <MPQAPOL autoclass="neutral">fact</MPQAPOL> that is how it is .</MPQASENT>

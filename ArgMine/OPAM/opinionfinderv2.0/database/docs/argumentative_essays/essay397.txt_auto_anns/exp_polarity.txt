@@ -1,0 +1,5 @@
+argumentative_essays_essay397.txt_1590_1594	neutral
+argumentative_essays_essay397.txt_1600_1606	negative
+argumentative_essays_essay397.txt_1709_1720	neutral
+argumentative_essays_essay397.txt_1738_1746	neutral
+argumentative_essays_essay397.txt_1751_1759	positive

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am <MPQAPOL autoclass="neutral">thinking</MPQAPOL> chords -LRB- the blues 12 -RRB- , for example .</MPQASENT>

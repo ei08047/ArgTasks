@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This is how I read this story , and from that reading this <MPQAPOL autoclass="neutral">certainly</MPQAPOL> <MPQAPOL autoclass="positive">appears</MPQAPOL> <MPQAPOL autoclass="neutral">big</MPQAPOL> <MPQAPOL autoclass="neutral">enough</MPQAPOL> for an In The News feature .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">There are a <MPQAPOL autoclass="neutral">coherent</MPQAPOL> set of annals which document the history of Ireland before the Normans arrived <MPQAPOL autoclass="neutral">quite</MPQAPOL> <MPQAPOL autoclass="positive">clearly</MPQAPOL> .</MPQASENT>

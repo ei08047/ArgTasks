@@ -1,0 +1,6 @@
+argumentative_essays_essay256.txt_2232_2240	neutral
+argumentative_essays_essay256.txt_2257_2264	neutral
+argumentative_essays_essay256.txt_2273_2277	neutral
+argumentative_essays_essay256.txt_2278_2287	positive
+argumentative_essays_essay256.txt_2292_2300	positive
+argumentative_essays_essay256.txt_2308_2318	neutral

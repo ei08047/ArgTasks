@@ -1,0 +1,8 @@
+1	0,36	GATE_Sentence
+2	0,6	GATE_Token	string="Seeing" lemma="see" category="VBG"
+3	7,13	GATE_Token	string="pirate" lemma="pirate" category="NN"
+4	14,19	GATE_Token	string="radio" lemma="radio" category="NN"
+5	20,22	GATE_Token	string="at" lemma="at" category="IN"
+6	23,27	GATE_Token	string="city" lemma="city" category="NN"
+7	28,34	GATE_Token	string="center" lemma="center" category="NN"
+8	35,36	GATE_Token	string="." lemma="." category="."

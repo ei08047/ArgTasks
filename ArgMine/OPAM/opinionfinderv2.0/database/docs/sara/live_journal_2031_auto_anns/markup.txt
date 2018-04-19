@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">well</MPQAPOL> the pentax is not going to be a <MPQAPOL autoclass="neutral">huge</MPQAPOL> step for me .</MPQASENT>

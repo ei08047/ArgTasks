@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">fact</MPQAPOL> is that the only <MPQAPOL autoclass="neutral">major</MPQAPOL> state to attempt religious <MPQAPOL autoclass="neutral">toleration</MPQAPOL> was Catholic France .</MPQASENT>

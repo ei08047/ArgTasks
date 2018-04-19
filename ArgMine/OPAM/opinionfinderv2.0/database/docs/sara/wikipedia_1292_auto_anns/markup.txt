@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> it is <MPQAPOL autoclass="neutral">rather</MPQAPOL> <MPQAPOL autoclass="negative">delusional</MPQAPOL> to <MPQAPOL autoclass="negative">dispute</MPQAPOL> it did .</MPQASENT>

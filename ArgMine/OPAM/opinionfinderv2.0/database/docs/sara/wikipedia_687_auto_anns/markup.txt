@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Are you <MPQAPOL autoclass="neutral">trying</MPQAPOL> to <MPQAPOL autoclass="neutral">claim</MPQAPOL> they do not <MPQAPOL autoclass="neutral">try</MPQAPOL> to <MPQAPOL autoclass="neutral">kill</MPQAPOL> civilians ?</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It depends on how far east you <MPQAPOL autoclass="positive">want</MPQAPOL> to draw the line .</MPQASENT>

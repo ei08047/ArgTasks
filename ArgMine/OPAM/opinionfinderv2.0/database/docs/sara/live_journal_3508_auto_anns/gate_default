@@ -1,0 +1,9 @@
+1	0,34	GATE_Sentence
+2	0,5	GATE_Token	string="Quite" lemma="quite" category="RB"
+3	6,14	GATE_Token	string="possibly" lemma="possibly" category="RB"
+4	15,16	GATE_Token	string="," lemma="," category=","
+5	17,18	GATE_Token	string="I" lemma="I" category="PRP"
+6	19,21	GATE_Token	string="DO" lemma="do" category="VBP"
+7	22,25	GATE_Token	string="NOT" lemma="NOT" category="NNP"
+8	26,32	GATE_Token	string="RECALL" lemma="RECALL" category="NNP"
+9	33,34	GATE_Token	string="." lemma="." category="."

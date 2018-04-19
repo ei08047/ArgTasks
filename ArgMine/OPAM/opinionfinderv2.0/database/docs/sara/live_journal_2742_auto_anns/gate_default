@@ -1,0 +1,13 @@
+1	0,69	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="FW"
+3	2,7	GATE_Token	string="think" lemma="think" category="VBP"
+4	8,12	GATE_Token	string="they" lemma="they" category="PRP"
+5	13,16	GATE_Token	string="are" lemma="be" category="VBP"
+6	17,23	GATE_Token	string="idiots" lemma="idiot" category="NNS"
+7	24,31	GATE_Token	string="because" lemma="because" category="IN"
+8	32,37	GATE_Token	string="their" lemma="they" category="PRP$"
+9	38,46	GATE_Token	string="premises" lemma="premise" category="NNS"
+10	47,55	GATE_Token	string="alienate" lemma="alienate" category="VB"
+11	56,59	GATE_Token	string="and" lemma="and" category="CC"
+12	60,67	GATE_Token	string="destroy" lemma="destroy" category="VB"
+13	68,69	GATE_Token	string="." lemma="." category="."

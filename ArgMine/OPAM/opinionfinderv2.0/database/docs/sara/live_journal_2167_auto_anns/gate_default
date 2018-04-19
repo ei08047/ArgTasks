@@ -1,0 +1,13 @@
+1	0,51	GATE_Sentence
+2	0,3	GATE_Token	string="but" lemma="but" category="CC"
+3	4,7	GATE_Token	string="not" lemma="not" category="RB"
+4	8,11	GATE_Token	string="for" lemma="for" category="IN"
+5	12,18	GATE_Token	string="grades" lemma="grade" category="NNS"
+6	19,22	GATE_Token	string="and" lemma="and" category="CC"
+7	23,24	GATE_Token	string="i" lemma="i" category="FW"
+8	25,30	GATE_Token	string="might" lemma="might" category="MD"
+9	31,34	GATE_Token	string="not" lemma="not" category="RB"
+10	35,39	GATE_Token	string="take" lemma="take" category="VB"
+11	40,43	GATE_Token	string="the" lemma="the" category="DT"
+12	44,49	GATE_Token	string="tests" lemma="test" category="NNS"
+13	50,51	GATE_Token	string="." lemma="." category="."

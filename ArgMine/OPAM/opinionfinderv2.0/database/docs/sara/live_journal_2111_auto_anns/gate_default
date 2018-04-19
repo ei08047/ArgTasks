@@ -1,0 +1,9 @@
+1	0,30	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,7	GATE_Token	string="would" lemma="would" category="MD"
+4	8,13	GATE_Token	string="never" lemma="never" category="RB"
+5	14,18	GATE_Token	string="give" lemma="give" category="VB"
+6	19,21	GATE_Token	string="up" lemma="up" category="RP"
+7	22,24	GATE_Token	string="on" lemma="on" category="IN"
+8	25,28	GATE_Token	string="you" lemma="you" category="PRP"
+9	29,30	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,7	GATE_Token	string="how" lemma="how" category="WRB"
+4	8,10	GATE_Token	string="do" lemma="do" category="VBP"
+5	11,17	GATE_Token	string="people" lemma="people" category="NNS"
+6	18,22	GATE_Token	string="even" lemma="even" category="RB"
+7	23,27	GATE_Token	string="have" lemma="have" category="VBP"
+8	28,31	GATE_Token	string="the" lemma="the" category="DT"
+9	32,36	GATE_Token	string="time" lemma="time" category="NN"
+10	37,38	GATE_Token	string="?" lemma="?" category="."

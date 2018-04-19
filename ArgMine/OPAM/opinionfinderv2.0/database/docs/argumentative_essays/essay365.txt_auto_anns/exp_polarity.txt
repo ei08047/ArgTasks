@@ -1,0 +1,4 @@
+argumentative_essays_essay365.txt_1663_1674	positive
+argumentative_essays_essay365.txt_1690_1694	neutral
+argumentative_essays_essay365.txt_1705_1715	neutral
+argumentative_essays_essay365.txt_1790_1796	neutral

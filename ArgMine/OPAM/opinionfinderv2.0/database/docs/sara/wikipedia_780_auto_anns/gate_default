@@ -1,0 +1,10 @@
+1	0,45	GATE_Sentence
+2	0,7	GATE_Token	string="whether" lemma="whether" category="IN"
+3	8,11	GATE_Token	string="you" lemma="you" category="PRP"
+4	12,14	GATE_Token	string="or" lemma="or" category="CC"
+5	15,16	GATE_Token	string="I" lemma="I" category="PRP"
+6	17,24	GATE_Token	string="believe" lemma="believe" category="VBP"
+7	25,29	GATE_Token	string="them" lemma="they" category="PRP"
+8	30,32	GATE_Token	string="is" lemma="be" category="VBZ"
+9	33,43	GATE_Token	string="irrelevant" lemma="irrelevant" category="JJ"
+10	44,45	GATE_Token	string="." lemma="." category="."

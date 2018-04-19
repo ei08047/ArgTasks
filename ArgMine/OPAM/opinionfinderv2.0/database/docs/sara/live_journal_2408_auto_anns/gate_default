@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,3	GATE_Token	string="Fab" lemma="Fab" category="NNP"
+3	4,6	GATE_Token	string="60" lemma="60" category="NNP"
+4	7,9	GATE_Token	string="'s" lemma="'s" category="POS"
+5	10,17	GATE_Token	string="vintage" lemma="vintage" category="NN"
+6	18,21	GATE_Token	string="for" lemma="for" category="IN"
+7	22,26	GATE_Token	string="sale" lemma="sale" category="NN"
+8	27,29	GATE_Token	string="on" lemma="on" category="IN"
+9	30,34	GATE_Token	string="ebay" lemma="ebay" category="NN"
+10	35,36	GATE_Token	string="." lemma="." category="."

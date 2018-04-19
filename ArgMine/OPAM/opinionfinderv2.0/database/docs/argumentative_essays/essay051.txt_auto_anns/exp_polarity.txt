@@ -1,0 +1,6 @@
+argumentative_essays_essay051.txt_1717_1722	neutral
+argumentative_essays_essay051.txt_1730_1740	neutral
+argumentative_essays_essay051.txt_1782_1791	neutral
+argumentative_essays_essay051.txt_1802_1810	negative
+argumentative_essays_essay051.txt_1838_1842	neutral
+argumentative_essays_essay051.txt_1868_1874	neutral

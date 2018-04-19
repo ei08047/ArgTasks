@@ -1,0 +1,13 @@
+1	0,71	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,15	GATE_Token	string="information" lemma="information" category="NN"
+4	16,18	GATE_Token	string="is" lemma="be" category="VBZ"
+5	19,26	GATE_Token	string="written" lemma="write" category="VBN"
+6	27,29	GATE_Token	string="by" lemma="by" category="IN"
+7	30,38	GATE_Token	string="scholars" lemma="scholar" category="NNS"
+8	39,42	GATE_Token	string="and" lemma="and" category="CC"
+9	43,51	GATE_Token	string="reviewed" lemma="review" category="VBN"
+10	52,54	GATE_Token	string="by" lemma="by" category="IN"
+11	55,60	GATE_Token	string="other" lemma="other" category="JJ"
+12	61,69	GATE_Token	string="scholars" lemma="scholar" category="NNS"
+13	70,71	GATE_Token	string="." lemma="." category="."

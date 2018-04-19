@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">It <MPQAPOL autoclass="neutral">would</MPQAPOL> be a <MPQAPOL autoclass="neutral">yes</MPQAPOL> or a no situation - or as I say <MPQAPOL autoclass="neutral">above</MPQAPOL> - it <MPQAPOL autoclass="neutral">would</MPQAPOL> be a black-or-white situation .</MPQASENT>

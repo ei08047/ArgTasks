@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">but did your clothes get <MPQAPOL autoclass="neutral">clean</MPQAPOL> ?</MPQASENT>

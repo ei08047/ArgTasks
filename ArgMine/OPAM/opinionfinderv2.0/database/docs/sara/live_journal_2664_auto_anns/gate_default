@@ -1,0 +1,13 @@
+1	0,50	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,8	GATE_Token	string="only" lemma="only" category="JJ"
+4	9,15	GATE_Token	string="reason" lemma="reason" category="NN"
+5	16,17	GATE_Token	string="I" lemma="I" category="PRP"
+6	18,20	GATE_Token	string="am" lemma="be" category="VBP"
+7	21,26	GATE_Token	string="going" lemma="go" category="VBG"
+8	27,29	GATE_Token	string="is" lemma="be" category="VBZ"
+9	30,37	GATE_Token	string="because" lemma="because" category="IN"
+10	38,40	GATE_Token	string="it" lemma="it" category="PRP"
+11	41,43	GATE_Token	string="is" lemma="be" category="VBZ"
+12	44,48	GATE_Token	string="free" lemma="free" category="JJ"
+13	49,50	GATE_Token	string="." lemma="." category="."

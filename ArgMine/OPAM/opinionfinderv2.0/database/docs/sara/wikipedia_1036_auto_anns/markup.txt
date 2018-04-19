@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">One is a <MPQAPOL autoclass="neutral">specific</MPQAPOL> type of <MPQAPOL autoclass="neutral">hard</MPQAPOL> , riff-driven , rock originating in the late '50s and early '60s .</MPQASENT>

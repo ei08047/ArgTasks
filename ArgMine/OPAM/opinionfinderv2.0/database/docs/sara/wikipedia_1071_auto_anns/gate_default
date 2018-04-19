@@ -1,0 +1,7 @@
+1	0,32	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,11	GATE_Token	string="mention" lemma="mention" category="VBP"
+4	12,16	GATE_Token	string="only" lemma="only" category="RB"
+5	17,23	GATE_Token	string="Living" lemma="live" category="VBG"
+6	24,30	GATE_Token	string="Colour" lemma="Colour" category="NNP"
+7	31,32	GATE_Token	string="." lemma="." category="."

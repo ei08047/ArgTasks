@@ -1,0 +1,13 @@
+1	0,50	GATE_Sentence
+2	0,4	GATE_Token	string="Yeah" lemma="yeah" category="UH"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,14	GATE_Token	string="sending" lemma="send" category="VBG"
+5	15,19	GATE_Token	string="that" lemma="that" category="IN"
+6	20,23	GATE_Token	string="one" lemma="one" category="CD"
+7	24,26	GATE_Token	string="to" lemma="to" category="TO"
+8	27,29	GATE_Token	string="\*" lemma="\*" category="SYM"
+9	30,38	GATE_Token	string="everyone" lemma="everyone" category="NN"
+10	39,41	GATE_Token	string="\*" lemma="\*" category="SYM"
+11	42,43	GATE_Token	string="I" lemma="I" category="PRP"
+12	44,48	GATE_Token	string="know" lemma="know" category="VBP"
+13	49,50	GATE_Token	string="." lemma="." category="."

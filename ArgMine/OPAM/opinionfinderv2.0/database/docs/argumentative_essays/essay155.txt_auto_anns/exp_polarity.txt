@@ -1,0 +1,7 @@
+argumentative_essays_essay155.txt_1990_1998	neutral
+argumentative_essays_essay155.txt_2002_2008	neutral
+argumentative_essays_essay155.txt_2012_2018	positive
+argumentative_essays_essay155.txt_2019_2021	neutral
+argumentative_essays_essay155.txt_2060_2065	neutral
+argumentative_essays_essay155.txt_2115_2120	neutral
+argumentative_essays_essay155.txt_2124_2129	neutral

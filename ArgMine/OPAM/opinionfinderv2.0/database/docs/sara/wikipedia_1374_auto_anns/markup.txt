@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Now then , if this was <MPQAPOL autoclass="negative">merely</MPQAPOL> an `` List of pseudosciences '' , then this <MPQAPOL autoclass="neutral">would</MPQAPOL> be another matter .</MPQASENT>

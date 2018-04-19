@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You <MPQAPOL autoclass="neutral">appeared</MPQAPOL> to be keeping up with them <MPQAPOL autoclass="neutral">quite</MPQAPOL> <MPQAPOL autoclass="neutral">well</MPQAPOL> , which is half the battle !</MPQASENT>

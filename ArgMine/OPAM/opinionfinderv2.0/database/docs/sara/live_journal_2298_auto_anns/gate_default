@@ -1,0 +1,13 @@
+1	0,44	GATE_Sentence
+2	0,1	GATE_Token	string="b" lemma="b" category="NN"
+3	2,3	GATE_Token	string=")" lemma=")" category="-RRB-"
+4	4,7	GATE_Token	string="You" lemma="you" category="PRP"
+5	8,12	GATE_Token	string="make" lemma="make" category="VBP"
+6	13,15	GATE_Token	string="me" lemma="I" category="PRP"
+7	16,20	GATE_Token	string="want" lemma="want" category="VB"
+8	21,28	GATE_Token	string="mexican" lemma="mexican" category="JJ"
+9	29,33	GATE_Token	string="food" lemma="food" category="NN"
+10	34,35	GATE_Token	string="," lemma="," category=","
+11	36,38	GATE_Token	string="so" lemma="so" category="RB"
+12	39,42	GATE_Token	string="bad" lemma="bad" category="JJ"
+13	43,44	GATE_Token	string="." lemma="." category="."

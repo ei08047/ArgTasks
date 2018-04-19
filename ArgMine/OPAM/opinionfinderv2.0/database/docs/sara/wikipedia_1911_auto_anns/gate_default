@@ -1,0 +1,11 @@
+1	0,49	GATE_Sentence
+2	0,2	GATE_Token	string="No" lemma="no" category="DT"
+3	3,10	GATE_Token	string="further" lemma="further" category="RBR"
+4	11,16	GATE_Token	string="edits" lemma="edit" category="VBZ"
+5	17,23	GATE_Token	string="should" lemma="should" category="MD"
+6	24,26	GATE_Token	string="be" lemma="be" category="VB"
+7	27,31	GATE_Token	string="made" lemma="make" category="VBN"
+8	32,34	GATE_Token	string="to" lemma="to" category="TO"
+9	35,39	GATE_Token	string="this" lemma="this" category="DT"
+10	40,47	GATE_Token	string="section" lemma="section" category="NN"
+11	48,49	GATE_Token	string="." lemma="." category="."

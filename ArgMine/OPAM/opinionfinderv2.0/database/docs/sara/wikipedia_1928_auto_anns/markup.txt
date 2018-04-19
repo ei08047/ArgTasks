@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">True</MPQAPOL> , but do not expect to <MPQAPOL autoclass="neutral">actually</MPQAPOL> go through the U.S. cities one by one changing them .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Good</MPQAPOL> to be home - <MPQAPOL autoclass="neutral">despite</MPQAPOL> the layer of <MPQAPOL autoclass="neutral">fine</MPQAPOL> ash on every surface in the house .</MPQASENT>

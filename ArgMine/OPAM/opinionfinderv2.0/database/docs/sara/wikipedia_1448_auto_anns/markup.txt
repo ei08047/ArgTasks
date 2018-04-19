@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">or <MPQAPOL autoclass="neutral">would</MPQAPOL> we have to delete all sources older than 6 months ago ?</MPQASENT>

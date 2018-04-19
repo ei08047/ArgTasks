@@ -1,0 +1,7 @@
+1	0,33	GATE_Sentence
+2	0,6	GATE_Token	string="Edited" lemma="edit" category="VBN"
+3	7,9	GATE_Token	string="at" lemma="at" category="IN"
+4	10,20	GATE_Token	string="2008-04-01" lemma="2008-04-01" category="CD"
+5	21,26	GATE_Token	string="01:20" lemma="01:20" category="CD"
+6	27,29	GATE_Token	string="am" lemma="be" category="VBP"
+7	30,33	GATE_Token	string="UTC" lemma="UTC" category="NNP"

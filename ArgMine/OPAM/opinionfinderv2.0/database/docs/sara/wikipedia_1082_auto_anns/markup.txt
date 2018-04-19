@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">There are <MPQAPOL autoclass="neutral">endless</MPQAPOL> parallels in other branches of science .</MPQASENT>

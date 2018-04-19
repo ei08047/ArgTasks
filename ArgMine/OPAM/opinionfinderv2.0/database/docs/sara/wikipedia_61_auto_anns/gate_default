@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,7	GATE_Token	string="all" lemma="all" category="DT"
+4	8,10	GATE_Token	string="of" lemma="of" category="IN"
+5	11,15	GATE_Token	string="that" lemma="that" category="DT"
+6	16,21	GATE_Token	string="would" lemma="would" category="MD"
+7	22,26	GATE_Token	string="miss" lemma="miss" category="VB"
+8	27,30	GATE_Token	string="the" lemma="the" category="DT"
+9	31,36	GATE_Token	string="point" lemma="point" category="NN"
+10	37,38	GATE_Token	string="." lemma="." category="."

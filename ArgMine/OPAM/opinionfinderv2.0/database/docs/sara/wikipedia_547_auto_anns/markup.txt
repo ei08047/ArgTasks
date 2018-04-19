@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This is <MPQAPOL autoclass="neutral">exactly</MPQAPOL> the opposite of what the paragraph is <MPQAPOL autoclass="neutral">trying</MPQAPOL> to say .</MPQASENT>

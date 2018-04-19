@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,4	GATE_Token	string="some" lemma="some" category="DT"
+3	5,7	GATE_Token	string="of" lemma="of" category="IN"
+4	8,10	GATE_Token	string="us" lemma="we" category="PRP"
+5	11,14	GATE_Token	string="are" lemma="be" category="VBP"
+6	15,19	GATE_Token	string="just" lemma="just" category="RB"
+7	20,24	GATE_Token	string="that" lemma="that" category="DT"
+8	25,31	GATE_Token	string="simple" lemma="simple" category="JJ"

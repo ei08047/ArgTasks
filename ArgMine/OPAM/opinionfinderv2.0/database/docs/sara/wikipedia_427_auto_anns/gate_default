@@ -1,0 +1,9 @@
+1	0,55	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,13	GATE_Token	string="sometimes" lemma="sometimes" category="RB"
+4	14,26	GATE_Token	string="embarrassing" lemma="embarrassing" category="JJ"
+5	27,34	GATE_Token	string="changes" lemma="change" category="NNS"
+6	35,40	GATE_Token	string="creep" lemma="creep" category="VBP"
+7	41,43	GATE_Token	string="in" lemma="in" category="IN"
+8	44,53	GATE_Token	string="unnoticed" lemma="unnoticed" category="JJ"
+9	54,55	GATE_Token	string="." lemma="." category="."

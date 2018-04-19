@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I can but <MPQAPOL autoclass="neutral">wonder</MPQAPOL> what the local cats <MPQAPOL autoclass="neutral">thought</MPQAPOL> , given this <MPQAPOL autoclass="neutral">wonderful</MPQAPOL> <MPQAPOL autoclass="negative">sounding</MPQAPOL> hat .</MPQASENT>

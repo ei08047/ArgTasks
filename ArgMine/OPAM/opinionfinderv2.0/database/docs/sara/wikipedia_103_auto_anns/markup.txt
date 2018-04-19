@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Snopes is an entertainment website , no <MPQAPOL autoclass="neutral">reputable</MPQAPOL> encyclopedia uses them as a <MPQAPOL autoclass="neutral">valid</MPQAPOL> reference .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am more <MPQAPOL autoclass="positive">interested</MPQAPOL> in providing those <MPQAPOL autoclass="neutral">facts</MPQAPOL> and I dont <MPQAPOL autoclass="neutral">think</MPQAPOL> they make the article POV one way or the other .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">On the other hand , the current source does not make the <MPQAPOL autoclass="neutral">claim</MPQAPOL> ; it <MPQAPOL autoclass="negative">merely</MPQAPOL> reports that his weblog makes the <MPQAPOL autoclass="neutral">claim</MPQAPOL> .</MPQASENT>

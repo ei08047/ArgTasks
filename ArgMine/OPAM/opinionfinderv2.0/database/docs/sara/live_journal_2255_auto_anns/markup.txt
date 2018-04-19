@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i am <MPQAPOL autoclass="neutral">moving</MPQAPOL> into the <MPQAPOL autoclass="neutral">anarchist</MPQAPOL> house anytime next month .</MPQASENT>

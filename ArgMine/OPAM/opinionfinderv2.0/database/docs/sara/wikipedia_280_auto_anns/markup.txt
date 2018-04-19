@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">In <MPQAPOL autoclass="neutral">diplomacy</MPQAPOL> one curries <MPQAPOL autoclass="positive">favor</MPQAPOL> where and when one can .</MPQASENT>

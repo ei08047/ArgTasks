@@ -1,0 +1,12 @@
+1	0,62	GATE_Sentence
+2	0,2	GATE_Token	string="On" lemma="on" category="IN"
+3	3,6	GATE_Token	string="the" lemma="the" category="DT"
+4	7,12	GATE_Token	string="issue" lemma="issue" category="NN"
+5	13,15	GATE_Token	string="of" lemma="of" category="IN"
+6	16,26	GATE_Token	string="repression" lemma="repression" category="NN"
+7	27,29	GATE_Token	string="of" lemma="of" category="IN"
+8	30,41	GATE_Token	string="Protestants" lemma="Protestants" category="NNPS"
+9	42,44	GATE_Token	string="by" lemma="by" category="IN"
+10	45,53	GATE_Token	string="Catholic" lemma="Catholic" category="NNP"
+11	54,60	GATE_Token	string="rulers" lemma="ruler" category="NNS"
+12	61,62	GATE_Token	string="." lemma="." category="."

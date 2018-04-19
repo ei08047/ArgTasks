@@ -1,0 +1,12 @@
+1	0,53	GATE_Sentence
+2	0,2	GATE_Token	string="So" lemma="so" category="IN"
+3	3,4	GATE_Token	string="a" lemma="a" category="DT"
+4	5,12	GATE_Token	string="picture" lemma="picture" category="NN"
+5	13,24	GATE_Token	string="visualizing" lemma="visualize" category="VBG"
+6	25,26	GATE_Token	string="a" lemma="a" category="DT"
+7	27,34	GATE_Token	string="concept" lemma="concept" category="NN"
+8	35,39	GATE_Token	string="just" lemma="just" category="RB"
+9	40,44	GATE_Token	string="will" lemma="will" category="MD"
+10	45,48	GATE_Token	string="not" lemma="not" category="RB"
+11	49,51	GATE_Token	string="do" lemma="do" category="VB"
+12	52,53	GATE_Token	string="." lemma="." category="."

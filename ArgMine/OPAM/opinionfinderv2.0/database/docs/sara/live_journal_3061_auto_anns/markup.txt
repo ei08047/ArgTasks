@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i am not <MPQAPOL autoclass="neutral">sure</MPQAPOL> if i <MPQAPOL autoclass="negative">blame</MPQAPOL> him , <MPQAPOL autoclass="neutral">considering</MPQAPOL> i am not <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="positive">responsive</MPQAPOL> to some of his entries .</MPQASENT>

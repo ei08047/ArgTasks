@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">-LRB- I <MPQAPOL autoclass="neutral">really</MPQAPOL> like the other paragraphs in this section now , <MPQAPOL autoclass="neutral">though</MPQAPOL> , <MPQAPOL autoclass="neutral">just</MPQAPOL> not this one . -RRB-</MPQASENT>

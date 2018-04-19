@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="new" lemma="new" category="JJ"
+3	4,12	GATE_Token	string="feelings" lemma="feeling" category="NNS"
+4	13,14	GATE_Token	string="," lemma="," category=","
+5	15,18	GATE_Token	string="new" lemma="new" category="JJ"
+6	19,27	GATE_Token	string="memories" lemma="memory" category="NNS"
+7	28,30	GATE_Token	string="to" lemma="to" category="TO"
+8	31,35	GATE_Token	string="make" lemma="make" category="VB"
+9	36,37	GATE_Token	string="." lemma="." category="."
+10	37,38	GATE_Token	string="." lemma="." category="."

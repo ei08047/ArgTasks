@@ -1,0 +1,13 @@
+1	0,57	GATE_Sentence
+2	0,4	GATE_Token	string="Lots" lemma="lot" category="NNS"
+3	5,7	GATE_Token	string="of" lemma="of" category="IN"
+4	8,16	GATE_Token	string="articles" lemma="article" category="NNS"
+5	17,20	GATE_Token	string="get" lemma="get" category="VBP"
+6	21,22	GATE_Token	string="a" lemma="a" category="DT"
+7	23,26	GATE_Token	string="few" lemma="few" category="JJ"
+8	27,36	GATE_Token	string="instances" lemma="instance" category="NNS"
+9	37,39	GATE_Token	string="of" lemma="of" category="IN"
+10	40,49	GATE_Token	string="vandalism" lemma="vandalism" category="NN"
+11	50,51	GATE_Token	string="a" lemma="a" category="DT"
+12	52,55	GATE_Token	string="day" lemma="day" category="NN"
+13	56,57	GATE_Token	string="." lemma="." category="."

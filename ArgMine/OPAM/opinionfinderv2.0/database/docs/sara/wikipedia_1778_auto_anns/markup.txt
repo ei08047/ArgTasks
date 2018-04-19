@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am having a <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="negative">hard</MPQAPOL> time seeing why the first <MPQAPOL autoclass="neutral">would</MPQAPOL> be <MPQAPOL autoclass="positive">preferable</MPQAPOL> .</MPQASENT>

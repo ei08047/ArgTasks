@@ -1,0 +1,9 @@
+1	0,47	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,15	GATE_Token	string="confidence" lemma="confidence" category="NN"
+4	16,18	GATE_Token	string="is" lemma="be" category="VBZ"
+5	19,29	GATE_Token	string="attractive" lemma="attractive" category="JJ"
+6	30,32	GATE_Token	string="to" lemma="to" category="TO"
+7	33,38	GATE_Token	string="other" lemma="other" category="JJ"
+8	39,45	GATE_Token	string="people" lemma="people" category="NNS"
+9	46,47	GATE_Token	string="." lemma="." category="."

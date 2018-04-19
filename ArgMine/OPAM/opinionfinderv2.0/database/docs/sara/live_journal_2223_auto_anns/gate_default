@@ -1,0 +1,9 @@
+1	0,37	GATE_Sentence
+2	0,4	GATE_Token	string="come" lemma="come" category="VBN"
+3	5,7	GATE_Token	string="to" lemma="to" category="TO"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,17	GATE_Token	string="beach" lemma="beach" category="NN"
+6	18,20	GATE_Token	string="on" lemma="on" category="IN"
+7	21,29	GATE_Token	string="Saturday" lemma="Saturday" category="NNP"
+8	30,35	GATE_Token	string="babes" lemma="babe" category="NNS"
+9	36,37	GATE_Token	string="!" lemma="!" category="."

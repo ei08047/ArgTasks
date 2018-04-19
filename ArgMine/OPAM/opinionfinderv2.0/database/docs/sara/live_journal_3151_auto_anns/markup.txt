@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Probably , it <MPQAPOL autoclass="neutral">seems</MPQAPOL> to do <MPQAPOL autoclass="neutral">pretty</MPQAPOL> <MPQAPOL autoclass="positive">much</MPQAPOL> everything <MPQAPOL autoclass="neutral">else</MPQAPOL> <MPQAPOL autoclass="neutral">so</MPQAPOL> why the <MPQAPOL autoclass="negative">hell</MPQAPOL> not !</MPQASENT>

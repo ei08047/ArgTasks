@@ -1,0 +1,13 @@
+1	0,59	GATE_Sentence
+2	0,4	GATE_Token	string="What" lemma="what" category="WP"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,19	GATE_Token	string="mention" lemma="mention" category="NN"
+6	20,22	GATE_Token	string="of" lemma="of" category="IN"
+7	23,28	GATE_Token	string="Judas" lemma="Judas" category="NNP"
+8	29,35	GATE_Token	string="Priest" lemma="Priest" category="NNP"
+9	36,45	GATE_Token	string="referring" lemma="refer" category="VBG"
+10	46,48	GATE_Token	string="to" lemma="to" category="TO"
+11	49,50	GATE_Token	string="," lemma="," category=","
+12	51,57	GATE_Token	string="anyway" lemma="anyway" category="RB"
+13	58,59	GATE_Token	string="?" lemma="?" category="."

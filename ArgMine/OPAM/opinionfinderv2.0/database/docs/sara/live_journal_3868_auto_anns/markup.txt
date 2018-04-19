@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> you <MPQAPOL autoclass="neutral">exhausted</MPQAPOL> their minds more than their bodies .</MPQASENT>

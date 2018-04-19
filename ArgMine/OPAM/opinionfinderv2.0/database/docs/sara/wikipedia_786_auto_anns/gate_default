@@ -1,0 +1,10 @@
+1	0,46	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,7	GATE_Token	string="are" lemma="be" category="VBP"
+4	8,13	GATE_Token	string="FULLY" lemma="fully" category="RB"
+5	14,19	GATE_Token	string="AWARE" lemma="aware" category="JJ"
+6	20,22	GATE_Token	string="of" lemma="of" category="IN"
+7	23,26	GATE_Token	string="the" lemma="the" category="DT"
+8	27,35	GATE_Token	string="civilian" lemma="civilian" category="JJ"
+9	36,44	GATE_Token	string="presence" lemma="presence" category="NN"
+10	45,46	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,11 @@
+1	0,39	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,8	GATE_Token	string="weeps" lemma="weep" category="VBZ"
+4	9,11	GATE_Token	string="\*" lemma="\*" category="SYM"
+5	12,13	GATE_Token	string="I" lemma="I" category="PRP"
+6	14,16	GATE_Token	string="do" lemma="do" category="VBP"
+7	17,20	GATE_Token	string="not" lemma="not" category="RB"
+8	21,29	GATE_Token	string="wannnaaa" lemma="wannnaaa" category="JJ"
+9	30,34	GATE_Token	string="grow" lemma="grow" category="VB"
+10	35,37	GATE_Token	string="up" lemma="up" category="RP"
+11	38,39	GATE_Token	string="." lemma="." category="."

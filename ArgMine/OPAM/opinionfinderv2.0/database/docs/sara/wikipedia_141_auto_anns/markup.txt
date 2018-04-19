@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Their long-term presence is also <MPQAPOL autoclass="positive">backed</MPQAPOL> up by the genetic record .</MPQASENT>

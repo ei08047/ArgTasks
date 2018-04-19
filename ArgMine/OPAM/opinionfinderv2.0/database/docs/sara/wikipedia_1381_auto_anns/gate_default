@@ -1,0 +1,13 @@
+1	0,74	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,14	GATE_Token	string="bottomline" lemma="bottomline" category="NN"
+4	15,17	GATE_Token	string="is" lemma="be" category="VBZ"
+5	18,22	GATE_Token	string="that" lemma="that" category="IN"
+6	23,27	GATE_Token	string="CCHR" lemma="cchr" category="NN"
+7	28,30	GATE_Token	string="is" lemma="be" category="VBZ"
+8	31,32	GATE_Token	string="a" lemma="a" category="DT"
+9	33,40	GATE_Token	string="notable" lemma="notable" category="JJ"
+10	41,51	GATE_Token	string="psychiatry" lemma="psychiatry" category="NN"
+11	52,59	GATE_Token	string="skeptic" lemma="skeptic" category="JJ"
+12	60,72	GATE_Token	string="organization" lemma="organization" category="NN"
+13	73,74	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Despite</MPQAPOL> this , I <MPQAPOL autoclass="neutral">think</MPQAPOL> that is <MPQAPOL autoclass="neutral">exactly</MPQAPOL> what is happening right now .</MPQASENT>

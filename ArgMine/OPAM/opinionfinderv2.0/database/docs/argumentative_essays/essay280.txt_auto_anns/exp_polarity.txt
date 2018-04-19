@@ -1,0 +1,4 @@
+argumentative_essays_essay280.txt_1876_1882	positive
+argumentative_essays_essay280.txt_1960_1964	positive
+argumentative_essays_essay280.txt_1965_1974	positive
+argumentative_essays_essay280.txt_2001_2012	neutral

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i have to study and finals are going to be <MPQAPOL autoclass="neutral">hard</MPQAPOL> .</MPQASENT>

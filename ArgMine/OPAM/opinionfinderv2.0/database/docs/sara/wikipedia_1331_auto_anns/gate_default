@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,2	GATE_Token	string="WP" lemma="wp" category="NN"
+3	3,4	GATE_Token	string=":" lemma=":" category=":"
+4	5,11	GATE_Token	string="WEIGHT" lemma="weight" category="NN"
+5	12,14	GATE_Token	string="is" lemma="be" category="VBZ"
+6	15,25	GATE_Token	string="definitely" lemma="definitely" category="RB"
+7	26,28	GATE_Token	string="an" lemma="a" category="DT"
+8	29,34	GATE_Token	string="issue" lemma="issue" category="NN"
+9	35,39	GATE_Token	string="here" lemma="here" category="RB"
+10	40,41	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,9 @@
+1	0,51	GATE_Sentence
+2	0,5	GATE_Token	string="Three" lemma="three" category="CD"
+3	6,15	GATE_Token	string="centuries" lemma="century" category="NNS"
+4	16,18	GATE_Token	string="of" lemma="of" category="IN"
+5	19,20	GATE_Token	string="a" lemma="a" category="DT"
+6	21,30	GATE_Token	string="literally" lemma="literally" category="RB"
+7	31,42	GATE_Token	string="underground" lemma="underground" category="JJ"
+8	43,49	GATE_Token	string="church" lemma="church" category="NN"
+9	50,51	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Things were <MPQAPOL autoclass="neutral">slow</MPQAPOL> last week as <MPQAPOL autoclass="neutral">well</MPQAPOL> , and at the last minute things <MPQAPOL autoclass="neutral">still</MPQAPOL> sold <MPQAPOL autoclass="neutral">well</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,11 @@
+1	0,50	GATE_Sentence
+2	0,5	GATE_Token	string="Scary" lemma="scary" category="JJ"
+3	6,12	GATE_Token	string="enough" lemma="enough" category="JJ"
+4	13,15	GATE_Token	string="to" lemma="to" category="TO"
+5	16,22	GATE_Token	string="compel" lemma="compel" category="VB"
+6	23,26	GATE_Token	string="you" lemma="you" category="PRP"
+7	27,29	GATE_Token	string="to" lemma="to" category="TO"
+8	30,35	GATE_Token	string="clean" lemma="clean" category="VB"
+9	36,39	GATE_Token	string="the" lemma="the" category="DT"
+10	40,48	GATE_Token	string="bathroom" lemma="bathroom" category="NN"
+11	49,50	GATE_Token	string="!" lemma="!" category="."

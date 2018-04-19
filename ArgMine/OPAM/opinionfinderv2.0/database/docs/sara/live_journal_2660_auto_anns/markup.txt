@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">How <MPQAPOL autoclass="negative">unfair</MPQAPOL> , Paxon kids <MPQAPOL autoclass="neutral">really</MPQAPOL> get <MPQAPOL autoclass="negative">screwed</MPQAPOL> in that <MPQAPOL autoclass="positive">respect</MPQAPOL> ... >.></MPQASENT>

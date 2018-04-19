@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is <MPQAPOL autoclass="neutral">indeed</MPQAPOL> THE piece of history that made the <MPQAPOL autoclass="neutral">rapid</MPQAPOL> development of Linux kernel <MPQAPOL autoclass="neutral">possible</MPQAPOL> .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

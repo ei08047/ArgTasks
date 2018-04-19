@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,5	GATE_Token	string="needs" lemma="need" category="NNS"
+3	6,8	GATE_Token	string="to" lemma="to" category="TO"
+4	9,11	GATE_Token	string="be" lemma="be" category="VB"
+5	12,17	GATE_Token	string="there" lemma="there" category="RB"
+6	18,21	GATE_Token	string="for" lemma="for" category="IN"
+7	22,29	GATE_Token	string="balance" lemma="balance" category="NN"
+8	30,31	GATE_Token	string="." lemma="." category="."

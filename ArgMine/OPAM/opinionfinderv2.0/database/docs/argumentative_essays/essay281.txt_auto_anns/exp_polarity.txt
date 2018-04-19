@@ -1,0 +1,7 @@
+argumentative_essays_essay281.txt_2232_2236	neutral
+argumentative_essays_essay281.txt_2237_2246	positive
+argumentative_essays_essay281.txt_2247_2252	neutral
+argumentative_essays_essay281.txt_2253_2258	neutral
+argumentative_essays_essay281.txt_2275_2282	neutral
+argumentative_essays_essay281.txt_2299_2305	neutral
+argumentative_essays_essay281.txt_2326_2333	neutral

@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,2	GATE_Token	string="--" lemma="--" category=":"
+3	3,7	GATE_Token	string="Well" lemma="well" category="UH"
+4	8,9	GATE_Token	string="," lemma="," category=","
+5	10,17	GATE_Token	string="someone" lemma="someone" category="NN"
+6	18,23	GATE_Token	string="named" lemma="name" category="VBD"
+7	24,29	GATE_Token	string="Aisha" lemma="Aisha" category="NNP"
+8	30,32	GATE_Token	string="is" lemma="be" category="VBZ"
+9	33,39	GATE_Token	string="Jewish" lemma="jewish" category="JJ"
+10	40,41	GATE_Token	string="?" lemma="?" category="."

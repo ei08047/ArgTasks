@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">All I can say is <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="positive">luck</MPQAPOL> , and you are in my prayers !</MPQASENT>

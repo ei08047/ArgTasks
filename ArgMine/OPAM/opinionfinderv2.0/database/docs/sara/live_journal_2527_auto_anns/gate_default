@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="plus" lemma="plus" category="CC"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,15	GATE_Token	string="Hush" lemma="hush" category="JJ"
+6	16,21	GATE_Token	string="Sound" lemma="sound" category="NN"
+7	22,24	GATE_Token	string="is" lemma="be" category="VBZ"
+8	25,29	GATE_Token	string="sooo" lemma="sooo" category="RB"
+9	30,34	GATE_Token	string="cute" lemma="cute" category="JJ"
+10	35,36	GATE_Token	string="!" lemma="!" category="."

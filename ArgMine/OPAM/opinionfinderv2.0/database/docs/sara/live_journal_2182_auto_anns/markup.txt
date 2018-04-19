@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You end up working <MPQAPOL autoclass="neutral">too</MPQAPOL> hard , <MPQAPOL autoclass="negative">burning</MPQAPOL> yourself out , and your <MPQAPOL autoclass="neutral">knowledge</MPQAPOL> level for all classes goes down . )</MPQASENT>

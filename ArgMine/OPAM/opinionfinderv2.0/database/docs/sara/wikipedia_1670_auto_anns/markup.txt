@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They also <MPQAPOL autoclass="positive">agree</MPQAPOL> that it <MPQAPOL autoclass="neutral">should</MPQAPOL> be included on the <MPQAPOL autoclass="neutral">reliable</MPQAPOL> sources noticeboard along with secondary sources .</MPQASENT>

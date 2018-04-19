@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,5	GATE_Token	string="Great" lemma="Great" category="NNP"
+3	6,11	GATE_Token	string="Falls" lemma="Falls" category="NNP"
+4	12,14	GATE_Token	string="is" lemma="be" category="VBZ"
+5	15,18	GATE_Token	string="one" lemma="one" category="CD"
+6	19,21	GATE_Token	string="of" lemma="of" category="IN"
+7	22,24	GATE_Token	string="my" lemma="my" category="PRP$"
+8	25,33	GATE_Token	string="favorite" lemma="favorite" category="JJ"
+9	34,40	GATE_Token	string="places" lemma="place" category="NNS"
+10	41,43	GATE_Token	string="on" lemma="on" category="IN"
+11	44,47	GATE_Token	string="the" lemma="the" category="DT"
+12	48,54	GATE_Token	string="planet" lemma="planet" category="NN"
+13	55,56	GATE_Token	string="!" lemma="!" category="."

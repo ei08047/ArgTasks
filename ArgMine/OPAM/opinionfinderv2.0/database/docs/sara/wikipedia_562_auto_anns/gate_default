@@ -1,0 +1,12 @@
+1	0,64	GATE_Sentence
+2	0,9	GATE_Token	string="Evolution" lemma="evolution" category="NN"
+3	10,13	GATE_Token	string="and" lemma="and" category="CC"
+4	14,20	GATE_Token	string="Theory" lemma="Theory" category="NNP"
+5	21,23	GATE_Token	string="of" lemma="of" category="IN"
+6	24,33	GATE_Token	string="Evolution" lemma="Evolution" category="NNP"
+7	34,37	GATE_Token	string="are" lemma="be" category="VBP"
+8	38,49	GATE_Token	string="principally" lemma="principally" category="RB"
+9	50,53	GATE_Token	string="NOT" lemma="not" category="RB"
+10	54,57	GATE_Token	string="the" lemma="the" category="DT"
+11	58,62	GATE_Token	string="same" lemma="same" category="JJ"
+12	63,64	GATE_Token	string="." lemma="." category="."

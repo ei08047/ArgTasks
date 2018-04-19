@@ -1,0 +1,8 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="Her" lemma="she" category="PRP$"
+3	4,12	GATE_Token	string="daughter" lemma="daughter" category="NN"
+4	13,19	GATE_Token	string="became" lemma="become" category="VBD"
+5	20,27	GATE_Token	string="Gaddafi" lemma="Gaddafi" category="NNP"
+6	28,30	GATE_Token	string="'s" lemma="'s" category="POS"
+7	31,37	GATE_Token	string="mother" lemma="mother" category="NN"
+8	38,39	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">original</MPQAPOL> statement is in Farsi -LRB- not English -RRB- .</MPQASENT>

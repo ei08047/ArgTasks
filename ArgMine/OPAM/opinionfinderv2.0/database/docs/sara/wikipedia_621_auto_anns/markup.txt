@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">P.S. - Follow-up note : I <MPQAPOL autoclass="positive">agree</MPQAPOL> that the `` female president '' section <MPQAPOL autoclass="neutral">could</MPQAPOL> be made <MPQAPOL autoclass="positive">clearer</MPQAPOL> .</MPQASENT>

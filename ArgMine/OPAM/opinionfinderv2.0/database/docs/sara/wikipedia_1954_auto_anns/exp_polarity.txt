@@ -1,0 +1,2 @@
+sara_wikipedia_1954_7_11	negative
+sara_wikipedia_1954_12_16	positive

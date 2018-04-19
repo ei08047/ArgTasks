@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Let us <MPQAPOL autoclass="neutral">just</MPQAPOL> put this issue to bed once and for all because it is a <MPQAPOL autoclass="neutral">waste</MPQAPOL> of time .</MPQASENT>

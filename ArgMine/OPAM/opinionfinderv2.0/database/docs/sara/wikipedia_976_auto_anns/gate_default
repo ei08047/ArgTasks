@@ -1,0 +1,9 @@
+1	0,47	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,13	GATE_Token	string="statement" lemma="statement" category="NN"
+4	14,19	GATE_Token	string="about" lemma="about" category="IN"
+5	20,26	GATE_Token	string="Priest" lemma="priest" category="NN"
+6	27,29	GATE_Token	string="is" lemma="be" category="VBZ"
+7	30,37	GATE_Token	string="already" lemma="already" category="RB"
+8	38,45	GATE_Token	string="sourced" lemma="source" category="VBN"
+9	46,47	GATE_Token	string="." lemma="." category="."

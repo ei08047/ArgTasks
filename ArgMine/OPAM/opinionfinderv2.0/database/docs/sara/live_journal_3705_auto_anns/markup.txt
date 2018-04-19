@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">She does things for her own self , and <MPQAPOL autoclass="neutral">shines</MPQAPOL> in the process .</MPQASENT>

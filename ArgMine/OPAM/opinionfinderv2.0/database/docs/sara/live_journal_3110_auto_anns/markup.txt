@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Expect it sometime when I am <MPQAPOL autoclass="neutral">less</MPQAPOL> <MPQAPOL autoclass="negative">exhausted</MPQAPOL> and tipsy .</MPQASENT>

@@ -1,0 +1,10 @@
+1	0,50	GATE_Sentence
+2	0,9	GATE_Token	string="IIIMAGEEE" lemma="IIIMAGEEE" category="NNP"
+3	10,11	GATE_Token	string="i" lemma="i" category="FW"
+4	12,14	GATE_Token	string="am" lemma="be" category="VBP"
+5	15,21	GATE_Token	string="afraid" lemma="afraid" category="JJ"
+6	22,24	GATE_Token	string="of" lemma="of" category="IN"
+7	25,32	GATE_Token	string="meeting" lemma="meet" category="VBG"
+8	33,35	GATE_Token	string="my" lemma="my" category="PRP$"
+9	36,48	GATE_Token	string="doppleganger" lemma="doppleganger" category="NN"
+10	49,50	GATE_Token	string="." lemma="." category="."

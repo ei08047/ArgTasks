@@ -1,0 +1,9 @@
+1	0,31	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,8	GATE_Token	string="wonder" lemma="wonder" category="NN"
+4	9,12	GATE_Token	string="why" lemma="why" category="WRB"
+5	13,14	GATE_Token	string="i" lemma="i" category="FW"
+6	15,17	GATE_Token	string="am" lemma="be" category="VBP"
+7	18,20	GATE_Token	string="so" lemma="so" category="RB"
+8	21,29	GATE_Token	string="venomous" lemma="venomous" category="JJ"
+9	30,31	GATE_Token	string="." lemma="." category="."

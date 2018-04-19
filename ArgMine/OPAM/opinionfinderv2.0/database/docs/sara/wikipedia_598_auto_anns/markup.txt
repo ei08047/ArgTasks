@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">But here is the second , and <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="neutral">key</MPQAPOL> , <MPQAPOL autoclass="neutral">point</MPQAPOL> to address - who <MPQAPOL autoclass="neutral">would</MPQAPOL> be the `` hostess of the <MPQAPOL autoclass="neutral">white</MPQAPOL> house '' ?</MPQASENT>

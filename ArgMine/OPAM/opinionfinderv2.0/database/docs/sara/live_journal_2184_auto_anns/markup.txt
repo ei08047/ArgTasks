@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Your <MPQAPOL autoclass="positive">preference</MPQAPOL> for rationalism will be <MPQAPOL autoclass="negative">severely</MPQAPOL> <MPQAPOL autoclass="negative">challenged</MPQAPOL> depending on how the professor approaches the subject .</MPQASENT>

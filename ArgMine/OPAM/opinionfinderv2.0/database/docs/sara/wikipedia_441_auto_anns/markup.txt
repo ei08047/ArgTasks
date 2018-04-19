@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">One may expect a spike in the activity here , for <MPQAPOL autoclass="positive">better</MPQAPOL> or for <MPQAPOL autoclass="negative">worse</MPQAPOL> .</MPQASENT>

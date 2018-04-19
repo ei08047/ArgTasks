@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">: : I am not <MPQAPOL autoclass="neutral">clear</MPQAPOL> on why you <MPQAPOL autoclass="neutral">think</MPQAPOL> that is a <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="neutral">idea</MPQAPOL> .</MPQASENT>

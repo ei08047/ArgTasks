@@ -1,0 +1,11 @@
+1	0,47	GATE_Sentence
+2	0,4	GATE_Token	string="With" lemma="with" category="IN"
+3	5,9	GATE_Token	string="your" lemma="you" category="PRP$"
+4	10,14	GATE_Token	string="cuts" lemma="cut" category="NNS"
+5	15,19	GATE_Token	string="this" lemma="this" category="DT"
+6	20,22	GATE_Token	string="is" lemma="be" category="VBZ"
+7	23,26	GATE_Token	string="not" lemma="not" category="RB"
+8	27,38	GATE_Token	string="informative" lemma="informative" category="JJ"
+9	39,41	GATE_Token	string="at" lemma="at" category="IN"
+10	42,45	GATE_Token	string="all" lemma="all" category="DT"
+11	46,47	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,13 @@
+1	0,67	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,11	GATE_Token	string="scandal" lemma="scandal" category="NN"
+4	12,14	GATE_Token	string="is" lemma="be" category="VBZ"
+5	15,22	GATE_Token	string="already" lemma="already" category="RB"
+6	23,31	GATE_Token	string="featured" lemma="feature" category="VBN"
+7	32,38	GATE_Token	string="beyond" lemma="beyond" category="IN"
+8	39,42	GATE_Token	string="its" lemma="its" category="PRP$"
+9	43,49	GATE_Token	string="weight" lemma="weight" category="NN"
+10	50,52	GATE_Token	string="in" lemma="in" category="IN"
+11	53,57	GATE_Token	string="this" lemma="this" category="DT"
+12	58,65	GATE_Token	string="article" lemma="article" category="NN"
+13	66,67	GATE_Token	string="." lemma="." category="."

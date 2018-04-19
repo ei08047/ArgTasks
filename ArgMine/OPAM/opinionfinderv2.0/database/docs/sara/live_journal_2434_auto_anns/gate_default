@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,8	GATE_Token	string="yeah" lemma="yeah" category="RB"
+4	9,10	GATE_Token	string="," lemma="," category=","
+5	11,15	GATE_Token	string="hang" lemma="hang" category="VBP"
+6	16,19	GATE_Token	string="out" lemma="out" category="RP"
+7	20,24	GATE_Token	string="with" lemma="with" category="IN"
+8	25,29	GATE_Token	string="them" lemma="they" category="PRP"
+9	30,34	GATE_Token	string="more" lemma="more" category="RBR"
+10	35,36	GATE_Token	string="." lemma="." category="."

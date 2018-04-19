@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,4	GATE_Token	string="Next" lemma="next" category="JJ"
+3	5,9	GATE_Token	string="time" lemma="time" category="NN"
+4	10,11	GATE_Token	string="I" lemma="I" category="PRP"
+5	12,19	GATE_Token	string="promise" lemma="promise" category="VBP"
+6	20,21	GATE_Token	string="I" lemma="I" category="PRP"
+7	22,26	GATE_Token	string="will" lemma="will" category="MD"
+8	27,31	GATE_Token	string="give" lemma="give" category="VB"
+9	32,36	GATE_Token	string="more" lemma="more" category="JJR"
+10	37,43	GATE_Token	string="notice" lemma="notice" category="NN"
+11	44,45	GATE_Token	string="!" lemma="!" category="."

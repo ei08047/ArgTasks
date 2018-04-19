@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I often get <MPQAPOL autoclass="negative">frustrated</MPQAPOL> at the amount of things I am <MPQAPOL autoclass="neutral">supposed</MPQAPOL> to remember during casual conversations .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">dude you gotta come over and i will <MPQAPOL autoclass="neutral">show</MPQAPOL> you old tapes of <MPQAPOL autoclass="neutral">passions</MPQAPOL> .</MPQASENT>

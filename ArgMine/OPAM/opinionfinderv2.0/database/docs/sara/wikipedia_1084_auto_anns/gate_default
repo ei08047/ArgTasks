@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,5	GATE_Token	string="Those" lemma="those" category="DT"
+3	6,13	GATE_Token	string="authors" lemma="author" category="NNS"
+4	14,18	GATE_Token	string="have" lemma="have" category="VBP"
+5	19,28	GATE_Token	string="collected" lemma="collect" category="VBN"
+6	29,32	GATE_Token	string="and" lemma="and" category="CC"
+7	33,38	GATE_Token	string="cited" lemma="cite" category="VBN"
+8	39,47	GATE_Token	string="reliable" lemma="reliable" category="JJ"
+9	48,55	GATE_Token	string="sources" lemma="source" category="NNS"
+10	56,57	GATE_Token	string="." lemma="." category="."
+11	57,59	GATE_Sentence
+12	57,59	GATE_Token	string="--" lemma="--" category=":"

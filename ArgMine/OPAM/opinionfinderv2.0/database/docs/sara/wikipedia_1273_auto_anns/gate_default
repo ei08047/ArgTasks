@@ -1,0 +1,12 @@
+1	0,50	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,4	GATE_Token	string="do" lemma="do" category="VBP"
+4	5,8	GATE_Token	string="not" lemma="not" category="RB"
+5	9,14	GATE_Token	string="think" lemma="think" category="VB"
+6	15,21	GATE_Token	string="Kermit" lemma="Kermit" category="NNP"
+7	22,27	GATE_Token	string="spoke" lemma="speak" category="VBD"
+8	28,30	GATE_Token	string="at" lemma="at" category="IN"
+9	31,37	GATE_Token	string="Henson" lemma="Henson" category="NNP"
+10	38,40	GATE_Token	string="'s" lemma="'s" category="POS"
+11	41,48	GATE_Token	string="funeral" lemma="funeral" category="NN"
+12	49,50	GATE_Token	string="." lemma="." category="."

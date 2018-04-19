@@ -1,0 +1,13 @@
+1	0,76	GATE_Sentence
+2	0,4	GATE_Token	string="Some" lemma="some" category="DT"
+3	5,8	GATE_Token	string="are" lemma="be" category="VBP"
+4	9,13	GATE_Token	string="just" lemma="just" category="RB"
+5	14,18	GATE_Token	string="more" lemma="more" category="RBR"
+6	19,26	GATE_Token	string="blatant" lemma="blatant" category="JJ"
+7	27,30	GATE_Token	string="and" lemma="and" category="CC"
+8	31,41	GATE_Token	string="short-term" lemma="short-term" category="JJ"
+9	42,47	GATE_Token	string="about" lemma="about" category="IN"
+10	48,53	GATE_Token	string="their" lemma="they" category="PRP$"
+11	54,62	GATE_Token	string="despotic" lemma="despotic" category="JJ"
+12	63,74	GATE_Token	string="megalomania" lemma="megalomania" category="NN"
+13	75,76	GATE_Token	string="." lemma="." category="."

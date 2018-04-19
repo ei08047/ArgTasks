@@ -1,0 +1,11 @@
+1	0,44	GATE_Sentence
+2	0,3	GATE_Token	string="Led" lemma="Led" category="NNP"
+3	4,12	GATE_Token	string="Zeppelin" lemma="Zeppelin" category="NNP"
+4	13,16	GATE_Token	string="did" lemma="do" category="VBD"
+5	17,20	GATE_Token	string="one" lemma="one" category="CD"
+6	21,26	GATE_Token	string="doomy" lemma="doomy" category="JJ"
+7	27,31	GATE_Token	string="song" lemma="song" category="NN"
+8	32,34	GATE_Token	string="in" lemma="in" category="IN"
+9	35,38	GATE_Token	string="the" lemma="the" category="DT"
+10	39,42	GATE_Token	string="60s" lemma="60" category="NNS"
+11	43,44	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,12 @@
+1	0,41	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="like" lemma="like" category="VBP"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,14	GATE_Token	string="way" lemma="way" category="NN"
+6	15,19	GATE_Token	string="this" lemma="this" category="DT"
+7	20,23	GATE_Token	string="guy" lemma="guy" category="NN"
+8	24,28	GATE_Token	string="says" lemma="say" category="VBZ"
+9	29,31	GATE_Token	string="``" lemma="``" category="``"
+10	32,36	GATE_Token	string="cock" lemma="cock" category="NN"
+11	37,38	GATE_Token	string="." lemma="." category="."
+12	39,41	GATE_Token	string="''" lemma="''" category="''"

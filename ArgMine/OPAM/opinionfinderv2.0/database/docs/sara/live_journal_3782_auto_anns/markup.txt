@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Music : No music , not <MPQAPOL autoclass="neutral">sure</MPQAPOL> why , <MPQAPOL autoclass="neutral">just</MPQAPOL> did not <MPQAPOL autoclass="negative">feel</MPQAPOL> like RSI : How about some <MPQAPOL autoclass="neutral">nice</MPQAPOL> exercises ?</MPQASENT>

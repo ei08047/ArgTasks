@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">In <MPQAPOL autoclass="neutral">fact</MPQAPOL> <MPQAPOL autoclass="negative">disbelief</MPQAPOL> in England was the highest in Europe .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">At <MPQAPOL autoclass="neutral">least</MPQAPOL> , in the end , she <MPQAPOL autoclass="neutral">knew</MPQAPOL> that people <MPQAPOL autoclass="positive">cared</MPQAPOL> and that she was not alone .</MPQASENT>

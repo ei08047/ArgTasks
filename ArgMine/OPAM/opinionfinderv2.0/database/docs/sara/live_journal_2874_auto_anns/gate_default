@@ -1,0 +1,10 @@
+1	0,37	GATE_Sentence
+2	0,3	GATE_Token	string="can" lemma="can" category="MD"
+3	4,5	GATE_Token	string="i" lemma="i" category="FW"
+4	6,10	GATE_Token	string="come" lemma="come" category="VB"
+5	11,14	GATE_Token	string="too" lemma="too" category="RB"
+6	15,18	GATE_Token	string="..." lemma="..." category=":"
+7	19,27	GATE_Token	string="watching" lemma="watch" category="VBG"
+8	28,30	GATE_Token	string="is" lemma="be" category="VBZ"
+9	31,34	GATE_Token	string="fun" lemma="fun" category="NN"
+10	35,37	GATE_Token	string="!!" lemma="!!" category="NN"

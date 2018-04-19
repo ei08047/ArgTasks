@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It <MPQAPOL autoclass="neutral">would</MPQAPOL> be <MPQAPOL autoclass="neutral">nice</MPQAPOL> if we <MPQAPOL autoclass="neutral">could</MPQAPOL> <MPQAPOL autoclass="neutral">just</MPQAPOL> copy the article on Hamas from a <MPQAPOL autoclass="neutral">real</MPQAPOL> encyclopedia and paste it here .</MPQASENT>

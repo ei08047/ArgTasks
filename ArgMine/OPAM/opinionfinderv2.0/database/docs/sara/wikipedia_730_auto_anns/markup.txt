@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">If I were to <MPQAPOL autoclass="neutral">move</MPQAPOL> the '' ... <MPQAPOL autoclass="neutral">considered</MPQAPOL> in part , or wholly ... ..</MPQASENT>

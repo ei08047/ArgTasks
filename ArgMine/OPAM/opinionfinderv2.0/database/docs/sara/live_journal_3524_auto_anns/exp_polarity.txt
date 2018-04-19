@@ -1,0 +1,3 @@
+sara_live_journal_3524_2_11	positive
+sara_live_journal_3524_33_39	negative
+sara_live_journal_3524_48_55	negative

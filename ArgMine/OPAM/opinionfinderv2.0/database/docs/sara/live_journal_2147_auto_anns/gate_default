@@ -1,0 +1,10 @@
+1	0,47	GATE_Sentence
+2	0,2	GATE_Token	string="So" lemma="so" category="RB"
+3	3,6	GATE_Token	string="..." lemma="..." category=":"
+4	7,11	GATE_Token	string="what" lemma="what" category="WP"
+5	12,15	GATE_Token	string="are" lemma="be" category="VBP"
+6	16,22	GATE_Token	string="people" lemma="people" category="NNS"
+7	23,28	GATE_Token	string="doing" lemma="do" category="VBG"
+8	29,32	GATE_Token	string="for" lemma="for" category="IN"
+9	33,45	GATE_Token	string="Thanksgiving" lemma="Thanksgiving" category="NNP"
+10	46,47	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">We can see what others <MPQAPOL autoclass="neutral">think</MPQAPOL> .</MPQASENT>

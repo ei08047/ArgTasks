@@ -1,0 +1,11 @@
+1	0,35	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="liked" lemma="like" category="VBD"
+4	8,13	GATE_Token	string="Molly" lemma="Molly" category="NNP"
+5	14,15	GATE_Token	string="," lemma="," category=","
+6	16,19	GATE_Token	string="but" lemma="but" category="CC"
+7	20,25	GATE_Token	string="since" lemma="since" category="IN"
+8	26,29	GATE_Token	string="two" lemma="two" category="CD"
+9	30,31	GATE_Token	string="(" lemma="(" category="-LRB-"
+10	32,33	GATE_Token	string="?" lemma="?" category="."
+11	34,35	GATE_Token	string=")" lemma=")" category="-RRB-"

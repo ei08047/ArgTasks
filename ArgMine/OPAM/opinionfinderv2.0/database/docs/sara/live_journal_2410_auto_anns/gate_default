@@ -1,0 +1,13 @@
+1	0,57	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,10	GATE_Token	string="remember" lemma="remember" category="VBP"
+4	11,15	GATE_Token	string="when" lemma="when" category="WRB"
+5	16,17	GATE_Token	string="I" lemma="I" category="PRP"
+6	18,25	GATE_Token	string="changed" lemma="change" category="VBD"
+7	26,28	GATE_Token	string="my" lemma="my" category="PRP$"
+8	29,33	GATE_Token	string="ebay" lemma="ebay" category="NN"
+9	34,41	GATE_Token	string="account" lemma="account" category="NN"
+10	42,43	GATE_Token	string="I" lemma="I" category="PRP"
+11	44,48	GATE_Token	string="lost" lemma="lose" category="VBD"
+12	49,55	GATE_Token	string="people" lemma="people" category="NNS"
+13	56,57	GATE_Token	string="." lemma="." category="."

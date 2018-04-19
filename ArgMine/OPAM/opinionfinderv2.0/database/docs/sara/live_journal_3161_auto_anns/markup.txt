@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj"><MPQAPOL autoclass="neutral">Happily</MPQAPOL> the <MPQAPOL autoclass="neutral">lovely</MPQAPOL> and <MPQAPOL autoclass="positive">talented</MPQAPOL> Mama Rains makes it <MPQAPOL autoclass="neutral">better</MPQAPOL> , with icing and rest and adjustment .</MPQASENT>

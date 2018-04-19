@@ -1,0 +1,10 @@
+1	0,36	GATE_Sentence
+2	0,6	GATE_Token	string="Anyone" lemma="anyone" category="NN"
+3	7,11	GATE_Token	string="mind" lemma="mind" category="NN"
+4	12,14	GATE_Token	string="if" lemma="if" category="IN"
+5	15,16	GATE_Token	string="I" lemma="I" category="PRP"
+6	17,21	GATE_Token	string="take" lemma="take" category="VBP"
+7	22,26	GATE_Token	string="care" lemma="care" category="NN"
+8	27,29	GATE_Token	string="of" lemma="of" category="IN"
+9	30,34	GATE_Token	string="that" lemma="that" category="DT"
+10	35,36	GATE_Token	string="?" lemma="?" category="."

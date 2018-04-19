@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">Do you <MPQAPOL autoclass="neutral">really</MPQAPOL> <MPQAPOL autoclass="negative">think</MPQAPOL> , if he was n't there to do it , you <MPQAPOL autoclass="neutral">would</MPQAPOL> not pick yourself up ?</MPQASENT>

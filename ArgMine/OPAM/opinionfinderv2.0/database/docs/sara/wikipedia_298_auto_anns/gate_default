@@ -1,0 +1,11 @@
+1	0,54	GATE_Sentence
+2	0,5	GATE_Token	string="Again" lemma="again" category="RB"
+3	6,10	GATE_Token	string="what" lemma="what" category="WP"
+4	11,15	GATE_Token	string="were" lemma="be" category="VBD"
+5	16,19	GATE_Token	string="the" lemma="the" category="DT"
+6	20,28	GATE_Token	string="negative" lemma="negative" category="JJ"
+7	29,36	GATE_Token	string="aspects" lemma="aspect" category="NNS"
+8	37,39	GATE_Token	string="of" lemma="of" category="IN"
+9	40,43	GATE_Token	string="the" lemma="the" category="DT"
+10	44,52	GATE_Token	string="MISSIONS" lemma="mission" category="NNS"
+11	53,54	GATE_Token	string="?" lemma="?" category="."

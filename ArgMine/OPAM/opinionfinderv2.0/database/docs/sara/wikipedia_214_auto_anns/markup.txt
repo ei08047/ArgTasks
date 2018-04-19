@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The article is not <MPQAPOL autoclass="neutral">even</MPQAPOL> <MPQAPOL autoclass="negative">factual</MPQAPOL> anymore .</MPQASENT>

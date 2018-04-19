@@ -1,0 +1,12 @@
+1	0,54	GATE_Sentence
+2	0,2	GATE_Token	string="He" lemma="he" category="PRP"
+3	3,7	GATE_Token	string="does" lemma="do" category="VBZ"
+4	8,11	GATE_Token	string="not" lemma="not" category="RB"
+5	12,16	GATE_Token	string="look" lemma="look" category="VB"
+6	17,25	GATE_Token	string="anything" lemma="anything" category="NN"
+7	26,30	GATE_Token	string="like" lemma="like" category="IN"
+8	31,32	GATE_Token	string="a" lemma="a" category="DT"
+9	33,37	GATE_Token	string="full" lemma="full" category="JJ"
+10	38,45	GATE_Token	string="blooded" lemma="blood" category="VBN"
+11	46,52	GATE_Token	string="Libyan" lemma="libyan" category="JJ"
+12	53,54	GATE_Token	string="." lemma="." category="."

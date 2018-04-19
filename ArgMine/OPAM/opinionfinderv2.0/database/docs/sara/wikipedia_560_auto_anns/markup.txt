@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Call this observation <MPQAPOL autoclass="negative">ignorance</MPQAPOL> if you <MPQAPOL autoclass="positive">want</MPQAPOL> . ''</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,55	GATE_Sentence
+2	0,4	GATE_Token	string="What" lemma="what" category="WP"
+3	5,7	GATE_Token	string="if" lemma="if" category="IN"
+4	8,11	GATE_Token	string="the" lemma="the" category="DT"
+5	12,15	GATE_Token	string="Sun" lemma="Sun" category="NNP"
+6	16,19	GATE_Token	string="and" lemma="and" category="CC"
+7	20,24	GATE_Token	string="Moon" lemma="Moon" category="NNP"
+8	25,28	GATE_Token	string="did" lemma="do" category="VBD"
+9	29,32	GATE_Token	string="not" lemma="not" category="RB"
+10	33,42	GATE_Token	string="recognize" lemma="recognize" category="VB"
+11	43,47	GATE_Token	string="each" lemma="each" category="DT"
+12	48,53	GATE_Token	string="other" lemma="other" category="JJ"
+13	54,55	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,11	GATE_Token	string="why" lemma="why" category="WRB"
+5	12,13	GATE_Token	string="a" lemma="a" category="DT"
+6	14,22	GATE_Token	string="lungfish" lemma="lungfish" category="NN"
+7	23,25	GATE_Token	string="is" lemma="be" category="VBZ"
+8	26,32	GATE_Token	string="called" lemma="call" category="VBN"
+9	33,34	GATE_Token	string="a" lemma="a" category="DT"
+10	35,43	GATE_Token	string="lungfish" lemma="lungfish" category="NN"
+11	44,45	GATE_Token	string="!" lemma="!" category="."

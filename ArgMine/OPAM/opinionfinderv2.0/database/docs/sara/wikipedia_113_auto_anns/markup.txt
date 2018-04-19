@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">is a alveo-palatal fricative and not <MPQAPOL autoclass="neutral">appropriate</MPQAPOL> in the Basque context , <MPQAPOL autoclass="neutral">so</MPQAPOL> the ones on the English Wiki are <MPQAPOL autoclass="neutral">better</MPQAPOL> .</MPQASENT>

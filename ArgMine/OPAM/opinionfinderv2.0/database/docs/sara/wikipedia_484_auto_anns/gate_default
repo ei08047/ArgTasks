@@ -1,0 +1,10 @@
+1	0,45	GATE_Sentence
+2	0,5	GATE_Token	string="Which" lemma="which" category="WDT"
+3	6,12	GATE_Token	string="images" lemma="image" category="NNS"
+4	13,15	GATE_Token	string="do" lemma="do" category="VBP"
+5	16,19	GATE_Token	string="you" lemma="you" category="PRP"
+6	20,25	GATE_Token	string="think" lemma="think" category="VB"
+7	26,32	GATE_Token	string="should" lemma="should" category="MD"
+8	33,35	GATE_Token	string="be" lemma="be" category="VB"
+9	36,43	GATE_Token	string="removed" lemma="remove" category="VBN"
+10	44,45	GATE_Token	string="?" lemma="?" category="."

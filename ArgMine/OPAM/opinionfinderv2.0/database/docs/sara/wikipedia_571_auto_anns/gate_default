@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,3	GATE_Token	string="Let" lemma="let" category="VB"
+3	4,5	GATE_Token	string="s" lemma="s" category="PRP"
+4	6,8	GATE_Token	string="be" lemma="be" category="VB"
+5	9,17	GATE_Token	string="specific" lemma="specific" category="JJ"
+6	18,21	GATE_Token	string="and" lemma="and" category="CC"
+7	22,24	GATE_Token	string="we" lemma="we" category="PRP"
+8	25,28	GATE_Token	string="may" lemma="may" category="MD"
+9	29,34	GATE_Token	string="avoid" lemma="avoid" category="VB"
+10	35,52	GATE_Token	string="misunderstandings" lemma="misunderstanding" category="NNS"
+11	53,54	GATE_Token	string="." lemma="." category="."
+12	55,57	GATE_Token	string="''" lemma="''" category="''"

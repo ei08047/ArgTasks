@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am not unsympathetic to your <MPQAPOL autoclass="negative">criticisms</MPQAPOL> of that article , but this is not the place to <MPQAPOL autoclass="neutral">air</MPQAPOL> them .</MPQASENT>

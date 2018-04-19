@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Your <MPQAPOL autoclass="neutral">views</MPQAPOL> are <MPQAPOL autoclass="neutral">actually</MPQAPOL> <MPQAPOL autoclass="positive">quite</MPQAPOL> <MPQAPOL autoclass="positive">interesting</MPQAPOL> .</MPQASENT>

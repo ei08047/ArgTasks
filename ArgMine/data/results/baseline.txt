@@ -1,0 +1,61 @@
+
++++++   Argumentative Sentence Detection   +++++
+
+
+
+
+++++   baseline   ++++
+
+
+
+Loading DatasetLoaderASD from pickled file ...
+starting getTrainingTestSetSplit
+ended getTrainingTestSetSplit
+ Building Pipeline ...
+
+ Obtaining Predictions ...
+
+
+[Cross-validation performed in 79629.07981657982 sec.]
+
+
+Cross Validation Metrics - Training data:
+
+Accuracy= 0.730889666605
+
+Confusion Matrix:
+[[ 497  480]
+ [ 981 3471]]
+             precision    recall  f1-score   support
+
+no argument       0.34      0.51      0.40       977
+   argument       0.88      0.78      0.83      4452
+
+avg / total       0.78      0.73      0.75      5429
+
+
+ Saving model (pipeline) ...
+Test data length: 1310
+
+Evaluation Metrics - Test Set:
+
+Accuracy= 0.748854961832
+
+Confusion Matrix:
+[[141 111]
+ [218 840]]
+             precision    recall  f1-score   support
+
+no argument       0.39      0.56      0.46       252
+   argument       0.88      0.79      0.84      1058
+
+avg / total       0.79      0.75      0.76      1310
+
+
+[Learning Process performed in 80325.64112043381 sec.]
+
+
+
+The end!
+
+Process finished with exit code 0

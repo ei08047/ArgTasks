@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> everyone is <MPQAPOL autoclass="neutral">trying</MPQAPOL> to build a <MPQAPOL autoclass="positive">good</MPQAPOL> article in <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="positive">faith</MPQAPOL> .</MPQASENT>

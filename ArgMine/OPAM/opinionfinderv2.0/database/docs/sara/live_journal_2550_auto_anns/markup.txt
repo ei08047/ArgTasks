@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">AND THEY <MPQAPOL autoclass="positive">dare</MPQAPOL> to say they are not going to holiday here because seals are being <MPQAPOL autoclass="neutral">killed</MPQAPOL> !!</MPQASENT>

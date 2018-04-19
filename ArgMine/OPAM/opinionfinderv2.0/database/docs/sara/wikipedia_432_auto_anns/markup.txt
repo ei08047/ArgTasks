@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="positive">hope</MPQAPOL> <MPQAPOL autoclass="positive">consideration</MPQAPOL> of future <MPQAPOL autoclass="neutral">security</MPQAPOL> will be <MPQAPOL autoclass="neutral">considered</MPQAPOL> if the vandalism increases , <MPQAPOL autoclass="neutral">especially</MPQAPOL> when we are at FAC .</MPQASENT>

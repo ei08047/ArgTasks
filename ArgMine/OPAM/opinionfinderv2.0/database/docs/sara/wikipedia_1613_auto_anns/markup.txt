@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">My <MPQAPOL autoclass="neutral">thoughts</MPQAPOL> are that you make <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="negative">weird</MPQAPOL> <MPQAPOL autoclass="negative">silly</MPQAPOL> <MPQAPOL autoclass="negative">argument</MPQAPOL> .</MPQASENT>

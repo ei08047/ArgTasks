@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">When I woke up , I <MPQAPOL autoclass="neutral">looked</MPQAPOL> out the window at a road sign and asked him why we were in England .</MPQASENT>

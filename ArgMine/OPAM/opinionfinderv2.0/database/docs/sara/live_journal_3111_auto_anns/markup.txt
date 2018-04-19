@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Hey Matt , <MPQAPOL autoclass="neutral">Perhaps</MPQAPOL> you <MPQAPOL autoclass="neutral">could</MPQAPOL> <MPQAPOL autoclass="neutral">look</MPQAPOL> into doing 3D for motion graphics - titles for TV News , promos etc. .</MPQASENT>

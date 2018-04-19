@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i <MPQAPOL autoclass="neutral">wonder</MPQAPOL> why i am <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">venomous</MPQAPOL> .</MPQASENT>

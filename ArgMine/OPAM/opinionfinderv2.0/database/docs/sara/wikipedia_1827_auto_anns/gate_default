@@ -1,0 +1,11 @@
+1	0,40	GATE_Sentence
+2	0,1	GATE_Token	string="`" lemma="`" category="``"
+3	2,5	GATE_Token	string="You" lemma="you" category="PRP"
+4	6,10	GATE_Token	string="know" lemma="know" category="VBP"
+5	11,18	GATE_Token	string="Gaddafi" lemma="Gaddafi" category="NNP"
+6	19,21	GATE_Token	string="'s" lemma="'s" category="POS"
+7	22,28	GATE_Token	string="mother" lemma="mother" category="NN"
+8	29,32	GATE_Token	string="was" lemma="be" category="VBD"
+9	33,34	GATE_Token	string="a" lemma="a" category="DT"
+10	35,38	GATE_Token	string="Jew" lemma="jew" category="NN"
+11	39,40	GATE_Token	string="?" lemma="?" category="."

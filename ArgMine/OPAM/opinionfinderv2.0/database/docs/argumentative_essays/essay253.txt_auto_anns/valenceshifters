@@ -1,0 +1,4 @@
+1	1363,1369	matchfeat	type="shiftneg" 
+2	1391,1394	matchfeat	type="negation" 
+3	2139,2142	matchfeat	type="negation" 
+4	2139,2147	matchfeat	type="notshifter" 

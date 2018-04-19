@@ -1,0 +1,11 @@
+1	0,31	GATE_Sentence
+2	0,1	GATE_Token	string=":" lemma=":" category=":"
+3	1,2	GATE_Token	string="P" lemma="p" category="NN"
+4	3,8	GATE_Token	string="Jesus" lemma="Jesus" category="NNP"
+5	9,10	GATE_Token	string="," lemma="," category=","
+6	11,15	GATE_Token	string="what" lemma="what" category="WP"
+7	16,18	GATE_Token	string="is" lemma="be" category="VBZ"
+8	19,21	GATE_Token	string="it" lemma="it" category="PRP"
+9	22,26	GATE_Token	string="made" lemma="make" category="VBD"
+10	27,29	GATE_Token	string="of" lemma="of" category="IN"
+11	30,31	GATE_Token	string="?" lemma="?" category="."

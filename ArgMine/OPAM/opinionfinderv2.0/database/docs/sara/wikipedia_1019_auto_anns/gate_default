@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,6	GATE_Token	string="Define" lemma="define" category="VB"
+3	7,11	GATE_Token	string="hard" lemma="hard" category="JJ"
+4	12,16	GATE_Token	string="rock" lemma="rock" category="NN"
+5	17,24	GATE_Token	string="artists" lemma="artist" category="NNS"
+6	25,30	GATE_Token	string="first" lemma="first" category="RB"
+7	31,33	GATE_Token	string="of" lemma="of" category="IN"
+8	34,37	GATE_Token	string="all" lemma="all" category="DT"
+9	38,39	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,4	GATE_Token	string="What" lemma="what" category="WDT"
+3	5,12	GATE_Token	string="country" lemma="country" category="NN"
+4	13,19	GATE_Token	string="should" lemma="should" category="MD"
+5	20,22	GATE_Token	string="it" lemma="it" category="PRP"
+6	23,29	GATE_Token	string="relate" lemma="relate" category="VB"
+7	30,32	GATE_Token	string="to" lemma="to" category="TO"
+8	33,34	GATE_Token	string="?" lemma="?" category="."

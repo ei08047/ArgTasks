@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,4	GATE_Token	string="Gwen" lemma="Gwen" category="NNP"
+3	5,9	GATE_Token	string="made" lemma="make" category="VBD"
+4	10,11	GATE_Token	string="a" lemma="a" category="DT"
+5	12,15	GATE_Token	string="new" lemma="new" category="JJ"
+6	16,20	GATE_Token	string="song" lemma="song" category="NN"
+7	21,28	GATE_Token	string="already" lemma="already" category="RB"
+8	29,31	GATE_Token	string="??" lemma="??" category="IN"

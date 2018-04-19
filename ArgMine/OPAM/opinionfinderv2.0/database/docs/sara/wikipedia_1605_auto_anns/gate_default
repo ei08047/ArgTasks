@@ -1,0 +1,12 @@
+1	0,61	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="found" lemma="find" category="VBD"
+4	8,10	GATE_Token	string="``" lemma="``" category="``"
+5	11,18	GATE_Token	string="Zionist" lemma="Zionist" category="NNP"
+6	19,25	GATE_Token	string="Regime" lemma="Regime" category="NNP"
+7	26,28	GATE_Token	string="''" lemma="''" category="''"
+8	29,32	GATE_Token	string="and" lemma="and" category="CC"
+9	33,38	GATE_Token	string="other" lemma="other" category="JJ"
+10	39,51	GATE_Token	string="descriptions" lemma="description" category="NNS"
+11	52,59	GATE_Token	string="instead" lemma="instead" category="RB"
+12	60,61	GATE_Token	string="." lemma="." category="."

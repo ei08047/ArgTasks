@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That other <MPQAPOL autoclass="neutral">view</MPQAPOL> <MPQAPOL autoclass="neutral">must</MPQAPOL> be in this article for it to be NPOV .</MPQASENT>

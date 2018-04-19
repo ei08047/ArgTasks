@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That was the Boogie Pimps , but <MPQAPOL autoclass="neutral">yes</MPQAPOL> !</MPQASENT>

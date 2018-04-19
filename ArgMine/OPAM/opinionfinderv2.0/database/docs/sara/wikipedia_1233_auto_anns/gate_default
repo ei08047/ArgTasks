@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,3	GATE_Token	string="Nor" lemma="nor" category="CC"
+3	4,6	GATE_Token	string="is" lemma="be" category="VBZ"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,16	GATE_Token	string="Irish" lemma="irish" category="JJ"
+6	17,27	GATE_Token	string="Tri-Colour" lemma="Tri-Colour" category="NNP"
+7	28,29	GATE_Token	string="," lemma="," category=","
+8	30,32	GATE_Token	string="at" lemma="at" category="IN"
+9	33,36	GATE_Token	string="all" lemma="all" category="DT"
+10	37,38	GATE_Token	string="." lemma="." category="."

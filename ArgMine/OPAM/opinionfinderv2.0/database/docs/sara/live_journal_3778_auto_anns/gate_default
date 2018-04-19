@@ -1,0 +1,8 @@
+1	0,40	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,8	GATE_Token	string="wanted" lemma="want" category="VBD"
+4	9,18	GATE_Token	string="something" lemma="something" category="NN"
+5	19,23	GATE_Token	string="that" lemma="that" category="WDT"
+6	24,31	GATE_Token	string="sounded" lemma="sound" category="VBD"
+7	32,36	GATE_Token	string="dull" lemma="dull" category="JJ"
+8	37,40	GATE_Token	string="..." lemma="..." category=":"

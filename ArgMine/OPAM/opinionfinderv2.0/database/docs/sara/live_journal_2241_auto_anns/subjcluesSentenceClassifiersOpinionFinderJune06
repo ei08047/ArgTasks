@@ -1,0 +1,4 @@
+1	0,2	matchfeat	type="strongjandiss" mpqapolarity="neutral"
+2	5,9	matchfeat	type="basilisk-2000nouns-strongsubj" mpqapolarity="strongneg"
+3	14,18	matchfeat	type="bl_desire_verb" mpqapolarity="neutral"
+4	22,26	matchfeat	type="trainJWman" mpqapolarity="neutral"

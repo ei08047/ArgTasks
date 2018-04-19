@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,14	GATE_Token	string="photograph" lemma="photograph" category="NN"
+4	15,17	GATE_Token	string="is" lemma="be" category="VBZ"
+5	18,20	GATE_Token	string="an" lemma="a" category="DT"
+6	21,30	GATE_Token	string="evolution" lemma="evolution" category="NN"
+7	31,33	GATE_Token	string="of" lemma="of" category="IN"
+8	34,38	GATE_Token	string="Nast" lemma="Nast" category="NNP"
+9	39,41	GATE_Token	string="'s" lemma="'s" category="POS"
+10	42,47	GATE_Token	string="ideal" lemma="ideal" category="JJ"
+11	48,55	GATE_Token	string="imagery" lemma="imagery" category="NN"
+12	56,57	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,8 @@
+1	0,32	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="like" lemma="like" category="VBP"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,16	GATE_Token	string="Uncle" lemma="Uncle" category="NNP"
+6	17,22	GATE_Token	string="Remus" lemma="Remus" category="NNP"
+7	23,30	GATE_Token	string="stories" lemma="story" category="NNS"
+8	31,32	GATE_Token	string="." lemma="." category="."

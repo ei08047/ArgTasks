@@ -1,0 +1,7 @@
+argumentative_essays_essay318.txt_2273_2277	neutral
+argumentative_essays_essay318.txt_2296_2299	neutral
+argumentative_essays_essay318.txt_2304_2308	neutral
+argumentative_essays_essay318.txt_2336_2345	neutral
+argumentative_essays_essay318.txt_2389_2394	neutral
+argumentative_essays_essay318.txt_2398_2410	negative
+argumentative_essays_essay318.txt_2415_2425	neutral

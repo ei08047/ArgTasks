@@ -1,0 +1,10 @@
+1	0,50	GATE_Sentence
+2	0,11	GATE_Token	string="Affirmative" lemma="affirmative" category="JJ"
+3	12,18	GATE_Token	string="Action" lemma="Action" category="NNP"
+4	19,23	GATE_Token	string="does" lemma="do" category="VBZ"
+5	24,27	GATE_Token	string="not" lemma="not" category="RB"
+6	28,32	GATE_Token	string="give" lemma="give" category="VB"
+7	33,36	GATE_Token	string="you" lemma="you" category="PRP"
+8	37,41	GATE_Token	string="good" lemma="good" category="JJ"
+9	42,48	GATE_Token	string="grades" lemma="grade" category="NNS"
+10	49,50	GATE_Token	string="!" lemma="!" category="."

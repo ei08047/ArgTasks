@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You <MPQAPOL autoclass="neutral">know</MPQAPOL> he came down last night & you two <MPQAPOL autoclass="neutral">think</MPQAPOL> a lot alike .</MPQASENT>

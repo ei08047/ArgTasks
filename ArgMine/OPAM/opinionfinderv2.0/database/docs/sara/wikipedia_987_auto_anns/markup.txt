@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This paragraph is <MPQAPOL autoclass="neutral">rightfully</MPQAPOL> phrased as representation of an <MPQAPOL autoclass="neutral">opinion</MPQAPOL> .</MPQASENT>

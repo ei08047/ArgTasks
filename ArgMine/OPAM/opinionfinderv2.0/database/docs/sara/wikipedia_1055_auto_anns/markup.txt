@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">believe</MPQAPOL> Living Colour at <MPQAPOL autoclass="neutral">least</MPQAPOL> <MPQAPOL autoclass="negative">deserve</MPQAPOL> a sentence .</MPQASENT>

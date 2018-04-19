@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">Does not <MPQAPOL autoclass="neutral">seem</MPQAPOL> <MPQAPOL autoclass="neutral">likely</MPQAPOL> that there <MPQAPOL autoclass="neutral">would</MPQAPOL> be any <MPQAPOL autoclass="negative">confusion</MPQAPOL> .</MPQASENT>

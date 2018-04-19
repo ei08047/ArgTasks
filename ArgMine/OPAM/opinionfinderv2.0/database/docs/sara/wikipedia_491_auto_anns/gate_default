@@ -1,0 +1,10 @@
+1	0,44	GATE_Sentence
+2	0,9	GATE_Token	string="Certainly" lemma="certainly" category="RB"
+3	10,13	GATE_Token	string="not" lemma="not" category="RB"
+4	14,22	GATE_Token	string="suitable" lemma="suitable" category="JJ"
+5	23,25	GATE_Token	string="as" lemma="as" category="IN"
+6	26,27	GATE_Token	string="a" lemma="a" category="DT"
+7	28,32	GATE_Token	string="lead" lemma="lead" category="NN"
+8	33,38	GATE_Token	string="image" lemma="image" category="NN"
+9	39,42	GATE_Token	string="IMO" lemma="imo" category="NN"
+10	43,44	GATE_Token	string="!" lemma="!" category="."

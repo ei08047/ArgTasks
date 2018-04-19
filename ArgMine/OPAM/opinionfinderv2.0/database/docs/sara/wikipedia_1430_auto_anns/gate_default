@@ -1,0 +1,15 @@
+1	0,55	GATE_Sentence
+2	0,2	GATE_Token	string="If" lemma="if" category="IN"
+3	3,5	GATE_Token	string="it" lemma="it" category="PRP"
+4	6,8	GATE_Token	string="is" lemma="be" category="VBZ"
+5	9,10	GATE_Token	string="a" lemma="a" category="DT"
+6	11,22	GATE_Token	string="significant" lemma="significant" category="JJ"
+7	23,32	GATE_Token	string="viewpoint" lemma="viewpoint" category="NN"
+8	33,34	GATE_Token	string="," lemma="," category=","
+9	35,37	GATE_Token	string="we" lemma="we" category="PRP"
+10	38,42	GATE_Token	string="must" lemma="must" category="MD"
+11	43,50	GATE_Token	string="include" lemma="include" category="VB"
+12	51,53	GATE_Token	string="it" lemma="it" category="PRP"
+13	54,55	GATE_Token	string="." lemma="." category="."
+14	55,57	GATE_Sentence
+15	55,57	GATE_Token	string="--" lemma="--" category=":"

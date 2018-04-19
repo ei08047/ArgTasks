@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj"><MPQAPOL autoclass="neutral">So</MPQAPOL> one article being <MPQAPOL autoclass="negative">wrong</MPQAPOL> is grounds for another to be <MPQAPOL autoclass="neutral">wrong</MPQAPOL> as <MPQAPOL autoclass="neutral">well</MPQAPOL> ?</MPQASENT>

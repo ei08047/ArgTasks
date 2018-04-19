@@ -1,0 +1,3 @@
+argumentative_essays_essay063.txt_2709_2711	neutral
+argumentative_essays_essay063.txt_2743_2748	neutral
+argumentative_essays_essay063.txt_2761_2767	positive

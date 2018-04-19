@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> it is <MPQAPOL autoclass="neutral">clear</MPQAPOL> who is citing their `` <MPQAPOL autoclass="neutral">opinion</MPQAPOL> '' ... .</MPQASENT>

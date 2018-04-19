@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">This article does not <MPQAPOL autoclass="neutral">even</MPQAPOL> reflect the diverse <MPQAPOL autoclass="neutral">opinions</MPQAPOL> of Catholic churchgoers .</MPQASENT>

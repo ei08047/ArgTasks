@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Is it <MPQAPOL autoclass="neutral">true</MPQAPOL> what i have heard <MPQAPOL autoclass="neutral">though</MPQAPOL> , that in canada you can buy milk in bags ?</MPQASENT>

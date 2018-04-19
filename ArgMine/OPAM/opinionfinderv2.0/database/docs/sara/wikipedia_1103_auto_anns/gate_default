@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,11	GATE_Token	string="about" lemma="about" category="IN"
+5	12,16	GATE_Token	string="time" lemma="time" category="NN"
+6	17,21	GATE_Token	string="this" lemma="this" category="DT"
+7	22,29	GATE_Token	string="article" lemma="article" category="NN"
+8	30,34	GATE_Token	string="made" lemma="make" category="VBD"
+9	35,37	GATE_Token	string="GA" lemma="ga" category="NN"
+10	38,44	GATE_Token	string="status" lemma="status" category="NN"
+11	45,50	GATE_Token	string="after" lemma="after" category="IN"
+12	51,54	GATE_Token	string="all" lemma="all" category="DT"
+13	55,56	GATE_Token	string="." lemma="." category="."

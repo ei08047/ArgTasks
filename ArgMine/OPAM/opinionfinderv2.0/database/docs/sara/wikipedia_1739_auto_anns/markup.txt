@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That is <MPQAPOL autoclass="neutral">unneeded</MPQAPOL> detail , and I <MPQAPOL autoclass="neutral">thought</MPQAPOL> it was what we were talking about all along .</MPQASENT>

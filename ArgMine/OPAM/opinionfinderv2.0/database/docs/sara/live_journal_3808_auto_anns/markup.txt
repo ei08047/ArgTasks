@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Cross your fingers that it is not all a <MPQAPOL autoclass="neutral">dream</MPQAPOL> !</MPQASENT>

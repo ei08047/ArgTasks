@@ -1,0 +1,10 @@
+1	0,37	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,7	GATE_Token	string="would" lemma="would" category="MD"
+4	8,10	GATE_Token	string="do" lemma="do" category="VB"
+5	11,17	GATE_Token	string="almost" lemma="almost" category="RB"
+6	18,26	GATE_Token	string="anything" lemma="anything" category="NN"
+7	27,29	GATE_Token	string="he" lemma="he" category="PRP"
+8	30,34	GATE_Token	string="asks" lemma="ask" category="VBZ"
+9	35,36	GATE_Token	string="." lemma="." category="."
+10	36,37	GATE_Token	string="." lemma="." category="."

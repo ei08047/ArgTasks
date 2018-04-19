@@ -1,0 +1,7 @@
+argumentative_essays_essay001.txt_1994_2006	neutral
+argumentative_essays_essay001.txt_2027_2031	neutral
+argumentative_essays_essay001.txt_2102_2113	neutral
+argumentative_essays_essay001.txt_2161_2172	positive
+argumentative_essays_essay001.txt_2173_2182	neutral
+argumentative_essays_essay001.txt_2204_2214	positive
+argumentative_essays_essay001.txt_2224_2231	neutral

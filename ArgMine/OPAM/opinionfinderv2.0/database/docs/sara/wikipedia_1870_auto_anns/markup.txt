@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It is a <MPQAPOL autoclass="neutral">broad</MPQAPOL> genre , but not <MPQAPOL autoclass="neutral">sweeping</MPQAPOL> in scope .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,4	GATE_Token	string="am" lemma="be" category="VBP"
+4	5,12	GATE_Token	string="keeping" lemma="keep" category="VBG"
+5	13,16	GATE_Token	string="you" lemma="you" category="PRP"
+6	17,19	GATE_Token	string="in" lemma="in" category="IN"
+7	20,22	GATE_Token	string="my" lemma="my" category="PRP$"
+8	23,31	GATE_Token	string="thoughts" lemma="thought" category="NNS"
+9	32,35	GATE_Token	string="and" lemma="and" category="CC"
+10	36,43	GATE_Token	string="prayers" lemma="prayer" category="NNS"
+11	44,45	GATE_Token	string="." lemma="." category="."

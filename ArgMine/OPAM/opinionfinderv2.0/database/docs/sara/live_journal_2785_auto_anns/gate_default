@@ -1,0 +1,12 @@
+1	0,51	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="have" lemma="have" category="VBP"
+4	7,11	GATE_Token	string="been" lemma="be" category="VBN"
+5	12,18	GATE_Token	string="losing" lemma="lose" category="VBG"
+6	19,23	GATE_Token	string="time" lemma="time" category="NN"
+7	24,27	GATE_Token	string="all" lemma="all" category="DT"
+8	28,32	GATE_Token	string="over" lemma="over" category="IN"
+9	33,36	GATE_Token	string="the" lemma="the" category="DT"
+10	37,42	GATE_Token	string="place" lemma="place" category="NN"
+11	43,49	GATE_Token	string="lately" lemma="lately" category="RB"
+12	50,51	GATE_Token	string="." lemma="." category="."

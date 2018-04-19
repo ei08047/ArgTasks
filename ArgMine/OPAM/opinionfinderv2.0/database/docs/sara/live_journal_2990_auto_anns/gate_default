@@ -1,0 +1,11 @@
+1	0,49	GATE_Sentence
+2	0,4	GATE_Token	string="More" lemma="more" category="RBR"
+3	5,13	GATE_Token	string="consoles" lemma="console" category="VBZ"
+4	14,19	GATE_Token	string="means" lemma="mean" category="VBZ"
+5	20,23	GATE_Token	string="you" lemma="you" category="PRP"
+6	24,27	GATE_Token	string="buy" lemma="buy" category="VB"
+7	28,32	GATE_Token	string="more" lemma="more" category="JJR"
+8	33,38	GATE_Token	string="games" lemma="game" category="NNS"
+9	39,42	GATE_Token	string="for" lemma="for" category="IN"
+10	43,47	GATE_Token	string="them" lemma="they" category="PRP"
+11	48,49	GATE_Token	string="." lemma="." category="."

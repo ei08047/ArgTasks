@@ -1,0 +1,10 @@
+1	0,39	GATE_Sentence
+2	0,5	GATE_Token	string="Turns" lemma="turn" category="VBZ"
+3	6,9	GATE_Token	string="out" lemma="out" category="IN"
+4	10,12	GATE_Token	string="it" lemma="it" category="PRP"
+5	13,16	GATE_Token	string="was" lemma="be" category="VBD"
+6	17,20	GATE_Token	string="the" lemma="the" category="DT"
+7	21,26	GATE_Token	string="other" lemma="other" category="JJ"
+8	27,30	GATE_Token	string="way" lemma="way" category="NN"
+9	31,37	GATE_Token	string="around" lemma="around" category="IN"
+10	38,39	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">How do you <MPQAPOL autoclass="neutral">know</MPQAPOL> <MPQAPOL autoclass="negative">Black</MPQAPOL> Sabbath 's <MPQAPOL autoclass="neutral">importance</MPQAPOL> is <MPQAPOL autoclass="negative">false</MPQAPOL> , a <MPQAPOL autoclass="negative">myth</MPQAPOL> ?</MPQASENT>

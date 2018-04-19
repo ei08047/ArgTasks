@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">The Sam Dunn <MPQAPOL autoclass="neutral">claim</MPQAPOL> is <MPQAPOL autoclass="negative">inconsistent</MPQAPOL> with his somewhat <MPQAPOL autoclass="negative">notorious</MPQAPOL> `` <MPQAPOL autoclass="neutral">Definitive</MPQAPOL> Metal Family Tree . ''</MPQASENT>

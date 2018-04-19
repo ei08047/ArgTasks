@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,4	GATE_Token	string="They" lemma="they" category="PRP"
+3	5,10	GATE_Token	string="might" lemma="might" category="MD"
+4	11,14	GATE_Token	string="end" lemma="end" category="VB"
+5	15,17	GATE_Token	string="up" lemma="up" category="RP"
+6	18,25	GATE_Token	string="equally" lemma="equally" category="RB"
+7	26,29	GATE_Token	string="sad" lemma="sad" category="JJ"
+8	30,31	GATE_Token	string="." lemma="." category="."

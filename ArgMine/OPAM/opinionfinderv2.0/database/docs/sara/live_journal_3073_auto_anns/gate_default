@@ -1,0 +1,13 @@
+1	0,45	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="wish" lemma="wish" category="VBP"
+4	7,8	GATE_Token	string="I" lemma="I" category="PRP"
+5	9,12	GATE_Token	string="had" lemma="have" category="VBD"
+6	13,20	GATE_Token	string="thought" lemma="think" category="VBN"
+7	21,23	GATE_Token	string="of" lemma="of" category="IN"
+8	24,28	GATE_Token	string="that" lemma="that" category="DT"
+9	29,33	GATE_Token	string="when" lemma="when" category="WRB"
+10	34,35	GATE_Token	string="I" lemma="I" category="PRP"
+11	36,39	GATE_Token	string="saw" lemma="see" category="VBD"
+12	40,43	GATE_Token	string="him" lemma="he" category="PRP"
+13	44,45	GATE_Token	string="." lemma="." category="."

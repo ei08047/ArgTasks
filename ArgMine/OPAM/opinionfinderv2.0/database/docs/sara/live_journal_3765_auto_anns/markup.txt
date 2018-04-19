@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">This was my last gift to her , and I <MPQAPOL autoclass="neutral">miss</MPQAPOL> her already .</MPQASENT>

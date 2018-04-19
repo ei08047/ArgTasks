@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I will <MPQAPOL autoclass="negative">admit</MPQAPOL> that is <MPQAPOL autoclass="neutral">funny</MPQAPOL> , and also <MPQAPOL autoclass="negative">quite</MPQAPOL> <MPQAPOL autoclass="positive">correct</MPQAPOL> .</MPQASENT>

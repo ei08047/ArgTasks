@@ -1,0 +1,12 @@
+argumentative_essays_essay068.txt_0_192	obj
+argumentative_essays_essay068.txt_193_298	subj
+argumentative_essays_essay068.txt_299_608	subj
+argumentative_essays_essay068.txt_609_731	subj
+argumentative_essays_essay068.txt_732_801	obj
+argumentative_essays_essay068.txt_802_880	obj
+argumentative_essays_essay068.txt_881_1013	subj
+argumentative_essays_essay068.txt_1014_1165	obj
+argumentative_essays_essay068.txt_1166_1287	subj
+argumentative_essays_essay068.txt_1288_1377	obj
+argumentative_essays_essay068.txt_1378_1491	obj
+argumentative_essays_essay068.txt_1492_1576	obj

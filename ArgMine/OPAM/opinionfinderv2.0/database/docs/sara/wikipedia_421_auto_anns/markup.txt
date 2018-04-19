@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">The lead <MPQAPOL autoclass="neutral">should</MPQAPOL> be <MPQAPOL autoclass="neutral">able</MPQAPOL> to <MPQAPOL autoclass="neutral">stand</MPQAPOL> alone as a concise overview of the article .</MPQASENT>

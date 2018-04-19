@@ -1,0 +1,12 @@
+1	0,73	GATE_Sentence
+2	0,7	GATE_Token	string="Further" lemma="further" category="RB"
+3	8,10	GATE_Token	string="to" lemma="to" category="TO"
+4	11,19	GATE_Token	string="Karanacs" lemma="Karanacs" category="NNP"
+5	20,30	GATE_Token	string="objections" lemma="objection" category="NNS"
+6	31,32	GATE_Token	string=":" lemma=":" category=":"
+7	33,36	GATE_Token	string="The" lemma="the" category="DT"
+8	37,44	GATE_Token	string="article" lemma="article" category="NN"
+9	45,47	GATE_Token	string="is" lemma="be" category="VBZ"
+10	48,59	GATE_Token	string="necessarily" lemma="necessarily" category="RB"
+11	60,71	GATE_Token	string="broad-brush" lemma="broad-brush" category="JJ"
+12	72,73	GATE_Token	string="." lemma="." category="."

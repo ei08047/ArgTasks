@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">A general <MPQAPOL autoclass="negative">lack</MPQAPOL> of money is a <MPQAPOL autoclass="negative">frustrating</MPQAPOL> <MPQAPOL autoclass="negative">problem</MPQAPOL> , that causes issues in my marriage .</MPQASENT>

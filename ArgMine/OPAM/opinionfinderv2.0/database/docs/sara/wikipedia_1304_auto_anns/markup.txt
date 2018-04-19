@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The Linux kernel was n't developed to fill in the <MPQAPOL autoclass="neutral">missing</MPQAPOL> gap in the GNU project .</MPQASENT>

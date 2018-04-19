@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,4	GATE_Token	string="Well" lemma="well" category="RB"
+3	5,6	GATE_Token	string="," lemma="," category=","
+4	7,11	GATE_Token	string="this" lemma="this" category="DT"
+5	12,14	GATE_Token	string="is" lemma="be" category="VBZ"
+6	15,17	GATE_Token	string="my" lemma="my" category="PRP$"
+7	18,27	GATE_Token	string="sophomore" lemma="sophomore" category="NN"
+8	28,32	GATE_Token	string="year" lemma="year" category="NN"
+9	33,36	GATE_Token	string="..." lemma="..." category=":"

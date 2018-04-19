@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">Not everyone lives in a <MPQAPOL autoclass="positive">supportive</MPQAPOL> and happy-go-lucky family , and I am <MPQAPOL autoclass="positive">glad</MPQAPOL> it did not pass .</MPQASENT>

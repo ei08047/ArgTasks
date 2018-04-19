@@ -1,0 +1,11 @@
+1	0,58	GATE_Sentence
+2	0,9	GATE_Token	string="Wikipedia" lemma="Wikipedia" category="NNP"
+3	10,24	GATE_Token	string="administrators" lemma="administrator" category="NNS"
+4	25,27	GATE_Token	string="do" lemma="do" category="VBP"
+5	28,31	GATE_Token	string="not" lemma="not" category="RB"
+6	32,36	GATE_Token	string="know" lemma="know" category="VB"
+7	37,41	GATE_Token	string="what" lemma="what" category="WP"
+8	42,46	GATE_Token	string="they" lemma="they" category="PRP"
+9	47,50	GATE_Token	string="are" lemma="be" category="VBP"
+10	51,56	GATE_Token	string="doing" lemma="do" category="VBG"
+11	57,58	GATE_Token	string="." lemma="." category="."

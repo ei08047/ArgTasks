@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am game if you are , and will <MPQAPOL autoclass="neutral">happily</MPQAPOL> call on the day to confirm .</MPQASENT>

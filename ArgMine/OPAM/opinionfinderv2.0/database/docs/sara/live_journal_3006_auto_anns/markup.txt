@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Considering</MPQAPOL> how <MPQAPOL autoclass="neutral">big</MPQAPOL> a trip you two <MPQAPOL autoclass="neutral">just</MPQAPOL> took , and your <MPQAPOL autoclass="neutral">illness</MPQAPOL> along the way ?</MPQASENT>

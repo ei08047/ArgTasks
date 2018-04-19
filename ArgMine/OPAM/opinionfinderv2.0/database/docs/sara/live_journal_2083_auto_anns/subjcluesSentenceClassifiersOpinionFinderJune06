@@ -1,0 +1,3 @@
+1	3,9	matchfeat	type="ballmerLen1" mpqapolarity="weakneg"
+2	22,27	matchfeat	type="bl_judge_verb" mpqapolarity="strongpos"
+3	48,55	matchfeat	type="strongjandiss" mpqapolarity="strongpos"

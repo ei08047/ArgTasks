@@ -1,0 +1,3 @@
+1	16,20	matchfeat	type="bl_psych_verb" mpqapolarity="weakneg"
+2	25,29	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="strongneg"
+3	30,35	matchfeat	type="strongjandiss" mpqapolarity="strongpos"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">First we have to <MPQAPOL autoclass="neutral">decide</MPQAPOL> whether the Origin and Mission section is a <MPQAPOL autoclass="neutral">problem</MPQAPOL> .</MPQASENT>

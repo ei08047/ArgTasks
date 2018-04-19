@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,11	GATE_Token	string="opening" lemma="opening" category="NN"
+4	12,15	GATE_Token	string="pic" lemma="pic" category="JJ"
+5	16,21	GATE_Token	string="needs" lemma="need" category="NNS"
+6	22,24	GATE_Token	string="to" lemma="to" category="TO"
+7	25,32	GATE_Token	string="reflect" lemma="reflect" category="VB"
+8	33,37	GATE_Token	string="that" lemma="that" category="DT"
+9	38,39	GATE_Token	string="." lemma="." category="."

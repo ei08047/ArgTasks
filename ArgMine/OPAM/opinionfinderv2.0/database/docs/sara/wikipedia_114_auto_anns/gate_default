@@ -1,0 +1,10 @@
+1	0,38	GATE_Sentence
+2	0,2	GATE_Token	string="So" lemma="so" category="RB"
+3	3,6	GATE_Token	string="use" lemma="use" category="NN"
+4	7,12	GATE_Token	string="-LRB-" lemma="-lrb-" category="-LRB-"
+5	13,14	GATE_Token	string="s" lemma="s" category="NNS"
+6	15,20	GATE_Token	string="-RRB-" lemma="-rrb-" category="-RRB-"
+7	21,24	GATE_Token	string="and" lemma="and" category="CC"
+8	25,30	GATE_Token	string="-LRB-" lemma="-lrb-" category="-LRB-"
+9	31,32	GATE_Token	string="s" lemma="s" category="NNS"
+10	33,38	GATE_Token	string="-RRB-" lemma="-rrb-" category="-RRB-"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">For those following along at home , we are doing the 5:40 <MPQAPOL autoclass="neutral">show</MPQAPOL> .</MPQASENT>

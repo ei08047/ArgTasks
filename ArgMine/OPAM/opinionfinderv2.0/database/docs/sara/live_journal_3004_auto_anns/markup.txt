@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">one of my goals this summer is to <MPQAPOL autoclass="neutral">try</MPQAPOL> one new vegetable a week .</MPQASENT>

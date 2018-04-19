@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The online version of the Encyclopedia Britannica is peer reviewed and <MPQAPOL autoclass="neutral">fact</MPQAPOL> checked .</MPQASENT>

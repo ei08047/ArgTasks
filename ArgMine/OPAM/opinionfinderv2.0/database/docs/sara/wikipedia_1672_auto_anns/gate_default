@@ -1,0 +1,11 @@
+1	0,63	GATE_Sentence
+2	0,4	GATE_Token	string="This" lemma="this" category="DT"
+3	5,7	GATE_Token	string="is" lemma="be" category="VBZ"
+4	8,10	GATE_Token	string="an" lemma="a" category="DT"
+5	11,18	GATE_Token	string="English" lemma="english" category="JJ"
+6	19,30	GATE_Token	string="translation" lemma="translation" category="NN"
+7	31,33	GATE_Token	string="of" lemma="of" category="IN"
+8	34,41	GATE_Token	string="Mahmoud" lemma="Mahmoud" category="NNP"
+9	42,53	GATE_Token	string="Ahmadinejad" lemma="Ahmadinejad" category="NNP"
+10	54,61	GATE_Token	string="remarks" lemma="remark" category="NNS"
+11	62,63	GATE_Token	string="." lemma="." category="."

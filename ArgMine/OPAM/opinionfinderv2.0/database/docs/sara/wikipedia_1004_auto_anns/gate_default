@@ -1,0 +1,13 @@
+1	0,47	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,8	GATE_Token	string="just" lemma="just" category="RB"
+4	9,13	GATE_Token	string="show" lemma="show" category="VBP"
+5	14,16	GATE_Token	string="me" lemma="I" category="PRP"
+6	17,21	GATE_Token	string="when" lemma="when" category="WRB"
+7	22,23	GATE_Token	string="I" lemma="I" category="PRP"
+8	24,30	GATE_Token	string="called" lemma="call" category="VBD"
+9	31,34	GATE_Token	string="you" lemma="you" category="PRP"
+10	35,37	GATE_Token	string="``" lemma="``" category="``"
+11	38,42	GATE_Token	string="evil" lemma="evil" category="JJ"
+12	43,44	GATE_Token	string="." lemma="." category="."
+13	45,47	GATE_Token	string="''" lemma="''" category="''"

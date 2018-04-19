@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I totally do <MPQAPOL autoclass="neutral">think</MPQAPOL> Brokeback <MPQAPOL autoclass="neutral">should</MPQAPOL> have won !</MPQASENT>

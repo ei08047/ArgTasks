@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> the first panel <MPQAPOL autoclass="neutral">could</MPQAPOL> be done more <MPQAPOL autoclass="negative">simplistically</MPQAPOL> and <MPQAPOL autoclass="neutral">effectively</MPQAPOL> .</MPQASENT>

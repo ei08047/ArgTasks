@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,4	GATE_Token	string="That" lemma="that" category="DT"
+3	5,10	GATE_Token	string="would" lemma="would" category="MD"
+4	11,13	GATE_Token	string="be" lemma="be" category="VB"
+5	14,16	GATE_Token	string="in" lemma="in" category="IN"
+6	17,21	GATE_Token	string="your" lemma="you" category="PRP$"
+7	22,26	GATE_Token	string="eyes" lemma="eye" category="NNS"
+8	27,31	GATE_Token	string="only" lemma="only" category="RB"
+9	32,33	GATE_Token	string="." lemma="." category="."

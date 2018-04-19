@@ -1,0 +1,11 @@
+1	0,44	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,7	GATE_Token	string="made" lemma="make" category="VBD"
+4	8,10	GATE_Token	string="it" lemma="it" category="PRP"
+5	11,15	GATE_Token	string="more" lemma="more" category="RBR"
+6	16,25	GATE_Token	string="chocolaty" lemma="chocolaty" category="JJ"
+7	26,27	GATE_Token	string="," lemma="," category=","
+8	28,31	GATE_Token	string="but" lemma="but" category="CC"
+9	32,37	GATE_Token	string="still" lemma="still" category="RB"
+10	38,42	GATE_Token	string="flat" lemma="flat" category="JJ"
+11	43,44	GATE_Token	string="." lemma="." category="."

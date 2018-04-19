@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,6	GATE_Token	string="Should" lemma="should" category="MD"
+3	7,10	GATE_Token	string="not" lemma="not" category="RB"
+4	11,13	GATE_Token	string="it" lemma="it" category="PRP"
+5	14,16	GATE_Token	string="be" lemma="be" category="VB"
+6	17,24	GATE_Token	string="O'BRIAN" lemma="O'BRIAN" category="NNP"
+7	25,27	GATE_Token	string="'S" lemma="'s" category="POS"
+8	28,34	GATE_Token	string="?!?!?!" lemma="?!?!?!" category="CD"

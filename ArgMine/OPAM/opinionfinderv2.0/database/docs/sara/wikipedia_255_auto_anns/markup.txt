@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That is a different statement from the <MPQAPOL autoclass="neutral">vast</MPQAPOL> majority of the <MPQAPOL autoclass="neutral">abuse</MPQAPOL> is in the U.S. --</MPQASENT>

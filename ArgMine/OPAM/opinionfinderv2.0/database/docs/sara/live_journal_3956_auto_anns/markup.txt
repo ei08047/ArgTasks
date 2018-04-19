@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">`` The <MPQAPOL autoclass="negative">devil</MPQAPOL> is at work '' may be Churchspeak `` people are doing <MPQAPOL autoclass="negative">bad</MPQAPOL> things '' .</MPQASENT>

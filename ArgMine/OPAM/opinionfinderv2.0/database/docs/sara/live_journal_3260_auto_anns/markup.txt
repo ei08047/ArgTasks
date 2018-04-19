@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">could</MPQAPOL> not do anything <MPQAPOL autoclass="neutral">else</MPQAPOL> , <MPQAPOL autoclass="neutral">love</MPQAPOL> .</MPQASENT>

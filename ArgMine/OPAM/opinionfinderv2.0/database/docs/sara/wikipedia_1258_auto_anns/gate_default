@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,8	GATE_Token	string="term" lemma="term" category="NN"
+4	9,15	GATE_Token	string="should" lemma="should" category="MD"
+5	16,19	GATE_Token	string="not" lemma="not" category="RB"
+6	20,22	GATE_Token	string="be" lemma="be" category="VB"
+7	23,27	GATE_Token	string="used" lemma="use" category="VBN"
+8	28,34	GATE_Token	string="except" lemma="except" category="IN"
+9	35,37	GATE_Token	string="in" lemma="in" category="IN"
+10	38,46	GATE_Token	string="specific" lemma="specific" category="JJ"
+11	47,55	GATE_Token	string="contexts" lemma="context" category="NNS"
+12	56,57	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">It is <MPQAPOL autoclass="neutral">still</MPQAPOL> a discussion that is <MPQAPOL autoclass="neutral">worth</MPQAPOL> having sooner <MPQAPOL autoclass="neutral">rather</MPQAPOL> than later ..</MPQASENT>

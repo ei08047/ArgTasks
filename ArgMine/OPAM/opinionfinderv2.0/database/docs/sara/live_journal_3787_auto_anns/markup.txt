@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">This is not a <MPQAPOL autoclass="negative">serious</MPQAPOL> <MPQAPOL autoclass="negative">objection</MPQAPOL> .</MPQASENT>

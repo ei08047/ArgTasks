@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">You offer part of Europe and we will <MPQAPOL autoclass="positive">support</MPQAPOL> it . ''</MPQASENT>

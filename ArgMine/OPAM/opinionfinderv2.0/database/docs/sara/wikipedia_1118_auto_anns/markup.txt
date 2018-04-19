@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Yorkshirian , <MPQAPOL autoclass="neutral">correct</MPQAPOL> me if I am <MPQAPOL autoclass="negative">wrong</MPQAPOL> on any of this , but - you have <MPQAPOL autoclass="neutral">just</MPQAPOL> returned from a long ban ?</MPQASENT>

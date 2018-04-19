@@ -1,0 +1,7 @@
+1	0,32	GATE_Sentence
+2	0,7	GATE_Token	string="Corrupt" lemma="Corrupt" category="NNP"
+3	8,15	GATE_Token	string="bankers" lemma="banker" category="NNS"
+4	16,23	GATE_Token	string="screwed" lemma="screw" category="VBD"
+5	24,26	GATE_Token	string="us" lemma="we" category="PRP"
+6	27,30	GATE_Token	string="all" lemma="all" category="DT"
+7	31,32	GATE_Token	string="?" lemma="?" category="."

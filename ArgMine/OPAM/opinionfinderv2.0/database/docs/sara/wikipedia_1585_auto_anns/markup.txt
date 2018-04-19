@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The statistics <MPQAPOL autoclass="neutral">shows</MPQAPOL> that almost always 1\/5 apply to engineering programs , 2\/5 social sciences and 2\/5 medicals .</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">But dont take my word for it , im <MPQAPOL autoclass="neutral">just</MPQAPOL> a fucked up <MPQAPOL autoclass="negative">little</MPQAPOL> girl .</MPQASENT>

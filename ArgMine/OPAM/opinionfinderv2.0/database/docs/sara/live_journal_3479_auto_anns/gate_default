@@ -1,0 +1,12 @@
+1	0,42	GATE_Sentence
+2	0,1	GATE_Token	string=":" lemma=":" category=":"
+3	1,2	GATE_Token	string="D" lemma="d" category="NN"
+4	3,4	GATE_Token	string="I" lemma="I" category="PRP"
+5	5,7	GATE_Token	string="am" lemma="be" category="VBP"
+6	8,11	GATE_Token	string="the" lemma="the" category="DT"
+7	12,17	GATE_Token	string="queen" lemma="queen" category="NN"
+8	18,20	GATE_Token	string="of" lemma="of" category="IN"
+9	21,27	GATE_Token	string="shoddy" lemma="shoddy" category="JJ"
+10	28,34	GATE_Token	string="techno" lemma="techno" category="NN"
+11	35,40	GATE_Token	string="bands" lemma="band" category="NNS"
+12	41,42	GATE_Token	string="." lemma="." category="."

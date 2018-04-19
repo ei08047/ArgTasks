@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">p.s. <MPQAPOL autoclass="positive">please</MPQAPOL> send ti my undying <MPQAPOL autoclass="positive">love</MPQAPOL> seeing as she does not <MPQAPOL autoclass="neutral">seem</MPQAPOL> to return it any longer !</MPQASENT>

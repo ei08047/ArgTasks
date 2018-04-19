@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I do not <MPQAPOL autoclass="negative">deny</MPQAPOL> the existence of the country called the `` South African Republic '' before the Anglo-Boer <MPQAPOL autoclass="neutral">war</MPQAPOL> .</MPQASENT>

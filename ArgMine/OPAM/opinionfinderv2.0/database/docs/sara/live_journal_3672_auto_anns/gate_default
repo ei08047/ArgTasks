@@ -1,0 +1,12 @@
+1	0,68	GATE_Sentence
+2	0,2	GATE_Token	string="do" lemma="do" category="VB"
+3	3,6	GATE_Token	string="you" lemma="you" category="PRP"
+4	7,13	GATE_Token	string="really" lemma="really" category="RB"
+5	14,19	GATE_Token	string="think" lemma="think" category="VBP"
+6	20,23	GATE_Token	string="the" lemma="the" category="DT"
+7	24,32	GATE_Token	string="narrower" lemma="narrower" category="JJR"
+8	33,40	GATE_Token	string="profile" lemma="profile" category="NN"
+9	41,45	GATE_Token	string="give" lemma="give" category="VB"
+10	46,50	GATE_Token	string="more" lemma="more" category="JJR"
+11	51,66	GATE_Token	string="maneuverability" lemma="maneuverability" category="NN"
+12	67,68	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,9 @@
+1	0,33	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,8	GATE_Token	string="forget" lemma="forget" category="VBP"
+4	9,13	GATE_Token	string="what" lemma="what" category="WP"
+5	14,17	GATE_Token	string="the" lemma="the" category="DT"
+6	18,22	GATE_Token	string="last" lemma="last" category="JJ"
+7	23,27	GATE_Token	string="word" lemma="word" category="NN"
+8	28,31	GATE_Token	string="was" lemma="be" category="VBD"
+9	32,33	GATE_Token	string="." lemma="." category="."

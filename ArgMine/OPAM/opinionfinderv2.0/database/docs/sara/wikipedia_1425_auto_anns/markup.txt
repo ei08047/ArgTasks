@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="positive">hope</MPQAPOL> my verbosity has <MPQAPOL autoclass="neutral">cleared</MPQAPOL> up my <MPQAPOL autoclass="neutral">point</MPQAPOL> and has not <MPQAPOL autoclass="negative">obscured</MPQAPOL> it <MPQAPOL autoclass="neutral">even</MPQAPOL> more .</MPQASENT>

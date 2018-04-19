@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">( Only dolls my dog never chewed on ... <MPQAPOL autoclass="neutral">tried</MPQAPOL> once and I <MPQAPOL autoclass="neutral">very</MPQAPOL> nearly <MPQAPOL autoclass="negative">killed</MPQAPOL> him . )</MPQASENT>

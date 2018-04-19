@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">and <MPQAPOL autoclass="neutral">therefore</MPQAPOL> , I am <MPQAPOL autoclass="neutral">simply</MPQAPOL> <MPQAPOL autoclass="positive">advocating</MPQAPOL> for <MPQAPOL autoclass="neutral">FAIR</MPQAPOL> AND <MPQAPOL autoclass="positive">BALANCED</MPQAPOL> behavior and descriptions of ALL parties involved .</MPQASENT>

@@ -1,0 +1,11 @@
+1	0,54	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,9	GATE_Token	string="abuse" lemma="abuse" category="NN"
+4	10,17	GATE_Token	string="scandal" lemma="scandal" category="NN"
+5	18,20	GATE_Token	string="is" lemma="be" category="VBZ"
+6	21,24	GATE_Token	string="not" lemma="not" category="RB"
+7	25,33	GATE_Token	string="properly" lemma="properly" category="RB"
+8	34,43	GATE_Token	string="addressed" lemma="address" category="VBN"
+9	44,47	GATE_Token	string="for" lemma="for" category="IN"
+10	48,52	GATE_Token	string="NPOV" lemma="npov" category="NN"
+11	53,54	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">both <MPQAPOL autoclass="neutral">views</MPQAPOL> -LRB- terrorist and <MPQAPOL autoclass="negative">resistance</MPQAPOL> -RRB- are <MPQAPOL autoclass="neutral">notable</MPQAPOL> but they <MPQAPOL autoclass="neutral">need</MPQAPOL> to be attributed .</MPQASENT>

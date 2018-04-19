@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The <MPQAPOL autoclass="neutral">reason</MPQAPOL> I <MPQAPOL autoclass="neutral">challenged</MPQAPOL> Levine 's <MPQAPOL autoclass="neutral">argument</MPQAPOL> is because I <MPQAPOL autoclass="neutral">thought</MPQAPOL> it made no <MPQAPOL autoclass="neutral">sense</MPQAPOL> .</MPQASENT>

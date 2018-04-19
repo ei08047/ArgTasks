@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">You <MPQAPOL autoclass="neutral">need</MPQAPOL> to <MPQAPOL autoclass="neutral">show</MPQAPOL> me some proof '' - <MPQAPOL autoclass="neutral">would</MPQAPOL> that be <MPQAPOL autoclass="neutral">consider</MPQAPOL> <MPQAPOL autoclass="negative">denying</MPQAPOL> ?</MPQASENT>

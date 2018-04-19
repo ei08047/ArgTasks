@@ -1,0 +1,12 @@
+1	0,44	GATE_Sentence
+2	0,2	GATE_Token	string="\*" lemma="\*" category="SYM"
+3	3,9	GATE_Token	string="shakes" lemma="shake" category="VBZ"
+4	10,14	GATE_Token	string="fist" lemma="fist" category="NN"
+5	15,17	GATE_Token	string="\*" lemma="\*" category="SYM"
+6	18,20	GATE_Token	string="It" lemma="it" category="PRP"
+7	21,24	GATE_Token	string="was" lemma="be" category="VBD"
+8	25,29	GATE_Token	string="just" lemma="just" category="RB"
+9	30,32	GATE_Token	string="on" lemma="on" category="IN"
+10	33,36	GATE_Token	string="the" lemma="the" category="DT"
+11	37,42	GATE_Token	string="radio" lemma="radio" category="NN"
+12	43,44	GATE_Token	string="." lemma="." category="."

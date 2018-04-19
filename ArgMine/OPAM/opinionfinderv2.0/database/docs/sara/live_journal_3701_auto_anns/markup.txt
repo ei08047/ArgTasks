@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">My only <MPQAPOL autoclass="neutral">real</MPQAPOL> <MPQAPOL autoclass="negative">criticism</MPQAPOL> comes in the form of the first few lines in each stanza .</MPQASENT>

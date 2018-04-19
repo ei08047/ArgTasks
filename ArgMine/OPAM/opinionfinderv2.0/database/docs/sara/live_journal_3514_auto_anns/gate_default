@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,5	GATE_Token	string="Those" lemma="those" category="DT"
+3	6,9	GATE_Token	string="are" lemma="be" category="VBP"
+4	10,13	GATE_Token	string="the" lemma="the" category="DT"
+5	14,18	GATE_Token	string="only" lemma="only" category="JJ"
+6	19,25	GATE_Token	string="lyrics" lemma="lyric" category="NNS"
+7	26,27	GATE_Token	string="," lemma="," category=","
+8	28,34	GATE_Token	string="though" lemma="though" category="IN"
+9	35,36	GATE_Token	string="?" lemma="?" category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj"><MPQAPOL autoclass="neutral">Oh</MPQAPOL> man <MPQAPOL autoclass="negative">Little</MPQAPOL> Shop Of Horros is <MPQAPOL autoclass="negative">weird</MPQAPOL> and <MPQAPOL autoclass="positive">awesome</MPQAPOL> ...</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Let us tell the <MPQAPOL autoclass="neutral">full</MPQAPOL> story if <MPQAPOL autoclass="neutral">needed</MPQAPOL> .</MPQASENT>

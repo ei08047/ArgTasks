@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,3	GATE_Token	string="But" lemma="but" category="CC"
+3	4,7	GATE_Token	string="..." lemma="..." category=":"
+4	8,11	GATE_Token	string="but" lemma="but" category="CC"
+5	12,15	GATE_Token	string="..." lemma="..." category=":"
+6	16,21	GATE_Token	string="THINK" lemma="THINK" category="NNP"
+7	22,24	GATE_Token	string="OF" lemma="of" category="IN"
+8	25,28	GATE_Token	string="THE" lemma="the" category="DT"
+9	29,37	GATE_Token	string="CHILDREN" lemma="child" category="NNS"
+10	38,42	GATE_Token	string="!!!!" lemma="!!!!" category="VBP"

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Everyone <MPQAPOL autoclass="neutral">seems</MPQAPOL> <MPQAPOL autoclass="neutral">pretty</MPQAPOL> cool <MPQAPOL autoclass="neutral">so</MPQAPOL> far .</MPQASENT>

@@ -1,0 +1,14 @@
+1	0,54	GATE_Sentence
+2	0,2	GATE_Token	string="It" lemma="it" category="PRP"
+3	3,5	GATE_Token	string="is" lemma="be" category="VBZ"
+4	6,9	GATE_Token	string="not" lemma="not" category="RB"
+5	10,11	GATE_Token	string="a" lemma="a" category="DT"
+6	12,20	GATE_Token	string="reliable" lemma="reliable" category="JJ"
+7	21,29	GATE_Token	string="academic" lemma="academic" category="JJ"
+8	30,36	GATE_Token	string="source" lemma="source" category="NN"
+9	37,39	GATE_Token	string="by" lemma="by" category="IN"
+10	40,43	GATE_Token	string="any" lemma="any" category="DT"
+11	44,52	GATE_Token	string="standard" lemma="standard" category="NN"
+12	53,54	GATE_Token	string="." lemma="." category="."
+13	54,56	GATE_Sentence
+14	54,56	GATE_Token	string="--" lemma="--" category=":"

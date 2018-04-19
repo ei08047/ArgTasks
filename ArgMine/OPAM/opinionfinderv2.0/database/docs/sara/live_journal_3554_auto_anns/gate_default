@@ -1,0 +1,7 @@
+1	0,36	GATE_Sentence
+2	0,5	GATE_Token	string="Those" lemma="those" category="DT"
+3	6,9	GATE_Token	string="are" lemma="be" category="VBP"
+4	10,19	GATE_Token	string="beautiful" lemma="beautiful" category="JJ"
+5	20,23	GATE_Token	string="and" lemma="and" category="CC"
+6	24,34	GATE_Token	string="impressive" lemma="impressive" category="JJ"
+7	35,36	GATE_Token	string="!" lemma="!" category="."

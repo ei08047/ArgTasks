@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">i <MPQAPOL autoclass="negative">refuse</MPQAPOL> to cull them because they <MPQAPOL autoclass="positive">fascinate</MPQAPOL> me , and somehow <MPQAPOL autoclass="positive">still</MPQAPOL> put up with my shit on their <MPQAPOL autoclass="neutral">friends</MPQAPOL> page daily .</MPQASENT>

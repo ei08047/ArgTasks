@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> this is a <MPQAPOL autoclass="neutral">fairly</MPQAPOL> <MPQAPOL autoclass="positive">important</MPQAPOL> <MPQAPOL autoclass="neutral">point</MPQAPOL> , since it has an impact on the dates we include in this article .</MPQASENT>

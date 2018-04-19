@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Brian Henson as Kermit is <MPQAPOL autoclass="neutral">just</MPQAPOL> a <MPQAPOL autoclass="positive">popular</MPQAPOL> <MPQAPOL autoclass="negative">misconception</MPQAPOL> .</MPQASENT>

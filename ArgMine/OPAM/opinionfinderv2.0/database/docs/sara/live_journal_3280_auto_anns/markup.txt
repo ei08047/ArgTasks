@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj"><MPQAPOL autoclass="neutral">Show</MPQAPOL> me the <MPQAPOL autoclass="neutral">rant</MPQAPOL> , and i will poke <MPQAPOL autoclass="neutral">holes</MPQAPOL> in your theory .</MPQASENT>

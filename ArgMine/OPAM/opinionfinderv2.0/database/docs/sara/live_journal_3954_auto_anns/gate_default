@@ -1,0 +1,8 @@
+1	0,34	GATE_Sentence
+2	0,9	GATE_Token	string="professor" lemma="professor" category="NN"
+3	10,16	GATE_Token	string="layton" lemma="layton" category="NN"
+4	17,19	GATE_Token	string="is" lemma="be" category="VBZ"
+5	20,24	GATE_Token	string="more" lemma="more" category="RBR"
+6	25,28	GATE_Token	string="fun" lemma="fun" category="NN"
+7	29,30	GATE_Token	string="," lemma="," category=","
+8	31,34	GATE_Token	string="man" lemma="man" category="NN"

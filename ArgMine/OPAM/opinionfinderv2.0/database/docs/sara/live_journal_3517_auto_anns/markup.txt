@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">At that <MPQAPOL autoclass="neutral">point</MPQAPOL> , I had not read it in years and years , <MPQAPOL autoclass="positive">preferring</MPQAPOL> darker and more <MPQAPOL autoclass="positive">mature</MPQAPOL> comics .</MPQASENT>

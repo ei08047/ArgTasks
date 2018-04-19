@@ -1,0 +1,13 @@
+1	0,66	GATE_Sentence
+2	0,3	GATE_Token	string="Too" lemma="too" category="RB"
+3	4,12	GATE_Token	string="specific" lemma="specific" category="JJ"
+4	13,18	GATE_Token	string="-LRB-" lemma="-lrb-" category="-LRB-"
+5	19,27	GATE_Token	string="pertains" lemma="pertain" category="NNS"
+6	28,30	GATE_Token	string="to" lemma="to" category="TO"
+7	31,35	GATE_Token	string="only" lemma="only" category="RB"
+8	36,43	GATE_Token	string="1\/40th" lemma="1\/40th" category="CD"
+9	44,46	GATE_Token	string="of" lemma="of" category="IN"
+10	47,50	GATE_Token	string="its" lemma="its" category="PRP$"
+11	51,58	GATE_Token	string="history" lemma="history" category="NN"
+12	59,64	GATE_Token	string="-RRB-" lemma="-rrb-" category="-RRB-"
+13	65,66	GATE_Token	string="." lemma="." category="."

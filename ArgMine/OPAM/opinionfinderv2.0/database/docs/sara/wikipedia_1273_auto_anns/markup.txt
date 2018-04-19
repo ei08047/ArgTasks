@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I do not <MPQAPOL autoclass="neutral">think</MPQAPOL> Kermit spoke at Henson 's funeral .</MPQASENT>

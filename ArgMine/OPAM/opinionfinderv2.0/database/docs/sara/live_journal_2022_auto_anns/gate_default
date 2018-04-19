@@ -1,0 +1,13 @@
+1	0,73	GATE_Sentence
+2	0,4	GATE_Token	string="more" lemma="more" category="RBR"
+3	5,8	GATE_Token	string="ppl" lemma="ppl" category="JJ"
+4	9,19	GATE_Token	string="masturbate" lemma="masturbate" category="NN"
+5	20,24	GATE_Token	string="over" lemma="over" category="IN"
+6	25,31	GATE_Token	string="camera" lemma="camera" category="NN"
+7	32,44	GATE_Token	string="performances" lemma="performance" category="NNS"
+8	45,49	GATE_Token	string="than" lemma="than" category="IN"
+9	50,54	GATE_Token	string="they" lemma="they" category="PRP"
+10	55,57	GATE_Token	string="do" lemma="do" category="VBP"
+11	58,64	GATE_Token	string="taking" lemma="take" category="VBG"
+12	65,71	GATE_Token	string="photos" lemma="photo" category="NNS"
+13	72,73	GATE_Token	string="." lemma="." category="."

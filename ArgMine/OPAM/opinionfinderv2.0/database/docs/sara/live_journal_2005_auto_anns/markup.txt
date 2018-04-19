@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am <MPQAPOL autoclass="negative">trying</MPQAPOL> to <MPQAPOL autoclass="neutral">think</MPQAPOL> of a way to say do not get Pentax without <MPQAPOL autoclass="negative">sounding</MPQAPOL> <MPQAPOL autoclass="negative">desperate</MPQAPOL> but ..</MPQASENT>

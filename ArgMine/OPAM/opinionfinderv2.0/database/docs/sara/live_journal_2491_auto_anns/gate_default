@@ -1,0 +1,7 @@
+1	0,39	GATE_Sentence
+2	0,5	GATE_Token	string="Still" lemma="still" category="RB"
+3	6,13	GATE_Token	string="working" lemma="work" category="VBG"
+4	14,17	GATE_Token	string="the" lemma="the" category="DT"
+5	18,31	GATE_Token	string="flight-points" lemma="flight-point" category="NNS"
+6	32,37	GATE_Token	string="angle" lemma="angle" category="NN"
+7	38,39	GATE_Token	string="." lemma="." category="."

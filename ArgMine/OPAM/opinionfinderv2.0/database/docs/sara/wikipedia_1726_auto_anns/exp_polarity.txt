@@ -1,0 +1,5 @@
+sara_wikipedia_1726_20_27	neutral
+sara_wikipedia_1726_28_30	neutral
+sara_wikipedia_1726_48_54	neutral
+sara_wikipedia_1726_81_85	neutral
+sara_wikipedia_1726_89_93	neutral

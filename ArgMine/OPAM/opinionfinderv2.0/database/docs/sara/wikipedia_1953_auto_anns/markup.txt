@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">A lot of people in 1857 <MPQAPOL autoclass="neutral">thought</MPQAPOL> they were from a country called South Africa , they <MPQAPOL autoclass="neutral">even</MPQAPOL> called it South Africa .</MPQASENT>

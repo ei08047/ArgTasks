@@ -1,0 +1,12 @@
+1	0,55	GATE_Sentence
+2	0,2	GATE_Token	string="In" lemma="in" category="IN"
+3	3,12	GATE_Token	string="diplomacy" lemma="diplomacy" category="NN"
+4	13,16	GATE_Token	string="one" lemma="one" category="CD"
+5	17,24	GATE_Token	string="curries" lemma="curry" category="NNS"
+6	25,30	GATE_Token	string="favor" lemma="favor" category="VBP"
+7	31,36	GATE_Token	string="where" lemma="where" category="WRB"
+8	37,40	GATE_Token	string="and" lemma="and" category="CC"
+9	41,45	GATE_Token	string="when" lemma="when" category="WRB"
+10	46,49	GATE_Token	string="one" lemma="one" category="PRP"
+11	50,53	GATE_Token	string="can" lemma="can" category="MD"
+12	54,55	GATE_Token	string="." lemma="." category="."

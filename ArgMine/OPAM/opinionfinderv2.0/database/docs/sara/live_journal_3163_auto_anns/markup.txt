@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="subj" autoclass2="subj">I <MPQAPOL autoclass="neutral">consider</MPQAPOL> myself <MPQAPOL autoclass="positive">lucky</MPQAPOL> I <MPQAPOL autoclass="neutral">rarely</MPQAPOL> get PMS unless I am already <MPQAPOL autoclass="negative">hurting</MPQAPOL> .</MPQASENT>

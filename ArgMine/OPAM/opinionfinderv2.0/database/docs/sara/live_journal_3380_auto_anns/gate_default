@@ -1,0 +1,9 @@
+1	0,42	GATE_Sentence
+2	0,3	GATE_Token	string="Mom" lemma="mom" category="NN"
+3	4,9	GATE_Token	string="still" lemma="still" category="RB"
+4	10,13	GATE_Token	string="has" lemma="have" category="VBZ"
+5	14,18	GATE_Token	string="them" lemma="they" category="PRP"
+6	19,25	GATE_Token	string="packed" lemma="packed" category="JJ"
+7	26,30	GATE_Token	string="away" lemma="away" category="RB"
+8	31,40	GATE_Token	string="somewhere" lemma="somewhere" category="RB"
+9	41,42	GATE_Token	string="." lemma="." category="."

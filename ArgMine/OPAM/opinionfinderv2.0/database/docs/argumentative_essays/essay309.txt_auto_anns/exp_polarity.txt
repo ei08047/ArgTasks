@@ -1,0 +1,7 @@
+argumentative_essays_essay309.txt_1911_1916	neutral
+argumentative_essays_essay309.txt_1954_1963	positive
+argumentative_essays_essay309.txt_1964_1969	positive
+argumentative_essays_essay309.txt_2033_2038	neutral
+argumentative_essays_essay309.txt_2039_2045	positive
+argumentative_essays_essay309.txt_2046_2050	positive
+argumentative_essays_essay309.txt_2065_2075	positive

@@ -1,0 +1,8 @@
+1	0,30	GATE_Sentence
+2	0,4	GATE_Token	string="that" lemma="that" category="DT"
+3	5,9	GATE_Token	string="just" lemma="just" category="RB"
+4	10,14	GATE_Token	string="made" lemma="make" category="VBN"
+5	15,17	GATE_Token	string="my" lemma="my" category="PRP$"
+6	18,23	GATE_Token	string="chest" lemma="chest" category="NN"
+7	24,28	GATE_Token	string="hurt" lemma="hurt" category="NN"
+8	29,30	GATE_Token	string="." lemma="." category="."

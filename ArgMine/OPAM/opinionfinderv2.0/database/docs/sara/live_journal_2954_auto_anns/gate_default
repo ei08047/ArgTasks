@@ -1,0 +1,11 @@
+1	0,61	GATE_Sentence
+2	0,11	GATE_Token	string="exceedingly" lemma="exceedingly" category="RB"
+3	12,21	GATE_Token	string="brilliant" lemma="brilliant" category="JJ"
+4	22,25	GATE_Token	string="and" lemma="and" category="CC"
+5	26,35	GATE_Token	string="beautiful" lemma="beautiful" category="JJ"
+6	36,37	GATE_Token	string="," lemma="," category=","
+7	38,41	GATE_Token	string="and" lemma="and" category="CC"
+8	42,46	GATE_Token	string="such" lemma="such" category="PDT"
+9	47,48	GATE_Token	string="a" lemma="a" category="DT"
+10	49,59	GATE_Token	string="sweetheart" lemma="sweetheart" category="NN"
+11	60,61	GATE_Token	string="." lemma="." category="."

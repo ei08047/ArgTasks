@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">ir <MPQAPOL autoclass="neutral">would</MPQAPOL> be <MPQAPOL autoclass="neutral">considered</MPQAPOL> a self published source on this page .</MPQASENT>

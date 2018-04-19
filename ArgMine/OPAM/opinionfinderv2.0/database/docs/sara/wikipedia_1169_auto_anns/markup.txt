@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">The situation was <MPQAPOL autoclass="neutral">straightforward</MPQAPOL> and <MPQAPOL autoclass="neutral">very</MPQAPOL> <MPQAPOL autoclass="negative">simple</MPQAPOL> : <MPQAPOL autoclass="neutral">Therefore</MPQAPOL> , north stays and south leaves .</MPQASENT>

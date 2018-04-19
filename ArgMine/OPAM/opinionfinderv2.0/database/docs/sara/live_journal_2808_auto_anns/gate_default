@@ -1,0 +1,10 @@
+1	0,42	GATE_Sentence
+2	0,2	GATE_Token	string="He" lemma="he" category="PRP"
+3	3,9	GATE_Token	string="really" lemma="really" category="RB"
+4	10,14	GATE_Token	string="does" lemma="do" category="VBZ"
+5	15,19	GATE_Token	string="make" lemma="make" category="VB"
+6	20,24	GATE_Token	string="good" lemma="good" category="JJ"
+7	25,27	GATE_Token	string="on" lemma="on" category="IN"
+8	28,31	GATE_Token	string="his" lemma="he" category="PRP$"
+9	32,40	GATE_Token	string="promises" lemma="promise" category="NNS"
+10	41,42	GATE_Token	string="!" lemma="!" category="."

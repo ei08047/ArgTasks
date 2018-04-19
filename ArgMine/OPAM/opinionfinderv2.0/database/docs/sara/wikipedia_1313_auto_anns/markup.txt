@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It will make this article richer and <MPQAPOL autoclass="positive">abide</MPQAPOL> <MPQAPOL autoclass="positive">better</MPQAPOL> with the three core content policies - <MPQAPOL autoclass="neutral">especially</MPQAPOL> WP : NPOV .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

@@ -1,0 +1,13 @@
+1	0,60	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,8	GATE_Token	string="they" lemma="they" category="PRP"
+4	9,13	GATE_Token	string="have" lemma="have" category="VBP"
+5	14,19	GATE_Token	string="these" lemma="these" category="DT"
+6	20,28	GATE_Token	string="terrible" lemma="terrible" category="JJ"
+7	29,37	GATE_Token	string="annoying" lemma="annoying" category="JJ"
+8	38,43	GATE_Token	string="radio" lemma="radio" category="NN"
+9	44,47	GATE_Token	string="ads" lemma="ad" category="NNS"
+10	48,51	GATE_Token	string="for" lemma="for" category="IN"
+11	52,54	GATE_Token	string="it" lemma="it" category="PRP"
+12	55,58	GATE_Token	string="too" lemma="too" category="RB"
+13	59,60	GATE_Token	string="." lemma="." category="."

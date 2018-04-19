@@ -1,0 +1,12 @@
+1	0,73	GATE_Sentence
+2	0,7	GATE_Token	string="Request" lemma="request" category="NN"
+3	8,9	GATE_Token	string=":" lemma=":" category=":"
+4	10,16	GATE_Token	string="please" lemma="please" category="VB"
+5	17,24	GATE_Token	string="provide" lemma="provide" category="VB"
+6	25,29	GATE_Token	string="test" lemma="test" category="NN"
+7	30,36	GATE_Token	string="stress" lemma="stress" category="NN"
+8	37,46	GATE_Token	string="reduction" lemma="reduction" category="NN"
+9	47,49	GATE_Token	string="or" lemma="or" category="CC"
+10	50,60	GATE_Token	string="confidence" lemma="confidence" category="NN"
+11	61,71	GATE_Token	string="techniques" lemma="technique" category="NNS"
+12	72,73	GATE_Token	string="." lemma="." category="."

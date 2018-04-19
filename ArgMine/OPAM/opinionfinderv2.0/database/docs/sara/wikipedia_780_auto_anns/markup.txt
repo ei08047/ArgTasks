@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">whether you or I <MPQAPOL autoclass="neutral">believe</MPQAPOL> them is <MPQAPOL autoclass="negative">irrelevant</MPQAPOL> .</MPQASENT>

@@ -1,0 +1,8 @@
+1	0,31	GATE_Sentence
+2	0,9	GATE_Token	string="sleep-age" lemma="sleep-age" category="NN"
+3	10,12	GATE_Token	string="is" lemma="be" category="VBZ"
+4	13,17	GATE_Token	string="what" lemma="what" category="WP"
+5	18,21	GATE_Token	string="you" lemma="you" category="PRP"
+6	22,26	GATE_Token	string="need" lemma="need" category="VBP"
+7	27,29	GATE_Token	string="GO" lemma="go" category="NN"
+8	30,31	GATE_Token	string="!" lemma="!" category="."

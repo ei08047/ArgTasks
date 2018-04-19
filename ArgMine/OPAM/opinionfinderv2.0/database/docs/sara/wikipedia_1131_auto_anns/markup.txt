@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Can anyone see a <MPQAPOL autoclass="positive">better</MPQAPOL> way of succinctly accommodating both <MPQAPOL autoclass="neutral">perspectives</MPQAPOL> ?<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="subj">on the way to the club we pass the dairy queen , you stop cause you <MPQAPOL autoclass="neutral">know</MPQAPOL> how <MPQAPOL autoclass="neutral">much</MPQAPOL> it <MPQAPOL autoclass="neutral">means</MPQAPOL> to me !</MPQASENT>

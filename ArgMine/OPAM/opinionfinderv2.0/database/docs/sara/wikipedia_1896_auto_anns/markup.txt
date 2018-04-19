@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">-- <MPQAPOL autoclass="neutral">Oppose</MPQAPOL> until there is a <MPQAPOL autoclass="neutral">bright</MPQAPOL> line <MPQAPOL autoclass="neutral">dividing</MPQAPOL> the cities where we disambiguate from those we do not .</MPQASENT>

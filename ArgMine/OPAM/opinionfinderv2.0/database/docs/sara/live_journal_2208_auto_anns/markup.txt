@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">That said , everybody <MPQAPOL autoclass="neutral">just</MPQAPOL> <MPQAPOL autoclass="positive">needs</MPQAPOL> to stop .</MPQASENT>

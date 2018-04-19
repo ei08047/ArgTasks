@@ -1,0 +1,7 @@
+1	0,34	GATE_Sentence
+2	0,7	GATE_Token	string="Drunken" lemma="Drunken" category="NNP"
+3	8,13	GATE_Token	string="Angel" lemma="Angel" category="NNP"
+4	14,16	GATE_Token	string="on" lemma="on" category="IN"
+5	17,25	GATE_Token	string="Saturday" lemma="Saturday" category="NNP"
+6	26,32	GATE_Token	string="anyone" lemma="anyone" category="NN"
+7	33,34	GATE_Token	string="?" lemma="?" category="."

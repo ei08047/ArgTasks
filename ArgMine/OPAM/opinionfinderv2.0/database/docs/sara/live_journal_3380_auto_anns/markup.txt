@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Mom <MPQAPOL autoclass="neutral">still</MPQAPOL> has them packed away somewhere .</MPQASENT>

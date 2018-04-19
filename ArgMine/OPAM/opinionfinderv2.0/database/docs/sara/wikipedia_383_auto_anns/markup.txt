@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">The <MPQAPOL autoclass="neutral">point</MPQAPOL> is that a balance has to be <MPQAPOL autoclass="neutral">achieved</MPQAPOL> between <MPQAPOL autoclass="neutral">positive</MPQAPOL> and <MPQAPOL autoclass="neutral">negative</MPQAPOL> .</MPQASENT>

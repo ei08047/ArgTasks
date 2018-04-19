@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,3	GATE_Token	string="You" lemma="you" category="PRP"
+3	4,8	GATE_Token	string="have" lemma="have" category="VBP"
+4	9,10	GATE_Token	string="a" lemma="a" category="DT"
+5	11,16	GATE_Token	string="knack" lemma="knack" category="NN"
+6	17,20	GATE_Token	string="for" lemma="for" category="IN"
+7	21,27	GATE_Token	string="making" lemma="make" category="VBG"
+8	28,35	GATE_Token	string="friends" lemma="friend" category="NNS"
+9	36,39	GATE_Token	string="heh" lemma="heh" category="RB"
+10	40,41	GATE_Token	string="." lemma="." category="."

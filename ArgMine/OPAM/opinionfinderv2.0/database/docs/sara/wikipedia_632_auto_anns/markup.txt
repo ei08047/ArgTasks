@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">That <MPQAPOL autoclass="neutral">would</MPQAPOL> be in your eyes only .</MPQASENT>

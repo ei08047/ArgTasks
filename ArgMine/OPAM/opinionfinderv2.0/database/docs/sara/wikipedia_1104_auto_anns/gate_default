@@ -1,0 +1,9 @@
+1	0,39	GATE_Sentence
+2	0,4	GATE_Token	string="Lets" lemma="let" category="VBZ"
+3	5,9	GATE_Token	string="call" lemma="call" category="VB"
+4	10,12	GATE_Token	string="it" lemma="it" category="PRP"
+5	13,15	GATE_Token	string="``" lemma="``" category="``"
+6	16,26	GATE_Token	string="Republican" lemma="republican" category="JJ"
+7	27,34	GATE_Token	string="history" lemma="history" category="NN"
+8	35,37	GATE_Token	string="''" lemma="''" category="''"
+9	38,39	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">i can not <MPQAPOL autoclass="neutral">accept</MPQAPOL> that this counters his <MPQAPOL autoclass="neutral">original</MPQAPOL> <MPQAPOL autoclass="neutral">denial</MPQAPOL> .</MPQASENT>

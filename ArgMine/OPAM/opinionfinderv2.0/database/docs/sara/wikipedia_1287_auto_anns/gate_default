@@ -1,0 +1,8 @@
+1	0,40	GATE_Sentence
+2	0,9	GATE_Token	string="Trademark" lemma="trademark" category="NN"
+3	10,16	GATE_Token	string="should" lemma="should" category="MD"
+4	17,20	GATE_Token	string="not" lemma="not" category="RB"
+5	21,26	GATE_Token	string="apply" lemma="apply" category="VB"
+6	27,31	GATE_Token	string="here" lemma="here" category="RB"
+7	32,38	GATE_Token	string="either" lemma="either" category="RB"
+8	39,40	GATE_Token	string="." lemma="." category="."

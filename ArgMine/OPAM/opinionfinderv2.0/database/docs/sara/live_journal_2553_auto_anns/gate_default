@@ -1,0 +1,9 @@
+1	0,46	GATE_Sentence
+2	0,7	GATE_Token	string="Culling" lemma="cull" category="VBG"
+3	8,11	GATE_Token	string="cat" lemma="cat" category="NN"
+4	12,15	GATE_Token	string="and" lemma="and" category="CC"
+5	16,19	GATE_Token	string="dog" lemma="dog" category="NN"
+6	20,31	GATE_Token	string="populations" lemma="population" category="NNS"
+7	32,34	GATE_Token	string="by" lemma="by" category="IN"
+8	35,44	GATE_Token	string="neutering" lemma="neuter" category="VBG"
+9	45,46	GATE_Token	string="?" lemma="?" category="."

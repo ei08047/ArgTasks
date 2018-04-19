@@ -1,0 +1,11 @@
+1	0,46	GATE_Sentence
+2	0,9	GATE_Token	string="Sometimes" lemma="sometimes" category="RB"
+3	10,14	GATE_Token	string="this" lemma="this" category="DT"
+4	15,17	GATE_Token	string="is" lemma="be" category="VBZ"
+5	18,22	GATE_Token	string="fine" lemma="fine" category="JJ"
+6	23,24	GATE_Token	string="," lemma="," category=","
+7	25,34	GATE_Token	string="sometimes" lemma="sometimes" category="RB"
+8	35,37	GATE_Token	string="it" lemma="it" category="PRP"
+9	38,40	GATE_Token	string="is" lemma="be" category="VBZ"
+10	41,44	GATE_Token	string="not" lemma="not" category="RB"
+11	45,46	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">Some are <MPQAPOL autoclass="neutral">just</MPQAPOL> more <MPQAPOL autoclass="negative">blatant</MPQAPOL> and short-term about their <MPQAPOL autoclass="negative">despotic</MPQAPOL> megalomania .</MPQASENT>

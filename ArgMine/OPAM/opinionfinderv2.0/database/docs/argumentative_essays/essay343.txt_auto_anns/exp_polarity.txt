@@ -1,0 +1,5 @@
+argumentative_essays_essay343.txt_1822_1827	neutral
+argumentative_essays_essay343.txt_1831_1835	neutral
+argumentative_essays_essay343.txt_1857_1863	positive
+argumentative_essays_essay343.txt_1902_1908	positive
+argumentative_essays_essay343.txt_1964_1968	neutral

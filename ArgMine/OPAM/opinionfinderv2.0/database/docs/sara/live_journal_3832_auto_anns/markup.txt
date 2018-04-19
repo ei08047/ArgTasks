@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have a lot of <MPQAPOL autoclass="neutral">friends</MPQAPOL> who have all sorts of political and sociological <MPQAPOL autoclass="neutral">beliefs</MPQAPOL> .</MPQASENT>

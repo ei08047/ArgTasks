@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">And if you <MPQAPOL autoclass="neutral">think</MPQAPOL> you have , you are <MPQAPOL autoclass="negative">sadly</MPQAPOL> mistaken .</MPQASENT>

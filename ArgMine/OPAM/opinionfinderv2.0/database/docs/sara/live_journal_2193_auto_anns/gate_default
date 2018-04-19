@@ -1,0 +1,13 @@
+1	0,56	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,4	GATE_Token	string="do" lemma="do" category="VBP"
+4	5,8	GATE_Token	string="not" lemma="not" category="RB"
+5	9,14	GATE_Token	string="think" lemma="think" category="VB"
+6	15,24	GATE_Token	string="australia" lemma="australium" category="NN"
+7	25,31	GATE_Token	string="should" lemma="should" category="MD"
+8	32,36	GATE_Token	string="tell" lemma="tell" category="VB"
+9	37,43	GATE_Token	string="israel" lemma="israel" category="NN"
+10	44,48	GATE_Token	string="what" lemma="what" category="WDT"
+11	49,51	GATE_Token	string="to" lemma="to" category="TO"
+12	52,54	GATE_Token	string="do" lemma="do" category="VB"
+13	55,56	GATE_Token	string="." lemma="." category="."

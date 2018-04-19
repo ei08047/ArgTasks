@@ -1,0 +1,11 @@
+1	0,44	GATE_Sentence
+2	0,6	GATE_Token	string="regime" lemma="regime" category="NN"
+3	7,9	GATE_Token	string="is" lemma="be" category="VBZ"
+4	10,17	GATE_Token	string="defined" lemma="define" category="VBN"
+5	18,20	GATE_Token	string="as" lemma="as" category="IN"
+6	21,23	GATE_Token	string="``" lemma="``" category="``"
+7	24,25	GATE_Token	string="A" lemma="a" category="DT"
+8	26,36	GATE_Token	string="government" lemma="government" category="NN"
+9	37,38	GATE_Token	string="," lemma="," category=","
+10	39,42	GATE_Token	string="esp" lemma="esp" category="NN"
+11	43,44	GATE_Token	string="." lemma="." category="."

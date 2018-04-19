@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Fine in the <MPQAPOL autoclass="neutral">right</MPQAPOL> place , but not at the top .</MPQASENT>

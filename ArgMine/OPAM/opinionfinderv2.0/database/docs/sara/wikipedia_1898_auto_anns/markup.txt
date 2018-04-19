@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">-- This is a <MPQAPOL autoclass="negative">bad</MPQAPOL> <MPQAPOL autoclass="neutral">idea</MPQAPOL> , and we are now going to <MPQAPOL autoclass="neutral">waste</MPQAPOL> a lot of time and words <MPQAPOL autoclass="neutral">proving</MPQAPOL> it once again .<MPQASENT autoclass1="obj" autoclass2="obj">--</MPQASENT>

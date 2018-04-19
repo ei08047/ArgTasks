@@ -1,0 +1,13 @@
+1	0,59	GATE_Sentence
+2	0,3	GATE_Token	string="Who" lemma="who" category="WP"
+3	4,9	GATE_Token	string="wants" lemma="want" category="VBZ"
+4	10,12	GATE_Token	string="to" lemma="to" category="TO"
+5	13,15	GATE_Token	string="go" lemma="go" category="VB"
+6	16,23	GATE_Token	string="camping" lemma="camping" category="NN"
+7	24,26	GATE_Token	string="in" lemma="in" category="IN"
+8	27,30	GATE_Token	string="Two" lemma="two" category="CD"
+9	31,38	GATE_Token	string="Harbors" lemma="Harbors" category="NNPS"
+10	39,41	GATE_Token	string="at" lemma="at" category="IN"
+11	42,50	GATE_Token	string="Catalina" lemma="Catalina" category="NNP"
+12	51,57	GATE_Token	string="Island" lemma="Island" category="NNP"
+13	58,59	GATE_Token	string="?" lemma="?" category="."

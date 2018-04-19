@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They do not do it because they <MPQAPOL autoclass="neutral">know</MPQAPOL> that it will not get them anywhere .</MPQASENT>

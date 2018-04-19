@@ -1,0 +1,12 @@
+1	0,61	GATE_Sentence
+2	0,4	GATE_Token	string="They" lemma="they" category="PRP"
+3	5,9	GATE_Token	string="were" lemma="be" category="VBD"
+4	10,15	GATE_Token	string="right" lemma="right" category="RB"
+5	16,17	GATE_Token	string=";" lemma=";" category=":"
+6	18,22	GATE_Token	string="they" lemma="they" category="PRP"
+7	23,27	GATE_Token	string="just" lemma="just" category="RB"
+8	28,35	GATE_Token	string="handled" lemma="handle" category="VBD"
+9	36,39	GATE_Token	string="the" lemma="the" category="DT"
+10	40,52	GATE_Token	string="announcement" lemma="announcement" category="NN"
+11	53,59	GATE_Token	string="poorly" lemma="poorly" category="RB"
+12	60,61	GATE_Token	string="." lemma="." category="."

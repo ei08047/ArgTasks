@@ -1,0 +1,11 @@
+1	0,43	GATE_Sentence
+2	0,6	GATE_Token	string="People" lemma="people" category="NNS"
+3	7,9	GATE_Token	string="``" lemma="``" category="``"
+4	10,14	GATE_Token	string="much" lemma="much" category="RB"
+5	15,19	GATE_Token	string="like" lemma="like" category="IN"
+6	20,26	GATE_Token	string="myself" lemma="myself" category="PRP"
+7	27,29	GATE_Token	string="''" lemma="''" category="''"
+8	30,33	GATE_Token	string="put" lemma="put" category="VBN"
+9	34,36	GATE_Token	string="in" lemma="in" category="IN"
+10	37,41	GATE_Token	string="lies" lemma="lie" category="NNS"
+11	42,43	GATE_Token	string="?" lemma="?" category="."

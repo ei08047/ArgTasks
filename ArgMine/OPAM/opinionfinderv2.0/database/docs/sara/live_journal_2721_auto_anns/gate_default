@@ -1,0 +1,11 @@
+1	0,48	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="hate" lemma="hate" category="VBP"
+4	7,11	GATE_Token	string="when" lemma="when" category="WRB"
+5	12,20	GATE_Token	string="teachers" lemma="teacher" category="NNS"
+6	21,23	GATE_Token	string="do" lemma="do" category="VBP"
+7	24,27	GATE_Token	string="not" lemma="not" category="RB"
+8	28,38	GATE_Token	string="review-boo" lemma="review-boo" category="JJ"
+9	39,41	GATE_Token	string="on" lemma="on" category="IN"
+10	42,46	GATE_Token	string="them" lemma="they" category="PRP"
+11	47,48	GATE_Token	string="." lemma="." category="."

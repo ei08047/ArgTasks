@@ -1,0 +1,11 @@
+1	0,54	GATE_Sentence
+2	0,8	GATE_Token	string="LLLINKKK" lemma="lllinkkk" category="CD"
+3	9,10	GATE_Token	string="I" lemma="I" category="PRP"
+4	11,15	GATE_Token	string="took" lemma="take" category="VBD"
+5	16,21	GATE_Token	string="these" lemma="these" category="DT"
+6	22,26	GATE_Token	string="with" lemma="with" category="IN"
+7	27,29	GATE_Token	string="my" lemma="my" category="PRP$"
+8	30,39	GATE_Token	string="cellphone" lemma="cellphone" category="NN"
+9	40,44	GATE_Token	string="this" lemma="this" category="DT"
+10	45,52	GATE_Token	string="evening" lemma="evening" category="NN"
+11	53,54	GATE_Token	string="." lemma="." category="."

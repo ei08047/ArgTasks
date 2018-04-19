@@ -1,0 +1,10 @@
+1	0,45	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,7	GATE_Token	string="Led" lemma="Led" category="NNP"
+4	8,16	GATE_Token	string="Zeppelin" lemma="Zeppelin" category="NNP"
+5	17,20	GATE_Token	string="are" lemma="be" category="VBP"
+6	21,26	GATE_Token	string="often" lemma="often" category="RB"
+7	27,33	GATE_Token	string="called" lemma="call" category="VBN"
+8	34,38	GATE_Token	string="folk" lemma="folk" category="NN"
+9	39,43	GATE_Token	string="rock" lemma="rock" category="NN"
+10	44,45	GATE_Token	string="!" lemma="!" category="."

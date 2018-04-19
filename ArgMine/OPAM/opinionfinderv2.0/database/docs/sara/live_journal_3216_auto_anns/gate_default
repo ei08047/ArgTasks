@@ -1,0 +1,9 @@
+1	0,43	GATE_Sentence
+2	0,3	GATE_Token	string="The" lemma="the" category="DT"
+3	4,14	GATE_Token	string="scientists" lemma="scientist" category="NNS"
+4	15,19	GATE_Token	string="were" lemma="be" category="VBD"
+5	20,25	GATE_Token	string="right" lemma="right" category="JJ"
+6	26,28	GATE_Token	string="to" lemma="to" category="TO"
+7	29,35	GATE_Token	string="demote" lemma="demote" category="VB"
+8	36,41	GATE_Token	string="Pluto" lemma="Pluto" category="NNP"
+9	42,43	GATE_Token	string="." lemma="." category="."

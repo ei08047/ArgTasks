@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Would</MPQAPOL> that be a <MPQAPOL autoclass="neutral">balanced</MPQAPOL> picture - or POV ?</MPQASENT>

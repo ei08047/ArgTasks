@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">We are <MPQAPOL autoclass="neutral">apparently</MPQAPOL> <MPQAPOL autoclass="neutral">supposed</MPQAPOL> to <MPQAPOL autoclass="negative">fake</MPQAPOL> it .</MPQASENT>

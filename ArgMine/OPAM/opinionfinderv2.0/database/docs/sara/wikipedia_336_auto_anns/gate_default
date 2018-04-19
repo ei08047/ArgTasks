@@ -1,0 +1,11 @@
+1	0,57	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,6	GATE_Token	string="like" lemma="like" category="VBP"
+4	7,10	GATE_Token	string="the" lemma="the" category="DT"
+5	11,14	GATE_Token	string="new" lemma="new" category="JJ"
+6	15,22	GATE_Token	string="English" lemma="English" category="NNP"
+7	23,34	GATE_Token	string="reformation" lemma="reformation" category="NN"
+8	35,44	GATE_Token	string="paragraph" lemma="paragraph" category="NN"
+9	45,47	GATE_Token	string="by" lemma="by" category="IN"
+10	48,55	GATE_Token	string="Secisek" lemma="Secisek" category="NNP"
+11	56,57	GATE_Token	string="." lemma="." category="."

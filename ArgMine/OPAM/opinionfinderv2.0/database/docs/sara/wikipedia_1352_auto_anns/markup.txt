@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="positive">agree</MPQAPOL> with user Levine2112 who states that it <MPQAPOL autoclass="neutral">looks</MPQAPOL> like a POV-fork if we <MPQAPOL autoclass="neutral">restrict</MPQAPOL> the inclusion criteria .</MPQASENT>

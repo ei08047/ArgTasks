@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The table of contents , if displayed , <MPQAPOL autoclass="neutral">appears</MPQAPOL> between the lead section and the first heading .</MPQASENT>

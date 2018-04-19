@@ -1,0 +1,16 @@
+1	0,51	GATE_Sentence
+2	0,4	GATE_Token	string="Best" lemma="best" category="JJS"
+3	5,7	GATE_Token	string="of" lemma="of" category="IN"
+4	8,12	GATE_Token	string="luck" lemma="luck" category="NN"
+5	13,14	GATE_Token	string="," lemma="," category=","
+6	15,18	GATE_Token	string="you" lemma="you" category="PRP"
+7	19,23	GATE_Token	string="have" lemma="have" category="VBP"
+8	24,27	GATE_Token	string="all" lemma="all" category="DT"
+9	28,32	GATE_Token	string="done" lemma="do" category="VBN"
+10	33,34	GATE_Token	string="a" lemma="a" category="DT"
+11	35,40	GATE_Token	string="great" lemma="great" category="JJ"
+12	41,44	GATE_Token	string="job" lemma="job" category="NN"
+13	45,49	GATE_Token	string="here" lemma="here" category="RB"
+14	50,51	GATE_Token	string="." lemma="." category="."
+15	51,53	GATE_Sentence
+16	51,53	GATE_Token	string="--" lemma="--" category=":"

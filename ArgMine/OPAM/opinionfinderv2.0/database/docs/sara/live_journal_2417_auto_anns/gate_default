@@ -1,0 +1,12 @@
+1	0,35	GATE_Sentence
+2	0,1	GATE_Token	string=";" lemma=";" category=":"
+3	1,2	GATE_Token	string="-" lemma="-" category=":"
+4	2,3	GATE_Token	string=")" lemma=")" category="-RRB-"
+5	4,6	GATE_Token	string="We" lemma="we" category="PRP"
+6	7,10	GATE_Token	string="'ll" lemma="'ll" category="MD"
+7	11,17	GATE_Token	string="boogie" lemma="boogie" category="VB"
+8	18,22	GATE_Token	string="down" lemma="down" category="RP"
+9	23,25	GATE_Token	string="in" lemma="in" category="IN"
+10	26,29	GATE_Token	string="the" lemma="the" category="DT"
+11	30,33	GATE_Token	string="NYC" lemma="NYC" category="NNP"
+12	34,35	GATE_Token	string="." lemma="." category="."

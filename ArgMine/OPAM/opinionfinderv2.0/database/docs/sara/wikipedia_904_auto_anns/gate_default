@@ -1,0 +1,10 @@
+1	0,53	GATE_Sentence
+2	0,5	GATE_Token	string="First" lemma="First" category="NNP"
+3	6,12	GATE_Token	string="things" lemma="thing" category="NNS"
+4	13,17	GATE_Token	string="they" lemma="they" category="PRP"
+5	18,25	GATE_Token	string="covered" lemma="cover" category="VBD"
+6	26,30	GATE_Token	string="were" lemma="be" category="VBD"
+7	31,39	GATE_Token	string="Zeppelin" lemma="Zeppelin" category="NNP"
+8	40,43	GATE_Token	string="and" lemma="and" category="CC"
+9	44,51	GATE_Token	string="Sabbath" lemma="Sabbath" category="NNP"
+10	52,53	GATE_Token	string="." lemma="." category="."

@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I have also stated why I <MPQAPOL autoclass="positive">feel</MPQAPOL> the <MPQAPOL autoclass="negative">mere</MPQAPOL> oil-painting that replaced it to be a <MPQAPOL autoclass="neutral">muddy</MPQAPOL> cop-out .</MPQASENT>

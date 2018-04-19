@@ -1,0 +1,11 @@
+1	0,45	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,5	GATE_Token	string="I" lemma="I" category="PRP"
+4	6,8	GATE_Token	string="am" lemma="be" category="VBP"
+5	9,16	GATE_Token	string="jealous" lemma="jealous" category="JJ"
+6	17,19	GATE_Token	string="of" lemma="of" category="IN"
+7	20,23	GATE_Token	string="you" lemma="you" category="PRP"
+8	24,28	GATE_Token	string="with" lemma="with" category="IN"
+9	29,33	GATE_Token	string="that" lemma="that" category="DT"
+10	34,43	GATE_Token	string="President" lemma="president" category="NN"
+11	44,45	GATE_Token	string="!" lemma="!" category="."

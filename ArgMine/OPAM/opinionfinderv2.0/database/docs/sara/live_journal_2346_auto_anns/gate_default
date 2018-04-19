@@ -1,0 +1,10 @@
+1	0,41	GATE_Sentence
+2	0,2	GATE_Token	string="So" lemma="so" category="RB"
+3	3,6	GATE_Token	string="who" lemma="who" category="WP"
+4	7,12	GATE_Token	string="wants" lemma="want" category="VBZ"
+5	13,15	GATE_Token	string="to" lemma="to" category="TO"
+6	16,20	GATE_Token	string="come" lemma="come" category="VB"
+7	21,25	GATE_Token	string="over" lemma="over" category="RP"
+8	26,29	GATE_Token	string="for" lemma="for" category="IN"
+9	30,39	GATE_Token	string="cocktails" lemma="cocktail" category="NNS"
+10	40,41	GATE_Token	string="?" lemma="?" category="."

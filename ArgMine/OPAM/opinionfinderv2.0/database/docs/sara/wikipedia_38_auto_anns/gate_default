@@ -1,0 +1,12 @@
+1	0,63	GATE_Sentence
+2	0,3	GATE_Token	string="May" lemma="May" category="NNP"
+3	4,5	GATE_Token	string="I" lemma="I" category="PRP"
+4	6,11	GATE_Token	string="refer" lemma="refer" category="VBP"
+5	12,19	GATE_Token	string="readers" lemma="reader" category="NNS"
+6	20,22	GATE_Token	string="to" lemma="to" category="TO"
+7	23,32	GATE_Token	string="User_talk" lemma="User_talk" category="NNP"
+8	33,34	GATE_Token	string=":" lemma=":" category=":"
+9	35,42	GATE_Token	string="Quaeler" lemma="quaeler" category="NN"
+10	43,44	GATE_Token	string="#" lemma="#" category="#"
+11	45,61	GATE_Token	string="Aleister_Crowley" lemma="Aleister_Crowley" category="NNP"
+12	62,63	GATE_Token	string="?" lemma="?" category="."

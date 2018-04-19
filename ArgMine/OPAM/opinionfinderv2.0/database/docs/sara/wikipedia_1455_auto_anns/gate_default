@@ -1,0 +1,11 @@
+1	0,64	GATE_Sentence
+2	0,2	GATE_Token	string="So" lemma="so" category="RB"
+3	3,6	GATE_Token	string="now" lemma="now" category="RB"
+4	7,9	GATE_Token	string="we" lemma="we" category="PRP"
+5	10,13	GATE_Token	string="are" lemma="be" category="VBP"
+6	14,17	GATE_Token	string="not" lemma="not" category="RB"
+7	18,30	GATE_Token	string="definitively" lemma="definitively" category="RB"
+8	31,39	GATE_Token	string="labeling" lemma="label" category="VBG"
+9	40,48	GATE_Token	string="anything" lemma="anything" category="NN"
+10	49,62	GATE_Token	string="pseudoscience" lemma="pseudoscience" category="NN"
+11	63,64	GATE_Token	string="." lemma="." category="."

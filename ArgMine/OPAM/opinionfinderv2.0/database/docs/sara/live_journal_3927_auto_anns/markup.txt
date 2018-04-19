@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I am not <MPQAPOL autoclass="neutral">sure</MPQAPOL> when my <MPQAPOL autoclass="positive">friend</MPQAPOL> is getting into town , but I will give you a call once I check in and get all settled .</MPQASENT>

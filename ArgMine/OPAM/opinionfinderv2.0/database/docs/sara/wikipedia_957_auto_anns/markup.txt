@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Maybe</MPQAPOL> you recall <MPQAPOL autoclass="neutral">correctly</MPQAPOL> , <MPQAPOL autoclass="neutral">maybe</MPQAPOL> not , you do not <MPQAPOL autoclass="neutral">know</MPQAPOL> , '' Alright , let me go read that section again .</MPQASENT>

@@ -1,0 +1,11 @@
+1	0,52	GATE_Sentence
+2	0,7	GATE_Token	string="However" lemma="however" category="RB"
+3	8,9	GATE_Token	string="," lemma="," category=","
+4	10,11	GATE_Token	string="I" lemma="I" category="PRP"
+5	12,16	GATE_Token	string="tend" lemma="tend" category="VBP"
+6	17,19	GATE_Token	string="to" lemma="to" category="TO"
+7	20,25	GATE_Token	string="plump" lemma="plump" category="VB"
+8	26,29	GATE_Token	string="for" lemma="for" category="IN"
+9	30,37	GATE_Token	string="simpler" lemma="simpler" category="JJR"
+10	38,50	GATE_Token	string="explanations" lemma="explanation" category="NNS"
+11	51,52	GATE_Token	string="." lemma="." category="."

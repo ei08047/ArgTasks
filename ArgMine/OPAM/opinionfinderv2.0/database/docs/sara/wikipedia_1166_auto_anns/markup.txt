@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">The current discussion is about how this <MPQAPOL autoclass="neutral">fact</MPQAPOL> can be covered without being <MPQAPOL autoclass="negative">misleading</MPQAPOL> , <MPQAPOL autoclass="neutral">rather</MPQAPOL> than censored .</MPQASENT>

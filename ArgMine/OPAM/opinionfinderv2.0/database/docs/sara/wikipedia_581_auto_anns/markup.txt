@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Theories are structures of <MPQAPOL autoclass="neutral">ideas</MPQAPOL> that explain and interpret <MPQAPOL autoclass="neutral">facts</MPQAPOL> .</MPQASENT>

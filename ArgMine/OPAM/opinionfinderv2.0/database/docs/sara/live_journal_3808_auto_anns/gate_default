@@ -1,0 +1,12 @@
+1	0,47	GATE_Sentence
+2	0,5	GATE_Token	string="Cross" lemma="Cross" category="NNP"
+3	6,10	GATE_Token	string="your" lemma="you" category="PRP$"
+4	11,18	GATE_Token	string="fingers" lemma="finger" category="NNS"
+5	19,23	GATE_Token	string="that" lemma="that" category="IN"
+6	24,26	GATE_Token	string="it" lemma="it" category="PRP"
+7	27,29	GATE_Token	string="is" lemma="be" category="VBZ"
+8	30,33	GATE_Token	string="not" lemma="not" category="RB"
+9	34,37	GATE_Token	string="all" lemma="all" category="PDT"
+10	38,39	GATE_Token	string="a" lemma="a" category="DT"
+11	40,45	GATE_Token	string="dream" lemma="dream" category="NN"
+12	46,47	GATE_Token	string="!" lemma="!" category="."

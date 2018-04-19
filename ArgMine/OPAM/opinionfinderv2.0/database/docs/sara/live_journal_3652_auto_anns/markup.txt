@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">I will head down to the Film Forum and plan on getting there around 6:45 or <MPQAPOL autoclass="neutral">so</MPQAPOL> .</MPQASENT>

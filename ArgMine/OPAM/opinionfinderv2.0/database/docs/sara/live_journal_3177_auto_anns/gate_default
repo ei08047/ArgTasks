@@ -1,0 +1,9 @@
+1	0,38	GATE_Sentence
+2	0,8	GATE_Token	string="Speaking" lemma="speak" category="VBG"
+3	9,11	GATE_Token	string="of" lemma="of" category="IN"
+4	12,17	GATE_Token	string="which" lemma="which" category="WDT"
+5	18,19	GATE_Token	string="," lemma="," category=","
+6	20,24	GATE_Token	string="fuck" lemma="fuck" category="VB"
+7	25,30	GATE_Token	string="Denis" lemma="Denis" category="NNP"
+8	31,36	GATE_Token	string="Leary" lemma="Leary" category="NNP"
+9	37,38	GATE_Token	string="." lemma="." category="."

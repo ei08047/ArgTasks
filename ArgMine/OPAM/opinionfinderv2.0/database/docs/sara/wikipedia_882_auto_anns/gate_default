@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,8	GATE_Token	string="Actually" lemma="actually" category="RB"
+3	9,10	GATE_Token	string="," lemma="," category=","
+4	11,12	GATE_Token	string="I" lemma="I" category="PRP"
+5	13,17	GATE_Token	string="have" lemma="have" category="VBP"
+6	18,24	GATE_Token	string="linked" lemma="link" category="VBN"
+7	25,27	GATE_Token	string="it" lemma="it" category="PRP"
+8	28,34	GATE_Token	string="before" lemma="before" category="RB"
+9	35,36	GATE_Token	string="." lemma="." category="."

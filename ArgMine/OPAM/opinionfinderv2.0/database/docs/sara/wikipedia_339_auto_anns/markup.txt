@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="neutral">think</MPQAPOL> present wording is more <MPQAPOL autoclass="positive">valuable</MPQAPOL> and factually <MPQAPOL autoclass="positive">accurate</MPQAPOL> that what Karanacs has proposed .</MPQASENT>

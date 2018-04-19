@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I <MPQAPOL autoclass="positive">want</MPQAPOL> to be on this <MPQAPOL autoclass="neutral">show</MPQAPOL> <MPQAPOL autoclass="neutral">so</MPQAPOL> <MPQAPOL autoclass="negative">bad</MPQAPOL> .</MPQASENT>

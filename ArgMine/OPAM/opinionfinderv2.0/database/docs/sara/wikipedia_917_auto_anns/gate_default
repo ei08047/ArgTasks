@@ -1,0 +1,12 @@
+1	0,51	GATE_Sentence
+2	0,1	GATE_Token	string="I" lemma="I" category="PRP"
+3	2,5	GATE_Token	string="can" lemma="can" category="MD"
+4	6,10	GATE_Token	string="make" lemma="make" category="VB"
+5	11,21	GATE_Token	string="absolutely" lemma="absolutely" category="RB"
+6	22,24	GATE_Token	string="no" lemma="no" category="DT"
+7	25,30	GATE_Token	string="sense" lemma="sense" category="NN"
+8	31,33	GATE_Token	string="of" lemma="of" category="IN"
+9	34,39	GATE_Token	string="those" lemma="those" category="DT"
+10	40,44	GATE_Token	string="last" lemma="last" category="JJ"
+11	45,49	GATE_Token	string="bits" lemma="bit" category="NNS"
+12	50,51	GATE_Token	string="." lemma="." category="."

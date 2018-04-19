@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">They have a long excerpt from Foucault 's Discipline and <MPQAPOL autoclass="negative">Punish</MPQAPOL> and they do not read it .</MPQASENT>

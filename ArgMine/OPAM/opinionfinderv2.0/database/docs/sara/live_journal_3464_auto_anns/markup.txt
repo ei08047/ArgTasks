@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">The passage of these measures reflects a conservative majority , <MPQAPOL autoclass="neutral">however</MPQAPOL> <MPQAPOL autoclass="positive">slim</MPQAPOL> that is .</MPQASENT>

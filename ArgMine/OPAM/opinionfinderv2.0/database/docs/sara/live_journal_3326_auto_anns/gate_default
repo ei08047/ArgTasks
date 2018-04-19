@@ -1,0 +1,12 @@
+1	0,57	GATE_Sentence
+2	0,3	GATE_Token	string="How" lemma="how" category="WRB"
+3	4,6	GATE_Token	string="is" lemma="be" category="VBZ"
+4	7,9	GATE_Token	string="an" lemma="a" category="DT"
+5	10,19	GATE_Token	string="introvert" lemma="introvert" category="NN"
+6	20,28	GATE_Token	string="supposed" lemma="suppose" category="VBN"
+7	29,31	GATE_Token	string="to" lemma="to" category="TO"
+8	32,36	GATE_Token	string="find" lemma="find" category="VB"
+9	37,39	GATE_Token	string="an" lemma="a" category="DT"
+10	40,51	GATE_Token	string="entry-level" lemma="entry-level" category="JJ"
+11	52,55	GATE_Token	string="job" lemma="job" category="NN"
+12	56,57	GATE_Token	string="?" lemma="?" category="."

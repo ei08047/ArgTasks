@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">It <MPQAPOL autoclass="negative">feels</MPQAPOL> <MPQAPOL autoclass="positive">good</MPQAPOL> <MPQAPOL autoclass="positive">finally</MPQAPOL> to be <MPQAPOL autoclass="positive">loved</MPQAPOL> and there not be something <MPQAPOL autoclass="neutral">else</MPQAPOL> `` going on . ''</MPQASENT>

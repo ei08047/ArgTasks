@@ -1,0 +1,12 @@
+1	0,52	GATE_Sentence
+2	0,4	GATE_Token	string="Have" lemma="have" category="VBP"
+3	5,8	GATE_Token	string="not" lemma="not" category="RB"
+4	9,12	GATE_Token	string="got" lemma="get" category="VBN"
+5	13,19	GATE_Token	string="around" lemma="around" category="IN"
+6	20,22	GATE_Token	string="to" lemma="to" category="TO"
+7	23,30	GATE_Token	string="sorting" lemma="sort" category="VBG"
+8	31,34	GATE_Token	string="out" lemma="out" category="RP"
+9	35,38	GATE_Token	string="the" lemma="the" category="DT"
+10	39,46	GATE_Token	string="history" lemma="history" category="NN"
+11	47,50	GATE_Token	string="yet" lemma="yet" category="RB"
+12	51,52	GATE_Token	string="." lemma="." category="."

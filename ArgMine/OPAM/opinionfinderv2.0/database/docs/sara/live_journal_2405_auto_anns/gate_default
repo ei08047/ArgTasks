@@ -1,0 +1,9 @@
+1	0,36	GATE_Sentence
+2	0,3	GATE_Token	string="And" lemma="and" category="CC"
+3	4,7	GATE_Token	string="you" lemma="you" category="PRP"
+4	8,11	GATE_Token	string="are" lemma="be" category="VBP"
+5	12,17	GATE_Token	string="right" lemma="right" category="JJ"
+6	18,23	GATE_Token	string="about" lemma="about" category="IN"
+7	24,27	GATE_Token	string="the" lemma="the" category="DT"
+8	28,34	GATE_Token	string="season" lemma="season" category="NN"
+9	35,36	GATE_Token	string="." lemma="." category="."

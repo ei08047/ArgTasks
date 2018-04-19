@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">he did never ever <MPQAPOL autoclass="positive">accept</MPQAPOL> the <MPQAPOL autoclass="neutral">truth</MPQAPOL> about the holocaust but <MPQAPOL autoclass="neutral">simply</MPQAPOL> said he does not <MPQAPOL autoclass="negative">deny</MPQAPOL> it .</MPQASENT>

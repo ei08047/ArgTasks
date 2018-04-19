@@ -1,0 +1,11 @@
+1	0,33	GATE_Sentence
+2	0,1	GATE_Token	string="i" lemma="i" category="LS"
+3	2,6	GATE_Token	string="will" lemma="will" category="MD"
+4	7,9	GATE_Token	string="be" lemma="be" category="VB"
+5	10,12	GATE_Token	string="in" lemma="in" category="IN"
+6	13,16	GATE_Token	string="the" lemma="the" category="DT"
+7	17,18	GATE_Token	string="A" lemma="a" category="NN"
+8	19,20	GATE_Token	string="," lemma="," category=","
+9	21,23	GATE_Token	string="16" lemma="16" category="CD"
+10	24,28	GATE_Token	string="more" lemma="more" category="JJR"
+11	29,33	GATE_Token	string="days" lemma="day" category="NNS"

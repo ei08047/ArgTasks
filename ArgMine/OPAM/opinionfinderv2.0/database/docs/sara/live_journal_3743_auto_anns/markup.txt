@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="unknown" autoclass2="subj">I am <MPQAPOL autoclass="positive">glad</MPQAPOL> you had each other while you did xxxx</MPQASENT>

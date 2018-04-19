@@ -1,0 +1,8 @@
+1	0,45	GATE_Sentence
+2	0,10	GATE_Token	string="especially" lemma="especially" category="RB"
+3	11,16	GATE_Token	string="while" lemma="while" category="IN"
+4	17,24	GATE_Token	string="looking" lemma="look" category="VBG"
+5	25,28	GATE_Token	string="for" lemma="for" category="IN"
+6	29,36	GATE_Token	string="growing" lemma="grow" category="VBG"
+7	37,43	GATE_Token	string="things" lemma="thing" category="NNS"
+8	44,45	GATE_Token	string="!" lemma="!" category="."

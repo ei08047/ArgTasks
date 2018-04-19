@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj"><MPQAPOL autoclass="neutral">Less</MPQAPOL> focus on magazine lists !</MPQASENT>

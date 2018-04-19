@@ -1,0 +1,10 @@
+1	0,37	GATE_Sentence
+2	0,3	GATE_Token	string="Man" lemma="man" category="NN"
+3	4,5	GATE_Token	string="," lemma="," category=","
+4	6,9	GATE_Token	string="the" lemma="the" category="DT"
+5	10,14	GATE_Token	string="last" lemma="last" category="JJ"
+6	15,18	GATE_Token	string="two" lemma="two" category="CD"
+7	19,25	GATE_Token	string="months" lemma="month" category="NNS"
+8	26,30	GATE_Token	string="just" lemma="just" category="RB"
+9	31,35	GATE_Token	string="flew" lemma="fly" category="VBD"
+10	36,37	GATE_Token	string="." lemma="." category="."

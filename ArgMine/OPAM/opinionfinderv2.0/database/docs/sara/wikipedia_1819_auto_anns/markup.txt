@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">What <MPQAPOL autoclass="negative">violates</MPQAPOL> NPOV is stating it without an attribution or reference .</MPQASENT>
